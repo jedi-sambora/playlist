@@ -79,3 +79,5 @@ https://nonton.site:8443/provision/pp/728
 https://nonton.site:8443/provision/pp/729
 #EXTINF:-1  tvg-language="English" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" tvg-url="" group-title="Sports",beIN SPORTS XTRA
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
+#EXTINF:-1 ,Sky Bundesliga 1
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1642.ts
