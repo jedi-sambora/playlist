@@ -43,6 +43,10 @@ http://209.126.8.89:25461/qtvsp00rt/6wmtwOKwAf/228
 http://209.126.8.89:25461/qtvsp00rt/6wmtwOKwAf/229
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",Beinsport 10 SD
 http://209.126.8.89:25461/qtvsp00rt/6wmtwOKwAf/230
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",Beinsport 1 low
+http://195.154.165.98:25461/live/mrconnect20170/zxdcfvgb/110.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",Beinsport 1 hevc
+http://195.154.165.98:25461/live/mrconnect20170/zxdcfvgb/177.ts
 #EXTINF:-1,T Sports 
 http://209.126.8.89:25461/qtvsp00rt/6wmtwOKwAf/260
 #EXTINF:-1,sport hd 1
