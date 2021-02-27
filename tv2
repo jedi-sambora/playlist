@@ -67,6 +67,10 @@ https://nonton.site:8443/provision/pp/729
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1 ,Sky Bundesliga 1
 http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1642.ts
+#EXTINF:-1 ,Sky Bundesliga 2
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/46567.ts
+#EXTINF:-1 ,Sky Bundesliga 3
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/46568.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="RUSIASport",Футбол 1 HD
 https://95-213-224-181.livesports24.online/uafootballua1.m3u8?885415001050a
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="RUSIASport",Футбол 3 HD
@@ -83,3 +87,7 @@ http://195.154.165.98:25461/live/mrconnect20170/zxdcfvgb/100.ts
 http://195.154.165.98:25461/live/mrconnect20170/zxdcfvgb/101.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",BeIN Sport 4x 
 http://195.154.165.98:25461/live/mrconnect20170/zxdcfvgb/102.ts
+#EXTINF:-1 ,Sky Sport 1
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/210.ts
+#EXTINF:-1 ,Sky Sport 2
+http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/211.ts
