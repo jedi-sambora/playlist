@@ -1,52 +1,8 @@
 #EXTM3U
-#EXTINF:-1tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",bein sport 1 HD
-http://209.126.8.89:25461/qtvsp00rt/6wmtwOKwAf/1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",bein sport 2 HD
-http://209.126.8.89:25461/qtvsp00rt/6wmtwOKwAf/2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",bein sport 3 HD
-http://209.126.8.89:25461/qtvsp00rt/6wmtwOKwAf/3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",bein sport 4 HD
-http://209.126.8.89:25461/qtvsp00rt/6wmtwOKwAf/4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",bein sport 5 HD
-http://209.126.8.89:25461/qtvsp00rt/6wmtwOKwAf/5
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",bein sport 6 HD
-http://209.126.8.89:25461/qtvsp00rt/6wmtwOKwAf/6
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",bein sport 7 HD
-http://209.126.8.89:25461/qtvsp00rt/6wmtwOKwAf/7
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",bein sport 8 HD
-http://209.126.8.89:25461/qtvsp00rt/6wmtwOKwAf/8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",bein sport 9 HD
-http://209.126.8.89:25461/qtvsp00rt/6wmtwOKwAf/9
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",bein sport 10 HD
-http://209.126.8.89:25461/qtvsp00rt/6wmtwOKwAf/10
-#EXTINF:-1,Bein NBA
-http://209.126.8.89:25461/qtvsp00rt/6wmtwOKwAf/192
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",Beinsport News
-http://209.126.8.89:25461/qtvsp00rt/6wmtwOKwAf/220
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",Bein sport 1 SD
-http://209.126.8.89:25461/qtvsp00rt/6wmtwOKwAf/221
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",Bein sport 2 SD
-http://209.126.8.89:25461/qtvsp00rt/6wmtwOKwAf/222
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",Bein Sport 3 SD
-http://209.126.8.89:25461/qtvsp00rt/6wmtwOKwAf/223
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",Beinsport 4 SD
-http://209.126.8.89:25461/qtvsp00rt/6wmtwOKwAf/224
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",Beinsport 5 SD
-http://209.126.8.89:25461/qtvsp00rt/6wmtwOKwAf/225
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",Beinsport 6 SD
-http://209.126.8.89:25461/qtvsp00rt/6wmtwOKwAf/226
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",Beinsport 7 SD
-http://209.126.8.89:25461/qtvsp00rt/6wmtwOKwAf/227
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",Beinsport 8 SD
-http://209.126.8.89:25461/qtvsp00rt/6wmtwOKwAf/228
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",Beinsport 9 SD
-http://209.126.8.89:25461/qtvsp00rt/6wmtwOKwAf/229
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",Beinsport 10 SD
-http://209.126.8.89:25461/qtvsp00rt/6wmtwOKwAf/230
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",Beinsport 1 low
-http://195.154.165.98:25461/live/mrconnect20170/zxdcfvgb/110.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",Beinsport 1 hevc
-http://195.154.165.98:25461/live/mrconnect20170/zxdcfvgb/177.ts
+#EXTINF:-1,Bein Sport 1
+http://evdibac.com:80/307200112733/307200112733/78580
+#EXTINF:-1,BT Sport 1
+http://ip.tvfhd.vip:8888/Burhankabak123/t4gMnHz3/4758
 #EXTINF:-1,T Sports 
 http://209.126.8.89:25461/qtvsp00rt/6wmtwOKwAf/260
 #EXTINF:-1,sport hd 1
