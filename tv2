@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1,Bein Sport 1
-http://evdibac.com:80/307200112733/307200112733/78580
+http://pn.tvott.info:80/live/477843167154165/477843167154165/78580.ts
+#EXTINF:-1,Bein Sport 2
+http://pn.tvott.info:80/live/477843167154165/477843167154165/78579.ts
+#EXTINF:-1,Bein Sport 3
+http://pn.tvott.info:80/live/477843167154165/477843167154165/78578.ts
 #EXTINF:-1,BT Sport 1
 http://ip.tvfhd.vip:8888/Burhankabak123/t4gMnHz3/4758
 #EXTINF:-1,T Sports 
