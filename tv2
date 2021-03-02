@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Astro sport 2
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1,Bein Sport 1
 http://pn.tvott.info:80/live/477843167154165/477843167154165/78580.ts
 #EXTINF:-1,Bein Sport 2
@@ -39,14 +41,6 @@ https://95-213-224-181.livesports24.online/football3ua.m3u8?885415001050a
 https://95-213-224-181.livesports24.online/sport1ua.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="RUSIASport",Спорт 1
 https://95-213-224-181.livesports24.online/sport1ua.m3u8?885415001050a
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",BeIN Sport 1x 
-http://195.154.165.98:25461/live/mrconnect20170/zxdcfvgb/100.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",BeIN Sport 2x 
-http://195.154.165.98:25461/live/mrconnect20170/zxdcfvgb/100.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",BeIN Sport 3x 
-http://195.154.165.98:25461/live/mrconnect20170/zxdcfvgb/101.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",BeIN Sport 4x 
-http://195.154.165.98:25461/live/mrconnect20170/zxdcfvgb/102.ts
 #EXTINF:-1 ,Sky Sport 1
 http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/210.ts
 #EXTINF:-1 ,Sky Sport 2
