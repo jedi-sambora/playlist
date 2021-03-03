@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Astro sport 2
-http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#EXTINF:-1, Setanta sport
+https://95-213-224-181.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1, Setanta sport 1
+https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1, Setanta sport 2
+https://95-213-224-181.livesports24.online/setantaplusru.m3u8
 #EXTINF:-1,BT Sport 1
 http://ip.tvfhd.vip:8888/Burhankabak123/t4gMnHz3/4758
 #EXTINF:-1,T Sports 
@@ -35,7 +39,4 @@ https://95-213-224-181.livesports24.online/football3ua.m3u8?885415001050a
 https://95-213-224-181.livesports24.online/sport1ua.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="RUSIASport",Спорт 1
 https://95-213-224-181.livesports24.online/sport1ua.m3u8?885415001050a
-#EXTINF:-1 ,Sky Sport 1
-http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/210.ts
-#EXTINF:-1 ,Sky Sport 2
-http://server.sibfungold.info:8080/live/texchange2020/Vd53Kmdbbxsewzp8/211.ts
+
