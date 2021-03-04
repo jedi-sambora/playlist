@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1, Bein sport 1 prem
+http://185.71.64.167:80/live/u4Bowl1uX7/qRTzfwxCoj/78580.ts
+#EXTINF:-1, Bein sport 1 sd
+http://185.71.64.167:80/live/u4Bowl1uX7/qRTzfwxCoj/163533.ts
+#EXTINF:-1, Sport TV 2
+http://185.71.64.167:80/live/u4Bowl1uX7/qRTzfwxCoj/81648.ts
 #EXTINF:-1, Setanta sport
 https://95-213-224-181.livesports24.online/setantaukraine.m3u8
 #EXTINF:-1, Setanta sport 1
@@ -13,6 +19,8 @@ https://nonton.site:8443/provision/pp/729
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1 ,Sky Bundesliga 1
 http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1642.ts
+#EXTINF:-1 ,Sky Bundesliga 2
+http://185.71.64.167:80/live/u4Bowl1uX7/qRTzfwxCoj/81579.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="RUSIASport",Футбол 1 HD
 https://95-213-224-181.livesports24.online/uafootballua1.m3u8?885415001050a
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="RUSIASport",Футбол 3 HD
