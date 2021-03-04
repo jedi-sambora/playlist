@@ -21,15 +21,15 @@ https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1642.ts
 #EXTINF:-1 ,Sky Bundesliga 2
 http://185.71.64.167:80/live/u4Bowl1uX7/qRTzfwxCoj/81579.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="RUSIASport",Футбол 1 HD
+#EXTINF:-1,   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="RUSIASport",Футбол 1 HD
 https://95-213-224-181.livesports24.online/uafootballua1.m3u8?885415001050a
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="RUSIASport",Футбол 3 HD
+#EXTINF:-1,   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="RUSIASport",Футбол 3 HD
 https://95-213-224-181.livesports24.online/football3ua.m3u8?885415001050a
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="@RUSIASport",Спорт 1
+#EXTINF:-1,   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="@RUSIASport",Спорт 1
 https://95-213-224-181.livesports24.online/sport1ua.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="RUSIASport",Спорт 1
+#EXTINF:-1,   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="RUSIASport",Спорт 1
 https://95-213-224-181.livesports24.online/sport1ua.m3u8?885415001050a
-#EXTINF:-1 ,|RUS| MATCH! FOOTBALL 1 HD |
+#EXTINF:-1 , RUS MATCH! FOOTBALL 1 HD 
 http://185.71.64.167:80/live/u4Bowl1uX7/qRTzfwxCoj/84531.ts
-#EXTINF:-1 , |RUS| MATCH! FOOTBALL 2 HD |
+#EXTINF:-1 , RUS MATCH! FOOTBALL 2 HD 
 http://185.71.64.167:80/live/u4Bowl1uX7/qRTzfwxCoj/84530.ts
