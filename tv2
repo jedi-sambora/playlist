@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1, AR Bein Sport 1 kURDISH
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/137.ts
+#EXTINF:-1, FR Bein Sport 1
+http://iptv.re-stream.tv:7711/live/Carlos/12345/928.ts
+#EXTINF:-1, FR Bein Sport max 5
+http://iptv.re-stream.tv:7711/live/Carlos/12345/1012.ts
+#EXTINF:-1, FR Bein Sport max 8 (bundesliga)
+http://iptv.re-stream.tv:7711/live/Carlos/12345/1015.ts
 #EXTINF:-1, FR RMC SPORT 1
 http://mail.vipmek.com:8800/live/565656/565656/35840.ts
 #EXTINF:-1, FR RMC SPORT 2
@@ -29,8 +35,8 @@ http://mail.vipmek.com:8800/live/565656/565656/36640.ts
 http://mail.vipmek.com:8800/live/565656/565656/36641.ts
 #EXTINF:-1, Setanta sport
 http://mail.vipmek.com:8800/live/565656/565656/36096.ts
-#EXTINF:-1, Setanta sport
-http://pro.leaderiptv.com:1983/live/wajih87skype/skypewajih87/3825.ts
+#EXTINF:-1, Setanta sport ukraina
+https://95-213-224-181.livesports24.online/setantaukraine.m3u8
 #EXTINF:-1, Setanta sport 1
 https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1, Setanta sport 2
@@ -57,3 +63,7 @@ http://mail.vipmek.com:8800/live/565656/565656/48113.ts
 http://mail.vipmek.com:8800/live/565656/565656/48101.ts
 #EXTINF:-1, sky sport 3
 http://mail.vipmek.com:8800/live/565656/565656/48100.ts
+#EXTINF:-1, sky sport 2
+http://iptv.re-stream.tv:7711/live/Carlos/12345/64385.ts
+#EXTINF:-1, sky Bundesliga 1
+http://iptv.re-stream.tv:7711/live/Carlos/12345/64422.ts
