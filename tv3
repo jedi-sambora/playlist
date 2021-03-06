@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1,Sky Bundesliga 1
 http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1642.ts
+#EXTINF:-1,Sky Bundesliga 2
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/661.ts
+#EXTINF:-1,Sky Bundesliga 3
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/662.ts
+#EXTINF:-1,Sky Sport 1
+http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1656.ts
 #EXTINF:-1, Trivibu sport 1
 http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1445.ts
 #EXTINF:-1, Trivibu sport 2
