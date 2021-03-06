@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1, AR Bein Sport 1
+http://pro.leaderiptv.com:1983/live/wajih87skype/skypewajih87/13818.ts
+#EXTINF:-1, AR Bein Sport 2
+http://pro.leaderiptv.com:1983/live/wajih87skype/skypewajih87/13817.ts
+#EXTINF:-1, AR Bein Sport 3
+http://pro.leaderiptv.com:1983/live/wajih87skype/skypewajih87/13816.ts
+#EXTINF:-1, AR Bein Sport 4
+http://pro.leaderiptv.com:1983/live/wajih87skype/skypewajih87/13815.ts
+#EXTINF:-1, AR Bein Sport 11 en
+http://pro.leaderiptv.com:1983/live/wajih87skype/skypewajih87/14617.ts
+#EXTINF:-1, AR Bein Sport 12 en
+http://pro.leaderiptv.com:1983/live/wajih87skype/skypewajih87/14618.ts
+#EXTINF:-1, BT Sport 1
+http://pro.leaderiptv.com:1983/live/wajih87skype/skypewajih87/3834.ts
 #EXTINF:-1, Rus Mathc Premier HD
 http://mail.vipmek.com:8800/live/565656/565656/36097.ts
 #EXTINF:-1, PT Sport Tv 1
@@ -23,6 +37,8 @@ http://mail.vipmek.com:8800/live/565656/565656/36640.ts
 http://mail.vipmek.com:8800/live/565656/565656/36641.ts
 #EXTINF:-1, Setanta sport
 http://mail.vipmek.com:8800/live/565656/565656/36096.ts
+#EXTINF:-1, Setanta sport
+http://pro.leaderiptv.com:1983/live/wajih87skype/skypewajih87/3825.ts
 #EXTINF:-1, Setanta sport 1
 https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1, Setanta sport 2
@@ -41,4 +57,15 @@ https://95-213-224-181.livesports24.online/football3ua.m3u8?885415001050a
 https://95-213-224-181.livesports24.online/sport1ua.m3u8
 #EXTINF:-1,   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="RUSIASport",Спорт 1
 https://95-213-224-181.livesports24.online/sport1ua.m3u8?885415001050a
-
+#EXTINF:-1, Sky BundesLiga 1
+http://pro.leaderiptv.com:1983/live/wajih87skype/skypewajih87/4794.ts
+#EXTINF:-1, Sky BundesLiga 2
+http://pro.leaderiptv.com:1983/live/wajih87skype/skypewajih87/4793.ts
+#EXTINF:-1, Sky Sport 1
+http://pro.leaderiptv.com:1983/live/wajih87skype/skypewajih87/3989.ts
+#EXTINF:-1, ziggo Sport 1
+http://pro.leaderiptv.com:1983/live/wajih87skype/skypewajih87/34641.ts
+#EXTINF:-1, ziggo Sport 2
+http://pro.leaderiptv.com:1983/live/wajih87skype/skypewajih87/34640.ts
+#EXTINF:-1, ziggo football
+http://pro.leaderiptv.com:1983/live/wajih87skype/skypewajih87/1085.ts
