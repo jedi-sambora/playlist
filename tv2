@@ -1,28 +1,28 @@
 #EXTM3U
-#EXTINF:-1, Bein sport 1 prem
-http://bazarhd.online:80/live/307210113513/307210113513/78580.ts
-#EXTINF:-1, Bein sport 2 prem
-http://bazarhd.online:80/live/307210113513/307210113513/78579.ts
-#EXTINF:-1, Bein sport 1 sd
-http://bazarhd.online:80/live/307210113513/307210113513/163533.ts
-#EXTINF:-1, Bein sport 3 sd
-http://bazarhd.online:80/live/307210113513/307210113513/78578.ts
-#EXTINF:-1, Bein sport 5 sd
-http://bazarhd.online:80/live/307210113513/307210113513/78576.ts
-#EXTINF:-1, Bein sport 6 sd
-http://bazarhd.online:80/live/307210113513/307210113513/78575.ts
-#EXTINF:-1, Bein sport 1 en
-http://bazarhd.online:80/live/307210113513/307210113513/163530.ts
-#EXTINF:-1, Bein sport 2 en
-http://bazarhd.online:80/live/307210150633/307210150633/163525.ts
-#EXTINF:-1, Sport TV 1
-http://bazarhd.online:80/live/307210113513/307210113513/81650.ts
-#EXTINF:-1, Sport TV 2
-http://bazarhd.online:80/live/307210113513/307210113513/81648.ts
-#EXTINF:-1, Sport TV 3
-http://bazarhd.online:80/live/307210113513/307210113513/81646.ts
+#EXTINF:-1, Rus Mathc Premier HD
+http://mail.vipmek.com:8800/live/565656/565656/36097.ts
+#EXTINF:-1, PT Sport Tv 1
+http://mail.vipmek.com:8800/live/565656/565656/36600.ts
+#EXTINF:-1, PT Sport Tv 1 FHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/165243.ts
+#EXTINF:-1, PT Sport Tv 2
+http://mail.vipmek.com:8800/live/565656/565656/36601.ts
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://tvlatina.homeip.net:25461/S6HB8DZ1Go/UMaIlrDuAf/460
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://tvlatina.homeip.net:25461/S6HB8DZ1Go/UMaIlrDuAf/461
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://tvlatina.homeip.net:25461/S6HB8DZ1Go/UMaIlrDuAf/462
+#EXTINF:-1, PT Sport Tv 2 FHD
+http://tvmedia2.com:8080/Hunter2/Hunter2/165244.ts
+#EXTINF:-1, PT Eleveb Sport 2
+http://mail.vipmek.com:8800/live/565656/565656/36605.ts
+#EXTINF:-1, RO Sport Telkom 1
+http://mail.vipmek.com:8800/live/565656/565656/36640.ts
+#EXTINF:-1, RO Sport Telkom 2
+http://mail.vipmek.com:8800/live/565656/565656/36641.ts
 #EXTINF:-1, Setanta sport
-https://95-213-224-181.livesports24.online/setantaukraine.m3u8
+http://mail.vipmek.com:8800/live/565656/565656/36096.ts
 #EXTINF:-1, Setanta sport 1
 https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1, Setanta sport 2
@@ -33,24 +33,6 @@ https://nonton.site:8443/provision/pp/728
 https://nonton.site:8443/provision/pp/729
 #EXTINF:-1  tvg-language="English" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" tvg-url="" group-title="Sports",beIN SPORTS XTRA
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
-#EXTINF:-1 ,Sky Bundesliga 1
-http://cobra2016.dyndns.tv:1947/live/enjoyimcob_SkYpE/8LftLI6H71/1642.ts
-#EXTINF:-1 ,Sky Bundesliga 2
-http://bazarhd.online:80/live/307210150633/307210150633/83166.ts
-#EXTINF:-1 ,Sky Sport 1
-http://bazarhd.online:80/live/307210113513/307210113513/83173.ts
-#EXTINF:-1 ,SKY SPORT KOMPAKT 1 HD NUR SPIEL TAG
-http://bazarhd.online:80/live/307210113513/307210113513/81543.ts
-#EXTINF:-1 , MY SPORTS 1 HD/SKY 
-http://bazarhd.online:80/live/307210113513/307210113513/86607.ts
-#EXTINF:-1 , ARENA SPORT 1 
-http://bazarhd.online:80/live/307210113513/307210113513/85188.ts
-#EXTINF:-1 , ARENA SPORT 2 HD (SR) 
-http://bazarhd.online:80/live/307210113513/307210113513/85186.ts
-#EXTINF:-1 , ARENA SPORT 4 HD (SR) 
-http://bazarhd.online:80/live/307210113513/307210113513/85184.ts
- #EXTINF:-1 , ALB K SPORT 1 HD 
-http://bazarhd.online:80/live/307210113513/307210113513/81924.ts
 #EXTINF:-1,   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="RUSIASport",Футбол 1 HD
 https://95-213-224-181.livesports24.online/uafootballua1.m3u8?885415001050a
 #EXTINF:-1,   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="RUSIASport",Футбол 3 HD
