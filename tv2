@@ -17,12 +17,26 @@ http://tv.pluscrt.com:25461/live/josefierro/Ny9OuwWabi/60372.ts
 http://tv.pluscrt.com:25461/live/josefierro/Ny9OuwWabi/60373.ts
 #EXTINF:-1, Fox sport Prem Arg
 http://tv.pluscrt.com:25461/live/josefierro/Ny9OuwWabi/59809.ts
-#EXTINF:-1, FR RMC SPORT 1
-http://mail.vipmek.com:8800/live/565656/565656/35840.ts
-#EXTINF:-1, FR RMC SPORT 2
-http://mail.vipmek.com:8800/live/565656/565656/35841.ts
-#EXTINF:-1, Rus Mathc Premier HD
-http://mail.vipmek.com:8800/live/565656/565656/36097.ts
+#EXTINF:-1,|B HD| beIN SPORTS 1 -720P-
+http://red.ipfox.org:8080/Karim2_534341/40036069/2236
+#EXTINF:-1,|B HD| beIN SPORTS 2 -720P-
+http://red.ipfox.org:8080/Karim2_534341/40036069/2237
+#EXTINF:-1,|B HD| beIN SPORTS 3 -720P-
+http://red.ipfox.org:8080/Karim2_534341/40036069/2238
+#EXTINF:-1,|B HD| beIN SPORTS 4 -720P-
+http://red.ipfox.org:8080/Karim2_534341/40036069/2239
+#EXTINF:-1,|B HD| beIN SPORTS 5 -720P-
+http://red.ipfox.org:8080/Karim2_534341/40036069/2240
+#EXTINF:-1,|B HD| beIN SPORTS 6 -720P-
+http://red.ipfox.org:8080/Karim2_534341/40036069/2241
+#EXTINF:-1,|B HD| beIN SPORTS 7 -720P-
+http://red.ipfox.org:8080/Karim2_534341/40036069/2242
+#EXTINF:-1,|B HD| beIN SPORTS 8 -720P-
+http://red.ipfox.org:8080/Karim2_534341/40036069/2243
+#EXTINF:-1,|B HD| beIN SPORTS 9 -720P-
+http://red.ipfox.org:8080/Karim2_534341/40036069/2244
+#EXTINF:-1,|B HD| beIN SPORTS 10 -720P-
+http://red.ipfox.org:8080/Karim2_534341/40036069/2245
 #EXTINF:-1, PT Sport Tv 1
 http://mail.vipmek.com:8800/live/565656/565656/36600.ts
 #EXTINF:-1, PT Sport Tv 1 FHD
