@@ -1,6 +1,22 @@
 #EXTM3U
 #EXTINF:-1, AR Bein Sport 1 kURDISH
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/137.ts
+#EXTINF:-1, Astro Sport
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#EXTINF:-1, Astro Sport 1
+http://185.63.254.40:80/live/912461531477289/840194034422592/153953.ts
+#EXTINF:-1, Astro Sport 2
+http://185.63.254.40:80/live/912461531477289/840194034422592/153952.ts
+#EXTINF:-1, Astro Sport 3
+http://185.63.254.40:80/live/912461531477289/840194034422592/153951.ts
+#EXTINF:-1, Astro Sport 4
+http://185.63.254.40:80/live/912461531477289/840194034422592/153950.ts
+#EXTINF:-1, Sky Sport 1 depor
+http://tv.pluscrt.com:25461/live/josefierro/Ny9OuwWabi/60372.ts
+#EXTINF:-1, Sky Sport 2 depor
+http://tv.pluscrt.com:25461/live/josefierro/Ny9OuwWabi/60373.ts
+#EXTINF:-1, Fox sport Prem Arg
+http://tv.pluscrt.com:25461/live/josefierro/Ny9OuwWabi/59809.ts
 #EXTINF:-1, FR RMC SPORT 1
 http://mail.vipmek.com:8800/live/565656/565656/35840.ts
 #EXTINF:-1, FR RMC SPORT 2
