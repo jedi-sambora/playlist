@@ -1,6 +1,19 @@
 #EXTM3U
 #EXTINF:-1, AR Bein Sport 1 kURDISH
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/137.ts
+
+#EXTINF:-1, US Bein Sport 2
+http://supersonictv.live:25461/live/903310/034806/22189.ts
+#EXTINF:-1, Uk sky Foodball 
+http://supersonictv.live:25461/live/903310/034806/78150.ts
+#EXTINF:-1, Uk sky Primeleage
+http://supersonictv.live:25461/live/903310/034806/78155.ts
+#EXTINF:-1, BR Sport 1 HD
+http://e.advd.cyou:80/live/duda2020/duda2020/185240.ts
+#EXTINF:-1, BR Sport 2 HD
+http://e.advd.cyou:80/live/duda2020/duda2020/185236.ts
+#EXTINF:-1, BR Fox Sport HD
+http://e.advd.cyou:80/live/duda2020/duda2020/191237.ts
 #EXTINF:-1, Astro Sport
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1, Astro Sport 1
@@ -50,7 +63,7 @@ http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 , True Premier HD 2 
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8 
 #EXTINF:-1, PT Sport Tv 1
-http://mail.vipmek.com:8800/live/565656/565656/36600.ts
+http://supersonictv.live:25461/live/903310/034806/7704.ts
 #EXTINF:-1, PT Sport Tv 1 FHD
 http://tvmedia2.com:8080/Hunter2/Hunter2/165243.ts
 #EXTINF:-1, PT Sport Tv 2
