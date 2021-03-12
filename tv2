@@ -57,33 +57,33 @@ http://red.ipfox.org:8080/Karim2_534341/40036069/28972
 #EXTINF:-1,beIN SPORTS 4 -480P-
 http://red.ipfox.org:8080/Karim2_534341/40036069/28971
 #EXTINF:-1  , True Premier HD 1 
-http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8 
+http://e8.oknirvana.club:8880/live/14m22803/5yuMjzHEZ6/61327.ts
 #EXTINF:-1 , True Premier HD 2 
-http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8 
+http://e8.oknirvana.club:8880/live/14m22803/5yuMjzHEZ6/61328.ts
 #EXTINF:-1, PT Sport Tv 1
 http://supersonictv.live:25461/live/903310/034806/7704.ts
-#EXTINF:-1, PT Sport Tv 1 FHD
-http://tvmedia2.com:8080/Hunter2/Hunter2/165243.ts
+
+#EXTINF:-1, PT Sport Tv 1 SD
+http://e8.oknirvana.club:8880/live/14m22803/5yuMjzHEZ6/29388.ts
 #EXTINF:-1, PT Sport Tv 2 SD
 http://e8.oknirvana.club:8880/live/14m22803/5yuMjzHEZ6/29387.ts
 #EXTINF:-1,PT: SPORT TV 1 HD
-http://tvlatina.homeip.net:25461/S6HB8DZ1Go/UMaIlrDuAf/460
+http://starshare.live:8080/live/99887766/99887766/314.ts
+#EXTINF:-1,PT: SPORT TV 1 HD(NIR)
+http://e8.oknirvana.club:8880/live/14m22803/5yuMjzHEZ6/3192.ts
 #EXTINF:-1,PT: SPORT TV 2 HD
-http://tvlatina.homeip.net:25461/S6HB8DZ1Go/UMaIlrDuAf/461
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://tvlatina.homeip.net:25461/S6HB8DZ1Go/UMaIlrDuAf/462
-#EXTINF:-1, PT Sport Tv 2 FHD
-http://tvmedia2.com:8080/Hunter2/Hunter2/165244.ts
+http://starshare.live:8080/live/99887766/99887766/315.ts
+#EXTINF:-1,PT: SPORT TV 2 HD(NIR)
+http://e8.oknirvana.club:8880/live/14m22803/5yuMjzHEZ6/3191.ts
 #EXTINF:-1, PT Eleveb Sport 2
 http://mail.vipmek.com:8800/live/565656/565656/36605.ts
-#EXTINF:-1, RO Sport Telkom 1
-http://mail.vipmek.com:8800/live/565656/565656/36640.ts
-#EXTINF:-1, RO Sport Telkom 2
-http://mail.vipmek.com:8800/live/565656/565656/36641.ts
+
 #EXTINF:-1, Setanta sport
 http://mail.vipmek.com:8800/live/565656/565656/36096.ts
 #EXTINF:-1, Setanta sport ukraina
 https://95-213-224-181.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1, Setanta sport ukraina2
+http://starshare.live:8080/live/99887766/99887766/6332.ts
 #EXTINF:-1, Setanta sport 1
 https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1, Setanta sport 2
@@ -104,6 +104,9 @@ https://95-213-224-181.livesports24.online/sport1ua.m3u8
 https://95-213-224-181.livesports24.online/sport1ua.m3u8?885415001050a
 #EXTINF:-1, ziggo football
 http://mail.vipmek.com:8800/live/565656/565656/36399.ts
+
+#EXTINF:-1, sky sport maint event
+http://iptvhit.com/player?http://e8.oknirvana.club:8880/live/14m22803/5yuMjzHEZ6/28904.ts
 #EXTINF:-1, sky sport 1
 http://mail.vipmek.com:8800/live/565656/565656/48113.ts
 #EXTINF:-1, sky sport 2
@@ -113,4 +116,4 @@ http://mail.vipmek.com:8800/live/565656/565656/48100.ts
 #EXTINF:-1, sky sport 2
 http://iptv.re-stream.tv:7711/live/Carlos/12345/64385.ts
 #EXTINF:-1, sky Bundesliga 1
-http://red.ipfox.org:8080/Karim2_534341/40036069/2607
+http://e8.oknirvana.club:8880/live/14m22803/5yuMjzHEZ6/2619.ts
