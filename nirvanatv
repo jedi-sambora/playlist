@@ -63,7 +63,8 @@ http://185.71.64.167/live/307202106505/307202106505/79034.ts
 http://185.71.64.167/live/307202106505/307202106505/78375.ts
 #EXTINF:-1,FR SD RMC SPORT LIVE 6  
 http://185.71.64.167/live/307202106505/307202106505/79033.ts
-FR: BEIN SPORT 1HD 
+== group sky ====
+#EXTINF:-1, FR: BEIN SPORT 1HD 
 http://group-sky.ddns.net:8080/live/Boldmeskypfr/pvtgLD803C/155.ts
 #EXTINF:-1, FR: BEIN SPORT 2HD 
 http://group-sky.ddns.net:8080/live/Boldmeskypfr/pvtgLD803C/154.ts
