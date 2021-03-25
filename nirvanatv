@@ -63,32 +63,3 @@ http://185.71.64.167/live/307202106505/307202106505/79034.ts
 http://185.71.64.167/live/307202106505/307202106505/78375.ts
 #EXTINF:-1,FR SD RMC SPORT LIVE 6  
 http://185.71.64.167/live/307202106505/307202106505/79033.ts
-== group sky ====
-#EXTINF:-1, FR: BEIN SPORT 1HD 
-http://group-sky.ddns.net:8080/live/Boldmeskypfr/pvtgLD803C/155.ts
-#EXTINF:-1, FR: BEIN SPORT 2HD 
-http://group-sky.ddns.net:8080/live/Boldmeskypfr/pvtgLD803C/154.ts
-#EXTINF:-1, FR: BEIN SPORT 3  
-http://group-sky.ddns.net:8080/live/Boldmeskypfr/pvtgLD803C/153.ts
-#EXTINF:-1, FR RMC.SPORT.1 HD 
-http://group-sky.ddns.net:8080/live/Boldmeskypfr/pvtgLD803C/274.ts
-#EXTINF:-1, FR RMC SPORT 2 HD  
-http://group-sky.ddns.net:8080/live/Boldmeskypfr/pvtgLD803C/275.ts
-#EXTINF:-1, FR RMC SPORT3 HD  
-http://group-sky.ddns.net:8080/live/Boldmeskypfr/pvtgLD803C/272.ts
-
-
-#EXTINF:-1,PT SPORT TV2  
-http://group-sky.ddns.net:8080/live/Boldmeskypfr/pvtgLD803C/985.ts
-#EXTINF:-1,PT SPORTV1 HD 
-http://group-sky.ddns.net:8080/live/Boldmeskypfr/pvtgLD803C/977.ts
-#EXTINF:-1,PT SPORT TV2 HD 
-http://group-sky.ddns.net:8080/live/Boldmeskypfr/pvtgLD803C/984.ts
-#EXTINF:-1,PT SPORT TV4
-http://group-sky.ddns.net:8080/live/Boldmeskypfr/pvtgLD803C/983.ts
-#EXTINF:-1,PT SPORTING TV  
-http://group-sky.ddns.net:8080/live/Boldmeskypfr/pvtgLD803C/981.ts
-#EXTINF:-1,PT SPORTV 5 HD
-http://group-sky.ddns.net:8080/live/Boldmeskypfr/pvtgLD803C/978.ts
-
-
