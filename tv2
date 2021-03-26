@@ -127,3 +127,7 @@ http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/80754
 http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/157527
 #EXTINF:-1,BE: ELEVENSPORT 2 HD
 http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/157526
+#EXTINF:-1,UK: SKY SPORT 1
+http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1136.ts
+#EXTINF:-1,UK: SKY SPORT 2
+http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1135.ts
