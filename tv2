@@ -5,6 +5,10 @@ http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/137.ts
 https://nonton.site:8443/provision/pp/728
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",BeIN Sport 2 ID
 https://nonton.site:8443/provision/pp/729
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sports",Usee Sport 1
+https://nonton.site:8443/provision/pp/36240
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sports",Usee Sport 2
+https://nonton.site:8443/provision/pp/36241
 #EXTINF:-1,Bein Sport Premium1 720
 http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/163892
 #EXTINF:-1,Bein Sport Premium2 720
@@ -34,6 +38,23 @@ http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81593
 #EXTINF:-1,|DE| SKY SPORT 2 HD
 http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81592
 #EXTINF:-1,|DE| SKY SPORT 3 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81591
+#EXTINF:-1,|DE| SKY SPORT 4 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81590
+#EXTINF:-1,|DE| SKY SPORT 5 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81589
+#EXTINF:-1,|DE| SKY SPORT 6 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81588
+#EXTINF:-1,|DE| SKY SPORT 8 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81586
+#EXTINF:-1,|DE| SKY SPORT 9 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81585
+#EXTINF:-1,|DE| SKY SPORT 11 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81583
+#EXTINF:-1,|DE| DAZN 1 BAR HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81582
+#EXTINF:-1,|DE| DAZN 2 BAR HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81581
 #EXTINF:-1,|PT| SPORT TV
 http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81653
 #EXTINF:-1,|PT| SPORT TV 1 HD
@@ -56,23 +77,6 @@ http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81645
 http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81644
 #EXTINF:-1,|PT| NBA TV
 http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81643
-http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81591
-#EXTINF:-1,|DE| SKY SPORT 4 HD
-http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81590
-#EXTINF:-1,|DE| SKY SPORT 5 HD
-http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81589
-#EXTINF:-1,|DE| SKY SPORT 6 HD
-http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81588
-#EXTINF:-1,|DE| SKY SPORT 8 HD
-http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81586
-#EXTINF:-1,|DE| SKY SPORT 9 HD
-http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81585
-#EXTINF:-1,|DE| SKY SPORT 11 HD
-http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81583
-#EXTINF:-1,|DE| DAZN 1 BAR HD
-http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81582
-#EXTINF:-1,|DE| DAZN 2 BAR HD
-http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81581
 #EXTINF:-1,|DE| SKY BUNDESLIGA 1 HD
 http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81580
 #EXTINF:-1,|DE| SKY BUNDESLIGA 2 HD (ONLY DURING LIVE MATCHES)
