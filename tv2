@@ -1,121 +1,101 @@
 #EXTM3U
 #EXTINF:-1, AR Bein Sport 1 kURDISH
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/137.ts
-
-#EXTINF:-1, US Bein Sport 2
-http://supersonictv.live:25461/live/903310/034806/22189.ts
-#EXTINF:-1, Uk sky Foodball 
-http://supersonictv.live:25461/live/903310/034806/78150.ts
-#EXTINF:-1, Uk sky Primeleage
-http://supersonictv.live:25461/live/903310/034806/78155.ts
-#EXTINF:-1, BR Sport 1 HD
-http://e.advd.cyou:80/live/duda2020/duda2020/185240.ts
-#EXTINF:-1, BR Sport 2 HD
-http://e.advd.cyou:80/live/duda2020/duda2020/185236.ts
-#EXTINF:-1, BR Fox Sport HD
-http://e.advd.cyou:80/live/duda2020/duda2020/191237.ts
-#EXTINF:-1, Astro Sport
-http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
-#EXTINF:-1, Astro Sport (bb)
-http://bigboss2017.club:8080/live/OVOmainoneWgTkI/468TGE75ffji6453/165358.ts
-#EXTINF:-1, Astro Sport 1
-http://185.63.254.40:80/live/912461531477289/840194034422592/153953.ts
-#EXTINF:-1, Astro Sport 2
-http://185.63.254.40:80/live/912461531477289/840194034422592/153952.ts
-#EXTINF:-1, Astro Sport 3
-http://185.63.254.40:80/live/912461531477289/840194034422592/153951.ts
-#EXTINF:-1, Astro Sport 4
-http://185.63.254.40:80/live/912461531477289/840194034422592/153950.ts
-#EXTINF:-1, Sky Sport 1 depor
-http://tv.pluscrt.com:25461/live/josefierro/Ny9OuwWabi/60372.ts
-#EXTINF:-1, Sky Sport 2 depor
-http://tv.pluscrt.com:25461/live/josefierro/Ny9OuwWabi/60373.ts
-#EXTINF:-1,|B HD| beIN SPORTS 1 -720P-
-http://red.ipfox.org:8080/Karim2_534341/40036069/2236
-#EXTINF:-1,|B HD| beIN SPORTS 2 -720P-
-http://red.ipfox.org:8080/Karim2_534341/40036069/2237
-#EXTINF:-1,|B HD| beIN SPORTS 3 -720P-
-http://red.ipfox.org:8080/Karim2_534341/40036069/2238
-#EXTINF:-1,|B HD| beIN SPORTS 4 -720P-
-http://red.ipfox.org:8080/Karim2_534341/40036069/2239
-#EXTINF:-1,|B HD| beIN SPORTS 5 -720P-
-http://red.ipfox.org:8080/Karim2_534341/40036069/2240
-#EXTINF:-1,|B HD| beIN SPORTS 6 -720P-
-http://red.ipfox.org:8080/Karim2_534341/40036069/2241
-#EXTINF:-1,|B HD| beIN SPORTS 7 -720P-
-http://red.ipfox.org:8080/Karim2_534341/40036069/2242
-#EXTINF:-1,|B HD| beIN SPORTS 8 -720P-
-http://red.ipfox.org:8080/Karim2_534341/40036069/2243
-#EXTINF:-1,|B HD| beIN SPORTS 9 -720P-
-http://red.ipfox.org:8080/Karim2_534341/40036069/2244
-#EXTINF:-1,|B HD| beIN SPORTS 10 -720P-
-http://red.ipfox.org:8080/Karim2_534341/40036069/2245
-#EXTINF:-1,beIN SPORTS 1 -480P-
-http://red.ipfox.org:8080/Karim2_534341/40036069/28974
-#EXTINF:-1,beIN SPORTS 2 -480P-
-http://red.ipfox.org:8080/Karim2_534341/40036069/28973
-#EXTINF:-1,beIN SPORTS 3 -480P-
-http://red.ipfox.org:8080/Karim2_534341/40036069/28972
-#EXTINF:-1,beIN SPORTS 4 -480P-
-http://red.ipfox.org:8080/Karim2_534341/40036069/28971
-#EXTINF:-1  , True Premier HD 1 
-http://e8.oknirvana.club:8880/live/14m22803/5yuMjzHEZ6/61327.ts
-#EXTINF:-1 , True Premier HD 2 
-http://e8.oknirvana.club:8880/live/14m22803/5yuMjzHEZ6/61328.ts
-#EXTINF:-1, PT Sport Tv 1
-http://supersonictv.live:25461/live/903310/034806/7704.ts
-
-#EXTINF:-1, PT Sport Tv 1 SD
-http://e8.oknirvana.club:8880/live/14m22803/5yuMjzHEZ6/29388.ts
-#EXTINF:-1, PT Sport Tv 2 SD
-http://e8.oknirvana.club:8880/live/14m22803/5yuMjzHEZ6/29387.ts
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://starshare.live:8080/live/99887766/99887766/314.ts
-#EXTINF:-1,PT: SPORT TV 1 HD(NIR)
-http://e8.oknirvana.club:8880/live/14m22803/5yuMjzHEZ6/3192.ts
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://starshare.live:8080/live/99887766/99887766/315.ts
-#EXTINF:-1,PT: SPORT TV 2 HD(NIR)
-http://e8.oknirvana.club:8880/live/14m22803/5yuMjzHEZ6/3191.ts
-#EXTINF:-1, PT Eleveb Sport 2
-http://mail.vipmek.com:8800/live/565656/565656/36605.ts
-
-#EXTINF:-1, Setanta sport
-http://mail.vipmek.com:8800/live/565656/565656/36096.ts
-#EXTINF:-1, Setanta sport ukraina
-https://95-213-224-181.livesports24.online/setantaukraine.m3u8
-#EXTINF:-1, Setanta sport ukraina2
-http://starshare.live:8080/live/99887766/99887766/6332.ts
-#EXTINF:-1, Setanta sport 1
-https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
-#EXTINF:-1, Setanta sport 2
-https://95-213-224-181.livesports24.online/setantaplusru.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",BeIN Sport 1 ID
 https://nonton.site:8443/provision/pp/728
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",BeIN Sport 2 ID
 https://nonton.site:8443/provision/pp/729
-#EXTINF:-1  tvg-language="English" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" tvg-url="" group-title="Sports",beIN SPORTS XTRA
-https://bein-plutolive-vo.akamaized.net/playlist.m3u8
-#EXTINF:-1,   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="RUSIASport",Футбол 1 HD
-https://95-213-224-181.livesports24.online/uafootballua1.m3u8?885415001050a
-#EXTINF:-1,   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="RUSIASport",Футбол 3 HD
-https://95-213-224-181.livesports24.online/football3ua.m3u8?885415001050a
-#EXTINF:-1,   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="@RUSIASport",Спорт 1
-https://95-213-224-181.livesports24.online/sport1ua.m3u8
-#EXTINF:-1,   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="RUSIASport",Спорт 1
-https://95-213-224-181.livesports24.online/sport1ua.m3u8?885415001050a
-#EXTINF:-1, ziggo football
-http://mail.vipmek.com:8800/live/565656/565656/36399.ts
-
-#EXTINF:-1, sky sport maint event
-http://iptvhit.com/player?http://e8.oknirvana.club:8880/live/14m22803/5yuMjzHEZ6/28904.ts
-#EXTINF:-1, sky sport 1
-http://mail.vipmek.com:8800/live/565656/565656/48113.ts
-#EXTINF:-1, sky sport 2
-http://mail.vipmek.com:8800/live/565656/565656/48101.ts
-#EXTINF:-1, sky sport 3
-http://mail.vipmek.com:8800/live/565656/565656/48100.ts
-#EXTINF:-1, sky sport 2
-http://iptv.re-stream.tv:7711/live/Carlos/12345/64385.ts
-#EXTINF:-1, sky Bundesliga 1
-http://e8.oknirvana.club:8880/live/14m22803/5yuMjzHEZ6/2619.ts
+#EXTINF:-1,Bein Sport Premium1 720
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/163892
+#EXTINF:-1,Bein Sport Premium2 720
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/163891
+#EXTINF:-1,Bein Sport Premium3 720
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/163890
+#EXTINF:-1,Bein Sport HD1 720
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/163889
+#EXTINF:-1,Bein Sport HD2 720
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/163888
+#EXTINF:-1,Bein Sport HD3 720
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/163887
+#EXTINF:-1,Bein Sport HD4 720
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/163886
+#EXTINF:-1,Bein Sport HD5 720
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/163885
+#EXTINF:-1,Bein Sport HD6 720
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/163884
+#EXTINF:-1,Bein Sport HD7 720
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/163883
+#EXTINF:-1,|DE| SKY SPORT 1
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81595
+#EXTINF:-1,|DE| SKY SPORT 1 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81594
+#EXTINF:-1,|DE| SKY SPORT 2
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81593
+#EXTINF:-1,|DE| SKY SPORT 2 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81592
+#EXTINF:-1,|DE| SKY SPORT 3 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81591
+#EXTINF:-1,|DE| SKY SPORT 4 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81590
+#EXTINF:-1,|DE| SKY SPORT 5 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81589
+#EXTINF:-1,|DE| SKY SPORT 6 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81588
+#EXTINF:-1,|DE| SKY SPORT 8 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81586
+#EXTINF:-1,|DE| SKY SPORT 9 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81585
+#EXTINF:-1,|DE| SKY SPORT 11 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81583
+#EXTINF:-1,|DE| DAZN 1 BAR HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81582
+#EXTINF:-1,|DE| DAZN 2 BAR HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81581
+#EXTINF:-1,|DE| SKY BUNDESLIGA 1 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81580
+#EXTINF:-1,|DE| SKY BUNDESLIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81579
+#EXTINF:-1,|DE| SKY BUNDESLIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81578
+#EXTINF:-1,|DE| SKY BUNDESLIGA 4 HD (ONLY DURING LIVE MATCHES)
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81577
+#EXTINF:-1,|DE| EUROSPORT 1 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81570
+#EXTINF:-1,|DE| EUROSPORT 2 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81569
+#EXTINF:-1,|FR| RMC SPORT 1 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/78380
+#EXTINF:-1,|FR|SD| RMC SPORT 1 
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/79038
+#EXTINF:-1,|FR| RMC SPORT 2 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/78379
+#EXTINF:-1,|FR|SD| RMC SPORT 2 
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/79037
+#EXTINF:-1,|FR|SD| RMC SPORT 3 
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/79036
+#EXTINF:-1,|FR|SD| RMC SPORT 4 
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/79035
+#EXTINF:-1,|FR| RMC SPORT LIVE 5 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/78376
+#EXTINF:-1,|FR|SD| RMC SPORT LIVE 5 
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/79034
+#EXTINF:-1,|FR| RMC SPORT LIVE 6 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/78375
+#EXTINF:-1,|FR|SD| RMC SPORT LIVE 6
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/79033
+#EXTINF:-1,|FR| RMC SPORT LIVE 7 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/78374
+#EXTINF:-1,|FR|SD| RMC SPORT LIVE 7 
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/79032
+#EXTINF:-1,|FR| RMC SPORT LIVE 8 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/78373
+#EXTINF:-1,|PL| ELEVENSPORT 1 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/80757
+#EXTINF:-1,|PL| ELEVENSPORT 2 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/80756
+#EXTINF:-1,|PL| ELEVENSPORT 3 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/80755
+#EXTINF:-1,|PL| ELEVENSPORT 4 HD
+#EXTINF:-1,BE: ELEVENSPORT 1 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/157527
+#EXTINF:-1,BE: ELEVENSPORT 2 HD
