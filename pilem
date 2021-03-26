@@ -20,6 +20,8 @@ http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/137.ts
 https://nonton.site:8443/provision/pp/728
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",BeIN Sport 2 ID
 https://nonton.site:8443/provision/pp/729
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",BeIN Sport Max
+https://nonton.site:8443/provision/pp/37432
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sports",Usee Sport 1
 https://nonton.site:8443/provision/pp/36240
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sports",Usee Sport 2
