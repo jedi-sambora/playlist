@@ -131,3 +131,9 @@ http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/157526
 http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1136.ts
 #EXTINF:-1,UK: SKY SPORT 2
 http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1135.ts
+ #EXTINF:-1,BT Sport 1 HD 
+ http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1865.ts
+ #EXTINF:-1,BT Sport 2 HD 
+ http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1866.ts
+ #EXTINF:-1,BT Sport 3 HD 
+ http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1887.ts
