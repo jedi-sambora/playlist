@@ -9,6 +9,12 @@ https://nonton.site:8443/provision/pp/729
 https://nonton.site:8443/provision/pp/36240
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sports",Usee Sport 2
 https://nonton.site:8443/provision/pp/36241
+#EXTINF:-1,True Vision 1
+https://mediasv.online/live/trueepl1/playlist.m3u8
+#EXTINF:-1,True Vision 2
+https://mediasv.online/live/trueepl2/playlist.m3u8
+#EXTINF:-1,True Vision 3
+https://mediasv.online/live/trueepl3/playlist.m3u8
 #EXTINF:-1,Bein Sport Premium1 720
 http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/163892
 #EXTINF:-1,Bein Sport Premium2 720
