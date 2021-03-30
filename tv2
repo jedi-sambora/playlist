@@ -15,6 +15,12 @@ https://mediasv.online/live/trueepl1/playlist.m3u8
 https://mediasv.online/live/trueepl2/playlist.m3u8
 #EXTINF:-1,True Vision 3
 https://mediasv.online/live/trueepl3/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MKCtv_Sports",Astro Supersports 1 MY
+http://85.203.33.88:80/NUBBt5ZyP2/HjyCHe036/23453
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MKCtv_Sports",Astro Supersports 2 MY
+http://85.203.33.88:80/NUBBt5ZyP2/HjyCHe036/23452
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MKCtv_Sports",Astro Supersports 3 MY
+http://85.203.33.88:80/NUBBt5ZyP2/HjyCHe036/23451
 #EXTINF:-1,Bein Sport Premium1 720
 http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/163892
 #EXTINF:-1,Bein Sport Premium2 720
