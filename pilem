@@ -26,11 +26,9 @@ https://nonton.site:8443/provision/pp/37432
 https://nonton.site:8443/provision/pp/36240
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sports",Usee Sport 2
 https://nonton.site:8443/provision/pp/36241
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9lMwU2a5XuS_mPbbxiMRIR2ZGfQ=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-cd5af1.jpg" tvg-id="RIYAN.e6c4e4542e1402853f18d92eda90d7a3.SHINTA" tvg-name"[CODAY] Champions TV 1 _VIDIO" group-title="SPORTS",[CODAY] Champions TV 1 _VIDIO
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f72f78a365657d56853b6867fb37dc3c102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zVTqzS-Vwnp_mhhekbD0xVUdBdI=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-e0b0b4.jpg" tvg-id="RIYAN.601556cbe6565c2ed1a8639442b498d5.SHINTA" tvg-name"[CODAY] Champions TV 2 _VIDIO" group-title="SPORTS",[CODAY] Champions TV 2 _VIDIO
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=1458c6647dbf7cca56dff7bfe0576ebb102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0CyFv4-SR0eH_tbFi6pDnecZyx8=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-f32604.jpg" tvg-id="RIYAN.6d7417dd40671171c6e5ada9cd8e98f7.SHINTA" tvg-name"[CODAY] Champions TV 3 _VIDIO" group-title="SPORTS",[CODAY] Champions TV 3 _VIDIO
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=af4f00ca48321fb026865c5a1772dafd102a6ed6587b5b8cb4ebbe972864690b
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 1 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Live: Other Countries",Astro Supersports 1 MY
+http://cloudcdn.tk:80/PNRrF02ATM/mEcJYb06/23453
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 2 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Live: Other Countries",Astro Supersports 2 MY
+http://cloudcdn.tk:80/PNRrF02ATM/mEcJYb06/23452
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 3 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Live: Other Countries",Astro Supersports 3 MY
+http://cloudcdn.tk:80/PNRrF02ATM/mEcJYb06/23451
