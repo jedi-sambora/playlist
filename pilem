@@ -32,3 +32,35 @@ http://cloudcdn.tk:80/PNRrF02ATM/mEcJYb06/23453
 http://cloudcdn.tk:80/PNRrF02ATM/mEcJYb06/23452
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 3 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Live: Other Countries",Astro Supersports 3 MY
 http://cloudcdn.tk:80/PNRrF02ATM/mEcJYb06/23451
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="Sports Usee & Vidio", ChampionTV 1 (Vidio)
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=vidio-6685
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="Sports Usee & Vidio", ChampionTV 2 (Vidio)
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=vidio-6686
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="Sports Usee & Vidio", ChampionTV 3 (Vidio)
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=vidio-6786
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="Sports Usee & Vidio", Champion TV 1 
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-champion1
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="Sports Usee & Vidio", Champion TV 2 
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-champion2
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="Sports Usee & Vidio", UseeSports 1 
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-useesport
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="Sports Usee & Vidio", UseeSports 2 
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-useesports2
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="Sports Usee & Vidio", Bein Sport 1 
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-bein1
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="Sports Usee & Vidio", bein Sport 2 
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-bein2
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="Sports Usee & Vidio", Fox Sport 1 
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-foxsport1
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="Sports Usee & Vidio", Fox Sport 2 
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-foxsport2
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="Sports Usee & Vidio", Fox Sport 3 
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-foxsport3
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png?v=2.0.0.14" group-title="Sports Usee & Vidio", Golf 
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-golfplus
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="Sports Usee & Vidio", NBA
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-nba
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="Sports Usee & Vidio", eGG TV 
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-egg
+
