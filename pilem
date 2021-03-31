@@ -64,3 +64,27 @@ https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-nba
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="Sports Usee & Vidio", eGG TV 
 https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-egg
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="Movies", Bioskop Indonesia 
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-bioskopindonesia
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="Movies", ZBioskop 
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-zbioskop
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="Movies", TVN 
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-tvn
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="Movies", TVN MOVIES
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-tvnmovies
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movies", Thrill 
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-thrill
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movies", Celestial Movie 
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-celestialmovie
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="Movies", Cinema World 
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-cinemaworld
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="Movies", Flik 
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-flik
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="Movies", Galaxy 
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-galaxy
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="Movies", Galaxy Premium 
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-galaxypremium
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="Movies", IMC 
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-imc
+
+
