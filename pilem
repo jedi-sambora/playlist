@@ -32,6 +32,14 @@ http://cloudcdn.tk:80/PNRrF02ATM/mEcJYb06/23453
 http://cloudcdn.tk:80/PNRrF02ATM/mEcJYb06/23452
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 3 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Live: Other Countries",Astro Supersports 3 MY
 http://cloudcdn.tk:80/PNRrF02ATM/mEcJYb06/23451
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",AstroSport1
+http://212.8.253.172:2052/AstroSupersports1HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=795036
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",AstroSport2
+http://212.8.253.172:2052/AstroSupersports2HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=795037
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",AstroSport3
+http://212.8.253.172:2052/AstroSuperSports3HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=795038
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",AstroSport4
+http://212.8.253.172:2052/AstroSuperSports4HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d534513186030
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="Sports Usee & Vidio", ChampionTV 1 (Vidio)
 https://home-tv.web.id/kicau/pastebin1.m3u8?channel=vidio-6685
