@@ -42,3 +42,15 @@ http://cloudcdn.tk:80/PNRrF02ATM/mEcJYb06/7328
 http://cloudcdn.tk:80/PNRrF02ATM/mEcJYb06/14562
 #EXTINF:-1 tvg-id="DiemaSport2.bg" tvg-name="Diema Sport 2 HD BG" tvg-logo="https://picon-13398.kxcdn.com/diemasport2.jpg" group-title="Live: Bulgaria",Diema Sport 2 HD BG
 http://cloudcdn.tk:80/PNRrF02ATM/mEcJYb06/11130
+#EXTINF:-1 group-title="SPORT",Eleven Sports Plus
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11006&key=84797b799ae18d1b
+#EXTINF:-1 group-title="SPORT",Eleven Sports 2
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11007&key=84797b799ae18d1b
+#EXTINF:-1 group-title="SPORT",ASSP 1
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_601&key=84797b799ae18d1b
+#EXTINF:-1 group-title="SPORT",ASSP 2
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_602&key=84797b799ae18d1b
+#EXTINF:-1 group-title="SPORT",ASSP 3
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_603&key=84797b799ae18d1b
+#EXTINF:-1 group-title="SPORT",ASSP 4
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_604&key=84797b799ae18d1b
