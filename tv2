@@ -151,3 +151,19 @@ http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1135.ts
  http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1887.ts
  #EXTINF:-1,BT Sport ESPN 
  http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1867.ts
+ #EXTINF:-1 tvg-id="ORTB.bj" tvg-name="SuperSport Premier League HD ZA" tvg-logo="https://picon-13398.kxcdn.com/supersport-premier-league-za.jpg" group-title="Live: African Countries",SuperSport Premier League HD ZA
+http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/28896
+#EXTINF:-1 tvg-id="ORTB.bj" tvg-name="SuperSport Football HD ZA" tvg-logo="https://picon-13398.kxcdn.com/supersport-football-za.jpg" group-title="Live: African Countries",SuperSport Football HD ZA
+http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/28901
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport1hd.jpg" group-title="Live: Albania",SuperSport 1 HD AL
+http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/4198
+#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport2hd.jpg" group-title="Live: Albania",SuperSport 2 HD AL
+http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/4199
+#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="SuperSport 3 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport3hd.jpg" group-title="Live: Albania",SuperSport 3 HD AL
+http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/4200
+#EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="SuperSport 4 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport4hd.jpg" group-title="Live: Albania",SuperSport 4 HD AL
+http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/4201
+#EXTINF:-1 tvg-id="SuperSport5.al" tvg-name="SuperSport 5 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport5hd.jpg" group-title="Live: Albania",SuperSport 5 FHD AL
+http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/22811
+#EXTINF:-1 tvg-id="SuperSport5.al" tvg-name="SuperSport 5 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport5hd.jpg" group-title="Live: Albania",SuperSport 5 HD AL
+http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/9373
