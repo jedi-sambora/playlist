@@ -21,6 +21,14 @@ http://85.203.33.88:80/NUBBt5ZyP2/HjyCHe036/23453
 http://85.203.33.88:80/NUBBt5ZyP2/HjyCHe036/23452
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MKCtv_Sports",Astro Supersports 3 MY
 http://85.203.33.88:80/NUBBt5ZyP2/HjyCHe036/23451
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 1 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Live: Other Countries",Astro Supersports 1 MY
+http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/23453
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 2 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Live: Other Countries",Astro Supersports 2 MY
+http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/23452
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 3 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Live: Other Countries",Astro Supersports 3 MY
+http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/23451
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 4 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Live: Other Countries",Astro Supersports 4 MY
+http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/33973
 #EXTINF:-1,Bein Sport Premium1 720
 http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/163892
 #EXTINF:-1,Bein Sport Premium2 720
@@ -167,3 +175,5 @@ http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/4201
 http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/22811
 #EXTINF:-1 tvg-id="SuperSport5.al" tvg-name="SuperSport 5 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport5hd.jpg" group-title="Live: Albania",SuperSport 5 HD AL
 http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/9373
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA:FOX SPORTS PREMIUM HD" tvg-logo="http://toptv2.com:25461/logos/fox_sport_premium.png" group-title="FONTE  4K",ARGENTINA:FOX SPORTS PREMIUM HD
+http://neceliptv.duckdns.org:25461/roberto/roberto/54957
