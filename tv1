@@ -10,3 +10,9 @@ http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_602&key=84797b799ae18d1b
 http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_603&key=84797b799ae18d1b
 #EXTINF:-1 group-title="SPORT",ASSP 4
 http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_604&key=84797b799ae18d1b
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="True Premier Football HD 1 TH" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: Premier League & EFL",True Premier Football HD 1 TH
+http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/16956
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="True Premier Football HD 2 TH" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Live: Premier League & EFL",True Premier Football HD 2 TH
+http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/16957
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="True Premier Football HD 3 TH" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Live: Premier League & EFL",True Premier Football HD 3 TH
+http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/16958
