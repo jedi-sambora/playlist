@@ -1,21 +1,22 @@
 #EXTM3U
-#EXTINF:-1 group-title="SPORT",ASSP 1
-http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_601&key=84797b799ae18d1b
-#EXTINF:-1 group-title="SPORT",ASSP 2
-http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_602&key=84797b799ae18d1b
-#EXTINF:-1 group-title="SPORT",ASSP 3
-http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_603&key=84797b799ae18d1b
-#EXTINF:-1 group-title="SPORT",ASSP 4
-http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_604&key=84797b799ae18d1b
+
 #EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="True Premier Football HD 1 TH" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: Premier League & EFL",True Premier Football HD 1 TH
 http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/16956
 #EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="True Premier Football HD 2 TH" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Live: Premier League & EFL",True Premier Football HD 2 TH
 http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/16957
 #EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="True Premier Football HD 3 TH" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Live: Premier League & EFL",True Premier Football HD 3 TH
 http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/16958
-#EXTINF:-1 tvg-id="" tvg-name="True Sport 1 SD TH" tvg-logo="https://picon-13398.kxcdn.com/truesporthdth.jpg" group-title="Live: Thailand",True Sport 1 SD TH
-http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/17110
-#EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="True Sport 2 HD TH" tvg-logo="https://picon-13398.kxcdn.com/truesporthdth.jpg" group-title="Live: Thailand",True Sport 2 HD TH
-http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/17111
-#EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="True Sport 3 HD TH" tvg-logo="https://picon-13398.kxcdn.com/truesporthdth.jpg" group-title="Live: Thailand",True Sport 3 HD TH
-http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/17112
+#EXTINF:-1 tvg-id="DiemaSport2.bg" tvg-name="Diema Sport 2 HD BG" tvg-logo="https://picon-13398.kxcdn.com/diemasport2.jpg" group-title="Live: Bulgaria",Diema Sport 2 HD BG
+http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/11130
+#EXTINF:-1 tvg-id="DiemaSport.bg" tvg-name="Diema Sport HD BG" tvg-logo="https://picon-13398.kxcdn.com/diemasport.jpg" group-title="Live: Bulgaria",Diema Sport HD BG
+http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/11131
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 1 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Live: Other Countries",Astro Supersports 1 MY
+http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/23453
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 2 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Live: Other Countries",Astro Supersports 2 MY
+http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/23452
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 3 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Live: Other Countries",Astro Supersports 3 MY
+http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/23451
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 4 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Live: Other Countries",Astro Supersports 4 MY
+http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/33973
+
+
