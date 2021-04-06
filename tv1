@@ -72,6 +72,12 @@ http://client-proplus.com:8080/david/david/5204
 http://client-proplus.com:8080/david/david/5205
 #EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Match Premiere HD" tvg-logo="[" group-title="Live: Russia & UA-BY",RUS: Match Premiere HD
 http://client-proplus.com:8080/david/david/5200
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport English HD1 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport English HD1 P50
+http://client-proplus.com:8080/david/david/68104
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport English HD2 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport English HD2 P50
+http://client-proplus.com:8080/david/david/68105
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport English HD3 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport English HD3 P50
+http://client-proplus.com:8080/david/david/68106
 
 
 
