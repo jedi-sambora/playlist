@@ -18,5 +18,32 @@ http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/23452
 http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/23451
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 4 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Live: Other Countries",Astro Supersports 4 MY
 http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/33973
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ID: beIN Sports 1 ID" tvg-logo="" group-title="Live: Indonesia",VIP ID: beIN Sports 1 ID
+http://client-proplus.com:8080/david/david/28732
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ID: beIN Sports 2 ID" tvg-logo="" group-title="Live: Indonesia",VIP ID: beIN Sports 2 ID
+http://client-proplus.com:8080/david/david/28731
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ID: beIN Sports 3 ID" tvg-logo="" group-title="Live: Indonesia",VIP ID: beIN Sports 3 ID
+http://client-proplus.com:8080/david/david/28730
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ID: Champion TV1 HD" tvg-logo="" group-title="Live: Indonesia",VIP ID: Champion TV1 HD
+http://client-proplus.com:8080/david/david/34547
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ID: Champion TV2 HD" tvg-logo="" group-title="Live: Indonesia",VIP ID: Champion TV2 HD
+http://client-proplus.com:8080/david/david/34548
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ID: Cinema World" tvg-logo="" group-title="Live: Indonesia",VIP ID: Cinema World
+http://client-proplus.com:8080/david/david/6750
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ID: UseeSports" tvg-logo="" group-title="Live: Indonesia",VIP ID: UseeSports
+http://client-proplus.com:8080/david/david/33188
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ID: UseeSports2" tvg-logo="" group-title="Live: Indonesia",VIP ID: UseeSports2
+http://client-proplus.com:8080/david/david/33189
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: SPORT TV HD" tvg-logo="" group-title="Live: Brazil",VIP BR: SPORT TV HD
+http://client-proplus.com:8080/david/david/7715
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Sport TV 2 FHD" tvg-logo="" group-title="Live: Brazil",VIP BR: Sport TV 2 FHD
+http://client-proplus.com:8080/david/david/19452
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: SPORT TV 2 HD" tvg-logo="" group-title="Live: Brazil",VIP BR: SPORT TV 2 HD
+http://client-proplus.com:8080/david/david/7716
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Sport TV 3 FHD" tvg-logo="" group-title="Live: Brazil",VIP BR: Sport TV 3 FHD
+http://client-proplus.com:8080/david/david/19451
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: SPORT TV 3 HD" tvg-logo="" group-title="Live: Brazil",VIP BR: SPORT TV 3 HD
+http://client-proplus.com:8080/david/david/7717
+
 
 
