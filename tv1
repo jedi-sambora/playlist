@@ -48,6 +48,20 @@ http://client-proplus.com:8080/david/david/7717
 http://client-proplus.com:8080/david/david/31037
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP GEO: Setanta Sports 2 Georgia" tvg-logo="" group-title="Live: Caucasus",VIP GEO: Setanta Sports 2 Georgia
 http://client-proplus.com:8080/david/david/31038
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: True Sports 1 HD" tvg-logo="[" group-title="Live: Thailand & Cambodia",VIP TH: True Sports 1 HD
+http://client-proplus.com:8080/david/david/10870
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: True Sports 2 HD" tvg-logo="[" group-title="Live: Thailand & Cambodia",VIP TH: True Sports 2 HD
+http://client-proplus.com:8080/david/david/10869
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: True Sports 2 SD" tvg-logo="[" group-title="Live: Thailand & Cambodia",VIP TH: True Sports 2 SD
+http://client-proplus.com:8080/david/david/10868
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: True Sports 3 HD" tvg-logo="[" group-title="Live: Thailand & Cambodia",VIP TH: True Sports 3 HD
+http://client-proplus.com:8080/david/david/10867
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: True Premiere League 1 HD" tvg-logo="[" group-title="Live: Thailand & Cambodia",VIP TH: True Premiere League 1 HD
+http://client-proplus.com:8080/david/david/10859
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: True Premiere League 2 HD" tvg-logo="[" group-title="Live: Thailand & Cambodia",VIP TH: True Premiere League 2 HD
+http://client-proplus.com:8080/david/david/10858
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: True Premiere League 3 HD" tvg-logo="[" group-title="Live: Thailand & Cambodia",VIP TH: True Premiere League 3 HD
+http://client-proplus.com:8080/david/david/10857
 
 
 
