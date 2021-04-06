@@ -44,6 +44,10 @@ http://client-proplus.com:8080/david/david/7716
 http://client-proplus.com:8080/david/david/19451
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: SPORT TV 3 HD" tvg-logo="" group-title="Live: Brazil",VIP BR: SPORT TV 3 HD
 http://client-proplus.com:8080/david/david/7717
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP GEO: Setanta Sports 1 Georgia" tvg-logo="" group-title="Live: Caucasus",VIP GEO: Setanta Sports 1 Georgia
+http://client-proplus.com:8080/david/david/31037
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP GEO: Setanta Sports 2 Georgia" tvg-logo="" group-title="Live: Caucasus",VIP GEO: Setanta Sports 2 Georgia
+http://client-proplus.com:8080/david/david/31038
 
 
 
