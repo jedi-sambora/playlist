@@ -84,4 +84,12 @@ http://sofadad.co.uk:80/carl69/carl69/6361
 http://sofadad.co.uk:80/carl69/carl69/6359
 #EXTINF:-1 tvg-id="sky.sports.football.gb" tvg-name="Sky Sports Football HD" tvg-logo="https://static.epg.best/gb/SkySportsFootball.uk.png" group-title="UK SPORTS",Sky Sports Football HD
 http://sofadad.co.uk:80/carl69/carl69/6363
+#EXTINF:-1 tvg-id="bt.sport.1.gb" tvg-name="BT Sport 1 HD" tvg-logo="https://static.epg.best/gb/BTSport1.uk.png" group-title="UK SPORTS",BT Sport 1 HD
+http://sofadad.co.uk:80/carl69/carl69/6373
+#EXTINF:-1 tvg-id="bt.sport.2.gb" tvg-name="BT Sport 2 HD" tvg-logo="https://static.epg.best/gb/BTSport2.uk.png" group-title="UK SPORTS",BT Sport 2 HD
+http://sofadad.co.uk:80/carl69/carl69/6370
+#EXTINF:-1 tvg-id="bt.sport.3.gb" tvg-name="BT Sport 3 HD" tvg-logo="https://static.epg.best/gb/BTSport3.uk.png" group-title="UK SPORTS",BT Sport 3 HD
+http://sofadad.co.uk:80/carl69/carl69/6369
+#EXTINF:-1 tvg-id="bt.sport.espn.gb" tvg-name="BT Sport ESPN HD" tvg-logo="https://static.epg.best/gb/BTSportESPN.uk.png" group-title="UK SPORTS",BT Sport ESPN HD
+http://sofadad.co.uk:80/carl69/carl69/6368
 
