@@ -52,3 +52,11 @@ http://client-proplus.com:8080/david/david/45766
 http://client-proplus.com:8080/david/david/45763
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ID: Fox Movies Action ID" tvg-logo="" group-title="Live: Indonesia",VIP ID: Fox Movies Action ID
 http://client-proplus.com:8080/david/david/28775
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ID: Celestial Movies ID" tvg-logo="" group-title="Live: Indonesia",VIP ID: Celestial Movies ID
+http://client-proplus.com:8080/david/david/28797
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ID: SCM ID" tvg-logo="" group-title="Live: Indonesia",VIP ID: SCM ID
+http://client-proplus.com:8080/david/david/28744
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ID: TVN Movies ID" tvg-logo="" group-title="Live: Indonesia",VIP ID: TVN Movies ID
+http://client-proplus.com:8080/david/david/28738
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ID: Warner TV ID" tvg-logo="" group-title="Live: Indonesia",VIP ID: Warner TV ID
+http://client-proplus.com:8080/david/david/28733
