@@ -96,6 +96,18 @@ http://client-proplus.com:8080/david/david/29797
 http://client-proplus.com:8080/david/david/33285
 #EXTINF:-1 tvg-ID="beinsports.my" tvg-name="VIP MLZ: BEIN SPORTS HD" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: BEIN SPORTS HD
 http://client-proplus.com:8080/david/david/20367
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: BT Sports 1 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BT Sports 1 FHD
+http://client-proplus.com:8080/david/david/60877
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: BT Sports 2 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BT Sports 2 FHD
+http://client-proplus.com:8080/david/david/60878
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: BT Sports 3 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BT Sports 3 FHD
+http://client-proplus.com:8080/david/david/60879
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: BT Sports ESPN FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BT Sports ESPN FHD
+http://client-proplus.com:8080/david/david/60880
+#EXTINF:-1 tvg-ID="skysport1.de" tvg-name="DE: Sky Sport 1 HD" tvg-logo="" group-title="Live: Germany",DE: Sky Sport 1 HD
+http://client-proplus.com:8080/david/david/121
+#EXTINF:-1 tvg-ID="skysport2.de" tvg-name="DE: Sky Sport 2 HD" tvg-logo="" group-title="Live: Germany",DE: Sky Sport 2 HD
+http://client-proplus.com:8080/david/david/540
 
 
 
