@@ -40,59 +40,15 @@ http://212.8.253.172:2052/AstroSupersports2HD/index.m3u8?username=FernanSisayan&
 http://212.8.253.172:2052/AstroSuperSports3HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=795038
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Asyik_NontonEPL",AstroSport4
 http://212.8.253.172:2052/AstroSuperSports4HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d534513186030
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="Sports Usee & Vidio", ChampionTV 1 (Vidio)
-https://home-tv.web.id/kicau/pastebin1.m3u8?channel=vidio-6685
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="Sports Usee & Vidio", ChampionTV 2 (Vidio)
-https://home-tv.web.id/kicau/pastebin1.m3u8?channel=vidio-6686
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="Sports Usee & Vidio", ChampionTV 3 (Vidio)
-https://home-tv.web.id/kicau/pastebin1.m3u8?channel=vidio-6786
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="Sports Usee & Vidio", Champion TV 1 
-https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-champion1
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="Sports Usee & Vidio", Champion TV 2 
-https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-champion2
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="Sports Usee & Vidio", UseeSports 1 
-https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-useesport
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="Sports Usee & Vidio", UseeSports 2 
-https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-useesports2
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="Sports Usee & Vidio", Bein Sport 1 
-https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-bein1
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="Sports Usee & Vidio", bein Sport 2 
-https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-bein2
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="Sports Usee & Vidio", Fox Sport 1 
-https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-foxsport1
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="Sports Usee & Vidio", Fox Sport 2 
-https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-foxsport2
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="Sports Usee & Vidio", Fox Sport 3 
-https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-foxsport3
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png?v=2.0.0.14" group-title="Sports Usee & Vidio", Golf 
-https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-golfplus
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="Sports Usee & Vidio", NBA
-https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-nba
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="Sports Usee & Vidio", eGG TV 
-https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-egg
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="Movies", Bioskop Indonesia 
-https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-bioskopindonesia
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="Movies", ZBioskop 
-https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-zbioskop
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="Movies", TVN 
-https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-tvn
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="Movies", TVN MOVIES
-https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-tvnmovies
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movies", Thrill 
-https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-thrill
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movies", Celestial Movie 
-https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-celestialmovie
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="Movies", Cinema World 
-https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-cinemaworld
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="Movies", Flik 
-https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-flik
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="Movies", Galaxy 
-https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-galaxy
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="Movies", Galaxy Premium 
-https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-galaxypremium
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="Movies", IMC 
-https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-imc
-
-
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ID: HBO CINEMAX" tvg-logo="" group-title="Live: Indonesia",VIP ID: HBO CINEMAX
+http://client-proplus.com:8080/david/david/45767
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ID: HBO FAMILY" tvg-logo="" group-title="Live: Indonesia",VIP ID: HBO FAMILY
+http://client-proplus.com:8080/david/david/45765
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ID: HBO HITS" tvg-logo="" group-title="Live: Indonesia",VIP ID: HBO HITS
+http://client-proplus.com:8080/david/david/45764
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ID: HBO RED" tvg-logo="" group-title="Live: Indonesia",VIP ID: HBO RED
+http://client-proplus.com:8080/david/david/45766
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ID: HBO SIGNATURE" tvg-logo="" group-title="Live: Indonesia",VIP ID: HBO SIGNATURE
+http://client-proplus.com:8080/david/david/45763
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ID: Fox Movies Action ID" tvg-logo="" group-title="Live: Indonesia",VIP ID: Fox Movies Action ID
+http://client-proplus.com:8080/david/david/28775
