@@ -62,6 +62,14 @@ http://client-proplus.com:8080/david/david/10859
 http://client-proplus.com:8080/david/david/10858
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: True Premiere League 3 HD" tvg-logo="[" group-title="Live: Thailand & Cambodia",VIP TH: True Premiere League 3 HD
 http://client-proplus.com:8080/david/david/10857
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Match Arena HD" tvg-logo="" group-title="Live: Russia & UA-BY",RUS: Match Arena HD
+http://client-proplus.com:8080/david/david/5202
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Match Futbol 1 HD" tvg-logo="" group-title="Live: Russia & UA-BY",RUS: Match Futbol 1 HD
+http://client-proplus.com:8080/david/david/5203
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Match Futbol 2 HD" tvg-logo="" group-title="Live: Russia & UA-BY",RUS: Match Futbol 2 HD
+http://client-proplus.com:8080/david/david/5204
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Match Futbol 3 HD" tvg-logo="" group-title="Live: Russia & UA-BY",RUS: Match Futbol 3 HD
+http://client-proplus.com:8080/david/david/5205
 
 
 
