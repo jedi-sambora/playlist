@@ -18,96 +18,70 @@ http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/23452
 http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/23451
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 4 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Live: Other Countries",Astro Supersports 4 MY
 http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/33973
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ID: beIN Sports 1 ID" tvg-logo="" group-title="Live: Indonesia",VIP ID: beIN Sports 1 ID
-http://client-proplus.com:8080/david/david/28732
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ID: beIN Sports 2 ID" tvg-logo="" group-title="Live: Indonesia",VIP ID: beIN Sports 2 ID
-http://client-proplus.com:8080/david/david/28731
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ID: beIN Sports 3 ID" tvg-logo="" group-title="Live: Indonesia",VIP ID: beIN Sports 3 ID
-http://client-proplus.com:8080/david/david/28730
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ID: Champion TV1 HD" tvg-logo="" group-title="Live: Indonesia",VIP ID: Champion TV1 HD
-http://client-proplus.com:8080/david/david/34547
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ID: Champion TV2 HD" tvg-logo="" group-title="Live: Indonesia",VIP ID: Champion TV2 HD
-http://client-proplus.com:8080/david/david/34548
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ID: Cinema World" tvg-logo="" group-title="Live: Indonesia",VIP ID: Cinema World
-http://client-proplus.com:8080/david/david/6750
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ID: UseeSports" tvg-logo="" group-title="Live: Indonesia",VIP ID: UseeSports
-http://client-proplus.com:8080/david/david/33188
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ID: UseeSports2" tvg-logo="" group-title="Live: Indonesia",VIP ID: UseeSports2
-http://client-proplus.com:8080/david/david/33189
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: SPORT TV HD" tvg-logo="" group-title="Live: Brazil",VIP BR: SPORT TV HD
-http://client-proplus.com:8080/david/david/7715
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Sport TV 2 FHD" tvg-logo="" group-title="Live: Brazil",VIP BR: Sport TV 2 FHD
-http://client-proplus.com:8080/david/david/19452
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: SPORT TV 2 HD" tvg-logo="" group-title="Live: Brazil",VIP BR: SPORT TV 2 HD
-http://client-proplus.com:8080/david/david/7716
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: Sport TV 3 FHD" tvg-logo="" group-title="Live: Brazil",VIP BR: Sport TV 3 FHD
-http://client-proplus.com:8080/david/david/19451
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP BR: SPORT TV 3 HD" tvg-logo="" group-title="Live: Brazil",VIP BR: SPORT TV 3 HD
-http://client-proplus.com:8080/david/david/7717
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP GEO: Setanta Sports 1 Georgia" tvg-logo="" group-title="Live: Caucasus",VIP GEO: Setanta Sports 1 Georgia
-http://client-proplus.com:8080/david/david/31037
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP GEO: Setanta Sports 2 Georgia" tvg-logo="" group-title="Live: Caucasus",VIP GEO: Setanta Sports 2 Georgia
-http://client-proplus.com:8080/david/david/31038
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: True Sports 1 HD" tvg-logo="[" group-title="Live: Thailand & Cambodia",VIP TH: True Sports 1 HD
-http://client-proplus.com:8080/david/david/10870
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: True Sports 2 HD" tvg-logo="[" group-title="Live: Thailand & Cambodia",VIP TH: True Sports 2 HD
-http://client-proplus.com:8080/david/david/10869
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: True Sports 2 SD" tvg-logo="[" group-title="Live: Thailand & Cambodia",VIP TH: True Sports 2 SD
-http://client-proplus.com:8080/david/david/10868
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: True Sports 3 HD" tvg-logo="[" group-title="Live: Thailand & Cambodia",VIP TH: True Sports 3 HD
-http://client-proplus.com:8080/david/david/10867
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: True Premiere League 1 HD" tvg-logo="[" group-title="Live: Thailand & Cambodia",VIP TH: True Premiere League 1 HD
-http://client-proplus.com:8080/david/david/10859
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: True Premiere League 2 HD" tvg-logo="[" group-title="Live: Thailand & Cambodia",VIP TH: True Premiere League 2 HD
-http://client-proplus.com:8080/david/david/10858
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: True Premiere League 3 HD" tvg-logo="[" group-title="Live: Thailand & Cambodia",VIP TH: True Premiere League 3 HD
-http://client-proplus.com:8080/david/david/10857
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Match Arena HD" tvg-logo="" group-title="Live: Russia & UA-BY",RUS: Match Arena HD
-http://client-proplus.com:8080/david/david/5202
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Match Futbol 1 HD" tvg-logo="" group-title="Live: Russia & UA-BY",RUS: Match Futbol 1 HD
-http://client-proplus.com:8080/david/david/5203
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Match Futbol 2 HD" tvg-logo="" group-title="Live: Russia & UA-BY",RUS: Match Futbol 2 HD
-http://client-proplus.com:8080/david/david/5204
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Match Futbol 3 HD" tvg-logo="" group-title="Live: Russia & UA-BY",RUS: Match Futbol 3 HD
-http://client-proplus.com:8080/david/david/5205
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Match Premiere HD" tvg-logo="[" group-title="Live: Russia & UA-BY",RUS: Match Premiere HD
-http://client-proplus.com:8080/david/david/5200
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport English HD1 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport English HD1 P50
-http://client-proplus.com:8080/david/david/68104
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport English HD2 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport English HD2 P50
-http://client-proplus.com:8080/david/david/68105
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport English HD3 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport English HD3 P50
-http://client-proplus.com:8080/david/david/68106
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport News HD" tvg-logo="" group-title="Live: Albania",AL: Super Sport News HD
-http://client-proplus.com:8080/david/david/224
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 2 HD" tvg-logo="" group-title="Live: Albania",AL: Super Sport 2 HD
-http://client-proplus.com:8080/david/david/223
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 3 HD" tvg-logo="[" group-title="Live: Albania",AL: Super Sport 3 HD
-http://client-proplus.com:8080/david/david/222
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 4 HD" tvg-logo="" group-title="Live: Albania",AL: Super Sport 4 HD
-http://client-proplus.com:8080/david/david/221
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 5 HD" tvg-logo="" group-title="Live: Albania",AL: Super Sport 5 HD
-http://client-proplus.com:8080/david/david/19809
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 6 HD" tvg-logo="" group-title="Live: Albania",AL: Super Sport 6 HD
-http://client-proplus.com:8080/david/david/19810
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 7 HD" tvg-logo="[" group-title="Live: Albania",AL: Super Sport 7 HD
-http://client-proplus.com:8080/david/david/29797
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: BEIN MAX HD" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: BEIN MAX HD
-http://client-proplus.com:8080/david/david/33285
-#EXTINF:-1 tvg-ID="beinsports.my" tvg-name="VIP MLZ: BEIN SPORTS HD" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: BEIN SPORTS HD
-http://client-proplus.com:8080/david/david/20367
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: BT Sports 1 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BT Sports 1 FHD
-http://client-proplus.com:8080/david/david/60877
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: BT Sports 2 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BT Sports 2 FHD
-http://client-proplus.com:8080/david/david/60878
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: BT Sports 3 FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BT Sports 3 FHD
-http://client-proplus.com:8080/david/david/60879
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: BT Sports ESPN FHD" tvg-logo="" group-title="Live: United Kingdom",VIP UK: BT Sports ESPN FHD
-http://client-proplus.com:8080/david/david/60880
-#EXTINF:-1 tvg-ID="skysport1.de" tvg-name="DE: Sky Sport 1 HD" tvg-logo="" group-title="Live: Germany",DE: Sky Sport 1 HD
-http://client-proplus.com:8080/david/david/121
-#EXTINF:-1 tvg-ID="skysport2.de" tvg-name="DE: Sky Sport 2 HD" tvg-logo="" group-title="Live: Germany",DE: Sky Sport 2 HD
-http://client-proplus.com:8080/david/david/540
-
-
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV1 HD" tvg-logo="" group-title="SPORTS",PT: SPORT TV1 HD
+http://starshare.live:8080/live/arfat/arfat/314.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="SPORTS",PT: SPORT TV 2 HD
+http://starshare.live:8080/live/arfat/arfat/315.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV3 HD" tvg-logo="" group-title="SPORTS",PT: SPORT TV3 HD
+http://starshare.live:8080/live/arfat/arfat/316.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV4 HD" tvg-logo="" group-title="SPORTS",PT: SPORT TV4 HD
+http://starshare.live:8080/live/arfat/arfat/317.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 5 HD" tvg-logo="" group-title="SPORTS",PT: Sport TV 5 HD
+http://starshare.live:8080/live/arfat/arfat/318.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT : ELEVEN SPORTS 3" tvg-logo="" group-title="SPORTS",PT : ELEVEN SPORTS 3
+http://starshare.live:8080/live/arfat/arfat/1644.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT : ELEVEN SPORTS 2" tvg-logo="" group-title="PORTUGAL",PT : ELEVEN SPORTS 2
+http://starshare.live:8080/live/arfat/arfat/1645.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT-ELEVEN SPORTS 1" tvg-logo="" group-title="PORTUGAL",PT-ELEVEN SPORTS 1
+http://starshare.live:8080/live/arfat/arfat/1646.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO",MY: ASTRO SUPER SPORTS 1 HD
+http://starshare.live:8080/live/arfat/arfat/5480.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634" group-title="ASTRO",MY: ASTRO SUPER SPORTS 2 HD
+http://starshare.live:8080/live/arfat/arfat/5481.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="ASTRO",MY: ASTRO SUPER SPORTS 3 HD
+http://starshare.live:8080/live/arfat/arfat/5482.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748" group-title="ASTRO",MY: ASTRO SUPER SPORTS 4 HD
+http://starshare.live:8080/live/arfat/arfat/5483.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR : BEIN SPORT 1 HD" tvg-logo="" group-title="SPORTS",FR : BEIN SPORT 1 HD
+http://starshare.live:8080/live/arfat/arfat/356.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR : BEIN SPORT 2 HD" tvg-logo="" group-title="SPORTS",FR : BEIN SPORT 2 HD
+http://starshare.live:8080/live/arfat/arfat/357.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR : BEIN SPORT 3 HD" tvg-logo="" group-title="SPORTS",FR : BEIN SPORT 3 HD
+http://starshare.live:8080/live/arfat/arfat/358.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 HD" tvg-logo="" group-title="BEIN SPORTS",AR: BEIN SPORTS 1 HD
+http://starshare.live:8080/live/arfat/arfat/359.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR : BEIN SPORT 2 HD" tvg-logo="" group-title="BEIN SPORTS",AR : BEIN SPORT 2 HD
+http://starshare.live:8080/live/arfat/arfat/360.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR : BEIN SPORT 3 HD" tvg-logo="" group-title="BEIN SPORTS",AR : BEIN SPORT 3 HD
+http://starshare.live:8080/live/arfat/arfat/361.ts
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 1" tvg-logo="" group-title="3PM MATCH ZONE",Now HK Premier Sports 1
+http://sofadad.co.uk:80/carl69/carl69/185126
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Now Sports 1" tvg-logo="" group-title="3PM MATCH ZONE",Now HK Now Sports 1
+http://sofadad.co.uk:80/carl69/carl69/185128
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Now Sports 2" tvg-logo="" group-title="3PM MATCH ZONE",Now HK Now Sports 2
+http://sofadad.co.uk:80/carl69/carl69/185129
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Now Sports 3" tvg-logo="" group-title="3PM MATCH ZONE",Now HK Now Sports 3
+http://sofadad.co.uk:80/carl69/carl69/185130
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Now Sports 4" tvg-logo="" group-title="3PM MATCH ZONE",Now HK Now Sports 4
+http://sofadad.co.uk:80/carl69/carl69/185131
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Now Sports 5" tvg-logo="" group-title="3PM MATCH ZONE",Now HK Now Sports 5
+http://sofadad.co.uk:80/carl69/carl69/185132
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Now Sports 6" tvg-logo="" group-title="3PM MATCH ZONE",Now HK Now Sports 6
+http://sofadad.co.uk:80/carl69/carl69/185133
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Now Sports 7" tvg-logo="" group-title="3PM MATCH ZONE",Now HK Now Sports 7
+http://sofadad.co.uk:80/carl69/carl69/185127
+#EXTINF:-1 tvg-id="bt.sport.1.gb" tvg-name="BT Sport 1" tvg-logo="https://static.epg.best/gb/BTSport1.uk.png" group-title="UK SPORTS FHD",BT Sport 1
+http://sofadad.co.uk:80/carl69/carl69/37
+#EXTINF:-1 tvg-id="bt.sport.2.gb" tvg-name="BT Sport 2" tvg-logo="https://static.epg.best/gb/BTSport2.uk.png" group-title="UK SPORTS FHD",BT Sport 2
+http://sofadad.co.uk:80/carl69/carl69/554
+#EXTINF:-1 tvg-id="bt.sport.3.gb" tvg-name="BT Sport 3" tvg-logo="https://static.epg.best/gb/BTSport3.uk.png" group-title="UK SPORTS FHD",BT Sport 3
+http://sofadad.co.uk:80/carl69/carl69/43
+#EXTINF:-1 tvg-id="bt.sport.espn.gb" tvg-name="BT Sport ESPN" tvg-logo="https://static.epg.best/gb/BTSportESPN.uk.png" group-title="UK SPORTS FHD",BT Sport ESPN
+http://sofadad.co.uk:80/carl69/carl69/46
+#EXTINF:-1 tvg-id="sky.sports.main.event.gb" tvg-name="Sky Sports Main Event HD" tvg-logo="https://static.epg.best/gb/SkySportsMainEvent.uk.png" group-title="UK SPORTS",Sky Sports Main Event HD
+http://sofadad.co.uk:80/carl69/carl69/6361
+#EXTINF:-1 tvg-id="sky.sports.pl.gb" tvg-name="Sky Sports Premier League HD" tvg-logo="https://static.epg.best/gb/SkySportsPremiereLeague.uk.png" group-title="UK SPORTS",Sky Sports Premier League HD
+http://sofadad.co.uk:80/carl69/carl69/6359
+#EXTINF:-1 tvg-id="sky.sports.football.gb" tvg-name="Sky Sports Football HD" tvg-logo="https://static.epg.best/gb/SkySportsFootball.uk.png" group-title="UK SPORTS",Sky Sports Football HD
+http://sofadad.co.uk:80/carl69/carl69/6363
 
