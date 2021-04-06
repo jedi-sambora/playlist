@@ -78,6 +78,20 @@ http://client-proplus.com:8080/david/david/68104
 http://client-proplus.com:8080/david/david/68105
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AR: Bein Sport English HD3 P50" tvg-logo="" group-title="Live: Bein Media",VIP AR: Bein Sport English HD3 P50
 http://client-proplus.com:8080/david/david/68106
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport News HD" tvg-logo="" group-title="Live: Albania",AL: Super Sport News HD
+http://client-proplus.com:8080/david/david/224
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 2 HD" tvg-logo="" group-title="Live: Albania",AL: Super Sport 2 HD
+http://client-proplus.com:8080/david/david/223
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 3 HD" tvg-logo="[" group-title="Live: Albania",AL: Super Sport 3 HD
+http://client-proplus.com:8080/david/david/222
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 4 HD" tvg-logo="" group-title="Live: Albania",AL: Super Sport 4 HD
+http://client-proplus.com:8080/david/david/221
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 5 HD" tvg-logo="" group-title="Live: Albania",AL: Super Sport 5 HD
+http://client-proplus.com:8080/david/david/19809
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 6 HD" tvg-logo="" group-title="Live: Albania",AL: Super Sport 6 HD
+http://client-proplus.com:8080/david/david/19810
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 7 HD" tvg-logo="[" group-title="Live: Albania",AL: Super Sport 7 HD
+http://client-proplus.com:8080/david/david/29797
 
 
 
