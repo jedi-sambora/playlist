@@ -70,6 +70,8 @@ http://client-proplus.com:8080/david/david/5203
 http://client-proplus.com:8080/david/david/5204
 #EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Match Futbol 3 HD" tvg-logo="" group-title="Live: Russia & UA-BY",RUS: Match Futbol 3 HD
 http://client-proplus.com:8080/david/david/5205
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Match Premiere HD" tvg-logo="[" group-title="Live: Russia & UA-BY",RUS: Match Premiere HD
+http://client-proplus.com:8080/david/david/5200
 
 
 
