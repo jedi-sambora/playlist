@@ -92,6 +92,10 @@ http://client-proplus.com:8080/david/david/19809
 http://client-proplus.com:8080/david/david/19810
 #EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 7 HD" tvg-logo="[" group-title="Live: Albania",AL: Super Sport 7 HD
 http://client-proplus.com:8080/david/david/29797
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP MLZ: BEIN MAX HD" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: BEIN MAX HD
+http://client-proplus.com:8080/david/david/33285
+#EXTINF:-1 tvg-ID="beinsports.my" tvg-name="VIP MLZ: BEIN SPORTS HD" tvg-logo="" group-title="Live: Malaysia & Singapore",VIP MLZ: BEIN SPORTS HD
+http://client-proplus.com:8080/david/david/20367
 
 
 
