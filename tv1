@@ -98,4 +98,5 @@ http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/82362
 http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/82361
 #EXTINF:-1 group-title="BR SPORTS",|BR| SPORTV 3 HD
 http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/82360
-
+#EXTINF:-1 group-title="BR SPORTS",|BR| ESPN
+http://rec2.distv.net:8080/live/aurora/123456/144.ts
