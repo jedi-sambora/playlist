@@ -54,6 +54,12 @@ http://starshare.live:8080/live/arfat/arfat/359.ts
 http://starshare.live:8080/live/arfat/arfat/360.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR : BEIN SPORT 3 HD" tvg-logo="" group-title="BEIN SPORTS",AR : BEIN SPORT 3 HD
 http://starshare.live:8080/live/arfat/arfat/361.ts
+#EXTINF:-1 group-title="BEIN SPORTS",beIN Sports Premium 1 FHD
+http://62.4.18.94:25461/mangour70/riad1980/24
+#EXTINF:-1 group-title="BEIN SPORTS",beIN Sports Premium 2 FHD
+http://62.4.18.94:25461/mangour70/riad1980/25
+#EXTINF:-1 group-title="BEIN SPORTS",beIN Sports Premium 3 FHD
+http://62.4.18.94:25461/mangour70/riad1980/26
 #EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 1" tvg-logo="" group-title="3PM MATCH ZONE",Now HK Premier Sports 1
 http://sofadad.co.uk:80/carl69/carl69/185126
 #EXTINF:-1 tvg-id="" tvg-name="Now HK Now Sports 1" tvg-logo="" group-title="3PM MATCH ZONE",Now HK Now Sports 1
