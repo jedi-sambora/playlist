@@ -92,4 +92,10 @@ http://sofadad.co.uk:80/carl69/carl69/6370
 http://sofadad.co.uk:80/carl69/carl69/6369
 #EXTINF:-1 tvg-id="bt.sport.espn.gb" tvg-name="BT Sport ESPN HD" tvg-logo="https://static.epg.best/gb/BTSportESPN.uk.png" group-title="UK SPORTS",BT Sport ESPN HD
 http://sofadad.co.uk:80/carl69/carl69/6368
+#EXTINF:-1 group-title="BR SPORTS",|BR| SPORTV HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/82362
+#EXTINF:-1 group-title="BR SPORTS",|BR| SPORTV 2 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/82361
+#EXTINF:-1 group-title="BR SPORTS",|BR| SPORTV 3 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/82360
 
