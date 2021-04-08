@@ -136,3 +136,7 @@ http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/62550
 http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/62551
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Arena | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/sky-sport-arena-1.jpg" group-title="47. Reino Unido TV",UK: Sky Sports Arena | UHD
 http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/62552
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eir Sport 1 | UHD" tvg-logo="https://live.staticflickr.com/65535/49501472746_0016024d77_m.jpg" group-title="47. Reino Unido TV",UK: Eir Sport 1 | UHD
+http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/62614
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eir Sport 2 | UHD" tvg-logo="https://live.staticflickr.com/65535/49501472746_0016024d77_m.jpg" group-title="47. Reino Unido TV",UK: Eir Sport 2 | UHD
+http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/62615
