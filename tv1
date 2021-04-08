@@ -1,23 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="True Premier Football HD 1 TH" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: Premier League & EFL",True Premier Football HD 1 TH
-http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/16956
-#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="True Premier Football HD 2 TH" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Live: Premier League & EFL",True Premier Football HD 2 TH
-http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/16957
-#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="True Premier Football HD 3 TH" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Live: Premier League & EFL",True Premier Football HD 3 TH
-http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/16958
-#EXTINF:-1 tvg-id="DiemaSport2.bg" tvg-name="Diema Sport 2 HD BG" tvg-logo="https://picon-13398.kxcdn.com/diemasport2.jpg" group-title="Live: Bulgaria",Diema Sport 2 HD BG
-http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/11130
-#EXTINF:-1 tvg-id="DiemaSport.bg" tvg-name="Diema Sport HD BG" tvg-logo="https://picon-13398.kxcdn.com/diemasport.jpg" group-title="Live: Bulgaria",Diema Sport HD BG
-http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/11131
-#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 1 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Live: Other Countries",Astro Supersports 1 MY
-http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/23453
-#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 2 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Live: Other Countries",Astro Supersports 2 MY
-http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/23452
-#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 3 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Live: Other Countries",Astro Supersports 3 MY
-http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/23451
-#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 4 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Live: Other Countries",Astro Supersports 4 MY
-http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/33973
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV1 HD" tvg-logo="" group-title="SPORTS",PT: SPORT TV1 HD
 http://starshare.live:8080/live/arfat/arfat/314.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="SPORTS",PT: SPORT TV 2 HD
@@ -54,12 +36,6 @@ http://starshare.live:8080/live/arfat/arfat/359.ts
 http://starshare.live:8080/live/arfat/arfat/360.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR : BEIN SPORT 3 HD" tvg-logo="" group-title="BEIN SPORTS",AR : BEIN SPORT 3 HD
 http://starshare.live:8080/live/arfat/arfat/361.ts
-#EXTINF:-1 group-title="BEIN SPORTS",beIN Sports Premium 1 FHD
-http://62.4.18.94:25461/mangour70/riad1980/24
-#EXTINF:-1 group-title="BEIN SPORTS",beIN Sports Premium 2 FHD
-http://62.4.18.94:25461/mangour70/riad1980/25
-#EXTINF:-1 group-title="BEIN SPORTS",beIN Sports Premium 3 FHD
-http://62.4.18.94:25461/mangour70/riad1980/26
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU : BEIN SPORT 1 HD" tvg-logo="" group-title="SPORTS EXYU",AR-EXYU: BEIN SPORTS 1 HD
 http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/3539
 #EXTINF:-1 tvg-id="" tvg-name="EX-YU : BEIN SPORT 2 HD" tvg-logo="" group-title="SPORTS EXYU",AR-EXYU: BEIN SPORTS 2 HD
@@ -100,112 +76,5 @@ http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfd
 http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/5021
 #EXTINF:-1 group-title="SPORTS EXYU",PT: SPORT.TV 2 HD
 http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/5020
-#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 1" tvg-logo="" group-title="3PM MATCH ZONE",Now HK Premier Sports 1
-http://sofadad.co.uk:80/carl69/carl69/185126
-#EXTINF:-1 tvg-id="" tvg-name="Now HK Now Sports 1" tvg-logo="" group-title="3PM MATCH ZONE",Now HK Now Sports 1
-http://sofadad.co.uk:80/carl69/carl69/185128
-#EXTINF:-1 tvg-id="" tvg-name="Now HK Now Sports 2" tvg-logo="" group-title="3PM MATCH ZONE",Now HK Now Sports 2
-http://sofadad.co.uk:80/carl69/carl69/185129
-#EXTINF:-1 tvg-id="" tvg-name="Now HK Now Sports 3" tvg-logo="" group-title="3PM MATCH ZONE",Now HK Now Sports 3
-http://sofadad.co.uk:80/carl69/carl69/185130
-#EXTINF:-1 tvg-id="" tvg-name="Now HK Now Sports 4" tvg-logo="" group-title="3PM MATCH ZONE",Now HK Now Sports 4
-http://sofadad.co.uk:80/carl69/carl69/185131
-#EXTINF:-1 tvg-id="" tvg-name="Now HK Now Sports 5" tvg-logo="" group-title="3PM MATCH ZONE",Now HK Now Sports 5
-http://sofadad.co.uk:80/carl69/carl69/185132
-#EXTINF:-1 tvg-id="" tvg-name="Now HK Now Sports 6" tvg-logo="" group-title="3PM MATCH ZONE",Now HK Now Sports 6
-http://sofadad.co.uk:80/carl69/carl69/185133
-#EXTINF:-1 tvg-id="" tvg-name="Now HK Now Sports 7" tvg-logo="" group-title="3PM MATCH ZONE",Now HK Now Sports 7
-http://sofadad.co.uk:80/carl69/carl69/185127
-#EXTINF:-1 tvg-id="bt.sport.1.gb" tvg-name="BT Sport 1" tvg-logo="https://static.epg.best/gb/BTSport1.uk.png" group-title="UK SPORTS FHD",BT Sport 1
-http://sofadad.co.uk:80/carl69/carl69/37
-#EXTINF:-1 tvg-id="bt.sport.2.gb" tvg-name="BT Sport 2" tvg-logo="https://static.epg.best/gb/BTSport2.uk.png" group-title="UK SPORTS FHD",BT Sport 2
-http://sofadad.co.uk:80/carl69/carl69/554
-#EXTINF:-1 tvg-id="bt.sport.3.gb" tvg-name="BT Sport 3" tvg-logo="https://static.epg.best/gb/BTSport3.uk.png" group-title="UK SPORTS FHD",BT Sport 3
-http://sofadad.co.uk:80/carl69/carl69/43
-#EXTINF:-1 tvg-id="bt.sport.espn.gb" tvg-name="BT Sport ESPN" tvg-logo="https://static.epg.best/gb/BTSportESPN.uk.png" group-title="UK SPORTS FHD",BT Sport ESPN
-http://sofadad.co.uk:80/carl69/carl69/46
-#EXTINF:-1 tvg-id="sky.sports.main.event.gb" tvg-name="Sky Sports Main Event HD" tvg-logo="https://static.epg.best/gb/SkySportsMainEvent.uk.png" group-title="UK SPORTS",Sky Sports Main Event HD
-http://sofadad.co.uk:80/carl69/carl69/6361
-#EXTINF:-1 tvg-id="sky.sports.pl.gb" tvg-name="Sky Sports Premier League HD" tvg-logo="https://static.epg.best/gb/SkySportsPremiereLeague.uk.png" group-title="UK SPORTS",Sky Sports Premier League HD
-http://sofadad.co.uk:80/carl69/carl69/6359
-#EXTINF:-1 tvg-id="sky.sports.football.gb" tvg-name="Sky Sports Football HD" tvg-logo="https://static.epg.best/gb/SkySportsFootball.uk.png" group-title="UK SPORTS",Sky Sports Football HD
-http://sofadad.co.uk:80/carl69/carl69/6363
-#EXTINF:-1 tvg-id="bt.sport.1.gb" tvg-name="BT Sport 1 HD" tvg-logo="https://static.epg.best/gb/BTSport1.uk.png" group-title="UK SPORTS",BT Sport 1 HD
-http://sofadad.co.uk:80/carl69/carl69/6373
-#EXTINF:-1 tvg-id="bt.sport.2.gb" tvg-name="BT Sport 2 HD" tvg-logo="https://static.epg.best/gb/BTSport2.uk.png" group-title="UK SPORTS",BT Sport 2 HD
-http://sofadad.co.uk:80/carl69/carl69/6370
-#EXTINF:-1 tvg-id="bt.sport.3.gb" tvg-name="BT Sport 3 HD" tvg-logo="https://static.epg.best/gb/BTSport3.uk.png" group-title="UK SPORTS",BT Sport 3 HD
-http://sofadad.co.uk:80/carl69/carl69/6369
-#EXTINF:-1 tvg-id="bt.sport.espn.gb" tvg-name="BT Sport ESPN HD" tvg-logo="https://static.epg.best/gb/BTSportESPN.uk.png" group-title="UK SPORTS",BT Sport ESPN HD
-http://sofadad.co.uk:80/carl69/carl69/6368
-#EXTINF:-1 group-title="BR SPORTS",|BR| SPORTV HD
-http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/82362
-#EXTINF:-1 group-title="BR SPORTS",|BR| SPORTV 2 HD
-http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/82361
-#EXTINF:-1 group-title="BR SPORTS",|BR| SPORTV 3 HD
-http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/82360
 #EXTINF:-1 group-title="BR SPORTS",|BR| ESPN
 http://rec2.distv.net:8080/live/aurora/123456/144.ts
-#EXTINF:-1 tvg-id="ORTB.bj" tvg-name="SuperSport PSL HD ZA" tvg-logo="https://picon-13398.kxcdn.com/supersport-psl-za.jpg" group-title="Live: African Countries",SuperSport PSL HD ZA
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/28894
-#EXTINF:-1 tvg-id="ORTB.bj" tvg-name="SuperSport LaLiga HD ZA" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg" group-title="Live: African Countries",SuperSport LaLiga HD ZA
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/28895
-#EXTINF:-1 tvg-id="ORTB.bj" tvg-name="SuperSport Premier League HD ZA" tvg-logo="https://picon-13398.kxcdn.com/supersport-premier-league-za.jpg" group-title="Live: African Countries",SuperSport Premier League HD ZA
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/28896
-#EXTINF:-1 tvg-id="ORTB.bj" tvg-name="SuperSport Grandstand HD ZA" tvg-logo="https://picon-13398.kxcdn.com/supersport-grandstand-za.jpg" group-title="Live: African Countries",SuperSport Grandstand HD ZA
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/28897
-#EXTINF:-1 tvg-id="ORTB.bj" tvg-name="SuperSport Variety 2 HD ZA" tvg-logo="https://picon-13398.kxcdn.com/supersport-variety-2-za.jpg" group-title="Live: African Countries",SuperSport Variety 2 HD ZA
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/28898
-#EXTINF:-1 tvg-id="ORTB.bj" tvg-name="SuperSport Variety 1 HD ZA" tvg-logo="https://picon-13398.kxcdn.com/supersport-variety-1-za.jpg" group-title="Live: African Countries",SuperSport Variety 1 HD ZA
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/28899
-#EXTINF:-1 tvg-id="ORTB.bj" tvg-name="SuperSport Action HD ZA" tvg-logo="https://picon-13398.kxcdn.com/supersport-action-za.jpg" group-title="Live: African Countries",SuperSport Action HD ZA
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/28900
-#EXTINF:-1 tvg-id="ORTB.bj" tvg-name="SuperSport Football HD ZA" tvg-logo="https://picon-13398.kxcdn.com/supersport-football-za.jpg" group-title="Live: African Countries",SuperSport Football HD ZA
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/28901
-#EXTINF:-1 tvg-id="ORTB.bj" tvg-name="SuperSport Variety 4 HD ZA" tvg-logo="https://picon-13398.kxcdn.com/supersport-variety-4-za.jpg" group-title="Live: African Countries",SuperSport Variety 4 HD ZA
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/28902
-#EXTINF:-1 tvg-id="ORTB.bj" tvg-name="SuperSport Variety 3 HD ZA" tvg-logo="https://picon-13398.kxcdn.com/supersport-variety-3-za.jpg" group-title="Live: African Countries",SuperSport Variety 3 HD ZA
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/28903
-#EXTINF:-1 tvg-id="ORTB.bj" tvg-name="SuperSport Rugby HD ZA" tvg-logo="https://picon-13398.kxcdn.com/supersport-rugby-za.jpg" group-title="Live: African Countries",SuperSport Rugby HD ZA
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/28904
-#EXTINF:-1 tvg-id="ORTB.bj" tvg-name="SuperSport Cricket HD ZA" tvg-logo="https://picon-13398.kxcdn.com/supersport-cricket-za.jpg" group-title="Live: African Countries",SuperSport Cricket HD ZA
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/28905
-#EXTINF:-1 tvg-id="SuperSportBlitz.za" tvg-name="SuperSport Blitz HD ZA" tvg-logo="https://picon-13398.kxcdn.com/supersport-blitz-za.jpg" group-title="Live: African Countries",SuperSport Blitz HD ZA
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/28906
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Maximo 1 HD ZA" tvg-logo="https://picon-13398.kxcdn.com/supersport-maximo-1-za.jpg" group-title="Live: African Countries",SuperSport Maximo 1 HD ZA
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/28907
-#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport2hd.jpg" group-title="Live: Albania",SuperSport 2 FHD AL
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/22808
-#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport2hd.jpg" group-title="Live: Albania",SuperSport 2 HD AL
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/4199
-#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="SuperSport 3 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport3hd.jpg" group-title="Live: Albania",SuperSport 3 FHD AL
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/22809
-#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="SuperSport 3 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport3hd.jpg" group-title="Live: Albania",SuperSport 3 HD AL
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/4200
-#EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="SuperSport 4 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport4hd.jpg" group-title="Live: Albania",SuperSport 4 FHD AL
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/22810
-#EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="SuperSport 4 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport4hd.jpg" group-title="Live: Albania",SuperSport 4 HD AL
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/4201
-#EXTINF:-1 tvg-id="SuperSport5.al" tvg-name="SuperSport 5 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport5hd.jpg" group-title="Live: Albania",SuperSport 5 FHD AL
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/22811
-#EXTINF:-1 tvg-id="SuperSport5.al" tvg-name="SuperSport 5 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport5hd.jpg" group-title="Live: Albania",SuperSport 5 HD AL
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/9373
-#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 1 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Live: Other Countries",Astro Supersports 1 MY
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/23453
-#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 2 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Live: Other Countries",Astro Supersports 2 MY
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/23452
-#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 3 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Live: Other Countries",Astro Supersports 3 MY
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/23451
-#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 4 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Live: Other Countries",Astro Supersports 4 MY
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/33973
-#EXTINF:-1 tvg-id="MatchFutbol1.ru" tvg-name="Match! Futbol 1 FHD RU" tvg-logo="https://picon-13398.kxcdn.com/matchfutbol1ru.jpg" group-title="Live: Russia",Match! Futbol 1 FHD RU
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/15247
-#EXTINF:-1 tvg-id="MatchFutbol2.ru" tvg-name="Match! Futbol 2 FHD RU" tvg-logo="https://picon-13398.kxcdn.com/matchfutbol2ru.jpg" group-title="Live: Russia",Match! Futbol 2 FHD RU
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/15246
-#EXTINF:-1 tvg-id="MatchFutbol3.ru" tvg-name="Match! Futbol 3 FHD RU" tvg-logo="https://picon-13398.kxcdn.com/matchfutbol3ru.jpg" group-title="Live: Russia",Match! Futbol 3 FHD RU
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/15245
-#EXTINF:-1 tvg-id="" tvg-name="Match Premier HD RU" tvg-logo="https://picon-13398.kxcdn.com/matchpremierru.jpg" group-title="Live: Russia",Match Premier HD RU
-http://tv.sharkiptv.hitv.one:80/Jaskomen/NJE7MU851/53333
-
-
-
