@@ -1,6 +1,22 @@
 #EXTM3U
 #EXTINF:-1, AR Bein Sport 1 kURDISH
 http://iptv.maxlacress.com:7711/khalidBB54d543/bc6e434JKHFGng/24207
+#EXTINF:-1,TR beIN SPORTS 1 HD
+http://abmmedya.com:8080/mustafametin/5336796184/8
+#EXTINF: -1 tvg-name="TR: BEINSPORTS 1 HD", TR: BEINSPORTS 1 HD
+#EXTGRP:TURKISH
+http://iptv.maxlacress.com:7711/khalidBB54d543/bc6e434JKHFGng/24207
+#EXTINF:-1,beIN SPORTS 2 SD
+http://abmmedya.com:8080/mustafametin/5336796184/16
+#EXTINF:-1, CANAL+ LIGUE 1 HD
+http://rv.flysat.live:80/307242117531/307242117531/163114
+#EXTINF:-1,BR Fox Sports
+http://sv1.casaplayer.com.br:80/douglas/10203040/3642
+#EXTINF:-1,BR Fox Sports 2
+http://sv1.casaplayer.com.br:80/douglas/10203040/3641
+#EXTINF:-1,BE | Elevensport 1 HD
+http://abmmedya.com:8080/mustafametin/5336796184/28497
+#EXTINF:-1,BE | Elevensport 2 HD
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",BeIN Sport 1 ID
 https://nonton.site:8443/provision/pp/728
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",BeIN Sport 2 ID
