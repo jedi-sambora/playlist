@@ -9,12 +9,16 @@ https://nonton.site:8443/provision/pp/729
 https://nonton.site:8443/provision/pp/36240
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sports",Usee Sport 2
 https://nonton.site:8443/provision/pp/36241
-#EXTINF:-1,True Vision 1
+#EXTINF:-1 group-title="THAI SPORT",True Vision 1
 https://mediasv.online/live/trueepl1/playlist.m3u8
-#EXTINF:-1,True Vision 2
+#EXTINF:-1group-title="THAI SPORT",True Vision 2
 https://mediasv.online/live/trueepl2/playlist.m3u8
-#EXTINF:-1,True Vision 3
+#EXTINF:-1 group-title="THAI SPORT",True Vision 3
 https://mediasv.online/live/trueepl3/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="THAI SPORT",BEINSPORT1 TH
+https://mediasv.online/live/bein1/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="THAI SPORT",BEINSPORT2 TH
+https://mediasv.online/live/bein2/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MKCtv_Sports",Astro Supersports 1 MY
 http://85.203.33.88:80/NUBBt5ZyP2/HjyCHe036/23453
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MKCtv_Sports",Astro Supersports 2 MY
@@ -159,21 +163,5 @@ http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1135.ts
  http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1887.ts
  #EXTINF:-1,BT Sport ESPN 
  http://1skytv.com:8080/live/ByAzavHSvH/GQENz5nt3T/1867.ts
- #EXTINF:-1 tvg-id="ORTB.bj" tvg-name="SuperSport Premier League HD ZA" tvg-logo="https://picon-13398.kxcdn.com/supersport-premier-league-za.jpg" group-title="Live: African Countries",SuperSport Premier League HD ZA
-http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/28896
-#EXTINF:-1 tvg-id="ORTB.bj" tvg-name="SuperSport Football HD ZA" tvg-logo="https://picon-13398.kxcdn.com/supersport-football-za.jpg" group-title="Live: African Countries",SuperSport Football HD ZA
-http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/28901
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport1hd.jpg" group-title="Live: Albania",SuperSport 1 HD AL
-http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/4198
-#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport2hd.jpg" group-title="Live: Albania",SuperSport 2 HD AL
-http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/4199
-#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="SuperSport 3 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport3hd.jpg" group-title="Live: Albania",SuperSport 3 HD AL
-http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/4200
-#EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="SuperSport 4 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport4hd.jpg" group-title="Live: Albania",SuperSport 4 HD AL
-http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/4201
-#EXTINF:-1 tvg-id="SuperSport5.al" tvg-name="SuperSport 5 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport5hd.jpg" group-title="Live: Albania",SuperSport 5 FHD AL
-http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/22811
-#EXTINF:-1 tvg-id="SuperSport5.al" tvg-name="SuperSport 5 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport5hd.jpg" group-title="Live: Albania",SuperSport 5 HD AL
-http://mag.clientportal.link:80/VHctBSKbfY391/oUI6VX530/9373
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA:FOX SPORTS PREMIUM HD" tvg-logo="http://toptv2.com:25461/logos/fox_sport_premium.png" group-title="FONTE  4K",ARGENTINA:FOX SPORTS PREMIUM HD
+ EXTINF:-1 tvg-id="" tvg-name="ARGENTINA:FOX SPORTS PREMIUM HD" tvg-logo="http://toptv2.com:25461/logos/fox_sport_premium.png" group-title="FONTE  4K",ARGENTINA:FOX SPORTS PREMIUM HD
 http://neceliptv.duckdns.org:25461/roberto/roberto/54957
