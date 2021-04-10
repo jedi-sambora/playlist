@@ -17,6 +17,13 @@ https://mediasv.online/live/trueepl3/playlist.m3u8
 https://mediasv.online/live/bein1/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="THAI SPORT",BEINSPORT2 TH
 https://mediasv.online/live/bein2/playlist.m3u8
+
+#EXTINF:-1  group-title="SPORTS",(BE) Eleven Sports 1
+http://exchange.jinbox.nl:1339/sammy.muniz1/3R1EJuyw2Zxr/40242
+#EXTINF:-1  group-title="SPORTS",(BE) Eleven Sports 2
+http://exchange.jinbox.nl:1339/sammy.muniz1/3R1EJuyw2Zxr/40243
+
+
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV1 HD" tvg-logo="" group-title="SPORTS",PT: SPORT TV1 HD
 http://starshare.live:8080/live/arfat/arfat/314.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="SPORTS",PT: SPORT TV 2 HD
@@ -41,11 +48,11 @@ http://starshare.live:8080/live/arfat/arfat/5481.ts
 http://starshare.live:8080/live/arfat/arfat/5482.ts
 #EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748" group-title="ASTRO",MY: ASTRO SUPER SPORTS 4 HD
 http://starshare.live:8080/live/arfat/arfat/5483.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR : BEIN SPORT 1 HD" tvg-logo="" group-title="SPORTS",FR : BEIN SPORT 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="FR : BEIN SPORT 1 HD" tvg-logo="" group-title="BEIN SPORTS",FR : BEIN SPORT 1 HD
 http://starshare.live:8080/live/arfat/arfat/356.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR : BEIN SPORT 2 HD" tvg-logo="" group-title="SPORTS",FR : BEIN SPORT 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="FR : BEIN SPORT 2 HD" tvg-logo="" group-title="BEIN SPORTS",FR : BEIN SPORT 2 HD
 http://starshare.live:8080/live/arfat/arfat/357.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR : BEIN SPORT 3 HD" tvg-logo="" group-title="SPORTS",FR : BEIN SPORT 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="FR : BEIN SPORT 3 HD" tvg-logo="" group-title="BEIN SPORTS",FR : BEIN SPORT 3 HD
 http://starshare.live:8080/live/arfat/arfat/358.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 HD" tvg-logo="" group-title="BEIN SPORTS",AR: BEIN SPORTS 1 HD
 http://starshare.live:8080/live/arfat/arfat/359.ts
@@ -104,6 +111,17 @@ http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/59206
 http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/59207
 #EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 5 HD" tvg-logo="http://127.0.0.1/" group-title="ZZ SPORTS ",DE: Sky Sport 5 HD
 http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/59208
+#EXTINF:-1  group-title="ZZ SPORTS ",(DE) Sky Sport 1
+http://exchange.jinbox.nl:1339/sammy.muniz1/3R1EJuyw2Zxr/16047
+#EXTINF:-1  group-title="ZZ SPORTS ",(DE) Sky Sport 2
+http://exchange.jinbox.nl:1339/sammy.muniz1/3R1EJuyw2Zxr/16066
+#EXTINF:-1  group-title="ZZ SPORTS ",(DE) Sky Sport 3
+http://exchange.jinbox.nl:1339/sammy.muniz1/3R1EJuyw2Zxr/16084
+#EXTINF:-1  group-title="ZZ SPORTS ",(DE) Sky Sport 4
+http://exchange.jinbox.nl:1339/sammy.muniz1/3R1EJuyw2Zxr/16086
+#EXTINF:-1  group-title="ZZ SPORTS ",(DE) Sky Sport 5
+http://exchange.jinbox.nl:1339/sammy.muniz1/3R1EJuyw2Zxr/16088
+
 #EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | TNT SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="ZZ SPORTS",ARGENTINA | TNT SPORTS HD
 http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/59102
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Event | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/SkySportsMainEvent_201708.jpg" group-title="47. Reino Unido TV",UK: Sky Sports Main Event | HD
