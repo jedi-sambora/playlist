@@ -1,5 +1,22 @@
 #EXTM3U
-
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",BeIN Sport 1 ID
+https://nonton.site:8443/provision/pp/728
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",BeIN Sport 2 ID
+https://nonton.site:8443/provision/pp/729
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sports",Usee Sport 1
+https://nonton.site:8443/provision/pp/36240
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sports",Usee Sport 2
+https://nonton.site:8443/provision/pp/36241
+#EXTINF:-1 group-title="THAI SPORT",True Vision 1
+https://mediasv.online/live/trueepl1/playlist.m3u8
+#EXTINF:-1group-title="THAI SPORT",True Vision 2
+https://mediasv.online/live/trueepl2/playlist.m3u8
+#EXTINF:-1 group-title="THAI SPORT",True Vision 3
+https://mediasv.online/live/trueepl3/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="THAI SPORT",BEINSPORT1 TH
+https://mediasv.online/live/bein1/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="THAI SPORT",BEINSPORT2 TH
+https://mediasv.online/live/bein2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV1 HD" tvg-logo="" group-title="SPORTS",PT: SPORT TV1 HD
 http://starshare.live:8080/live/arfat/arfat/314.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="SPORTS",PT: SPORT TV 2 HD
@@ -36,26 +53,7 @@ http://starshare.live:8080/live/arfat/arfat/359.ts
 http://starshare.live:8080/live/arfat/arfat/360.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR : BEIN SPORT 3 HD" tvg-logo="" group-title="BEIN SPORTS",AR : BEIN SPORT 3 HD
 http://starshare.live:8080/live/arfat/arfat/361.ts
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU : BEIN SPORT 1 HD" tvg-logo="" group-title="SPORTS EXYU",AR-EXYU: BEIN SPORTS 1 HD
-http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/3539
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU : BEIN SPORT 2 HD" tvg-logo="" group-title="SPORTS EXYU",AR-EXYU: BEIN SPORTS 2 HD
-http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/562
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU : BEIN SPORT 3 HD" tvg-logo="" group-title="sPORTS EXYU",AR-EXYU: BEIN SPORTS 3 HD
-http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/563
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU : BEIN SPORT 4 HD" tvg-logo="" group-title="SPORTS EXYU",AR-EXYU: BEIN SPORTS 4 HD
-http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/564
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU : BEIN SPORT 5 HD" tvg-logo="" group-title="SPORTS EXYU",AR-EXYU:: BEIN SPORTS 5 HD
-http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/565
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU : BEIN SPORT 6 HD" tvg-logo="" group-title="SPORTS EXYU",AR-EXYU:: BEIN SPORTS 6 HD
-http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/566
-#EXTINF:-1 tvg-id="" tvg-name="EX-YU : BEIN SPORT 7 HD" tvg-logo="" group-title="SPORTS EXYU",AR-EXYU:: BEIN SPORTS 7 HD
-http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/567
-#EXTINF:-1 group-title="SPORTS EXYU",AR-EXYU:: BEIN SPORTS 8 HD
-http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/568
-#EXTINF:-1 group-title="SPORTS EXYU",AR-EXYU:: BEIN SPORTS 9 HD
-http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/569
-#EXTINF:-1 group-title="SPORTS EXYU",AR-EXYU:: BEIN SPORTS 10 HD
-http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/570
+
 #EXTINF:-1 group-title="SPORTS EXYU",ALB: Super Sport 5 HD
 http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/1327
 #EXTINF:-1 group-title="SPORTS EXYU",ALB: Super Sport 4 HD
