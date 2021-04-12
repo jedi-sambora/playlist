@@ -18,10 +18,6 @@ https://mediasv.online/live/bein1/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="THAI SPORT",BEINSPORT2 TH
 https://mediasv.online/live/bein2/playlist.m3u8
 
-#EXTINF:-1  group-title="SPORTS",(BE) Eleven Sports 1
-http://exchange.jinbox.nl:1339/sammy.muniz1/3R1EJuyw2Zxr/40242
-#EXTINF:-1  group-title="SPORTS",(BE) Eleven Sports 2
-http://exchange.jinbox.nl:1339/sammy.muniz1/3R1EJuyw2Zxr/40243
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV1 HD" tvg-logo="" group-title="SPORTS",PT: SPORT TV1 HD
@@ -68,6 +64,10 @@ http://starshare.live:8080/live/arfat/arfat/359.ts
 http://starshare.live:8080/live/arfat/arfat/360.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR : BEIN SPORT 3 HD" tvg-logo="" group-title="BEIN SPORTS",AR : BEIN SPORT 3 HD
 http://starshare.live:8080/live/arfat/arfat/361.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 HD" tvg-logo="" group-title="BEIN SPORTS",TR: BEIN SPORTS 1 HD
+https://b.pscdn.live/hls/bein-sports-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 HD" tvg-logo="" group-title="BEIN SPORTS",TR: BEIN SPORTS 2 HD
+https://b.pscdn.live/hls/bein-sports-2.m3u8
 
 #EXTINF:-1 group-title="SPORTS EXYU",ALB: Super Sport 5 HD
 http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/1327
@@ -91,10 +91,7 @@ http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfd
 http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/5020
 #EXTINF:-1 group-title="ZZ SPORTS",|BR| ESPN
 http://rec2.distv.net:8080/live/aurora/123456/144.ts
-#EXTINF:-1 group-title="ZZ SPORTS",BEIN SPORTS ENG HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
-#EXTINF:-1 group-title="ZZ SPORTS",ELEVEN SPORTS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/517
+
 #EXTINF:-1  group-title="ZZ SPORTS ",(DE) Sky Sport 1
 http://exchange.jinbox.nl:1339/sammy.muniz1/3R1EJuyw2Zxr/16047
 #EXTINF:-1  group-title="ZZ SPORTS ",(DE) Sky Sport 2
