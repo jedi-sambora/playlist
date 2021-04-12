@@ -48,7 +48,15 @@ http://starshare.live:8080/live/arfat/arfat/5481.ts
 http://starshare.live:8080/live/arfat/arfat/5482.ts
 #EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748" group-title="ASTRO",MY: ASTRO SUPER SPORTS 4 HD
 http://starshare.live:8080/live/arfat/arfat/5483.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR : BEIN SPORT 1 HD" tvg-logo="" group-title="BEIN SPORTS",FR : BEIN SPORT 1 HD
+#EXTINF:-1 group-title="ASTRO",MY Astro SuperSport 3
+http://ky-iptv.com:25461/1234567890/1234567890/499301
+#EXTINF:-1 group-title="ASTRO",MY Astro SuperSport 4
+http://ky-iptv.com:25461/1234567890/1234567890/499302
+#EXTINF:-1 group-title="ASTRO",MY Astro SuperSport 2
+http://ky-iptv.com:25461/1234567890/1234567890/499300
+#EXTINF:-1 group-title="ASTRO",MY Astro SuperSport
+http://ky-iptv.com:25461/1234567890/1234567890/499299
+#EXTINF:-1, tvg-id="" tvg-name="FR : BEIN SPORT 1 HD" tvg-logo="" group-title="BEIN SPORTS",FR : BEIN SPORT 1 HD
 http://starshare.live:8080/live/arfat/arfat/356.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR : BEIN SPORT 2 HD" tvg-logo="" group-title="BEIN SPORTS",FR : BEIN SPORT 2 HD
 http://starshare.live:8080/live/arfat/arfat/357.ts
@@ -87,30 +95,6 @@ http://rec2.distv.net:8080/live/aurora/123456/144.ts
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
 #EXTINF:-1 group-title="ZZ SPORTS",ELEVEN SPORTS
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/517
-#EXTINF:-1 tvg-id="" tvg-name="BRASIL | SPORTV 3  HD" tvg-logo="http://127.0.0.1/" group-title="ZZ SPORTS",BRASIL | SPORTV 3  HD
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/59494
-#EXTINF:-1 tvg-id="" tvg-name="BRASIL | SPORTV 2  HD" tvg-logo="http://127.0.0.1/" group-title="ZZ SPORTS",BRASIL | SPORTV 2  HD
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/59495
-#EXTINF:-1 tvg-id="" tvg-name="BRASIL | SPORTV 1 HD" tvg-logo="http://127.0.0.1/" group-title="ZZ SPORTS",BRASIL | SPORTV 1 HD
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/59496
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Football HD" tvg-logo="http://127.0.0.1/" group-title="ZZ SPORTS",UK: Sky Sports Football HD
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/68668
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORTS 1" tvg-logo="http://127.0.0.1/" group-title="ZZ SPORTS",UK: BT SPORTS 1
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/62561
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORTS 2" tvg-logo="http://127.0.0.1/" group-title="ZZ SPORTS",UK: BT SPORTS 2
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/62562
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BTSPORT_3_BLACK_RGB.png/1200px-BTSPORT_3_BLACK_RGB.png" group-title="ZZ SPORTS",UK: BT SPORTS 3
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/62563
-#EXTINF:-1 tvg-id="" tvg-name="DE:| SKY SPORT 2  HD" tvg-logo="http://127.0.0.1/" group-title="ZZ SPORTS ",DE:| SKY SPORT 2  HD
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/59170
-#EXTINF:-1 tvg-id="" tvg-name="DE:| SKY SPORT 1  HD" tvg-logo="http://127.0.0.1/" group-title="ZZ SPORTS ",DE:| SKY SPORT 1  HD
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/59171
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 3 HD" tvg-logo="http://127.0.0.1/" group-title="ZZ SPORTS ",DE: Sky Sport 3 HD
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/59206
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 4 HD" tvg-logo="http://127.0.0.1/" group-title="ZZ SPORTS ",DE: Sky Sport 4 HD
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/59207
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 5 HD" tvg-logo="http://127.0.0.1/" group-title="ZZ SPORTS ",DE: Sky Sport 5 HD
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/59208
 #EXTINF:-1  group-title="ZZ SPORTS ",(DE) Sky Sport 1
 http://exchange.jinbox.nl:1339/sammy.muniz1/3R1EJuyw2Zxr/16047
 #EXTINF:-1  group-title="ZZ SPORTS ",(DE) Sky Sport 2
@@ -121,41 +105,6 @@ http://exchange.jinbox.nl:1339/sammy.muniz1/3R1EJuyw2Zxr/16084
 http://exchange.jinbox.nl:1339/sammy.muniz1/3R1EJuyw2Zxr/16086
 #EXTINF:-1  group-title="ZZ SPORTS ",(DE) Sky Sport 5
 http://exchange.jinbox.nl:1339/sammy.muniz1/3R1EJuyw2Zxr/16088
-
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | TNT SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="ZZ SPORTS",ARGENTINA | TNT SPORTS HD
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/59102
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Event | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/SkySportsMainEvent_201708.jpg" group-title="47. Reino Unido TV",UK: Sky Sports Main Event | HD
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/62539
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premiere League | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/sky_sports_premiere_league.jpg" group-title="47. Reino Unido TV",UK: Sky Sports Premiere League | HD
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/62540
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Cricket | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/skySPORTS-CRICKET.png" group-title="47. Reino Unido TV",UK: Sky Sports Cricket | HD
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/62541
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Golf | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/skySPORTS-GOLF.png" group-title="47. Reino Unido TV",UK: Sky Sports Golf | HD
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/62542
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Action | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/skySPORTS-ACTION.png" group-title="47. Reino Unido TV",UK: Sky Sports Action | HD
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/62543
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/SKYSPORTSNEWS.png" group-title="47. Reino Unido TV",UK: Sky Sports News | UHD
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/62544
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Mix | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/skySPORTS-MIX.png" group-title="47. Reino Unido TV",UK: Sky Sports Mix | UHD
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/62545
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Racing | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/03/SkySportsRacing.jpg" group-title="47. Reino Unido TV",UK: Sky Sports Racing | UHD
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/62546
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/SkySportsPremierLeague_201708.jpg" group-title="47. Reino Unido TV",UK: Sky Sports Premier League | UHD
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/62547
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Event | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/SkySportsMainEvent_201708.jpg" group-title="47. Reino Unido TV",UK: Sky Sports Main Event | UHD
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/62548
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports F1 HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/sky_sports_premiere_league.jpg" group-title="47. Reino Unido TV",UK: Sky Sports F1 HD
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/62549
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Action | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/skySPORTS-ACTION.png" group-title="47. Reino Unido TV",UK: Sky Sports Action | HD
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/62550
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Football | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/skySPORTS-FOOTBALL.png" group-title="47. Reino Unido TV",UK: Sky Sports Football | UHD
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/62551
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Arena | UHD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/sky-sport-arena-1.jpg" group-title="47. Reino Unido TV",UK: Sky Sports Arena | UHD
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/62552
-#EXTINF:-1 tvg-id="" tvg-name="UK: Eir Sport 1 | UHD" tvg-logo="https://live.staticflickr.com/65535/49501472746_0016024d77_m.jpg" group-title="47. Reino Unido TV",UK: Eir Sport 1 | UHD
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/62614
-#EXTINF:-1 tvg-id="" tvg-name="UK: Eir Sport 2 | UHD" tvg-logo="https://live.staticflickr.com/65535/49501472746_0016024d77_m.jpg" group-title="47. Reino Unido TV",UK: Eir Sport 2 | UHD
-http://tv.iprealtv.net:8000/SERIESCOPIA/SERIESCOPIA/62615
 #EXTINF:-1 group-title="RUS SPORT",Матч ТВ
 https://77-247-178-24.livesports24.online/ooomatch.m3u8
 #EXTINF:-1 group-title="RUS SPORT",Футбол 1 UA
