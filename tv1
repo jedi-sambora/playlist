@@ -13,6 +13,10 @@ https://mediasv.online/live/trueepl1/playlist.m3u8
 https://mediasv.online/live/trueepl2/playlist.m3u8
 #EXTINF:-1 group-title="THAI SPORT",True Vision 3
 https://mediasv.online/live/trueepl3/playlist.m3u8
+#EXTINF:-1group-title="THAI SPORT",True Vision 1
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1group-title="THAI SPORT",True Vision 2
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="THAI SPORT",BEINSPORT1 TH
 https://mediasv.online/live/bein1/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="THAI SPORT",BEINSPORT2 TH
@@ -76,8 +80,13 @@ http://starshare.live:8080/live/arfat/arfat/361.ts
 https://b.pscdn.live/hls/bein-sports-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 HD" tvg-logo="" group-title="BEIN SPORTS",TR: BEIN SPORTS 2 HD
 https://b.pscdn.live/hls/bein-sports-2.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.qa" tvg-name="beIN SPORTS XTRA" tvg-country="QA" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="BEIN SPORTS",beIN SPORTS XTRA
-http://plutotv.vo.llnwd.net/m/hlslive/bein.m3u8?chname=bein&pub=0
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Premium SD1" tvg-logo="" group-title="BEIN SPORTS",Bein Sport Premium SD1
+http://rv.imax.re:80/9310112628/9241652002/163912
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Premium SD2" tvg-logo="" group-title="BEIN SPORTS",Bein Sport Premium SD2
+http://rv.imax.re:80/9310112628/9241652002/163911
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Premium SD3" tvg-logo="" group-title="BEIN SPORTS",Bein Sport Premium SD3
+http://rv.imax.re:80/9310112628/9241652002/163910
+
 #EXTINF:0 tvg-ID="RMCSport1.fr" tvg-logo="http://134.255.234.197/logos/rmcsport1.png" group-title="FRANCE SPORTS",|FR| RMC SPORT 1 HD
 http://rv.imax.re/477861311711156/477861311711156/78380
 #EXTINF:0 tvg-ID="RMCSport1.fr" tvg-logo="http://134.255.234.197/logos/rmcsport1.png" group-title="FRANCE SPORTS",|FR|SD| RMC SPORT 1 
@@ -116,16 +125,7 @@ https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e09
 
 #EXTINF:-1 group-title="ZZ SPORTS",|BR| ESPN
 http://rec2.distv.net:8080/live/aurora/123456/144.ts
-#EXTINF:-1  group-title="ZZ SPORTS ",(DE) Sky Sport 1
-http://exchange.jinbox.nl:1339/sammy.muniz1/3R1EJuyw2Zxr/16047
-#EXTINF:-1  group-title="ZZ SPORTS ",(DE) Sky Sport 2
-http://exchange.jinbox.nl:1339/sammy.muniz1/3R1EJuyw2Zxr/16066
-#EXTINF:-1  group-title="ZZ SPORTS ",(DE) Sky Sport 3
-http://exchange.jinbox.nl:1339/sammy.muniz1/3R1EJuyw2Zxr/16084
-#EXTINF:-1  group-title="ZZ SPORTS ",(DE) Sky Sport 4
-http://exchange.jinbox.nl:1339/sammy.muniz1/3R1EJuyw2Zxr/16086
-#EXTINF:-1  group-title="ZZ SPORTS ",(DE) Sky Sport 5
-http://exchange.jinbox.nl:1339/sammy.muniz1/3R1EJuyw2Zxr/16088
+
 #EXTINF:-1 group-title="RUS SPORT",Матч ТВ
 https://77-247-178-24.livesports24.online/ooomatch.m3u8
 #EXTINF:-1 group-title="RUS SPORT",Футбол 1 UA
