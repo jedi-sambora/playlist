@@ -76,6 +76,8 @@ http://starshare.live:8080/live/arfat/arfat/361.ts
 https://b.pscdn.live/hls/bein-sports-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 HD" tvg-logo="" group-title="BEIN SPORTS",TR: BEIN SPORTS 2 HD
 https://b.pscdn.live/hls/bein-sports-2.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.qa" tvg-name="beIN SPORTS XTRA" tvg-country="QA" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="BEIN SPORTS",beIN SPORTS XTRA
+http://plutotv.vo.llnwd.net/m/hlslive/bein.m3u8?chname=bein&pub=0
 
 #EXTINF:-1 group-title="SPORTS EXYU",ALB: Super Sport 5 HD
 http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/1327
