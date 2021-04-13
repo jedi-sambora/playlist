@@ -78,6 +78,18 @@ https://b.pscdn.live/hls/bein-sports-1.m3u8
 https://b.pscdn.live/hls/bein-sports-2.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.qa" tvg-name="beIN SPORTS XTRA" tvg-country="QA" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="BEIN SPORTS",beIN SPORTS XTRA
 http://plutotv.vo.llnwd.net/m/hlslive/bein.m3u8?chname=bein&pub=0
+#EXTINF:0 tvg-ID="RMCSport1.fr" tvg-logo="http://134.255.234.197/logos/rmcsport1.png" group-title="FRANCE SPORTS",|FR| RMC SPORT 1 HD
+http://rv.imax.re/477861311711156/477861311711156/78380
+#EXTINF:0 tvg-ID="RMCSport1.fr" tvg-logo="http://134.255.234.197/logos/rmcsport1.png" group-title="FRANCE SPORTS",|FR|SD| RMC SPORT 1 
+http://rv.imax.re/477861311711156/477861311711156/79038
+#EXTINF:0 tvg-ID="RMCSport2.fr" tvg-logo="http://134.255.234.197/logos/rmcsport2.png" group-title="FRANCE SPORTS",|FR| RMC SPORT 2 HD
+http://rv.imax.re/477861311711156/477861311711156/78379
+#EXTINF:0 tvg-ID="RMCSport2.fr" tvg-logo="http://134.255.234.197/logos/rmcsport2.png" group-title="FRANCE SPORTS",|FR|SD| RMC SPORT 2 
+http://rv.imax.re/477861311711156/477861311711156/79037
+#EXTINF:0 tvg-ID="RMCSport3.fr" tvg-logo="http://134.255.234.197/logos/rmcsport3.png" group-title="FRANCE SPORTS",|FR|SD| RMC SPORT 3 
+http://rv.imax.re/477861311711156/477861311711156/79036
+#EXTINF:0 tvg-ID="RMCSport4.fr" tvg-logo="http://134.255.234.197/logos/rmcsport4.png" group-title="FRANCE SPORTS",|FR|SD| RMC SPORT 4 
+http://rv.imax.re/477861311711156/477861311711156/79035
 
 #EXTINF:-1 group-title="SPORTS EXYU",ALB: Super Sport 5 HD
 http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/1327
