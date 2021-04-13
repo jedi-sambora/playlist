@@ -133,3 +133,12 @@ http://ky-iptv.com:25461/1234567890/1234567890/499140
 #EXTINF:-1 group-title="RUS SPORT",RU: MATCH! HD
 http://ky-iptv.com:25461/1234567890/1234567890/499141
 #EXTINF:-1 group-title="RUS SPORT",RU: MATCH! IGRA FHD
+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CN Sport",CCTV中国中央电视台-5+ 体育赛事
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CN Sport",CCTV中国中央电视台-5 体育
+http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CN Sport",CCTV中国中央电视台-5 体育
+http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CN Sport",CCTV中国中央电视台-5+ 体育赛事
+http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
