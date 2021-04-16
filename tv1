@@ -125,6 +125,8 @@ https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e09
 
 #EXTINF:-1 group-title="ZZ SPORTS",|BR| ESPN
 http://23.237.78.54/live-1000/244/playlist.m3u8
+#EXTINF:-1 group-title="ZZ SPORTS",La liga
+http://31.220.41.90:8081/live/bein-laliga.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="RUS SPORT",Матч ТВ
 https://77-247-178-24.livesports24.online/ooomatch.m3u8
