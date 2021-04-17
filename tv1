@@ -24,22 +24,7 @@ https://mediasv.online/live/bein2/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV1 HD" tvg-logo="" group-title="SPORTS",PT: SPORT TV1 HD
-http://starshare.live:8080/live/arfat/arfat/314.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="SPORTS",PT: SPORT TV 2 HD
-http://starshare.live:8080/live/arfat/arfat/315.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV3 HD" tvg-logo="" group-title="SPORTS",PT: SPORT TV3 HD
-http://starshare.live:8080/live/arfat/arfat/316.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV4 HD" tvg-logo="" group-title="SPORTS",PT: SPORT TV4 HD
-http://starshare.live:8080/live/arfat/arfat/317.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 5 HD" tvg-logo="" group-title="SPORTS",PT: Sport TV 5 HD
-http://starshare.live:8080/live/arfat/arfat/318.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT : ELEVEN SPORTS 3" tvg-logo="" group-title="SPORTS",PT : ELEVEN SPORTS 3
-http://starshare.live:8080/live/arfat/arfat/1644.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT : ELEVEN SPORTS 2" tvg-logo="" group-title="PORTUGAL",PT : ELEVEN SPORTS 2
-http://starshare.live:8080/live/arfat/arfat/1645.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT-ELEVEN SPORTS 1" tvg-logo="" group-title="PORTUGAL",PT-ELEVEN SPORTS 1
-http://starshare.live:8080/live/arfat/arfat/1646.ts
+
 #EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO",MY: ASTRO SUPER SPORTS 1 HD
 http://starshare.live:8080/live/arfat/arfat/5480.ts
 #EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634" group-title="ASTRO",MY: ASTRO SUPER SPORTS 2 HD
@@ -99,29 +84,33 @@ http://rv.imax.re/477861311711156/477861311711156/79037
 http://rv.imax.re/477861311711156/477861311711156/79036
 #EXTINF:0 tvg-ID="RMCSport4.fr" tvg-logo="http://134.255.234.197/logos/rmcsport4.png" group-title="FRANCE SPORTS",|FR|SD| RMC SPORT 4 
 http://rv.imax.re/477861311711156/477861311711156/79035
+#EXTINF:-1 tvg-id="TF1" tvg-name="CANAL  SPORT" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/CANAL%20PLUS%20SPORT%20HD.png" group-title="FRANCE SPORTS",CANAL  SPORT
+http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/560
 
-#EXTINF:-1 group-title="SPORTS EXYU",ALB: Super Sport 5 HD
-http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/1327
-#EXTINF:-1 group-title="SPORTS EXYU",ALB: Super Sport 4 HD
-http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/1326
-#EXTINF:-1 group-title="SPORTS EXYU",ALB: Super Sport 3 HD
-http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/1325
-#EXTINF:-1 group-title="SPORTS EXYU",ALB: Super Sport 2 HD
-http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/1324
-#EXTINF:-1 group-title="SPORTS EXYU",UK: Sky Sports Premier League HD
-http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/3331
-#EXTINF:-1 group-title="SPORTS EXYU",PT: SPORT.TV 5
-http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/214
-#EXTINF:-1group-title="SPORTS EXYU",PT: SPORT.TV 2
-http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/212
-#EXTINF:-1,group-title="SPORTS EXYU",PT: SPORT.TV 1
-http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/211
-#EXTINF:-1 group-title="SPORTS EXYU",PT: SPORT.TV 3 HD
-http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/5021
-#EXTINF:-1 group-title="SPORTS EXYU",PT: SPORT.TV 2 HD
-http://1sn.ns1.name:18800/fadilh66SkypeExYuVeryGood2017Started/ggdg1414hfdgdfhfdh24525hfhfhfhfh/5020
-#EXTINF:-1 group-title="SPORTS EXYU",KZ: Setanta
-https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_XDMYIiPU/wixmp-3dbd5cb16bb136182e099f78_XDMYIiPU_res720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Football" tvg-logo="" group-title="AFRICA",SuperSport Football
+http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/62800
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Grandstand" tvg-logo="" group-title="AFRICA",SuperSport Grandstand
+http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/62802
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport La Liga" tvg-logo="" group-title="AFRICA",SuperSport La Liga
+http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/62803
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Premier League" tvg-logo="" group-title="AFRICA",SuperSport Premier League
+http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/62806
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Tennis" tvg-logo="" group-title="AFRICA",SuperSport Tennis
+http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/62809
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 1" tvg-logo="" group-title="GERMANY",SKY SPORT 1
+http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/64358
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 2" tvg-logo="" group-title="GERMANY",SKY SPORT 2
+http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/64359
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BUNDESLIGA 1" tvg-logo="" group-title="GERMANY",SKY SPORT BUNDESLIGA 1
+http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/64361
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BUNDESLIGA 2" tvg-logo="" group-title="GERMANY",SKY SPORT BUNDESLIGA 2
+http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/64362
+
+#EXTINF:-1 tvg-id="" tvg-name="ELEVENSPORT 1 (BE)" tvg-logo="" group-title="BELGUIM ",ELEVENSPORT 1 (BE)
+http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/64468
+#EXTINF:-1 tvg-id="" tvg-name="ELEVENSPORT 2 (BE)" tvg-logo="" group-title="BELGUIM ",ELEVENSPORT 2 (BE)
+http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/64470
 
 #EXTINF:-1 group-title="ZZ SPORTS",|BR| ESPN
 http://23.237.78.54/live-1000/244/playlist.m3u8
