@@ -55,6 +55,52 @@ http://starshare.live:8080/live/arfat/arfat/356.ts
 http://starshare.live:8080/live/arfat/arfat/357.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR : BEIN SPORT 3 HD" tvg-logo="" group-title="BEIN SPORTS",FR : BEIN SPORT 3 HD
 http://starshare.live:8080/live/arfat/arfat/358.ts
+#EXTINF:-1 group-title="BEIN SPORTS",BEINSPORT1FR
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/544
+#EXTINF:-1  group-title="BEIN SPORTS",BEINSPORT2FR
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/543
+#EXTINF:-1 group-title="BEIN SPORTS",BEINSPORT3FR
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/542
+#EXTINF:-1 group-title="BEIN SPORTS",Bein Sport Max 4
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/3187
+#EXTINF:-1 group-title="BEIN SPORTS",Bein Sport Max 5
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/3186
+#EXTINF:-1 group-title="BEIN SPORTS",Bein Sport Max 6
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/3185
+#EXTINF:-1 group-title="BEIN SPORTS",Bein Sport Max 7
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/3184
+#EXTINF:-1 group-title="BEIN SPORTS",Bein Sport Max 8
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/3183
+#EXTINF:-1 group-title="BEIN SPORTS",Bein Sport Max 9
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/3182
+#EXTINF:-1 group-title="BEIN SPORTS",Bein Sport Max 10
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/3181
+#EXTINF:-1 group-title="BEIN SPORTS",RMC SPORT 1
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/541
+#EXTINF:-1 group-title="BEIN SPORTS",RMC SPORT 2
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/540
+#EXTINF:-1 group-title="BEIN SPORTS",RMC SPORT 3
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/539
+#EXTINF:-1 group-title="BEIN SPORTS",RMCSPORT4
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/538
+#EXTINF:-1 group-title="BEIN SPORTS",RMC SPORT 5 HD
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/3215
+#EXTINF:-1 group-title="BEIN SPORTS",EUROSPORT  2 FR
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/537
+#EXTINF:-1 group-title="BEIN SPORTS",EUROSPORT 1 FR
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/536
+#EXTINF:-1 group-title="BEIN SPORTS",EXTREME SPORTS
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/535
+#EXTINF:-1 group-title="BEIN SPORTS",AB MOTORS
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/475
+#EXTINF:-1 group-title="BEIN SPORTS",INFOSPORT
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/534
+#EXTINF:-1 group-title="BEIN SPORTS",L'EQUIPE 21
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/533
+#EXTINF:-1 group-title="BEIN SPORTS",EQUIDIA LIVE
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/531
+#EXTINF:-1 group-title="BEIN SPORTS",GOLF CHANNEL
+http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/530
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 HD" tvg-logo="" group-title="BEIN SPORTS",AR: BEIN SPORTS 1 HD
 http://starshare.live:8080/live/arfat/arfat/359.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR : BEIN SPORT 2 HD" tvg-logo="" group-title="BEIN SPORTS",AR : BEIN SPORT 2 HD
