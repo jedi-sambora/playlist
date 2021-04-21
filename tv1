@@ -1,11 +1,15 @@
 #EXTM3U
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",BeIN Sport 1 ID
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports ID",BeIN Sport 1 ID
 https://nonton.site:8443/provision/pp/728
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports",BeIN Sport 2 ID
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports ID",BeIN Sport 2 ID
 https://nonton.site:8443/provision/pp/729
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sports",Usee Sport 1
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports ID",ID: beIN Sports 1 HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/165105
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports ID",ID: beIN Sports 2 HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/165073
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sports ID",Usee Sport 1
 https://nonton.site:8443/provision/pp/36240
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sports",Usee Sport 2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sports ID",Usee Sport 2
 https://nonton.site:8443/provision/pp/36241
 #EXTINF:-1 group-title="THAI SPORT",True Vision 1
 https://mediasv.online/live/trueepl1/playlist.m3u8
@@ -32,15 +36,7 @@ http://starshare.live:8080/live/arfat/arfat/5481.ts
 #EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="ASTRO",MY: ASTRO SUPER SPORTS 3 HD
 http://starshare.live:8080/live/arfat/arfat/5482.ts
 #EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748" group-title="ASTRO",MY: ASTRO SUPER SPORTS 4 HD
-http://starshare.live:8080/live/arfat/arfat/5483.ts
-#EXTINF:-1 group-title="ASTRO",MY Astro SuperSport 3
-http://ky-iptv.com:25461/1234567890/1234567890/499301
-#EXTINF:-1 group-title="ASTRO",MY Astro SuperSport 4
-http://ky-iptv.com:25461/1234567890/1234567890/499302
-#EXTINF:-1 group-title="ASTRO",MY Astro SuperSport 2
-http://ky-iptv.com:25461/1234567890/1234567890/499300
-#EXTINF:-1 group-title="ASTRO",MY Astro SuperSport
-http://ky-iptv.com:25461/1234567890/1234567890/499299
+
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport
 http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport 2
@@ -49,6 +45,12 @@ http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport 4
 http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 group-title="ASTRO",MY: beIN MAX
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/157487
+#EXTINF:-1 group-title="ASTRO",MY: beIN Sports
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/157561
+#EXTINF:-1 group-title="ASTRO",MY: beIN Sports Max 1
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/264783
 #EXTINF:-1, tvg-id="" tvg-name="FR : BEIN SPORT 1 HD" tvg-logo="" group-title="BEIN SPORTS",FR : BEIN SPORT 1 HD
 http://starshare.live:8080/live/arfat/arfat/356.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR : BEIN SPORT 2 HD" tvg-logo="" group-title="BEIN SPORTS",FR : BEIN SPORT 2 HD
@@ -162,6 +164,8 @@ http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/64470
 http://23.237.78.54/live-1000/244/playlist.m3u8
 #EXTINF:-1 group-title="ZZ SPORTS",La liga
 http://31.220.41.90:8081/live/bein-laliga.stream/playlist.m3u8
+#EXTINF:-1 group-title="ZZ SPORTS",US: Tennis Channel HD
+http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/2360
 
 #EXTINF:-1 group-title="RUS SPORT",Матч ТВ
 https://77-247-178-24.livesports24.online/ooomatch.m3u8
@@ -185,5 +189,3 @@ http://ky-iptv.com:25461/1234567890/1234567890/499140
 http://ky-iptv.com:25461/1234567890/1234567890/499141
 #EXTINF:-1 group-title="RUS SPORT",RU: MATCH! IGRA FHD
 
-#EXTINF:-1 tvg-id="CCTV5PlusTiYuSaiShi.cn" tvg-name="CCTV-5+ 体育赛事" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CN Sport",CCTV-5+ 体育赛事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
