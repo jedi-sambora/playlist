@@ -137,8 +137,12 @@ http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/560
 
 #EXTINF:-1 group-title="PORTUGAL",PT: SPORT TV 1 HD
 http://ip.xtremetv.eu:8000/78976/GeWrfptOnM/22885
+#EXTINF:-1 group-title="PORTUGAL",PT: SPORT TV 1 HD
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="PORTUGAL",PT: SPORT TV 2 HD
 http://ip.xtremetv.eu:8000/78976/GeWrfptOnM/22886
+#EXTINF:-1 group-title="PORTUGAL",PT: SPORT TV 2 HD
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="PORTUGAL",PT: SPORT TV 3 HD
 http://ip.xtremetv.eu:8000/78976/GeWrfptOnM/22887
 #EXTINF:-1 group-title="PORTUGAL",PT: SPORT TV 4 HD
