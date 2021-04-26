@@ -11,20 +11,11 @@ http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/165073
 https://nonton.site:8443/provision/pp/36240
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sports ID",Usee Sport 2
 https://nonton.site:8443/provision/pp/36241
-#EXTINF:-1 group-title="THAI SPORT",True Vision 1
-https://mediasv.online/live/trueepl1/playlist.m3u8
-#EXTINF:-1group-title="THAI SPORT",True Vision 2
-https://mediasv.online/live/trueepl2/playlist.m3u8
-#EXTINF:-1 group-title="THAI SPORT",True Vision 3
-https://mediasv.online/live/trueepl3/playlist.m3u8
 #EXTINF:-1group-title="THAI SPORT",True Vision 1
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1group-title="THAI SPORT",True Vision 2
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="THAI SPORT",BEINSPORT1 TH
-https://mediasv.online/live/bein1/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="THAI SPORT",BEINSPORT2 TH
-https://mediasv.online/live/bein2/playlist.m3u8
+
 
 
 
@@ -176,8 +167,10 @@ http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/64470
 http://23.237.78.54/live-1000/244/playlist.m3u8
 #EXTINF:-1 group-title="ZZ SPORTS",La liga
 http://31.220.41.90:8081/live/bein-laliga.stream/playlist.m3u8
-#EXTINF:-1 group-title="ZZ SPORTS",US: Tennis Channel HD
-http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/2360
+#EXTINF:-1 group-title="ZZ SPORTS",UK: BT Sport 2
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ZZ SPORTS",UK: BT Sport 2
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="RUS SPORT",Матч ТВ
 https://77-247-178-24.livesports24.online/ooomatch.m3u8
