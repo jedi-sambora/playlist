@@ -45,6 +45,11 @@ http://starshare.live:8080/live/arfat/arfat/356.ts
 http://starshare.live:8080/live/arfat/arfat/357.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR : BEIN SPORT 3 HD" tvg-logo="" group-title="BEIN SPORTS",FR : BEIN SPORT 3 HD
 http://starshare.live:8080/live/arfat/arfat/358.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN : BEIN SPORT 1 HD" tvg-logo="" group-title="BEIN SPORTS",EN : BEIN SPORT 1  HD
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EN : BEIN SPORT 2 HD" tvg-logo="" group-title="BEIN SPORTS",EN : BEIN SPORT 2  HD
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+
 #EXTINF:-1 group-title="BEIN SPORTS",BEINSPORT1FR
 http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/544
 #EXTINF:-1  group-title="BEIN SPORTS",BEINSPORT2FR
