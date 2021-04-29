@@ -206,3 +206,11 @@ http://ky-iptv.com:25461/1234567890/1234567890/499140
 http://ky-iptv.com:25461/1234567890/1234567890/499141
 #EXTINF:-1 group-title="RUS SPORT",RU: MATCH! IGRA FHD
 
+#EXTINF:-1 group-title="albania",AL: SuperSport 2 HD
+http://aumaletv.com:25461/334455776/334455/38998
+#EXTINF:-1 group-title="albania",AL:SuperSport 3 HD
+http://aumaletv.com:25461/334455776/334455/38999
+#EXTINF:-1 group-title="albania",AL:SuperSport 4 HD
+http://aumaletv.com:25461/334455776/334455/39000
+#EXTINF:-1 group-title="albania",AL:SuperSport 5 HD
+http://aumaletv.com:25461/334455776/334455/39001
