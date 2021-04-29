@@ -36,12 +36,9 @@ http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport 4
 http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
-#EXTINF:-1 group-title="ASTRO",MY: beIN MAX
-http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/157487
-#EXTINF:-1 group-title="ASTRO",MY: beIN Sports
-http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/157561
-#EXTINF:-1 group-title="ASTRO",MY: beIN Sports Max 1
-http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/264783
+
+#EXTINF:-1, tvg-id="" tvg-name="TR : BEIN SPORT HD" tvg-logo="" group-title="BEIN SPORTS",TR : BEIN SPORT  HD
+http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/137.ts
 #EXTINF:-1, tvg-id="" tvg-name="FR : BEIN SPORT 1 HD" tvg-logo="" group-title="BEIN SPORTS",FR : BEIN SPORT 1 HD
 http://starshare.live:8080/live/arfat/arfat/356.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR : BEIN SPORT 2 HD" tvg-logo="" group-title="BEIN SPORTS",FR : BEIN SPORT 2 HD
@@ -126,8 +123,7 @@ http://rv.imax.re/477861311711156/477861311711156/79035
 #EXTINF:-1 tvg-id="TF1" tvg-name="CANAL  SPORT" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/CANAL%20PLUS%20SPORT%20HD.png" group-title="FRANCE SPORTS",CANAL  SPORT
 http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/560
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",PT: SPORT TV 1 HD
-http://rv.imax.re:80/5650755702/0328421619/81652
+
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",PT: SPORT TV 1 HD
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://logo.ddnb.tn/logochanel/2124.png",PT: SPORT TV 2 HD
@@ -140,10 +136,7 @@ http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 group-title=""PORTUGAL""tvg-logo="http://logo.ddnb.tn/logochanel/2127.png",SPORTTV 5
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PORTUGAL",|BE| ELEVEN SPORT 1 (BE)
-http://rv.imax.re:80/5650755702/0328421619/81836
-#EXTINF:-1 group-title="PORTUGAL",|BE| ELEVEN SPORT 2 (BE)
-http://rv.imax.re:80/5650755702/0328421619/81835
+
 
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport Football" tvg-logo="" group-title="AFRICA",SuperSport Football
 http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/62800
