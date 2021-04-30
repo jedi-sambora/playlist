@@ -179,6 +179,10 @@ http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 http://kingsiptv.streamtv.to:8080/Jx89wrg5mF/53qWDkwKRL/7030
 #EXTINF:-1 group-title="ZZ SPORTS",BG: Diema 2
 http://kingsiptv.streamtv.to:8080/Jx89wrg5mF/53qWDkwKRL/7026
+#EXTINF:-1 group-title="ZZ SPORTS",BG: Diema 1 test
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4429
+#EXTINF:-1 group-title="ZZ SPORTS",BG: Diema 2 test
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4430
 #EXTINF:-1 group-title="ZZ SPORTS",US: Bein Sport
 http://serviceinput.online:2999/pimp/pimp/205
 #EXTINF:-1 group-title="ZZ SPORTS",SPORTS: BEIN En Espanol
@@ -188,6 +192,16 @@ http://goodtv.xyz:2052/reggie/reggie/1524563
 #EXTINF:-1 group-title="ZZ SPORTS",SPORTS: BEIN USA
 http://goodtv.xyz:2052/reggie/reggie/1524564
 
+#EXTINF:-1 group-title="ZZ SPORTS",|AL| Super Sport 2 HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/2201
+#EXTINF:-1 group-title="ZZ SPORTS",|AL| Super Sport 3 HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/2200
+#EXTINF:-1 group-title="ZZ SPORTS",|AL| Super Sport 4 HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/2199
+#EXTINF:-1 group-title="ZZ SPORTS",|AL| Super Sport 5 HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/2198
+#EXTINF:-1 group-title="ZZ SPORTS",|AL| SUPER SPORT 6 HD
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/2197
 
 #EXTINF:-1 group-title="RUS SPORT",Матч ТВ
 https://77-247-178-24.livesports24.online/ooomatch.m3u8
