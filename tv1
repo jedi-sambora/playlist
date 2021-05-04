@@ -191,6 +191,8 @@ http://goodtv.xyz:2052/reggie/reggie/1524562
 http://goodtv.xyz:2052/reggie/reggie/1524563
 #EXTINF:-1 group-title="ZZ SPORTS",SPORTS: BEIN USA
 http://goodtv.xyz:2052/reggie/reggie/1524564
+#EXTINF:-1 group-title="ZZ SPORTS",SPORTS: Fox Sport Premium
+http://serviceinput.online:2999/pimp/pimp/992
 
 #EXTINF:-1 group-title="ZZ SPORTS",|AL| Super Sport 2 HD
 http://test.satlok.club:80/Amigo/do92Rd6x8yr3/2201
