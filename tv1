@@ -239,3 +239,64 @@ http://ky-iptv.com:25461/1234567890/1234567890/499141
 https://77-247-178-24.livesports24.online/setantaukraine.m3u8
 #EXTINF:-1 group-title="RUS SPORT",UKR: Setanta Sport 46
 https://46-166-139-84.livesports24.online/setantaukraine.m3u8
+
+#EXTINF:-1 tvg-id="BT Sport//ESPN" tvg-name="UK: BT SPORT / ESPN" tvg-logo="http://tv.iptvboss.net/ch_logo/BTSPORTESPN.png" group-title="|UK| ENGLAND",UK: BT SPORT / ESPN
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3747
+#EXTINF:-1 tvg-id="NULL" tvg-name="UK: BT SPORT 1" tvg-logo="http://tv.iptvboss.net/ch_logo/BTSPORTS1.png" group-title="|UK| ENGLAND",UK: BT SPORT 1
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3761
+#EXTINF:-1 tvg-id="NULL" tvg-name="UK: BT SPORT 1 *" tvg-logo="http://tv.iptvboss.net/ch_logo/BTSPORTS1.png" group-title="|UK| ENGLAND",UK: BT SPORT 1 *
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/6198
+#EXTINF:-1 tvg-id="NULL" tvg-name="UK: BT SPORT 2" tvg-logo="http://tv.iptvboss.net/ch_logo/BTSPORTS2.png" group-title="|UK| ENGLAND",UK: BT SPORT 2
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3760
+#EXTINF:-1 tvg-id="BT Sport 2" tvg-name="UK: BT SPORT 2 *" tvg-logo="http://tv.iptvboss.net/ch_logo/BTSPORTS2.png" group-title="|UK| ENGLAND",UK: BT SPORT 2 *
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/6199
+#EXTINF:-1 tvg-id="BT Sport 3" tvg-name="UK: BT SPORT 3" tvg-logo="http://tv.iptvboss.net/ch_logo/BTSPORTS3.png" group-title="|UK| ENGLAND",UK: BT SPORT 3
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3759
+#EXTINF:-1 tvg-id="BT Sport 3" tvg-name="UK: BT SPORT 3 *" tvg-logo="http://tv.iptvboss.net/ch_logo/BTSPORTS3.png" group-title="|UK| ENGLAND",UK: BT SPORT 3 *
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/6197
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT EXTRA" tvg-logo="" group-title="|UK| ENGLAND",UK: BT SPORT EXTRA
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56509
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT EXTRA 1" tvg-logo="" group-title="|UK| ENGLAND",UK: BT SPORT EXTRA 1
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56511
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT EXTRA 2" tvg-logo="" group-title="|UK| ENGLAND",UK: BT SPORT EXTRA 2
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56512
+#EXTINF:-1 tvg-id="NULL" tvg-name="UK: BT SPORT EXTRA 3" tvg-logo="" group-title="|UK| ENGLAND",UK: BT SPORT EXTRA 3
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56513
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT EXTRA 4" tvg-logo="" group-title="|UK| ENGLAND",UK: BT SPORT EXTRA 4
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56514
+#EXTINF:-1 tvg-id="NULL" tvg-name="UK: PREMIER SPORTS 1" tvg-logo="http://tv.iptvboss.net/ch_logo/EIRSPORTS2.png" group-title="|UK| ENGLAND",UK: PREMIER SPORTS 1
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/9293
+#EXTINF:-1 tvg-id="NULL" tvg-name="UK: EIR SPORT 1" tvg-logo="http://tv.iptvboss.net/ch_logo/EIRSPORTS1.png" group-title="|UK| ENGLAND",UK: EIR SPORT 1
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3758
+#EXTINF:-1 tvg-id="" tvg-name="UK: EIR SPORT 2" tvg-logo="" group-title="|UK| ENGLAND",UK: EIR SPORT 2
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56515
+#EXTINF:-1 tvg-id="" tvg-name="UK: FREE SPORTS" tvg-logo="" group-title="|UK| ENGLAND",UK: FREE SPORTS
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56534
+#EXTINF:-1 tvg-id="NULL" tvg-name="UK: RACING UK" tvg-logo="http://tv.iptvboss.net/ch_logo/RACINGUKHD.png" group-title="|UK| ENGLAND",UK: RACING UK
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3744
+#EXTINF:-1 tvg-id="NULL" tvg-name="UK: RACING UK HD" tvg-logo="http://tv.iptvboss.net/ch_logo/RACINGUKHD.png" group-title="|UK| ENGLAND",UK: RACING UK HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/30593
+#EXTINF:-1 tvg-id="NULL" tvg-name="UK: S-K-Y SPORTS RACING" tvg-logo="" group-title="|UK| ENGLAND",UK: S-K-Y SPORTS RACING
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56584
+#EXTINF:-1 tvg-id="NULL" tvg-name="UK: BOX NATION" tvg-logo="" group-title="|UK| ENGLAND",UK: BOX NATION
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/35738
+#EXTINF:-1 tvg-id="NULL" tvg-name="UK: FIGHTBOX" tvg-logo="" group-title="|UK| ENGLAND",UK: FIGHTBOX
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/35737
+#EXTINF:-1 tvg-id="NULL" tvg-name="UK: SUPERSPORT 1" tvg-logo="http://tv.iptvboss.net/ch_logo/supersport.png" group-title="|UK| ENGLAND",UK: SUPERSPORT 1
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/44689
+#EXTINF:-1 tvg-id="NULL" tvg-name="UK: SUPERSPORT 2" tvg-logo="http://tv.iptvboss.net/ch_logo/supersport.png" group-title="|UK| ENGLAND",UK: SUPERSPORT 2
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/45190
+#EXTINF:-1 tvg-id="NULL" tvg-name="UK: SUPERSPORT 3" tvg-logo="http://tv.iptvboss.net/ch_logo/supersport.png" group-title="|UK| ENGLAND",UK: SUPERSPORT 3
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/45191
+#EXTINF:-1 tvg-id="NULL" tvg-name="UK: SUPERSPORT 4" tvg-logo="http://tv.iptvboss.net/ch_logo/supersport.png" group-title="|UK| ENGLAND",UK: SUPERSPORT 4
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/45192
+#EXTINF:-1 tvg-id="NULL" tvg-name="UK: SUPERSPORT 5" tvg-logo="http://tv.iptvboss.net/ch_logo/supersport.png" group-title="|UK| ENGLAND",UK: SUPERSPORT 5
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/45193
+#EXTINF:-1 tvg-id="" tvg-name="UK: MOTORS" tvg-logo="" group-title="|UK| ENGLAND",UK: MOTORS
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56544
+#EXTINF:-1 tvg-id="" tvg-name="UK: HORSE AND COUNTRY" tvg-logo="" group-title="|UK| ENGLAND",UK: HORSE AND COUNTRY
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56538
+#EXTINF:-1 tvg-id="NULL" tvg-name="UK: LFCTV" tvg-logo="http://tv.iptvboss.net/ch_logo/LFCT.png" group-title="|UK| ENGLAND",UK: LFCTV
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3741
+#EXTINF:-1 tvg-id="NULL" tvg-name="UK: MUTV" tvg-logo="http://tv.iptvboss.net/ch_logo/MUTV.png" group-title="|UK| ENGLAND",UK: MUTV
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3739
