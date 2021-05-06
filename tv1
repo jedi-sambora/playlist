@@ -263,6 +263,8 @@ https://77-247-178-24.livesports24.online/setantaukraine.m3u8
 https://46-166-139-84.livesports24.online/setantaukraine.m3u8
 #EXTINF:-1 group-title="RUS SPORT",UKR: Setanta Sport 1
 http://46.174.189.51/setanta1/video.m3u8
+#EXTINF:-1 group-title="RUS SPORT",UKR: Setanta Sport 2
+http://46.174.189.51/setanta2/video.m3u8
 
 #EXTINF:-1 tvg-id="BT Sport//ESPN" tvg-name="UK: BT SPORT / ESPN" tvg-logo="http://tv.iptvboss.net/ch_logo/BTSPORTESPN.png" group-title="|UK| ENGLAND",UK: BT SPORT / ESPN
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/3747
