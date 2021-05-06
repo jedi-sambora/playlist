@@ -25,15 +25,15 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6786_720p/index.
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1group-title="THAI SPORT",True Vision 2
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT", (DianPhotograph) TRUE SPORT 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT",  TRUE SPORT 1
 http://mantul.biz.id:8888/294/294/10459
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT", (DianPhotograph) TRUE SPORT 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT",  TRUE SPORT 2
 http://mantul.biz.id:8888/294/294/10460
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT", (DianPhotograph) TRUE SPORT 3
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT",  TRUE SPORT 3
 http://mantul.biz.id:8888/294/294/10461
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT", (DianPhotograph) TRUE SPORT 4
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT",  TRUE SPORT 4
 http://mantul.biz.id:8888/294/294/11983
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT", (DianPhotograph) TRUE SPORT 5
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT", TRUE SPORT 5
 http://mantul.biz.id:8888/294/294/11984
 
 
@@ -199,10 +199,6 @@ http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 http://kingsiptv.streamtv.to:8080/Jx89wrg5mF/53qWDkwKRL/7030
 #EXTINF:-1 group-title="ZZ SPORTS",BG: Diema 2
 http://kingsiptv.streamtv.to:8080/Jx89wrg5mF/53qWDkwKRL/7026
-#EXTINF:-1 group-title="ZZ SPORTS",BG: Diema 1 test
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4429
-#EXTINF:-1 group-title="ZZ SPORTS",BG: Diema 2 test
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/4430
 #EXTINF:-1 group-title="ZZ SPORTS",US: Bein Sport
 http://serviceinput.online:2999/pimp/pimp/205
 #EXTINF:-1 group-title="ZZ SPORTS",SPORTS: BEIN En Espanol
@@ -213,17 +209,16 @@ http://goodtv.xyz:2052/reggie/reggie/1524563
 http://goodtv.xyz:2052/reggie/reggie/1524564
 #EXTINF:-1 group-title="ZZ SPORTS",SPORTS: Fox Sport Premium
 http://serviceinput.online:2999/pimp/pimp/992
+#EXTINF:-1 tvg-id="" tvg-name="US: NBCSN" tvg-logo="" group-title="ZZ SPORTS",US: NBCSN
+http://starshare.live:8080/live/arfat/arfat/1001.ts
 
-#EXTINF:-1 group-title="ZZ SPORTS",|AL| Super Sport 2 HD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/2201
-#EXTINF:-1 group-title="ZZ SPORTS",|AL| Super Sport 3 HD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/2200
-#EXTINF:-1 group-title="ZZ SPORTS",|AL| Super Sport 4 HD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/2199
-#EXTINF:-1 group-title="ZZ SPORTS",|AL| Super Sport 5 HD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/2198
-#EXTINF:-1 group-title="ZZ SPORTS",|AL| SUPER SPORT 6 HD
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/2197
+
+#EXTINF:-1 group-title="DSTV",DSTV: SuperSport  LaLiga HD
+http://starshare.live:8080/live/arfat/arfat/515.ts
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="DSTV : SuperSport Premier League HD" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league-live.png" group-title="DSTV",DSTV : SuperSport Premier League HD
+http://starshare.live:8080/live/arfat/arfat/518.ts
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="DSTV : SuperSport Football HD" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-football.png" group-title="DSTV",DSTV : SuperSport Football HD
+http://starshare.live:8080/live/arfat/arfat/523.ts
 
 #EXTINF:-1 group-title="RUS SPORT",Матч ТВ
 https://77-247-178-24.livesports24.online/ooomatch.m3u8
