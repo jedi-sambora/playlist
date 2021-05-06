@@ -35,6 +35,12 @@ http://mantul.biz.id:8888/294/294/10461
 http://mantul.biz.id:8888/294/294/11983
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT", TRUE SPORT 5
 http://mantul.biz.id:8888/294/294/11984
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT",  TRUE SPORT 1 (77)
+http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT",  TRUE SPORT 2 (77)
+http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT",  TRUE SPORT 3 (77)
+http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
 
 
 
@@ -190,6 +196,10 @@ http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/64362
 http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/64468
 #EXTINF:-1 tvg-id="" tvg-name="ELEVENSPORT 2 (BE)" tvg-logo="" group-title="BELGUIM ",ELEVENSPORT 2 (BE)
 http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/64470
+#EXTINF:-1 tvg-id="" tvg-name="ELEVENSPORT 1 (BE)" tvg-logo="" group-title="BELGUIM ",ELEVENSPORT 1 (207)
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELEVENSPORT 2 (BE)" tvg-logo="" group-title="BELGUIM ",ELEVENSPORT 2 (207)
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 
 #EXTINF:-1 group-title="ZZ SPORTS",|BR| ESPN
 http://23.237.78.54/live-1000/244/playlist.m3u8
@@ -215,6 +225,8 @@ http://goodtv.xyz:2052/reggie/reggie/1524564
 http://serviceinput.online:2999/pimp/pimp/992
 #EXTINF:-1 tvg-id="" tvg-name="US: NBCSN" tvg-logo="" group-title="ZZ SPORTS",US: NBCSN
 http://starshare.live:8080/live/arfat/arfat/1001.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NBCSN" tvg-logo="" group-title="ZZ SPORTS",AG: ESPN
+http://23.237.78.54/live-1000/244/playlist.m3u8   
 
 
 #EXTINF:-1 group-title="DSTV",DSTV: SuperSport  LaLiga HD
@@ -249,6 +261,8 @@ http://ky-iptv.com:25461/1234567890/1234567890/499141
 https://77-247-178-24.livesports24.online/setantaukraine.m3u8
 #EXTINF:-1 group-title="RUS SPORT",UKR: Setanta Sport 46
 https://46-166-139-84.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1 group-title="RUS SPORT",UKR: Setanta Sport 1
+http://46.174.189.51/setanta1/video.m3u8
 
 #EXTINF:-1 tvg-id="BT Sport//ESPN" tvg-name="UK: BT SPORT / ESPN" tvg-logo="http://tv.iptvboss.net/ch_logo/BTSPORTESPN.png" group-title="|UK| ENGLAND",UK: BT SPORT / ESPN
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/3747
