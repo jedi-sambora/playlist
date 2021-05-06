@@ -49,13 +49,17 @@ http://starshare.live:8080/live/arfat/arfat/5482.ts
 http://starshare.live:8080/live/arfat/arfat/5483.ts
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport
-http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+#http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+http://ztvuk.com:8080/saif/saif123/93033
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport 2
-http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+#http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+http://ztvuk.com:8080/saif/saif123/93034
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport 3
-http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+#http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+http://ztvuk.com:8080/saif/saif123/93035
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport 4
-http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+#http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+http://ztvuk.com:8080/saif/saif123/93036
 
 #EXTINF:-1, tvg-id="" tvg-name="TR : BEIN SPORT HD" tvg-logo="" group-title="BEIN SPORTS",TR : BEIN SPORT  HD
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/137.ts
