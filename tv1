@@ -19,15 +19,22 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6686_720p/index.
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0CyFv4-SR0eH_tbFi6pDnecZyx8=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-f32604.jpg" group-title="Sports ID",Champions TV 3
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6786_720p/index.m3u8
-#EXTINF:-1   group-title="Sports ID",Usee champ
-https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w1281124354_b1344100_sleng_c08d08y08.m3u8?enc=AEhcURZoS6bpIFvGW3dJLg&id=OTg5YzdjNTYyYjdmYzA5YzBmOWI5NWQzNDg1M2ZmYTI=&exp=1599149251
 
 
 #EXTINF:-1group-title="THAI SPORT",True Vision 1
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1group-title="THAI SPORT",True Vision 2
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT", (DianPhotograph) TRUE SPORT 1
+http://mantul.biz.id:8888/294/294/10459
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT", (DianPhotograph) TRUE SPORT 2
+http://mantul.biz.id:8888/294/294/10460
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT", (DianPhotograph) TRUE SPORT 3
+http://mantul.biz.id:8888/294/294/10461
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT", (DianPhotograph) TRUE SPORT 4
+http://mantul.biz.id:8888/294/294/11983
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT", (DianPhotograph) TRUE SPORT 5
+http://mantul.biz.id:8888/294/294/11984
 
 
 
@@ -39,6 +46,7 @@ http://starshare.live:8080/live/arfat/arfat/5481.ts
 #EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="ASTRO",MY: ASTRO SUPER SPORTS 3 HD
 http://starshare.live:8080/live/arfat/arfat/5482.ts
 #EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748" group-title="ASTRO",MY: ASTRO SUPER SPORTS 4 HD
+http://starshare.live:8080/live/arfat/arfat/5483.ts
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport
 http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
