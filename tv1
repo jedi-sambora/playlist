@@ -326,3 +326,92 @@ http://ip.trboss.net:80/dindin/sdfsjfujskrez/56538
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/3741
 #EXTINF:-1 tvg-id="NULL" tvg-name="UK: MUTV" tvg-logo="http://tv.iptvboss.net/ch_logo/MUTV.png" group-title="|UK| ENGLAND",UK: MUTV
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/3739
+
+#EXTINF:0 group-title="Спорт" tvg-id="2051" tvg-logo="http://epg.it999.ru/img/2051.png" tvg-rec="7",Матч! HD
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/212/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2051" tvg-logo="http://epg.it999.ru/img/2051.png" tvg-rec="3",Матч! FHD
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/2413/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2051" tvg-logo="http://epg.it999.ru/img/2051.png" tvg-rec="7",Матч ТВ
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/535/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2051" tvg-logo="http://epg.it999.ru/img/2051.png" tvg-rec="3",Матч +2
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/6012/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2051" tvg-logo="http://epg.it999.ru/img/2051.png" tvg-rec="3",Матч +4
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/6023/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2051" tvg-logo="http://epg.it999.ru/img/2051.png" tvg-rec="3",Матч +8
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/6052/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2050" tvg-logo="http://epg.it999.ru/img/2050.png" tvg-rec="7",Матч! Игра HD
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/225/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2050" tvg-logo="http://epg.it999.ru/img/2050.png" tvg-rec="7",Матч! Игра
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/529/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2003" tvg-logo="http://epg.it999.ru/img/2003.png" tvg-rec="3",Матч Арена HD orig
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/9010/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2003" tvg-logo="http://epg.it999.ru/img/2003.png" tvg-rec="7",Матч! Арена
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/528/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2250" tvg-logo="http://epg.it999.ru/img/2250.png" tvg-rec="7",МАТЧ ПРЕМЬЕР HD
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/220/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2250" tvg-logo="http://epg.it999.ru/img/2250.png" tvg-rec="3",Матч! Премьер FHD
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/2414/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2250" tvg-logo="http://epg.it999.ru/img/2250.png" tvg-rec="7",МАТЧ ПРЕМЬЕР
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/531/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2250" tvg-logo="http://epg.it999.ru/img/2250.png" tvg-rec="3",МАТЧ ПРЕМЬЕР orig
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/9246/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2044" tvg-logo="http://epg.it999.ru/img/2044.png" tvg-rec="7",Матч! Футбол 1 HD
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/222/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2044" tvg-logo="http://epg.it999.ru/img/2044.png" tvg-rec="7",Матч! Футбол 1
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/124/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="1042" tvg-logo="http://epg.it999.ru/img/1042.png" tvg-rec="7",Матч! Футбол 2 HD
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/211/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="1042" tvg-logo="http://epg.it999.ru/img/1042.png" tvg-rec="7",Матч! Футбол 2
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/530/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2005" tvg-logo="http://epg.it999.ru/img/2005.png" tvg-rec="7",Матч! Футбол 3 HD
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/206/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2005" tvg-logo="http://epg.it999.ru/img/2005.png" tvg-rec="3",Матч! Футбол 3 HD 50 orig
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/5071/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2005" tvg-logo="http://epg.it999.ru/img/2005.png" tvg-rec="7",Матч! Футбол 3
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/522/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2042" tvg-logo="http://epg.it999.ru/img/2042.png" tvg-rec="7",МАТЧ! СТРАНА
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/107/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2042" tvg-logo="http://epg.it999.ru/img/2042.png" tvg-rec="3",МАТЧ! СТРАНА orig
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/9157/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2043" tvg-logo="http://epg.it999.ru/img/2043.png" tvg-rec="7",Матч! Планета
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/123/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="1038" tvg-logo="http://epg.it999.ru/img/1038.png" tvg-rec="7",Телеканал КХЛ HD
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/215/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2048" tvg-logo="http://epg.it999.ru/img/2048.png" tvg-rec="7",KHL
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/519/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2048" tvg-logo="http://epg.it999.ru/img/2048.png" tvg-rec="3",КХЛ ТВ orig
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/9250/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2189" tvg-logo="http://epg.it999.ru/img/2189.png" tvg-rec="3",Футбол 1
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/1109/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2190" tvg-logo="http://epg.it999.ru/img/2190.png" tvg-rec="3",Футбол 2
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/1110/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2190" tvg-logo="http://epg.it999.ru/img/2190.png" tvg-rec="3",Футбол 2 HD orig
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/5074/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2669" tvg-logo="http://epg.it999.ru/img/2669.png" tvg-rec="3",Футбол 3 HD
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/290/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2669" tvg-logo="http://epg.it999.ru/img/2669.png" tvg-rec="3",Футбол 3 HD orig
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/5083/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2782" tvg-logo="http://epg.it999.ru/img/2782.png" tvg-rec="3",Телеканал Футбол
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/5050/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2782" tvg-logo="http://epg.it999.ru/img/2782.png" tvg-rec="3",Футбол orig
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/9251/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2530" tvg-logo="http://epg.it999.ru/img/2530.png" tvg-rec="3",Старт HD
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/6384/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2530" tvg-logo="http://epg.it999.ru/img/2530.png" tvg-rec="3",СТАРТ HD orig
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/9083/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2530" tvg-logo="http://epg.it999.ru/img/2530.png" tvg-rec="3",СТАРТ
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/2154/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="3117" tvg-logo="http://epg.it999.ru/img/3117.png" tvg-rec="3",Super Tennis HD
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/6079/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="4605" tvg-logo="http://epg.it999.ru/img/4605.png" tvg-rec="0",Хоккейный HD
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10039/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="4580" tvg-logo="http://epg.it999.ru/img/4580.png" tvg-rec="0",Хоккей 1
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/7360/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="113" tvg-logo="http://epg.it999.ru/img/113.png" tvg-rec="7",ЖИВИ!
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/738/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="113" tvg-logo="http://epg.it999.ru/img/113.png" tvg-rec="3",ЖИВИ! orig
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/9164/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="4678" tvg-logo="http://epg.it999.ru/img/4678.png" tvg-rec="7",Спортивный HD
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10057/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="4679" tvg-logo="http://epg.it999.ru/img/4679.png" tvg-rec="7",Футбольный HD
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10058/index.m3u8
