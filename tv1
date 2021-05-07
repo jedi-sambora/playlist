@@ -79,8 +79,10 @@ http://ztvuk.com:8080/saif/saif123/93035
 #http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 http://ztvuk.com:8080/saif/saif123/93036
 
-#EXTINF:-1, tvg-id="" tvg-name="TR : BEIN SPORT HD" tvg-logo="" group-title="BEIN SPORTS",TR : BEIN SPORT  HD
+#EXTINF:-1, tvg-id="" tvg-name="TR : BEIN SPORT HD" tvg-logo="" group-title="BEIN SPORTS",TR : BEIN SPORT  HD (echo)
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/137.ts
+#EXTINF:-1, tvg-id="" tvg-name="TR : BEIN SPORT HD" tvg-logo="" group-title="BEIN SPORTS",TR : BEIN SPORT 1 HD(oostv)
+http://oostv.site:8080/live/iptv/iptv/4.ts
 #EXTINF:-1, tvg-id="" tvg-name="FR : BEIN SPORT 1 HD" tvg-logo="" group-title="BEIN SPORTS",FR : BEIN SPORT 1 HD
 http://starshare.live:8080/live/arfat/arfat/356.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR : BEIN SPORT 2 HD" tvg-logo="" group-title="BEIN SPORTS",FR : BEIN SPORT 2 HD
@@ -179,9 +181,9 @@ http://rv.imax.re:80/5650755702/0328421619/81648
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="PORTUGAL" "tvg-logo="http://logo.ddnb.tn/logochanel/2125.png",PT: SPORT TV 3 HD
 http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="S"PORTUGAL""tvg-logo="http://logo.ddnb.tn/logochanel/2126.png",SPORTTV 4
+#EXTINF:-1 group-title="PORTUGAL""tvg-logo="http://logo.ddnb.tn/logochanel/2126.png",SPORTTV 4
 http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 group-title=""PORTUGAL""tvg-logo="http://logo.ddnb.tn/logochanel/2127.png",SPORTTV 5
+#EXTINF:-1 group-title="PORTUGAL""tvg-logo="http://logo.ddnb.tn/logochanel/2127.png",SPORTTV 5
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
 
