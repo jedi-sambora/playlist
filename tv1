@@ -197,14 +197,6 @@ http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/62803
 http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/62806
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport Tennis" tvg-logo="" group-title="AFRICA",SuperSport Tennis
 http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/62809
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 1" tvg-logo="" group-title="GERMANY",SKY SPORT 1
-http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/64358
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 2" tvg-logo="" group-title="GERMANY",SKY SPORT 2
-http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/64359
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BUNDESLIGA 1" tvg-logo="" group-title="GERMANY",SKY SPORT BUNDESLIGA 1
-http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/64361
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT BUNDESLIGA 2" tvg-logo="" group-title="GERMANY",SKY SPORT BUNDESLIGA 2
-http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/64362
 
 #EXTINF:-1 tvg-id="" tvg-name="ELEVENSPORT 1 (BE)" tvg-logo="" group-title="BELGUIM ",ELEVENSPORT 1 (BE)
 http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/64468
@@ -219,9 +211,9 @@ http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 http://23.237.78.54/live-1000/244/playlist.m3u8
 #EXTINF:-1 group-title="ZZ SPORTS",La liga
 http://31.220.41.90:8081/live/bein-laliga.stream/playlist.m3u8
-#EXTINF:-1 group-title="ZZ SPORTS",UK: BT Sport 1
+#EXTINF:-1 group-title="ZZ SPORTS",UK: BT Sport 1 (77)
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="ZZ SPORTS",UK: BT Sport 2
+#EXTINF:-1 group-title="ZZ SPORTS",UK: BT Sport 2 (77)
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="ZZ SPORTS",BG: Diema 1
 http://kingsiptv.streamtv.to:8080/Jx89wrg5mF/53qWDkwKRL/7030
@@ -241,6 +233,20 @@ http://serviceinput.online:2999/pimp/pimp/992
 http://starshare.live:8080/live/arfat/arfat/1001.ts
 #EXTINF:-1 tvg-id="" tvg-name="US: NBCSN" tvg-logo="" group-title="ZZ SPORTS",AG: ESPN
 http://23.237.78.54/live-1000/244/playlist.m3u8   
+
+
+#EXTINF:-1 group-title="GERMANY",DE: Sky Sport 1 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/235
+#EXTINF:-1 group-title="GERMANY",DE: Sky Sport 2 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/236
+#EXTINF:-1 group-title="GERMANY",DE: Sky Sport 3 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/237
+#EXTINF:-1 group-title="GERMANY",DE: Sky Sport Bundesliga 1 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/274
+#EXTINF:-1 group-title="GERMANY",DE: Sky Sport Bundesliga 2 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/275
+#EXTINF:-1 group-title="GERMANY",DE: Sky Sport Bundesliga 3 HD
+http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/276
 
 
 #EXTINF:-1 group-title="DSTV",DSTV: SuperSport  LaLiga HD
@@ -294,6 +300,12 @@ http://ip.trboss.net:80/dindin/sdfsjfujskrez/6199
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/3759
 #EXTINF:-1 tvg-id="BT Sport 3" tvg-name="UK: BT SPORT 3 *" tvg-logo="http://tv.iptvboss.net/ch_logo/BTSPORTS3.png" group-title="|UK| ENGLAND",UK: BT SPORT 3 *
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/6197
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="http://tv.iptvboss.net/ch_logo/BTSPORTS1.png" group-title="|UK| ENGLAND",BT SPORTS 1
+https://aloka-iptv.xyz:443/live/MEGA-TV5/TELEGRAM/126.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 2" tvg-logo="http://tv.iptvboss.net/ch_logo/BTSPORTS2.png" group-title="|UK| ENGLAND",BT SPORTS 2
+https://aloka-iptv.xyz:443/live/MEGA-TV5/TELEGRAM/122.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 3" tvg-logo="http://tv.iptvboss.net/ch_logo/BTSPORTS3.png" group-title="|UK| ENGLAND",BT SPORTS 3
+https://aloka-iptv.xyz:443/live/MEGA-TV5/TELEGRAM/127.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT EXTRA" tvg-logo="" group-title="|UK| ENGLAND",UK: BT SPORT EXTRA
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/56509
 #EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT EXTRA 1" tvg-logo="" group-title="|UK| ENGLAND",UK: BT SPORT EXTRA 1
