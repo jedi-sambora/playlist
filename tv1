@@ -304,6 +304,14 @@ http://185.234.111.37:8880/play/a04w
 http://185.234.111.37:8880/play/a04p
 #EXTINF:-1 group-title="RUS SPORT",Sky Sport 2 HD
 http://185.234.111.37:8880/play/a056
+#EXTINF:-1 group-title="RUS SPORT",MAXSPORT1_HD
+http://94.236.201.66:80/MAXSPORT1_HD/index.m3u8
+#EXTINF:-1 group-title="RUS SPORT",MAXSPORT2_HD
+http://94.236.201.66:80/MAXSPORT2_HD/index.m3u8
+#EXTINF:-1 group-title="RUS SPORT",MAXSPORT3_HD
+http://94.236.201.66:80/MAXSPORT3_HD/index.m3u8
+#EXTINF:-1 group-title="RUS SPORT",MAXSPORT4_HD
+http://94.236.201.66:80/MAXSPORT4_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="BT Sport//ESPN" tvg-name="UK: BT SPORT / ESPN" tvg-logo="http://tv.iptvboss.net/ch_logo/BTSPORTESPN.png" group-title="|UK| ENGLAND",UK: BT SPORT / ESPN
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/3747
