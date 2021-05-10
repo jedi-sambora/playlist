@@ -79,13 +79,13 @@ http://ztvuk.com:8080/saif/saif123/93035
 #http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 http://ztvuk.com:8080/saif/saif123/93036
 
-#EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png" group-title="LIVE | SPORTS",ASTRO SUPERSPORT HD
+#EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png" group-title="ASTRO",ASTRO SUPERSPORT HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
-#EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT 2 HD" tvg-name="ASTRO SUPERSPORT 2 HD" tvg-logo="https://i.postimg.cc/LXv2LpmL/Astro-Super-Sport-2.png" group-title="LIVE | SPORTS",ASTRO SUPERSPORT 2 HD
+#EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT 2 HD" tvg-name="ASTRO SUPERSPORT 2 HD" tvg-logo="https://i.postimg.cc/LXv2LpmL/Astro-Super-Sport-2.png" group-title="ASTRO",ASTRO SUPERSPORT 2 HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
-#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="ASTRO SUPERSPORT 3 HD" tvg-logo="https://i.postimg.cc/3wmgKLYP/200px-Astro-ASSP3.png" group-title="LIVE | SPORTS",ASTRO SUPERSPORT 3 HD
+#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="ASTRO SUPERSPORT 3 HD" tvg-logo="https://i.postimg.cc/3wmgKLYP/200px-Astro-ASSP3.png" group-title="ASTRO",ASTRO SUPERSPORT 3 HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
-#EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT 4 HD" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="LIVE | SPORTS",ASTRO SUPERSPORT 4 HD
+#EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT 4 HD" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="ASTRO",ASTRO SUPERSPORT 4 HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
 
 #EXTINF:-1, tvg-id="" tvg-name="TR : BEIN SPORT HD" tvg-logo="" group-title="BEIN SPORTS",TR : BEIN SPORT  HD (echo)
