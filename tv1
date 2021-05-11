@@ -219,14 +219,22 @@ http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport Football" tvg-logo="" group-title="AFRICA",SuperSport Football
 http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/62800
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Football" tvg-logo="" group-title="AFRICA",SuperSport Football (iptvfree1)
+http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/276760.ts
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport Grandstand" tvg-logo="" group-title="AFRICA",SuperSport Grandstand
 http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/62802
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport La Liga" tvg-logo="" group-title="AFRICA",SuperSport La Liga
 http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/62803
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport La Liga" tvg-logo="" group-title="AFRICA",SuperSport La Liga (optvfree)
+http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/276759.ts
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport Premier League" tvg-logo="" group-title="AFRICA",SuperSport Premier League
 http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/62806
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Premier League" tvg-logo="" group-title="AFRICA",SuperSport Premier League (iptvfree)
+http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/276758.ts
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport Tennis" tvg-logo="" group-title="AFRICA",SuperSport Tennis
 http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/62809
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Tennis" tvg-logo="" group-title="AFRICA",SuperSport Tennis (iptvfree)
+http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/276765.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ELEVENSPORT 1 (BE)" tvg-logo="" group-title="BELGUIM ",ELEVENSPORT 1 (BE)
 http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/64468
@@ -237,6 +245,14 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ELEVENSPORT 2 (BE)" tvg-logo="" group-title="BELGUIM ",ELEVENSPORT 2 (207)
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 
+#EXTINF:-1 group-title="ZZ SPORTS",DK : TV 3 SPORT 1
+http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/3094.ts
+#EXTINF:-1 group-title="ZZ SPORTS",DK: TV 3 SPORT 2
+http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/3093.ts
+#EXTINF:-1 group-title="ZZ SPORTS",DK: TV 2 SPORT 
+http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/3097.ts
+#EXTINF:-1 group-title="ZZ SPORTS",DK: VIASAT FOTBOLL
+http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/2978.ts
 #EXTINF:-1 group-title="ZZ SPORTS",|BR| ESPN
 http://23.237.78.54/live-1000/244/playlist.m3u8
 #EXTINF:-1 group-title="ZZ SPORTS",La liga
@@ -319,6 +335,8 @@ https://46-166-139-84.livesports24.online/setantaukraine.m3u8
 http://46.174.189.51/setanta1/video.m3u8
 #EXTINF:-1 group-title="RUS SPORT",UKR: Setanta Sport 2
 http://46.174.189.51/setanta2/video.m3u8
+#EXTINF:-1 group-title="RUS SPORT",AZ: Setanta Sport 1
+http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/5479.ts
 #EXTINF:-1 group-title="RUS SPORT",UZ:  Sport 
 http://mhd.iptv2022.com/p/AJnbslUSzMw_D5KLOHFA0g,1620638449/streaming/sport_uz/324/variable.m3u8
 #EXTINF:-1 group-title="RUS SPORT",Sky Sport 1
@@ -337,6 +355,12 @@ http://94.236.201.66:80/MAXSPORT2_HD/index.m3u8
 http://94.236.201.66:80/MAXSPORT3_HD/index.m3u8
 #EXTINF:-1 group-title="RUS SPORT",MAXSPORT4_HD
 http://94.236.201.66:80/MAXSPORT4_HD/index.m3u8
+#EXTINF:-1 group-title="RUS SPORT",RUS: Match Futbol 3 HD
+http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/4929.ts
+#EXTINF:-1 group-title="RUS SPORT",RUS: Match Futbol 2 HD
+http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/4928.ts
+#EXTINF:-1 group-title="RUS SPORT",RUS: Match Futbol 1 HD
+http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/4927.ts
 
 #EXTINF:-1 tvg-id="BT Sport//ESPN" tvg-name="UK: BT SPORT / ESPN" tvg-logo="http://tv.iptvboss.net/ch_logo/BTSPORTESPN.png" group-title="|UK| ENGLAND",UK: BT SPORT / ESPN
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/3747
