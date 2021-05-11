@@ -59,7 +59,18 @@ http://185.71.64.167:80/307226011111/307226011111/81940
 #EXTINF:-1 group-title="ALB SPORT",|ALB| SUPER SPORT 5 HD
 http://185.71.64.167:80/307226011111/307226011111/81938
 
-
+#EXTINF:-1 group-title="NL SPORT",NL : Ziggo Sport.Voetbal
+http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/3891.ts
+#EXTINF:-1 group-title="NL SPORT",NL: Ziggo Sport Select HD
+http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/3892.ts
+#EXTINF:-1 group-title="NL SPORT",NL: Ziggo Sport Racing
+http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/3890.ts
+#EXTINF:-1 group-title="NL SPORT",NL : Ziggo Sport Golf
+http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/3893.ts
+#EXTINF:-1 group-title="NL SPORT",NL : Ziggo Sport Extra2
+http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/3894.ts
+#EXTINF:-1 group-title="NL SPORT",NL: Ziggo Sport Extra1
+http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/3895.ts
 
 #EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO",MY: ASTRO SUPER SPORTS 1 HD
 http://starshare.live:8080/live/arfat/arfat/5480.ts
