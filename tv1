@@ -59,44 +59,46 @@ http://185.71.64.167:80/307226011111/307226011111/81940
 #EXTINF:-1 group-title="ALB SPORT",|ALB| SUPER SPORT 5 HD
 http://185.71.64.167:80/307226011111/307226011111/81938
 
-#EXTINF:-1 group-title="NL SPORT",NL : Ziggo Sport.Voetbal
-http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/3891.ts
-#EXTINF:-1 group-title="NL SPORT",NL: Ziggo Sport Select HD
-http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/3892.ts
-#EXTINF:-1 group-title="NL SPORT",NL: Ziggo Sport Racing
-http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/3890.ts
-#EXTINF:-1 group-title="NL SPORT",NL : Ziggo Sport Golf
-http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/3893.ts
-#EXTINF:-1 group-title="NL SPORT",NL : Ziggo Sport Extra2
-http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/3894.ts
-#EXTINF:-1 group-title="NL SPORT",NL: Ziggo Sport Extra1
-http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/3895.ts
+#EXTINF:-1  group-title="AR SPORT",BEINSPORTS 1 AR
+http://144.217.253.140/beinsport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="AR SPORT",BEINSPORTS 2 AR
+http://144.217.253.140/beinsport2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="AR SPORT",BEINSPORTS 3 AR
+http://144.217.253.140/beinsport3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="AR SPORT",BEINSPORTS 4 AR
+http://144.217.253.140/beinsport4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO",MY: ASTRO SUPER SPORTS 1 HD
+
+
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO",MY: ASTRO SUPER SPORTS 1 HD (star)
 http://starshare.live:8080/live/arfat/arfat/5480.ts
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634" group-title="ASTRO",MY: ASTRO SUPER SPORTS 2 HD
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634" group-title="ASTRO",MY: ASTRO SUPER SPORTS 2 HD (star)
 http://starshare.live:8080/live/arfat/arfat/5481.ts
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="ASTRO",MY: ASTRO SUPER SPORTS 3 HD
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="ASTRO",MY: ASTRO SUPER SPORTS 3 HD (star)
 http://starshare.live:8080/live/arfat/arfat/5482.ts
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748" group-title="ASTRO",MY: ASTRO SUPER SPORTS 4 HD
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748" group-title="ASTRO",MY: ASTRO SUPER SPORTS 4 HD (star)
 http://starshare.live:8080/live/arfat/arfat/5483.ts
 
-#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport (stack)
 #http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
 #http://ztvuk.com:8080/saif/saif123/93033
-http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/110252.ts
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport 2
+#http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/110252.ts
+http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/23453
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport 2 (stack)
 #http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
 #http://ztvuk.com:8080/saif/saif123/93034
-http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/110253.ts
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport 3
+#http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/110253.ts
+http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/23452
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport 3 (stack)
 #http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 #http://ztvuk.com:8080/saif/saif123/93035
-http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/110254.ts
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport 4
+#http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/110254.ts
+http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/23451
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport 4 (stack)
 #http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 #http://ztvuk.com:8080/saif/saif123/93036
-http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/110255.ts
+#http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/110255.ts
+http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/33973
 
 
 #EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png" group-title="ASTRO",ASTRO SUPERSPORT HD
@@ -219,22 +221,22 @@ http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport Football" tvg-logo="" group-title="AFRICA",SuperSport Football
 http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/62800
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Football" tvg-logo="" group-title="AFRICA",SuperSport Football (iptvfree1)
-http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/276760.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Football" tvg-logo="" group-title="AFRICA",SuperSport Football (stack)
+http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/28901
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport Grandstand" tvg-logo="" group-title="AFRICA",SuperSport Grandstand
 http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/62802
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport La Liga" tvg-logo="" group-title="AFRICA",SuperSport La Liga
 http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/62803
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport La Liga" tvg-logo="" group-title="AFRICA",SuperSport La Liga (optvfree)
-http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/276759.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport La Liga" tvg-logo="" group-title="AFRICA",SuperSport La Liga (stack)
+http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/28895
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport Premier League" tvg-logo="" group-title="AFRICA",SuperSport Premier League
 http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/62806
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Premier League" tvg-logo="" group-title="AFRICA",SuperSport Premier League (iptvfree)
-http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/276758.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Premier League" tvg-logo="" group-title="AFRICA",SuperSport Premier League (stack)
+http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/28896
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport Tennis" tvg-logo="" group-title="AFRICA",SuperSport Tennis
 http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/62809
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport Tennis" tvg-logo="" group-title="AFRICA",SuperSport Tennis (iptvfree)
-http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/276765.ts
+#http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/276765.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ELEVENSPORT 1 (BE)" tvg-logo="" group-title="BELGUIM ",ELEVENSPORT 1 (BE)
 http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/64468
@@ -245,14 +247,7 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ELEVENSPORT 2 (BE)" tvg-logo="" group-title="BELGUIM ",ELEVENSPORT 2 (207)
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 
-#EXTINF:-1 group-title="ZZ SPORTS",DK : TV 3 SPORT 1
-http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/3094.ts
-#EXTINF:-1 group-title="ZZ SPORTS",DK: TV 3 SPORT 2
-http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/3093.ts
-#EXTINF:-1 group-title="ZZ SPORTS",DK: TV 2 SPORT 
-http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/3097.ts
-#EXTINF:-1 group-title="ZZ SPORTS",DK: VIASAT FOTBOLL
-http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/2978.ts
+
 #EXTINF:-1 group-title="ZZ SPORTS",|BR| ESPN
 http://23.237.78.54/live-1000/244/playlist.m3u8
 #EXTINF:-1 group-title="ZZ SPORTS",La liga
