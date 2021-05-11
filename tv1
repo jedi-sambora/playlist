@@ -13,6 +13,8 @@ https://nonton.site:8443/provision/pp/36240
 https://nonton.site:8443/provision/pp/36241
 #EXTINF:-1 tvg-logo = "https://www.dropbox.com/s/p41okl7lo4yh7rz/beIN-SPORTS-XTRA_LOGO.png?dl=1" group-title="Sports ID", Bein Sport XTRA 
 https://www.dropbox.com/s/rpeaz6fv15fyyz9/beinxtra.m3u8?dl=1 
+#EXTINF:-1   tvg-logo="" group-title="Sports ID",NBCSN
+http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/26820.ts
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9lMwU2a5XuS_mPbbxiMRIR2ZGfQ=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-cd5af1.jpg" group-title="Sports ID", Champions TV 1
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6685_720p/index.m3u8
 
@@ -71,15 +73,20 @@ http://starshare.live:8080/live/arfat/arfat/5483.ts
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport
 #http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
 #http://ztvuk.com:8080/saif/saif123/93033
+http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/110252.ts
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport 2
 #http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
 #http://ztvuk.com:8080/saif/saif123/93034
+http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/110253.ts
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport 3
 #http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 #http://ztvuk.com:8080/saif/saif123/93035
+http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/110254.ts
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport 4
 #http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 #http://ztvuk.com:8080/saif/saif123/93036
+http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/110255.ts
+
 
 #EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png" group-title="ASTRO",ASTRO SUPERSPORT HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
@@ -89,6 +96,7 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
 #EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT 4 HD" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="ASTRO",ASTRO SUPERSPORT 4 HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
+
 
 #EXTINF:-1, tvg-id="" tvg-name="TR : BEIN SPORT HD" tvg-logo="" group-title="BEIN SPORTS",TR : BEIN SPORT  HD (echo)
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/137.ts
@@ -226,10 +234,14 @@ http://31.220.41.90:8081/live/bein-laliga.stream/playlist.m3u8
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="ZZ SPORTS",UK: BT Sport 2 (77)
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="ZZ SPORTS",BG: Diema 1
+#EXTINF:-1 group-title="ZZ SPORTS",BG: Diema 1 (kingsiptv)
 http://kingsiptv.streamtv.to:8080/Jx89wrg5mF/53qWDkwKRL/7030
-#EXTINF:-1 group-title="ZZ SPORTS",BG: Diema 2
+#EXTINF:-1 group-title="ZZ SPORTS",BG: Diema 2 (kingsiptv)
 http://kingsiptv.streamtv.to:8080/Jx89wrg5mF/53qWDkwKRL/7026
+#EXTINF:-1 roup-title="ZZ SPORTS",BG: DiemaSport (freenet)
+http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/51491.ts
+#EXTINF:-1 roup-title="ZZ SPORTS",BG: DiemaSport2  (freenet)
+http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/51490.ts
 #EXTINF:-1 group-title="ZZ SPORTS",US: Bein Sport
 http://serviceinput.online:2999/pimp/pimp/205
 #EXTINF:-1 group-title="ZZ SPORTS",SPORTS: BEIN En Espanol
