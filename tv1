@@ -267,7 +267,7 @@ http://starshare.live:8080/live/arfat/arfat/523.ts
 
 #EXTINF:-1 group-title="RUS SPORT",Матч ТВ
 https://77-247-178-24.livesports24.online/ooomatch.m3u8
-#EXTINF:-1 group-title="RUS SPORT",Футбол 1 UA
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2189.png" group-title="RUS SPORT",Футбол 1 UA
 https://46-166-139-84.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1 group-title="RUS SPORT",Футбол 2 UA
 https://95-213-224-176.livesports24.online/fooootball2.m3u8
