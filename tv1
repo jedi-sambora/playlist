@@ -325,10 +325,16 @@ https://46-166-139-84.livesports24.online/uafootballua1.m3u8
 https://95-213-224-176.livesports24.online/fooootball2.m3u8
 #EXTINF:-1 group-title="RUS SPORT",Матч Футбол 1
 https://95-213-224-186.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1 group-title="RUS SPORT",Матч Футбол 1 HD (streamer)
+http://streamer.in-lan.net.ua:8035/ch0083
 #EXTINF:-1 group-title="RUS SPORT",Матч Футбол 2
 https://95-213-224-186.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1 group-title="RUS SPORT",Матч Футбол 2 HD (streamer)
+http://streamer.in-lan.net.ua:8035/ch0084
 #EXTINF:-1 group-title="RUS SPORT",Матч Футбол 3
 https://95-213-224-186.livesports24.online/rumatchf3.m3u8
+#EXTINF:-1 group-title="RUS SPORT",Матч Футбол 3 HD (streamer)
+http://streamer.in-lan.net.ua:8035/ch0085
 #EXTINF:-1 group-title="RUS SPORT",RU: MATCH! FUTBOL 1 FHD
 http://ky-iptv.com:25461/1234567890/1234567890/499136
 #EXTINF:-1 group-title="RUS SPORT",RU: MATCH! FUTBOL 2 FHD
