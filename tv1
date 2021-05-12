@@ -68,9 +68,15 @@ http://144.217.253.140/beinsport3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AR SPORT",BEINSPORTS 4 AR
 http://144.217.253.140/beinsport4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="ASTRO",beIN SPORTS MAX MY
+#EXTINF: -1 group-title="Astro", beIN Sports (m3u-editor)
+https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619166
+#EXTINF: -1 group-title="Astro", beIN MAX (m3u-editor)
+https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619167
+#EXTINF: -1 group-title="Astro", beIN MAX 2 (m3u-editor)
+https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619168
+#EXTINF:-1 group-title="ASTRO",beIN SPORTS MAX MY (iptvstack)
 http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/27937
-#EXTINF:-1 group-title="ASTRO",beIN SPORTS HD MY
+#EXTINF:-1 group-title="ASTRO",beIN SPORTS HD MY (iptvstack)
 http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/27938
 #EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO",MY: ASTRO SUPER SPORTS 1 HD (star)
 http://starshare.live:8080/live/arfat/arfat/5480.ts
@@ -112,6 +118,14 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
 #EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT 4 HD" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="ASTRO",ASTRO SUPERSPORT 4 HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
 
+#EXTINF: -1tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png"  group-title="ASTRO", ASTRO SUPERSPORT HD (m3u-editor)
+https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619158
+#EXTINF: -1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png" group-title="ASTRO", ASTRO SUPERSPORT 2 HD  (m3u-editor)
+https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619159
+#EXTINF: -1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" group-title="ASTRO", ASTRO SUPERSPORT 3 HD  (m3u-editor)
+https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619160
+#EXTINF: -1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/834_300.png" group-title="ASTRO", ASTRO SUPERSPORT 4 HD  (m3u-editor)
+https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619161
 
 #EXTINF:-1, tvg-id="" tvg-name="TR : BEIN SPORT HD" tvg-logo="" group-title="BEIN SPORTS",TR : BEIN SPORT  HD (echo)
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/137.ts
