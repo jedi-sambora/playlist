@@ -130,7 +130,11 @@ https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619161
 #EXTINF:-1, tvg-id="" tvg-name="TR : BEIN SPORT HD" tvg-logo="" group-title="BEIN SPORTS",TR : BEIN SPORT  HD (echo)
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/137.ts
 #EXTINF:-1, tvg-id="" tvg-name="TR : BEIN SPORT HD" tvg-logo="" group-title="BEIN SPORTS",TR : BEIN SPORT 1 HD(oostv)
+ http://oostv.site:8080/live/iptv/iptv/87.ts
+#EXTINF:-1, tvg-id="" tvg-name="TR : BEIN SPORT HD" tvg-logo="" group-title="BEIN SPORTS",TR : BEIN SPORT 2 HD(oostv)
 http://oostv.site:8080/live/iptv/iptv/4.ts
+#EXTINF:-1, tvg-id="" tvg-name="TR : BEIN SPORT HD" tvg-logo="" group-title="BEIN SPORTS",TR : BEIN SPORT 3 HD(oostv
+http://oostv.site:8080/live/iptv/iptv/93.ts
 #EXTINF:-1, tvg-id="" tvg-name="FR : BEIN SPORT 1 HD" tvg-logo="" group-title="BEIN SPORTS",FR : BEIN SPORT 1 HD
 http://starshare.live:8080/live/arfat/arfat/356.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR : BEIN SPORT 2 HD" tvg-logo="" group-title="BEIN SPORTS",FR : BEIN SPORT 2 HD
