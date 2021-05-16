@@ -220,19 +220,6 @@ http://rv.imax.re:80/9310112628/9241652002/163912
 http://rv.imax.re:80/9310112628/9241652002/163911
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport Premium SD3" tvg-logo="" group-title="BEIN SPORTS",Bein Sport Premium SD3
 http://rv.imax.re:80/9310112628/9241652002/163910
-
-#EXTINF:0 tvg-ID="RMCSport1.fr" tvg-logo="http://134.255.234.197/logos/rmcsport1.png" group-title="FRANCE SPORTS",|FR| RMC SPORT 1 HD
-http://rv.imax.re/477861311711156/477861311711156/78380
-#EXTINF:0 tvg-ID="RMCSport1.fr" tvg-logo="http://134.255.234.197/logos/rmcsport1.png" group-title="FRANCE SPORTS",|FR|SD| RMC SPORT 1 
-http://rv.imax.re/477861311711156/477861311711156/79038
-#EXTINF:0 tvg-ID="RMCSport2.fr" tvg-logo="http://134.255.234.197/logos/rmcsport2.png" group-title="FRANCE SPORTS",|FR| RMC SPORT 2 HD
-http://rv.imax.re/477861311711156/477861311711156/78379
-#EXTINF:0 tvg-ID="RMCSport2.fr" tvg-logo="http://134.255.234.197/logos/rmcsport2.png" group-title="FRANCE SPORTS",|FR|SD| RMC SPORT 2 
-http://rv.imax.re/477861311711156/477861311711156/79037
-#EXTINF:0 tvg-ID="RMCSport3.fr" tvg-logo="http://134.255.234.197/logos/rmcsport3.png" group-title="FRANCE SPORTS",|FR|SD| RMC SPORT 3 
-http://rv.imax.re/477861311711156/477861311711156/79036
-#EXTINF:0 tvg-ID="RMCSport4.fr" tvg-logo="http://134.255.234.197/logos/rmcsport4.png" group-title="FRANCE SPORTS",|FR|SD| RMC SPORT 4 
-http://rv.imax.re/477861311711156/477861311711156/79035
 #EXTINF:-1 tvg-id="TF1" tvg-name="CANAL  SPORT" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/CANAL%20PLUS%20SPORT%20HD.png" group-title="FRANCE SPORTS",CANAL  SPORT
 http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/560
 
@@ -307,9 +294,12 @@ http://goodtv.xyz:2052/reggie/reggie/1524564
 #EXTINF:-1 group-title="ZZ SPORTS",SPORTS: Fox Sport Premium
 http://serviceinput.online:2999/pimp/pimp/992
 #EXTINF:-1 tvg-id="" tvg-name="US: NBCSN" tvg-logo="" group-title="ZZ SPORTS",US: NBCSN
-http://starshare.live:8080/live/arfat/arfat/1001.ts
+#http://starshare.live:8080/live/arfat/arfat/1001.ts
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/5137
 #EXTINF:-1 tvg-id="" tvg-name="US: NBCSN" tvg-logo="" group-title="ZZ SPORTS",AG: ESPN
-http://23.237.78.54/live-1000/244/playlist.m3u8   
+http://23.237.78.54/live-1000/244/playlist.m3u8  
+#EXTINF:-1 tvg-id="" tvg-name="US: NBCSN" tvg-logo="http://38.143.137.20/logo/prestige/United-States/tennis_channel.png" group-title="ZZ SPORTS",AG: ESPN
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7988
 
 
 #EXTINF:-1 group-title="GERMANY",DE: Sky Sport 1 HD
