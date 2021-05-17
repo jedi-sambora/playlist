@@ -33,16 +33,6 @@ http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/6808
 #EXTINF:-1 group-title="THAI SPORT",Thai: Premier Football HD 2
 http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/6799
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT",  TRUE SPORT 1
-http://mantul.biz.id:8888/294/294/10459
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT",  TRUE SPORT 2
-http://mantul.biz.id:8888/294/294/10460
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT",  TRUE SPORT 3
-http://mantul.biz.id:8888/294/294/10461
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT",  TRUE SPORT 4
-http://mantul.biz.id:8888/294/294/11983
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT", TRUE SPORT 5
-http://mantul.biz.id:8888/294/294/11984
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT",  TRUE SPORT 1 (77)
 http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT",  TRUE SPORT 2 (77)
