@@ -254,6 +254,39 @@ http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/62809
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport Tennis" tvg-logo="" group-title="AFRICA",SuperSport Tennis (iptvfree)
 #http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/276765.ts
 
+#EXTINF:-1 group-title="SS", SuperSport Variety 01
+http://sofadad.co.uk:80/emma123/123emma/212365
+#EXTINF:-1 group-title="SS",SuperSport Variety 02
+http://sofadad.co.uk:80/emma123/123emma/212366
+#EXTINF:-1 group-title="SS",SuperSport Variety 03
+http://sofadad.co.uk:80/emma123/123emma/212361
+#EXTINF:-1 group-title="SS",SuperSport Variety 04
+http://sofadad.co.uk:80/emma123/123emma/212362
+#EXTINF:-1 group-title="SS",SuperSport Premier League
+http://sofadad.co.uk:80/emma123/123emma/212370
+#EXTINF:-1 group-title="SS",SuperSport Football
+http://sofadad.co.uk:80/emma123/123emma/212363
+#EXTINF:-1 group-title="SS",SuperSport Tennis
+http://sofadad.co.uk:80/emma123/123emma/212356
+#EXTINF:-1 group-title="SS",SuperSport Motorsports
+http://sofadad.co.uk:80/emma123/123emma/212357
+#EXTINF:-1 group-title="SS",SuperSport Golf
+http://sofadad.co.uk:80/emma123/123emma/212358
+#EXTINF:-1 group-title="SS",SuperSport Cricket
+http://sofadad.co.uk:80/emma123/123emma/212359
+#EXTINF:-1 group-title="SS",SuperSport Rugby
+http://sofadad.co.uk:80/emma123/123emma/212360
+#EXTINF:-1 group-title="SS",SuperSport Action
+http://sofadad.co.uk:80/emma123/123emma/212364
+#EXTINF:-1 group-title="SS",SuperSport Granstand
+http://sofadad.co.uk:80/emma123/123emma/212367
+#EXTINF:-1 group-title="SS",SuperSport PSL
+http://sofadad.co.uk:80/emma123/123emma/212368
+#EXTINF:-1 group-title="SS",SuperSport La Liga
+http://sofadad.co.uk:80/emma123/123emma/212369
+#EXTINF:-1 group-title="SS",SuperSport Blitz
+http://sofadad.co.uk:80/emma123/123emma/212371
+
 #EXTINF:-1 tvg-id="" tvg-name="ELEVENSPORT 1 (BE)" tvg-logo="" group-title="BELGUIM ",ELEVENSPORT 1 (BE)
 http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/64468
 #EXTINF:-1 tvg-id="" tvg-name="ELEVENSPORT 2 (BE)" tvg-logo="" group-title="BELGUIM ",ELEVENSPORT 2 (BE)
