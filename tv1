@@ -279,6 +279,8 @@ http://serviceinput.online:2999/pimp/pimp/205
 http://goodtv.xyz:2052/reggie/reggie/1524562
 #EXTINF:-1 group-title="ZZ SPORTS",SPORTS: BEIN LaLiga
 http://goodtv.xyz:2052/reggie/reggie/1524563
+#EXTINF:-1 group-title="ZZ SPORTS",SPORTS: BEIN LaLiga (privat)
+http://p2.iptvprivateserver.tv:80/F90572Z0560R/1sbieqSd6r/762
 #EXTINF:-1 group-title="ZZ SPORTS",SPORTS: BEIN USA
 http://goodtv.xyz:2052/reggie/reggie/1524564
 #EXTINF:-1 group-title="ZZ SPORTS",SPORTS: Fox Sport Premium
@@ -290,8 +292,10 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/5137
 http://23.237.78.54/live-1000/244/playlist.m3u8  
 #EXTINF:-1 tvg-id="" tvg-name="US: NBCSN" tvg-logo="http://38.143.137.20/logo/prestige/United-States/tennis_channel.png" group-title="ZZ SPORTS",AG: ESPN
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7988
-
-
+#EXTINF:-1 tvg-id="19036" tvg-name="Sky Sports Premier League" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1271.png" group-title="ZZ SPORTS",Sky Sports Premier League
+http://p2.iptvprivateserver.tv:80/F90572Z0560R/1sbieqSd6r/251
+#EXTINF:-1 tvg-id="19038" tvg-name="Sky Sports Football" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1273.png" group-title="zz SPORTS",Sky Sports Football
+http://p2.iptvprivateserver.tv:80/F90572Z0560R/1sbieqSd6r/252
 #EXTINF:-1 group-title="GERMANY",DE: Sky Sport 1 HD
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/235
 #EXTINF:-1 group-title="GERMANY",DE: Sky Sport 2 HD
