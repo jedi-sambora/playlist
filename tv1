@@ -135,15 +135,21 @@ https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619161
 
 #EXTINF:-1 tvg-id="Erz.Assp1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="Sports",Astro Supersport 1
 http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Erz.Assp2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3N8F_hJKmX9Ct16ir5opC6x30NVo_3exrw&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="Sports",Astro Supersport 2
 http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLuBQjEQPzXniLS9Sy85t1wpSzymd2YdW5Xg&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="Sports",Astro Supersport 3
 http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKroP1M0tQjt9HJ7olsUlmhuPLBxsw9TceQ&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="Sports",Astro Supersport 4
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+
+#EXTINF: -1tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png"  group-title="ASTRO", ASTRO SUPERSPORT HD (UK speedmedia)
+http://thespeedmedia.watch:2086/5424/5424/31352
+#EXTINF: -1tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png"  group-title="ASTRO", ASTRO SUPERSPORT 2 HD (UK speedmedia)
+http://thespeedmedia.watch:2086/5424/5424/31353
+#EXTINF: -1tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png"  group-title="ASTRO", ASTRO SUPERSPORT 3 HD (UK speedmedia)
+http://thespeedmedia.watch:2086/5424/5424/31354
+#EXTINF: -1tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/834_300.png"  group-title="ASTRO", ASTRO SUPERSPORT 4 HD (UK speedmedia)
+http://thespeedmedia.watch:2086/5424/5424/31355
 
 #EXTINF:-1, tvg-id="" tvg-name="TR : BEIN SPORT HD" tvg-logo="" group-title="BEIN SPORTS",TR : BEIN SPORT  HD (echo)
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/137.ts
@@ -217,8 +223,15 @@ http://rv.imax.re:80/9310112628/9241652002/163912
 http://rv.imax.re:80/9310112628/9241652002/163911
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport Premium SD3" tvg-logo="" group-title="BEIN SPORTS",Bein Sport Premium SD3
 http://rv.imax.re:80/9310112628/9241652002/163910
+#french
 #EXTINF:-1 tvg-id="TF1" tvg-name="CANAL  SPORT" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/CANAL%20PLUS%20SPORT%20HD.png" group-title="FRANCE SPORTS",CANAL  SPORT
 http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/560
+#EXTINF:-1 tvg-id="TF1" tvg-name="CANAL  SPORT" tvg-logo="https://logo.ott.ma/logo/FRANCE%20HD/CANAL%20PLUS%20SPORT%20HD.png" group-title="FRANCE SPORTS",CANAL Leage 1
+http://thespeedmedia.watch:2086/5424/5424/145202
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ PREMIER LEAGUE" tvg-logo="" group-title="FRANCE SPORTS,FR: CANAL+ PREMIER LEAGUE
+http://thespeedmedia.watch:2086/5424/5424/145205
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ PREMIER LEAGUE HD" tvg-logo="" group-title="FRANCE SPORTS",FR: CANAL+ PREMIER LEAGUE HD
+http://thespeedmedia.watch:2086/5424/5424/145206
 
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",PT: SPORT TV 1 HD
@@ -354,12 +367,6 @@ http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/275
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/276
 
 
-#EXTINF:-1 group-title="DSTV",DSTV: SuperSport  LaLiga HD
-http://starshare.live:8080/live/arfat/arfat/515.ts
-#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="DSTV : SuperSport Premier League HD" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league-live.png" group-title="DSTV",DSTV : SuperSport Premier League HD
-http://starshare.live:8080/live/arfat/arfat/518.ts
-#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="DSTV : SuperSport Football HD" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-football.png" group-title="DSTV",DSTV : SuperSport Football HD
-http://starshare.live:8080/live/arfat/arfat/523.ts
 
 #EXTINF:-1 group-title="RUS SPORT",Матч ТВ
 https://77-247-178-24.livesports24.online/ooomatch.m3u8
