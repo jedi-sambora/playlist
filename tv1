@@ -70,13 +70,13 @@ http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 
 #EXTINF:-1 group-title="BEIN SPORT M3AD",beIN Sports 1 Premium HD
 http://mo3ad.xyz:8080/mo3ad7/mo3ad7/1
-#EXTINF:-1 group-title="BEIN SPORT M3AD",beIN Sport 2 Premium HD
+#EXTINF:-1 group-title="BEIN SPORT M3AD",beIN Sports 2 Premium HD
 http://mo3ad.xyz:8080/mo3ad7/mo3ad7/3
 #EXTINF:-1 group-title="BEIN SPORT M3AD",beIN Sports 3 Premium HD
 http://mo3ad.xyz:8080/mo3ad7/mo3ad7/5
 #EXTINF:-1 group-title="BEIN SPORT M3AD",beIN Sports 4 HD
 http://mo3ad.xyz:8080/mo3ad7/mo3ad7/7
-#EXTINF:-1 group-title="BEIN SPORT M3AD",beIN Sport 5 HD
+#EXTINF:-1 group-title="BEIN SPORT M3AD",beIN Sports 5 HD
 http://mo3ad.xyz:8080/mo3ad7/mo3ad7/9
 #EXTINF:-1 group-title="BEIN SPORT M3AD",beIN Sports 1 HD
 http://mo3ad.xyz:8080/mo3ad7/mo3ad7/15
