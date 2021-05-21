@@ -62,6 +62,23 @@ http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EN : BEIN SPORT 2 HD" tvg-logo="" group-title="AR SPORT",EN : BEIN SPORT 2  HD
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 
+#EXTINF: -1 group-title="BEIN SPORT M3AD", beIN Sports 1 Premium HD
+http://mo3ad.xyz:8080/mo3ad7/mo3ad7/1
+#EXTINF:-1 group-title="BEIN SPORT M3AD",beIN Sport 2 Premium HD
+http://mo3ad.xyz:8080/mo3ad7/mo3ad7/3
+#EXTINF:-1 group-title="BEIN SPORT M3AD",beIN Sports 3 Premium HD
+http://mo3ad.xyz:8080/mo3ad7/mo3ad7/5
+#EXTINF:-1 group-title="BEIN SPORT M3AD",beIN Sports 4 HD
+http://mo3ad.xyz:8080/mo3ad7/mo3ad7/7
+#EXTINF:-1 group-title="BEIN SPORT M3AD",beIN Sport HD 5
+http://mo3ad.xyz:8080/mo3ad7/mo3ad7/9
+#EXTINF:-1 group-title="BEIN SPORT M3AD",beIN Sports 1 HD
+http://mo3ad.xyz:8080/mo3ad7/mo3ad7/15
+#EXTINF:-1 group-title="BEIN SPORT M3AD",beIN Sports 2 HD
+http://mo3ad.xyz:8080/mo3ad7/mo3ad7/16
+#EXTINF:-1 group-title="BEIN SPORT M3AD",beIN Sports 3 HD
+http://mo3ad.xyz:8080/mo3ad7/mo3ad7/17
+
 
 #EXTINF: -1 group-title="Astro", beIN Sports (ccs2)
 #https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619166
@@ -267,38 +284,6 @@ http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/62809
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport Tennis" tvg-logo="" group-title="AFRICA",SuperSport Tennis (iptvfree)
 #http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/276765.ts
 
-#EXTINF:-1 group-title="SS", SuperSport Variety 01
-http://sofadad.co.uk:80/emma123/123emma/212365
-#EXTINF:-1 group-title="SS",SuperSport Variety 02
-http://sofadad.co.uk:80/emma123/123emma/212366
-#EXTINF:-1 group-title="SS",SuperSport Variety 03
-http://sofadad.co.uk:80/emma123/123emma/212361
-#EXTINF:-1 group-title="SS",SuperSport Variety 04
-http://sofadad.co.uk:80/emma123/123emma/212362
-#EXTINF:-1 group-title="SS",SuperSport Premier League
-http://sofadad.co.uk:80/emma123/123emma/212370
-#EXTINF:-1 group-title="SS",SuperSport Football
-http://sofadad.co.uk:80/emma123/123emma/212363
-#EXTINF:-1 group-title="SS",SuperSport Tennis
-http://sofadad.co.uk:80/emma123/123emma/212356
-#EXTINF:-1 group-title="SS",SuperSport Motorsports
-http://sofadad.co.uk:80/emma123/123emma/212357
-#EXTINF:-1 group-title="SS",SuperSport Golf
-http://sofadad.co.uk:80/emma123/123emma/212358
-#EXTINF:-1 group-title="SS",SuperSport Cricket
-http://sofadad.co.uk:80/emma123/123emma/212359
-#EXTINF:-1 group-title="SS",SuperSport Rugby
-http://sofadad.co.uk:80/emma123/123emma/212360
-#EXTINF:-1 group-title="SS",SuperSport Action
-http://sofadad.co.uk:80/emma123/123emma/212364
-#EXTINF:-1 group-title="SS",SuperSport Granstand
-http://sofadad.co.uk:80/emma123/123emma/212367
-#EXTINF:-1 group-title="SS",SuperSport PSL
-http://sofadad.co.uk:80/emma123/123emma/212368
-#EXTINF:-1 group-title="SS",SuperSport La Liga
-http://sofadad.co.uk:80/emma123/123emma/212369
-#EXTINF:-1 group-title="SS",SuperSport Blitz
-http://sofadad.co.uk:80/emma123/123emma/212371
 
 #EXTINF:-1 tvg-id="" tvg-name="ELEVENSPORT 1 (BE)" tvg-logo="" group-title="BELGUIM ",ELEVENSPORT 1 (BE)
 http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/64468
