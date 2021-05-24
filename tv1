@@ -123,20 +123,13 @@ http://thespeedmedia.watch:2086/65945/65945/76337
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO bEIN MAX" tvg-logo="" group-title="ASTRO",ASTRO bEIN MAX (speedmedia)
 http://thespeedmedia.watch:2086/65945/65945/76330
 
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO",MY: ASTRO SUPER SPORTS 1 HD (star)
-http://starshare.live:8080/live/arfat/arfat/5480.ts
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634" group-title="ASTRO",MY: ASTRO SUPER SPORTS 2 HD (star)
-http://starshare.live:8080/live/arfat/arfat/5481.ts
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="ASTRO",MY: ASTRO SUPER SPORTS 3 HD (star)
-http://starshare.live:8080/live/arfat/arfat/5482.ts
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748" group-title="ASTRO",MY: ASTRO SUPER SPORTS 4 HD (star)
-http://starshare.live:8080/live/arfat/arfat/5483.ts
+
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport (stack)
 #http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
 #http://ztvuk.com:8080/saif/saif123/93033
 #http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/110252.ts
-http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/23453
+#http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/23453
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport 2 (stack)
 #http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
 #http://ztvuk.com:8080/saif/saif123/93034
@@ -146,12 +139,12 @@ http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/23452
 #http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 #http://ztvuk.com:8080/saif/saif123/93035
 #http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/110254.ts
-http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/23451
+#http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/23451
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport 4 (stack)
 #http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 #http://ztvuk.com:8080/saif/saif123/93036
 #http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/110255.ts
-http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/33973
+#http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/33973
 
 
 #EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png" group-title="ASTRO",ASTRO SUPERSPORT HD
@@ -163,14 +156,6 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
 #EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT 4 HD" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="ASTRO",ASTRO SUPERSPORT 4 HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
 
-#EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT 4 HD" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="ASTRO",MY040:ASTRO ASSP4 HD
-http://ccs2.coolmyvip.club:8880/ice12m1192/ns545835/59217
-#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="ASTRO SUPERSPORT 3 HD" tvg-logo="https://i.postimg.cc/3wmgKLYP/200px-Astro-ASSP3.png" group-title="ASTRO",MY039:ASTRO ASSP3 HD
-http://ccs2.coolmyvip.club:8880/ice12m1192/ns545835/59218
-#EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png" group-title="ASTRO",MY037:ASTRO ASSP HD
-http://ccs2.coolmyvip.club:8880/ice12m1192/ns545835/59220
-#EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT 2 HD" tvg-name="ASTRO SUPERSPORT 2 HD" tvg-logo="https://i.postimg.cc/LXv2LpmL/Astro-Super-Sport-2.png" group-title="ASTRO",MY038:ASTRO ASSP2 HD
-http://ccs2.coolmyvip.club:8880/ice12m1192/ns545835/59219
 
 #EXTINF: -1tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png"  group-title="ASTRO", ASTRO SUPERSPORT HD (m3u-editor)
 https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619158
@@ -201,12 +186,7 @@ http://thespeedmedia.watch:2086/5424/5424/31355
 
 #EXTINF:-1, tvg-id="" tvg-name="TR : BEIN SPORT HD" tvg-logo="" group-title="BEIN SPORTS",TR : BEIN SPORT  HD (echo)
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/137.ts
-#EXTINF:-1, tvg-id="" tvg-name="FR : BEIN SPORT 1 HD" tvg-logo="" group-title="BEIN SPORTS",FR : BEIN SPORT 1 HD
-http://starshare.live:8080/live/arfat/arfat/356.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR : BEIN SPORT 2 HD" tvg-logo="" group-title="BEIN SPORTS",FR : BEIN SPORT 2 HD
-http://starshare.live:8080/live/arfat/arfat/357.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR : BEIN SPORT 3 HD" tvg-logo="" group-title="BEIN SPORTS",FR : BEIN SPORT 3 HD
-http://starshare.live:8080/live/arfat/arfat/358.ts
+
 
 
 #EXTINF:-1 group-title="BEIN SPORTS",BEINSPORT1FR
@@ -255,12 +235,7 @@ http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/533
 http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/531
 #EXTINF:-1 group-title="BEIN SPORTS",GOLF CHANNEL
 http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/530
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 HD" tvg-logo="" group-title="BEIN SPORTS",AR: BEIN SPORTS 1 HD
-http://starshare.live:8080/live/arfat/arfat/359.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR : BEIN SPORT 2 HD" tvg-logo="" group-title="BEIN SPORTS",AR : BEIN SPORT 2 HD
-http://starshare.live:8080/live/arfat/arfat/360.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR : BEIN SPORT 3 HD" tvg-logo="" group-title="BEIN SPORTS",AR : BEIN SPORT 3 HD
-http://starshare.live:8080/live/arfat/arfat/361.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 HD" tvg-logo="" group-title="BEIN SPORTS",TR: BEIN SPORTS 1 HD
 https://b.pscdn.live/hls/bein-sports-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 HD" tvg-logo="" group-title="BEIN SPORTS",TR: BEIN SPORTS 2 HD
@@ -331,7 +306,7 @@ http://iptv8.premium-stv.com:2052/live/sourc@@ebelgiquepro1/557873030/1874.ts
 http://iptv8.premium-stv.com:2052/live/sourc@@ebelgiquepro1/557873030/1874.ts
 #EXTINF:-1 group-title="BELGUIM ", ELEVENSPORT 1 (BE) dimapro
 http://dimapro.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/64468
-#EXTINF:-1 group-title="BELGUIM ",ELEVENSPORT 2 (BE)
+#EXTINF:-1 group-title="BELGUIM ",ELEVENSPORT 2 (BE) dimapro
 http://dimapro.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/64470
 
 
