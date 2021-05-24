@@ -25,14 +25,10 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8
 
 
-#EXTINF:-1group-title="THAI SPORT",True Vision 1 (77)
+#EXTINF:-1group-title="THAI SPORT",True remier Football HD 1 (77)
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1group-title="THAI SPORT",True Vision 2 (77)
+#EXTINF:-1group-title="THAI SPORT",True remier Football HD 2 (77)
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="THAI SPORT",Thai: Premier Football HD 1
-http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/6808
-#EXTINF:-1 group-title="THAI SPORT",Thai: Premier Football HD 2
-http://goiptv.co:8080/kennythetiger/1YFY8z6jwT/6799
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT",  TRUE SPORT 1 (77)
 http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT",  TRUE SPORT 2 (77)
@@ -322,10 +318,14 @@ http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 http://kingsiptv.streamtv.to:8080/Jx89wrg5mF/53qWDkwKRL/7030
 #EXTINF:-1 group-title="ZZ SPORTS",BG: Diema 2 (kingsiptv)
 http://kingsiptv.streamtv.to:8080/Jx89wrg5mF/53qWDkwKRL/7026
-#EXTINF:-1 roup-title="ZZ SPORTS",BG: DiemaSport (freenet)
+#EXTINF:-1 group-title="ZZ SPORTS",BG: DiemaSport (freenet)
 http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/51491.ts
-#EXTINF:-1 roup-title="ZZ SPORTS",BG: DiemaSport2  (freenet)
+#EXTINF:-1 group-title="ZZ SPORTS",BG: DiemaSport2  (freenet)
 http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/51490.ts
+#EXTINF:-1 group-title="ZZ SPORTS",BG | Diema Sport HD (dream45)
+http://dream45.ddns.net:80/play/DAPS9qFvtx_YpIq1r1ZwT0jWWzW1t8NCMNGVoA0OEqPYxVLHHszwv4taIyw2JC8Y/ts
+#EXTINF:-1 group-title="ZZ SPORTS",BG | Diema Sport 2 HD (dream45)
+http://dream45.ddns.net:80/play/DAPS9qFvtx_YpIq1r1ZwT0jWWzW1t8NCMNGVoA0OEqMbET2qo0NXlVVNdkc0lsvm/ts
 #EXTINF:-1 group-title="ZZ SPORTS",US: Bein Sport
 http://serviceinput.online:2999/pimp/pimp/205
 #EXTINF:-1 group-title="ZZ SPORTS",SPORTS: BEIN En Espanol
