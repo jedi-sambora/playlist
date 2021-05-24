@@ -100,6 +100,11 @@ https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619168
 http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/27937
 #EXTINF:-1 group-title="ASTRO",beIN SPORTS HD MY (iptvstack)
 http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/27938
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO beIN SPORTS" tvg-logo="" group-title="ASTRO",ASTRO beIN SPORTS (speedmedia)
+http://thespeedmedia.watch:2086/65945/65945/76337
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO bEIN MAX" tvg-logo="" group-title="ASTRO",ASTRO bEIN MAX (speedmedia)
+http://thespeedmedia.watch:2086/65945/65945/76330
+
 #EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO",MY: ASTRO SUPER SPORTS 1 HD (star)
 http://starshare.live:8080/live/arfat/arfat/5480.ts
 #EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634" group-title="ASTRO",MY: ASTRO SUPER SPORTS 2 HD (star)
@@ -259,38 +264,39 @@ http://thespeedmedia.watch:2086/5424/5424/145205
 http://thespeedmedia.watch:2086/5424/5424/145206
 
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",PT: SPORT TV 1 HD
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",PT: SPORT TV 1 HD (83)
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://logo.ddnb.tn/logochanel/2124.png",PT: SPORT TV 2 HD
-http://rv.imax.re:80/5650755702/0328421619/81648
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://logo.ddnb.tn/logochanel/2124.png",PT: SPORT TV 2 HD
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://logo.ddnb.tn/logochanel/2124.png",PT: SPORT TV 2 HD (83)
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PORTUGAL" "tvg-logo="http://logo.ddnb.tn/logochanel/2125.png",PT: SPORT TV 3 HD
+#EXTINF:-1 group-title="PORTUGAL" "tvg-logo="http://logo.ddnb.tn/logochanel/2125.png",PT: SPORT TV 3 HD (83)
 http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PORTUGAL""tvg-logo="http://logo.ddnb.tn/logochanel/2126.png",SPORTTV 4
+#EXTINF:-1 group-title="PORTUGAL""tvg-logo="http://logo.ddnb.tn/logochanel/2126.png",SPORTTV 4 (83)
 http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="PORTUGAL""tvg-logo="http://logo.ddnb.tn/logochanel/2127.png",SPORTTV 5
+#EXTINF:-1 group-title="PORTUGAL""tvg-logo="http://logo.ddnb.tn/logochanel/2127.png",SPORTTV 5 (83)
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",Sport TV 1 HD (dimapro)
+http://dimapro.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/59274
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://logo.ddnb.tn/logochanel/2124.png",Sport TV 2 HD  (dimapro)
+http://dimapro.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/59275
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://logo.ddnb.tn/logochanel/2125.png",Sport TV 3 HD  (dimapro)
+http://dimapro.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/59276
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://logo.ddnb.tn/logochanel/2126.png",Sport TV 4 HD  (dimapro)
+http://dimapro.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/59277
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="http://logo.ddnb.tn/logochanel/2127.png",Sport TV 5 HD  (dimapro)
+http://dimapro.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/59278
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Football" tvg-logo="" group-title="AFRICA",SuperSport Football
-http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/62800
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport Football" tvg-logo="" group-title="AFRICA",SuperSport Football (stack)
 http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/28901
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Grandstand" tvg-logo="" group-title="AFRICA",SuperSport Grandstand
-http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/62802
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport La Liga" tvg-logo="" group-title="AFRICA",SuperSport La Liga
-http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/62803
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport La Liga" tvg-logo="" group-title="AFRICA",SuperSport La Liga (stack)
 http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/28895
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Premier League" tvg-logo="" group-title="AFRICA",SuperSport Premier League
-http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/62806
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport Premier League" tvg-logo="" group-title="AFRICA",SuperSport Premier League (stack)
 http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/28896
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Tennis" tvg-logo="" group-title="AFRICA",SuperSport Tennis
-http://xtra.xcs521.cz:8080/00:1A:79:17:0A:2D/ziajdjjfdifjd64646/62809
+
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport Tennis" tvg-logo="" group-title="AFRICA",SuperSport Tennis (iptvfree)
 #http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/276765.ts
+#EXTINF:-1 group-title="AFRICA",SuperSport Tennis (dimapro)
+http://dimapro.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/62809
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ELEVENSPORT 1 (BE)" tvg-logo="" group-title="BELGUIM ",ELEVENSPORT 1 (BE)
@@ -305,6 +311,10 @@ http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 http://iptv8.premium-stv.com:2052/live/sourc@@ebelgiquepro1/557873030/1874.ts
 #EXTINF:-1 tvg-id="" tvg-name="ELEVENSPORT 2 (iptv8)" tvg-logo="" group-title="BELGUIM ",ELEVENSPORT 2 (iptv8)
 http://iptv8.premium-stv.com:2052/live/sourc@@ebelgiquepro1/557873030/1874.ts
+#EXTINF:-1 group-title="BELGUIM ", ELEVENSPORT 1 (BE) dimapro
+http://dimapro.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/64468
+#EXTINF:-1 group-title="BELGUIM ",ELEVENSPORT 2 (BE)
+http://dimapro.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/64470
 
 
 #EXTINF:-1 group-title="ZZ SPORTS",|BR| ESPN
