@@ -139,10 +139,12 @@ http://mo3ad.xyz:8080/mo3ad7/mo3ad7/33
 
 #EXTINF: -1 group-title="Astro", beIN Sports (ccs2)
 #https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619166
+#https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295299151
 http://ccs2.coolmyvip.club:8880/ice12m1192/ns545835/71104
 #EXTINF: -1 group-title="Astro", beIN MAX (ccs2)
 #https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619167
 http://ccs2.coolmyvip.club:8880/ice12m1192/ns545835/71105
+
 #EXTINF: -1 group-title="Astro", beIN MAX 2 (m3u-editor)
 https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619168
 #EXTINF:-1 group-title="ASTRO",beIN SPORTS MAX MY (iptvstack)
@@ -204,13 +206,17 @@ https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619160
 https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619161
 
 #EXTINF:-1 tvg-id="Erz.Assp1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="Sports",Astro Supersport 1
-http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+#http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295299151
 #EXTINF:-1 tvg-id="Erz.Assp2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3N8F_hJKmX9Ct16ir5opC6x30NVo_3exrw&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="Sports",Astro Supersport 2
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+#http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295299151
 #EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLuBQjEQPzXniLS9Sy85t1wpSzymd2YdW5Xg&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="Sports",Astro Supersport 3
-http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+#http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295815152
 #EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKroP1M0tQjt9HJ7olsUlmhuPLBxsw9TceQ&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="Sports",Astro Supersport 4
-http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+#http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295815153
 
 #EXTINF: -1tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png"  group-title="ASTRO", ASTRO SUPERSPORT HD (UK speedmedia)
 http://thespeedmedia.watch:2086/5424/5424/31352
