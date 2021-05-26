@@ -42,40 +42,40 @@ http://kingsiptv.streamtv.to:8080/Jx89wrg5mF/53qWDkwKRL/8509
 #EXTINF:-1 group-title="THAI SPORT",Thai: Bein sport 3 TH (kingtv)
 http://kingsiptv.streamtv.to:8080/Jx89wrg5mF/53qWDkwKRL/8504
 
-#EXTINF:-1 group-title="AF SPORT", SUPERSPORT 1 HD
-http://185.71.64.167:80/307226001771/307226001771/85169
-#EXTINF:-1 group-title="AF SPORT", SUPERSPORT 2 HD
-http://185.71.64.167:80/307226001771/307226001771/85168
-#EXTINF:-1 group-title="AF SPORT", SUPERSPORT 3 HD
-http://185.71.64.167:80/307226001771/307226001771/85167
-#EXTINF:-1 group-title="AF SPORT", SUPERSPORT 4 HD
-http://185.71.64.167:80/307226001771/307226001771/85166
-#EXTINF:-1 group-title="AF SPORT", SUPERSPORT 5 HD
-http://185.71.64.167:80/307226001771/307226001771/85165
-#EXTINF:-1 group-title="AF SPORT", SUPERSPORT 6 HD
-http://185.71.64.167:80/307226001771/307226001771/85164
-#EXTINF:-1 group-title="AF SPORT", SUPERSPORT 7 HD
-http://185.71.64.167:80/307226001771/307226001771/85163
-#EXTINF:-1 group-title="AF SPORT", SUPERSPORT 8 HD
-http://185.71.64.167:80/307226001771/307226001771/85162
-#EXTINF:-1 group-title="AF SPORT", SUPERSPORT 10 HD
-http://185.71.64.167:80/307226001771/307226001771/85161
-#EXTINF:-1 group-title="AF SPORT", SUPERSPORT 11 HD
-http://185.71.64.167:80/307226001771/307226001771/85160
-#EXTINF:-1 group-title="AF SPORT", SUPERSPORT 12 HD
-http://185.71.64.167:80/307226001771/307226001771/85159
-#EXTINF:-1 group-title="AF SPORT", SUPERSPORT 13 HD
-http://185.71.64.167:80/307226001771/307226001771/85158
-#EXTINF:-1 group-title="AF SPORT", SUPERSPORT 15 HD
-http://185.71.64.167:80/307226001771/307226001771/85157
-#EXTINF:-1 group-title="AF SPORT", SUPERSPORT EVENTS HD
-http://185.71.64.167:80/307226001771/307226001771/85156
-#EXTINF:-1 group-title="AF SPORT", SUPERSPORT BLITZ HD
-http://185.71.64.167:80/307226001771/307226001771/85155
-#EXTINF:-1 group-title="AF SPORT", SUPERSPORT MAXIMO 1
-http://185.71.64.167:80/307226001771/307226001771/85154
-#EXTINF:-1 group-title="AF SPORT", SUPERSPORT PLAY HD
-http://185.71.64.167:80/307226001771/307226001771/85153
+#EXTINF:-1  group-title="SS SAF",  Super Sport Grandstand
+http://ztvuk.com:8080/younis/younis123/17189
+#EXTINF:-1  group-title="SS SAF",  Super Sport Action
+http://ztvuk.com:8080/younis/younis123/17186
+#EXTINF:-1  group-title="SS SAF",  Super Sport Golf
+http://ztvuk.com:8080/younis/younis123/17190
+#EXTINF:-1  group-title="SS SAF",  Super Sport Cricket
+http://ztvuk.com:8080/younis/younis123/17685
+#EXTINF:-1  group-title="SS SAF",  Super Sport PSL
+http://ztvuk.com:8080/younis/younis123/17273
+#EXTINF:-1  group-title="SS SAF",  Super Sport Tennis
+http://ztvuk.com:8080/younis/younis123/17272
+#EXTINF:-1  group-title="SS SAF",  Super Sport Rugby
+http://ztvuk.com:8080/younis/younis123/17681
+#EXTINF:-1  group-title="SS SAF",  Super Sport Football
+http://ztvuk.com:8080/younis/younis123/17682
+#EXTINF:-1  group-title="SS SAF",  Super Sport Blitz
+http://ztvuk.com:8080/younis/younis123/17687
+#EXTINF:-1  group-title="SS SAF",  Supersports La Liga
+http://ztvuk.com:8080/younis/younis123/17684
+#EXTINF:-1  group-title="SS SAF",  Super Sport Motorsport
+http://ztvuk.com:8080/younis/younis123/17688
+#EXTINF:-1  group-title="SS SAF",SAF:  Super Sport Play
+http://ztvuk.com:8080/younis/younis123/92474
+#EXTINF:-1  group-title="SS SAF",  Super Sport WWE
+http://ztvuk.com:8080/younis/younis123/92204
+#EXTINF:-1  group-title="SS SAF",SAF:  Super Sports Variety 1
+http://ztvuk.com:8080/younis/younis123/17187
+#EXTINF:-1  group-title="SS SAF",SAF:  Super Sports Variety 2
+http://ztvuk.com:8080/younis/younis123/17683
+#EXTINF:-1  group-title="SS SAF",SAF:  Super Sports Variety 3
+http://ztvuk.com:8080/younis/younis123/92157
+#EXTINF:-1  group-title="SS SAF",SAF:  Super Sports Variety 4
+http://ztvuk.com:8080/younis/younis123/92158
 
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT ACTION FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="South Africa",ZA: SUPERSPORT ACTION FHD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/194354
@@ -117,24 +117,7 @@ http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EN : BEIN SPORT 2 HD" tvg-logo="" group-title="AR SPORT",EN : BEIN SPORT 2  HD
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 
-#EXTINF:-1 group-title="BEIN SPORT M3AD",beIN Sports 1 Premium HD
-http://mo3ad.xyz:8080/mo3ad7/mo3ad7/1
-#EXTINF:-1 group-title="BEIN SPORT M3AD",beIN Sports 2 Premium HD
-http://mo3ad.xyz:8080/mo3ad7/mo3ad7/3
-#EXTINF:-1 group-title="BEIN SPORT M3AD",beIN Sports 3 Premium HD
-http://mo3ad.xyz:8080/mo3ad7/mo3ad7/5
-#EXTINF:-1 group-title="BEIN SPORT M3AD",beIN Sports 4 HD
-http://mo3ad.xyz:8080/mo3ad7/mo3ad7/7
-#EXTINF:-1 group-title="BEIN SPORT M3AD",beIN Sports 5 HD
-http://mo3ad.xyz:8080/mo3ad7/mo3ad7/9
-#EXTINF:-1 group-title="BEIN SPORT M3AD",beIN Sports 1 HD
-http://mo3ad.xyz:8080/mo3ad7/mo3ad7/15
-#EXTINF:-1 group-title="BEIN SPORT M3AD",beIN Sports 2 HD
-http://mo3ad.xyz:8080/mo3ad7/mo3ad7/16
-#EXTINF:-1 group-title="BEIN SPORT M3AD",beIN Sports 3 HD
-http://mo3ad.xyz:8080/mo3ad7/mo3ad7/17
-#EXTINF:-1 group-title="BEIN SPORT M3AD",Bein Extra HD1
-http://mo3ad.xyz:8080/mo3ad7/mo3ad7/33
+
 
 
 #EXTINF: -1 group-title="Astro", beIN Sports (ccs2)
@@ -147,10 +130,6 @@ http://ccs2.coolmyvip.club:8880/ice12m1192/ns545835/71105
 
 #EXTINF: -1 group-title="Astro", beIN MAX 2 (m3u-editor)
 https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619168
-#EXTINF:-1 group-title="ASTRO",beIN SPORTS MAX MY (iptvstack)
-http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/27937
-#EXTINF:-1 group-title="ASTRO",beIN SPORTS HD MY (iptvstack)
-http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/27938
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO beIN SPORTS" tvg-logo="" group-title="ASTRO",ASTRO beIN SPORTS (speedmedia)
 http://thespeedmedia.watch:2086/65945/65945/76337
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO bEIN MAX" tvg-logo="" group-title="ASTRO",ASTRO bEIN MAX (speedmedia)
@@ -218,14 +197,14 @@ https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295815152
 #http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295815153
 
-#EXTINF: -1tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png"  group-title="ASTRO", ASTRO SUPERSPORT HD (UK speedmedia)
-http://thespeedmedia.watch:2086/5424/5424/31352
-#EXTINF: -1tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png"  group-title="ASTRO", ASTRO SUPERSPORT 2 HD (UK speedmedia)
-http://thespeedmedia.watch:2086/5424/5424/31353
-#EXTINF: -1tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png"  group-title="ASTRO", ASTRO SUPERSPORT 3 HD (UK speedmedia)
-http://thespeedmedia.watch:2086/5424/5424/31354
-#EXTINF: -1tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/834_300.png"  group-title="ASTRO", ASTRO SUPERSPORT 4 HD (UK speedmedia)
-http://thespeedmedia.watch:2086/5424/5424/31355
+#EXTINF: -1tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png"  group-title="ASTRO", ASTRO SUPERSPORT HD (ztvuk)
+http://ztvuk.com:8080/younis/younis123/93033
+#EXTINF: -1tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png"  group-title="ASTRO", ASTRO SUPERSPORT 2 HD (ztvuk)
+http://ztvuk.com:8080/younis/younis123/93034
+#EXTINF: -1tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png"  group-title="ASTRO", ASTRO SUPERSPORT 3 HD (ztvuk)
+http://ztvuk.com:8080/younis/younis123/93035
+#EXTINF: -1tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/834_300.png"  group-title="ASTRO", ASTRO SUPERSPORT 4 HD (ztvuk)
+http://ztvuk.com:8080/younis/younis123/93036
 
 #EXTINF:-1, tvg-id="" tvg-name="TR : BEIN SPORT HD" tvg-logo="" group-title="BEIN SPORTS",TR : BEIN SPORT  HD (echo)
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/137.ts
@@ -322,15 +301,9 @@ http://dimapro.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/59277
 http://dimapro.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/59278
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Football" tvg-logo="" group-title="AFRICA",SuperSport Football (stack)
-http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/28901
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport La Liga" tvg-logo="" group-title="AFRICA",SuperSport La Liga (stack)
-http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/28895
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Premier League" tvg-logo="" group-title="AFRICA",SuperSport Premier League (stack)
-http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/28896
 
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Tennis" tvg-logo="" group-title="AFRICA",SuperSport Tennis (iptvfree)
-#http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/276765.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Tennis" tvg-logo="" group-title="AFRICA",SuperSport Tennis (zvtuk)
+http://ztvuk.com:8080/younis/younis123/17272
 #EXTINF:-1 group-title="AFRICA",SuperSport Tennis (dimapro)
 http://dimapro.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/62809
 
@@ -378,11 +351,11 @@ http://serviceinput.online:2999/pimp/pimp/205
 #EXTINF:-1 group-title="ZZ SPORTS",SPORTS: BEIN En Espanol
 http://goodtv.xyz:2052/reggie/reggie/1524562
 #EXTINF:-1 group-title="ZZ SPORTS",SPORTS: BEIN LaLiga
-http://goodtv.xyz:2052/reggie/reggie/1524563
+http://ztvuk.com:8080/younis/younis123/13751
 #EXTINF:-1 group-title="ZZ SPORTS",SPORTS: BEIN LaLiga (privat)
 http://p2.iptvprivateserver.tv:80/F90572Z0560R/1sbieqSd6r/762
 #EXTINF:-1 group-title="ZZ SPORTS",SPORTS: BEIN USA
-http://goodtv.xyz:2052/reggie/reggie/1524564
+http://ztvuk.com:8080/younis/younis123/29384
 #EXTINF:-1 group-title="ZZ SPORTS",SPORTS: Fox Sport Premium
 http://serviceinput.online:2999/pimp/pimp/992
 #EXTINF:-1 tvg-id="" tvg-name="US: NBCSN" tvg-logo="" group-title="ZZ SPORTS",US: NBCSN
