@@ -42,44 +42,6 @@ http://kingsiptv.streamtv.to:8080/Jx89wrg5mF/53qWDkwKRL/8509
 #EXTINF:-1 group-title="THAI SPORT",Thai: Bein sport 3 TH (kingtv)
 http://kingsiptv.streamtv.to:8080/Jx89wrg5mF/53qWDkwKRL/8504
 
-#EXTINF:-1 tvg-id="ss.grandstand.ze" tvg-name="DSTV: SuperSport Grandstand" tvg-logo="http://tesprologs.xyz/Logos/SuperSport_Name/Grandstand.png" group-title="SUPERSPORTS",DSTV: SuperSport Grandstand
-http://gooserace.xyz:2052/d58mc7yg/uBSDGpS8af/2107266
-#EXTINF:-1 tvg-id="ss.psl.ze" tvg-name="DSTV: SuperSport PSL" tvg-logo="http://tesprologs.xyz/Logos/SuperSport_Name/PSL.png" group-title="SUPERSPORTS",DSTV: SuperSport PSL
-http://gooserace.xyz:2052/d58mc7yg/uBSDGpS8af/2107267
-#EXTINF:-1 tvg-id="ss.premier.league.ze" tvg-name="DSTV: SuperSport Premier League" tvg-logo="http://tesprologs.xyz/Logos/SuperSport_Name/Premier%20League.png" group-title="SUPERSPORTS",DSTV: SuperSport Premier League
-http://gooserace.xyz:2052/d58mc7yg/uBSDGpS8af/2107268
-#EXTINF:-1 tvg-id="ss.variety.4.ze" tvg-name="DSTV: SuperSport 4" tvg-logo="http://tesprologs.xyz/Logos/SuperSport_Name/4.png" group-title="SUPERSPORTS",DSTV: SuperSport 4
-http://gooserace.xyz:2052/d58mc7yg/uBSDGpS8af/2107269
-#EXTINF:-1 tvg-id="ss.football.ze" tvg-name="DSTV: SuperSport Football" tvg-logo="http://tesprologs.xyz/Logos/SuperSport_Name/Football.png" group-title="SUPERSPORTS",DSTV: SuperSport Football
-http://gooserace.xyz:2052/d58mc7yg/uBSDGpS8af/2107270
-#EXTINF:-1 tvg-id="ss.variety.1.ze" tvg-name="DSTV: SuperSport Variety 1" tvg-logo="http://tesprologs.xyz/Logos/SuperSport_Name/Variety%201.png" group-title="SUPERSPORTS",DSTV: SuperSport Variety 1
-http://gooserace.xyz:2052/d58mc7yg/uBSDGpS8af/2107271
-#EXTINF:-1 tvg-id="ss.variety.2.ze" tvg-name="DSTV: SuperSport Variety 2" tvg-logo="http://tesprologs.xyz/Logos/SuperSport_Name/Variety%202.png" group-title="SUPERSPORTS",DSTV: SuperSport Variety 2
-http://gooserace.xyz:2052/d58mc7yg/uBSDGpS8af/2107272
-#EXTINF:-1 tvg-id="ss.variety.3.ze" tvg-name="DSTV: SuperSport Variety 3" tvg-logo="http://tesprologs.xyz/Logos/SuperSport_Name/Variety%203.png" group-title="SUPERSPORTS",DSTV: SuperSport Variety 3
-http://gooserace.xyz:2052/d58mc7yg/uBSDGpS8af/2107273
-#EXTINF:-1 tvg-id="ss.variety.4.ze" tvg-name="DSTV: SuperSport Variety 4" tvg-logo="http://tesprologs.xyz/Logos/SuperSport_Name/Variety%204.png" group-title="SUPERSPORTS",DSTV: SuperSport Variety 4
-http://gooserace.xyz:2052/d58mc7yg/uBSDGpS8af/2107274
-#EXTINF:-1 tvg-id="ss.action.ze" tvg-name="DSTV: SuperSport Action" tvg-logo="http://tesprologs.xyz/Logos/SuperSport_Name/Action.png" group-title="SUPERSPORTS",DSTV: SuperSport Action
-http://gooserace.xyz:2052/d58mc7yg/uBSDGpS8af/2107275
-#EXTINF:-1 tvg-id="ss.rugby.ze" tvg-name="DSTV: SuperSport Rugby" tvg-logo="http://tesprologs.xyz/Logos/SuperSport_Name/Rugby.png" group-title="SUPERSPORTS",DSTV: SuperSport Rugby
-http://gooserace.xyz:2052/d58mc7yg/uBSDGpS8af/2107276
-#EXTINF:-1 tvg-id="ss.cricket.ze" tvg-name="DSTV: SuperSport Cricket" tvg-logo="http://tesprologs.xyz/Logos/SuperSport_Name/cricket.png" group-title="SUPERSPORTS",DSTV: SuperSport Cricket
-http://gooserace.xyz:2052/d58mc7yg/uBSDGpS8af/2107277
-#EXTINF:-1 tvg-id="ss.blitz.ze" tvg-name="DSTV: Supersport Blitz" tvg-logo="http://tesprologs.xyz/Logos/SuperSport_Name/Blitz.png" group-title="SUPERSPORTS",DSTV: Supersport Blitz
-http://gooserace.xyz:2052/d58mc7yg/uBSDGpS8af/2107278
-#EXTINF:-1 tvg-id="ss.tennis.ze" tvg-name="DSTV: SuperSport Tennis" tvg-logo="http://tesprologs.xyz/Logos/SuperSport_Name/Tennis.png" group-title="SUPERSPORTS",DSTV: SuperSport Tennis
-http://gooserace.xyz:2052/d58mc7yg/uBSDGpS8af/2107279
-#EXTINF:-1 tvg-id="ss.motorsport.ze" tvg-name="DSTV: SuperSport Motorsport" tvg-logo="http://tesprologs.xyz/Logos/SuperSport_Name/Motorsport.png" group-title="SUPERSPORTS",DSTV: SuperSport Motorsport
-http://gooserace.xyz:2052/d58mc7yg/uBSDGpS8af/2107280
-#EXTINF:-1 tvg-id="ss.la.liga.ze" tvg-name="DSTV: SuperSport La Liga" tvg-logo="http://tesprologs.xyz/Logos/SuperSport_Name/La%20Liga.png" group-title="SUPERSPORTS",DSTV: SuperSport La Liga
-http://gooserace.xyz:2052/d58mc7yg/uBSDGpS8af/2107281
-#EXTINF:-1 tvg-id="ss.golf.ze" tvg-name="DSTV: SuperSport Golf" tvg-logo="http://tesprologs.xyz/Logos/SuperSport_Name/Golf.png" group-title="SUPERSPORTS",DSTV: SuperSport Golf
-http://gooserace.xyz:2052/d58mc7yg/uBSDGpS8af/2107282
-#EXTINF:-1 tvg-id="ss.mximo.1.ze" tvg-name="DSTV: SuperSport MaXimo 1" tvg-logo="http://tesprologs.xyz/Logos/SuperSport_Name/Maximo%201.png" group-title="SUPERSPORTS",DSTV: SuperSport MaXimo 1
-http://gooserace.xyz:2052/d58mc7yg/uBSDGpS8af/2107283
-#EXTINF:-1 tvg-id="supersport.play.ze" tvg-name="DSTV: SuperSport Play" tvg-logo="http://tesprologs.xyz/Logos/SuperSport_Name/Play.png" group-title="SUPERSPORTS",DSTV: SuperSport Play
-http://gooserace.xyz:2052/d58mc7yg/uBSDGpS8af/2107284
 
 #EXTINF:-1  group-title="SS SAF",  Super Sport Grandstand
 http://ztvuk.com:8080/younis/younis123/17189
@@ -176,6 +138,14 @@ http://thespeedmedia.watch:2086/65945/65945/76330
 #EXTINF:-1 tvg-id="" tvg-name="MY: beIN MAX" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/eea179e94ee357c53b3f2edc2cf9ed84.png"  group-title="ASTRO",MY: beIN MAX
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157487
 
+#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-my.png" group-title="ASTRO",Astro Super Sport 1 HD (PULSE)
+http://pulselightning.uk:8080/DAVEDAVE/zPtKOoAPKW/241164
+#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-2-my.png" group-title="ASTRO",Astro Super Sport 2 HD (PULSE)
+http://pulselightning.uk:8080/DAVEDAVE/zPtKOoAPKW/241165 
+#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-3-my.png" group-title="ASTRO",Astro Super Sport 3 HD (PULSE)
+http://pulselightning.uk:8080/DAVEDAVE/zPtKOoAPKW/287835
+#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-4-my.png" group-title="ASTRO",Astro Super Sport 4 HD (PULSE)
+http://pulselightning.uk:8080/DAVEDAVE/zPtKOoAPKW/241166
 
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport (stack)
