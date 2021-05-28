@@ -213,6 +213,14 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
 #EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT 4 HD" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="ASTRO",ASTRO SUPERSPORT 4 HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png" group-title="ASTRO",Astro Super Sport 1 HD (pulse)
+http://pulselightning.uk:8080/RYtgbUB79K/3CNKEEVWgF/241164
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXv2LpmL/Astro-Super-Sport-2.png" group-title="ASTRO",Astro Super Sport 2 HD (pulse)
+http://pulselightning.uk:8080/RYtgbUB79K/3CNKEEVWgF/241165
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wmgKLYP/200px-Astro-ASSP3.png" group-title="ASTRO",Astro Super Sport 3 HD (pulse)
+http://pulselightning.uk:8080/RYtgbUB79K/3CNKEEVWgF/287835
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="ASTRO",Astro Super Sport 4 HD (pulse)
+http://pulselightning.uk:8080/RYtgbUB79K/3CNKEEVWgF/241166
 
 #EXTINF: -1tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png"  group-title="ASTRO", ASTRO SUPERSPORT HD (m3u-editor)
 https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619158
@@ -340,7 +348,6 @@ http://dimapro.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/59277
 http://dimapro.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/59278
 
 
-
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport Tennis" tvg-logo="" group-title="AFRICA",SuperSport Tennis (zvtuk)
 http://ztvuk.com:8080/younis/younis123/17272
 #EXTINF:-1 group-title="AFRICA",SuperSport Tennis (dimapro)
@@ -363,6 +370,11 @@ http://iptv8.premium-stv.com:2052/live/sourc@@ebelgiquepro1/557873030/1874.ts
 http://dimapro.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/64468
 #EXTINF:-1 group-title="BELGUIM ",ELEVENSPORT 2 (BE) dimapro
 http://dimapro.cz:8080/00:1A:79:17:04:F9/ziajdjjfdifjd64646/64470
+#EXTINF:-1 group-title="BELGUIM ",ELEVENSPORT 1 (PL) 207
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 group-title="BELGUIM ",ELEVENSPORT 2 (PL) 207
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+
 
 
 #EXTINF:-1 group-title="ZZ SPORTS",|BR| ESPN
@@ -642,3 +654,41 @@ https://46-21-250-207.livesports24.online/uafootballua1.m3u8
 https://46-21-250-207.livesports24.online/fooootball2.m3u8
 #EXTINF:-1 group-title="Спорт",Футбол 3 HD
 https://46-21-250-207.livesports24.online/football3ua.m3u8
+
+#EXTINF:-1 group-title="Sport persik",Матч ТВ
+http://persik.by/stream/6696/480248/1077.m3u8
+#EXTINF:-1 group-title="Sport persik",Матч! Арена
+http://persik.by/stream/6696/480248/724.m3u8
+#EXTINF:-1 group-title="Sport persik",Матч! Боец
+http://persik.by/stream/6696/480248/595.m3u8
+#EXTINF:-1 group-title="Sport persik",Матч! Игра
+http://persik.by/stream/6696/480248/10270.m3u8
+#EXTINF:-1 group-title="Sport persik",Матч! Страна
+http://persik.by/stream/6696/480248/10271.m3u8
+#EXTINF:-1 group-title="Sport persik",Матч! Футбол 1
+http://persik.by/stream/6696/480248/346.m3u8
+#EXTINF:-1 group-title="Sport persik",Матч! Футбол 1 HD
+http://persik.by/stream/6696/480248/10266.m3u8
+#EXTINF:-1 group-title="Sport persik",Матч! Футбол 2
+http://persik.by/stream/6696/480248/10217.m3u8
+#EXTINF:-1 group-title="Sport persik",Матч! Футбол 2 HD
+http://persik.by/stream/6696/480248/10267.m3u8
+#EXTINF:-1 group-title="Sport persik",Матч! Футбол 3
+http://persik.by/stream/6696/480248/10218.m3u8
+#EXTINF:-1 group-title="Sport persik",Матч! Футбол 3 HD
+http://persik.by/stream/6696/480248/10268.m3u8
+#EXTINF:-1 group-title="Sport persik",Матч! Премьер
+http://persik.by/stream/6696/480248/10264.m3u8
+#EXTINF:-1 group-title="Sport persik",Матч! Премьер HD
+http://persik.by/stream/6696/480248/10294.m3u8
+#EXTINF:-1 group-title="Sport persik",Футбол (Россия)
+http://persik.by/stream/6696/480248/440.m3u8
+#EXTINF:-1 group-title="Sport persik",КХЛ ТВ
+http://persik.by/stream/6696/480248/604.m3u8
+#EXTINF:-1 group-title="Sport persik",КХЛ HD
+http://persik.by/stream/6696/480248/10242.m3u8
+#EXTINF:-1 group-title="Sport persik",Viasat Sport (Россия)
+http://persik.by/stream/6696/480248/10249.m3u8
+#EXTINF:-1 group-title="Sport persik",Extreme Sports
+http://persik.by/stream/6696/480248/99.m3u8
+
