@@ -23,6 +23,8 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0CyFv4-SR0eH_tbFi6pDnecZyx8=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-f32604.jpg" group-title="Sports ID",Champions TV 3
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8
+#EXTINF:-1   tvg-logo="" group-title="Sports ID",Oman sport
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 
 
 #EXTINF:-1group-title="THAI SPORT",True remier Football HD 1 (77)
@@ -662,3 +664,11 @@ http://persik.by/stream/6696/480248/10249.m3u8
 #EXTINF:-1 group-title="Sport persik",Extreme Sports
 http://persik.by/stream/6696/480248/99.m3u8
 
+#EXTINF:-1 group-title="ZANA",BEINSPORTS 1 Pre_FHD
+http://191.243.149.178:25461/ZANA/GOOD/2689
+#EXTINF:-1 group-title="ZANA",Bein Sports 1
+http://191.243.149.178:25461/ZANA/GOOD/2686
+#EXTINF:-1 group-title="ZANA",Bein Sports 2
+http://191.243.149.178:25461/ZANA/GOOD/2687
+#EXTINF:-1 group-title="ZANA",Bein Sports 3
+http://191.243.149.178:25461/ZANA/GOOD/2688
