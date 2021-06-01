@@ -207,16 +207,16 @@ https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619160
 #EXTINF: -1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/834_300.png" group-title="ASTRO", ASTRO SUPERSPORT 4 HD  (m3u-editor)
 https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619161
 
-#EXTINF:-1 tvg-id="Erz.Assp1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="Sports",Astro Supersport 1 m3e
+#EXTINF:-1 tvg-id="Erz.Assp1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="ASTRO",Astro Supersport 1 m3e
 #http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295299151
-#EXTINF:-1 tvg-id="Erz.Assp2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3N8F_hJKmX9Ct16ir5opC6x30NVo_3exrw&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="Sports",Astro Supersport 2 m3e
+#EXTINF:-1 tvg-id="Erz.Assp2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3N8F_hJKmX9Ct16ir5opC6x30NVo_3exrw&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="ASTRO",Astro Supersport 2 m3e
 #http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295299151
-#EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLuBQjEQPzXniLS9Sy85t1wpSzymd2YdW5Xg&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="Sports",Astro Supersport 3 m3e
+#EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLuBQjEQPzXniLS9Sy85t1wpSzymd2YdW5Xg&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="ASTRO",Astro Supersport 3 m3e
 #http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295815152
-#EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKroP1M0tQjt9HJ7olsUlmhuPLBxsw9TceQ&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="Sports",Astro Supersport 4 m3e
+#EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKroP1M0tQjt9HJ7olsUlmhuPLBxsw9TceQ&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="ASTRO",Astro Supersport 4 m3e
 #http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295815153
 
