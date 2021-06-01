@@ -101,8 +101,9 @@ http://ccs2.coolmyvip.club:8880/ice12m1192/ns545835/71105
 https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619168
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO beIN SPORTS" tvg-logo="" group-title="ASTRO",ASTRO beIN SPORTS (speedmedia)
 http://thespeedmedia.watch:2086/65945/65945/76337
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO bEIN MAX" tvg-logo="" group-title="ASTRO",ASTRO bEIN MAX (speedmedia)
-http://thespeedmedia.watch:2086/65945/65945/76330
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO bEIN MAX" tvg-logo="" group-title="ASTRO",ASTRO bEIN MAX (PENANG)
+#http://thespeedmedia.watch:2086/65945/65945/76330
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
 #EXTINF:-1 tvg-id="" tvg-name="MY: beIN MAX" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/eea179e94ee357c53b3f2edc2cf9ed84.png"  group-title="ASTRO",MY: beIN MAX
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157487
 
@@ -198,7 +199,30 @@ http://ztvuk.com:8080/younis/younis123/93036
 #EXTINF:-1, tvg-id="" tvg-name="TR : BEIN SPORT HD" tvg-logo="" group-title="BEIN SPORTS",TR : BEIN SPORT  HD (echo)
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/137.ts
 
-
+#EXTINF:-1 group-title="BEIN RICO",,BEIN SPORT 1 HD PREMIUM
+http://ricoootv.xyz:8080/ricotv0899/ricotv0899/1
+#EXTINF:-1 group-title="BEIN RICO",,BEIN SPORT 2 HD PREMIUM
+http://ricoootv.xyz:8080/ricotv0899/ricotv0899/2
+#EXTINF:-1 group-title="BEIN RICO",,BEIN SPORT 3 HD PREMIUM
+http://ricoootv.xyz:8080/ricotv0899/ricotv0899/3
+#EXTINF:-1 group-title="BEIN RICO",,BEIN SPORT 1 HD
+http://ricoootv.xyz:8080/ricotv0899/ricotv0899/4
+#EXTINF:-1 group-title="BEIN RICO",,BEIN SPORT 2 HD
+http://ricoootv.xyz:8080/ricotv0899/ricotv0899/5
+#EXTINF:-1 group-title="BEIN RICO",,BEIN SPORT 3 HD
+http://ricoootv.xyz:8080/ricotv0899/ricotv0899/6
+#EXTINF:-1 group-title="BEIN RICO",,BEIN SPORT 4 HD
+http://ricoootv.xyz:8080/ricotv0899/ricotv0899/7
+#EXTINF:-1 group-title="BEIN RICO",,BEIN SPORT 5 HD
+http://ricoootv.xyz:8080/ricotv0899/ricotv0899/8
+#EXTINF:-1 group-title="BEIN RICO",,BEIN SPORT 6 HD
+http://ricoootv.xyz:8080/ricotv0899/ricotv0899/9
+#EXTINF:-1 group-title="BEIN RICO",,BEIN SPORT 7 HD
+http://ricoootv.xyz:8080/ricotv0899/ricotv0899/10
+#EXTINF:-1 group-title="BEIN RICO",,BEIN SPORT EXTRA 1
+http://ricoootv.xyz:8080/ricotv0899/ricotv0899/12
+#EXTINF:-1 group-title="BEIN RICO",,BEIN SPORT EXTRA 2
+http://ricoootv.xyz:8080/ricotv0899/ricotv0899/13
 
 #EXTINF:-1 group-title="BEIN SPORTS",BEINSPORT1FR
 http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/544
