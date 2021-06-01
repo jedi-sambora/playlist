@@ -155,25 +155,29 @@ http://pulselightning.uk:8080/DAVEDAVE/zPtKOoAPKW/241166
 #http://ztvuk.com:8080/saif/saif123/93033
 #http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/110252.ts
 #http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/23453
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/146068
+#http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/146068
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport 2 (stack)
 #http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
 #http://ztvuk.com:8080/saif/saif123/93034
 #http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/110253.ts
 #http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/23452
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157556
+#http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157556
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport 3 (stack)
 #http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 #http://ztvuk.com:8080/saif/saif123/93035
 #http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/110254.ts
 #http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/23451
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157557
+#http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157557
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport 4 (stack)
 #http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 #http://ztvuk.com:8080/saif/saif123/93036
 #http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/110255.ts
 #http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/33973
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157558
+#http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157558
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png" group-title="ASTRO",ASTRO SUPERSPORT HD
@@ -203,16 +207,16 @@ https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619160
 #EXTINF: -1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/834_300.png" group-title="ASTRO", ASTRO SUPERSPORT 4 HD  (m3u-editor)
 https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619161
 
-#EXTINF:-1 tvg-id="Erz.Assp1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="Sports",Astro Supersport 1
+#EXTINF:-1 tvg-id="Erz.Assp1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="Sports",Astro Supersport 1 m3e
 #http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295299151
-#EXTINF:-1 tvg-id="Erz.Assp2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3N8F_hJKmX9Ct16ir5opC6x30NVo_3exrw&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="Sports",Astro Supersport 2
+#EXTINF:-1 tvg-id="Erz.Assp2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3N8F_hJKmX9Ct16ir5opC6x30NVo_3exrw&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="Sports",Astro Supersport 2 m3e
 #http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295299151
-#EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLuBQjEQPzXniLS9Sy85t1wpSzymd2YdW5Xg&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="Sports",Astro Supersport 3
+#EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLuBQjEQPzXniLS9Sy85t1wpSzymd2YdW5Xg&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="Sports",Astro Supersport 3 m3e
 #http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295815152
-#EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKroP1M0tQjt9HJ7olsUlmhuPLBxsw9TceQ&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="Sports",Astro Supersport 4
+#EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKroP1M0tQjt9HJ7olsUlmhuPLBxsw9TceQ&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="Sports",Astro Supersport 4 m3e
 #http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295815153
 
