@@ -86,26 +86,19 @@ http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EN : BEIN SPORT 2 HD" tvg-logo="" group-title="AR SPORT",EN : BEIN SPORT 2  HD
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 
-
-
-
-#EXTINF: -1 group-title="Astro", beIN Sports (ccs2)
-#https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619166
-#https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295299151
-http://ccs2.coolmyvip.club:8880/ice12m1192/ns545835/71104
-#EXTINF: -1 group-title="Astro", beIN MAX (ccs2)
-#https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619167
-http://ccs2.coolmyvip.club:8880/ice12m1192/ns545835/71105
-
 #EXTINF: -1 group-title="Astro", beIN MAX 2 (m3u-editor)
 https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619168
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO beIN SPORTS" tvg-logo="" group-title="ASTRO",ASTRO beIN SPORTS (speedmedia)
-http://thespeedmedia.watch:2086/65945/65945/76337
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO bEIN MAX" tvg-logo="" group-title="ASTRO",ASTRO bEIN MAX (PENANG)
 #http://thespeedmedia.watch:2086/65945/65945/76330
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
 #EXTINF:-1 tvg-id="" tvg-name="MY: beIN MAX" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/eea179e94ee357c53b3f2edc2cf9ed84.png"  group-title="ASTRO",MY: beIN MAX
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157487
+#EXTINF:-1 tvg-id="MY: BEIN SPORTS HD" tvg-name="beIN Sports" tvg-logo="https://i.postimg.cc/JhVqt6KN/11b14885c76a7e6534130043e86337d0.png" group-title="ASTRO",beIN Sports
+http://iptv.tvmalaysia.cc:80/139664/139664/6749
+#EXTINF:-1 tvg-id="beinsportsmax.my" tvg-name="beIN MAX" tvg-logo="https://i.postimg.cc/QxTnfTBd/bein-sports-max.png" group-title="ASTRO",beIN MAX
+http://iptv.tvmalaysia.cc:80/139664/139664/6748
+#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 2" tvg-logo="https://i.postimg.cc/sX9NLwMV/1613886308377.png" group-title="ASTRO",beIN MAX 2
+http://iptv.tvmalaysia.cc:80/139664/139664/7195
 
 #EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-my.png" group-title="ASTRO",Astro Super Sport 1 HD (PULSE)
 http://pulselightning.uk:8080/DAVEDAVE/zPtKOoAPKW/241164
@@ -195,6 +188,15 @@ http://ztvuk.com:8080/younis/younis123/93034
 http://ztvuk.com:8080/younis/younis123/93035
 #EXTINF: -1tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/834_300.png"  group-title="ASTRO", ASTRO SUPERSPORT 4 HD (ztvuk)
 http://ztvuk.com:8080/younis/younis123/93036
+
+#EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png" group-title="ASTRO",ASTRO SUPERSPORT HD (IPTVMAL)
+http://iptv.tvmalaysia.cc:80/139664/139664/6708
+#EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT 2 HD" tvg-name="ASTRO SUPERSPORT 2 HD" tvg-logo="https://i.postimg.cc/LXv2LpmL/Astro-Super-Sport-2.png" group-title="ASTRO",ASTRO SUPERSPORT 2 HD (IPTVMAL)
+http://iptv.tvmalaysia.cc:80/139664/139664/6710
+#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="ASTRO SUPERSPORT 3 HD" tvg-logo="https://i.postimg.cc/3wmgKLYP/200px-Astro-ASSP3.png" group-title="ASTRO",ASTRO SUPERSPORT 3 HD (IPTVMAL)
+http://iptv.tvmalaysia.cc:80/139664/139664/6711
+#EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT 4 HD" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="ASTRO",ASTRO SUPERSPORT 4 HD (IPTVMAL)
+http://iptv.tvmalaysia.cc:80/139664/139664/6712
 
 #EXTINF:-1, tvg-id="" tvg-name="TR : BEIN SPORT HD" tvg-logo="" group-title="BEIN SPORTS",TR : BEIN SPORT  HD (echo)
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/137.ts
