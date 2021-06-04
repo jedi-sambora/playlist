@@ -109,6 +109,23 @@ http://pulselightning.uk:8080/DAVEDAVE/zPtKOoAPKW/287835
 #EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-4-my.png" group-title="ASTRO",Astro Super Sport 4 HD (PULSE)
 http://pulselightning.uk:8080/DAVEDAVE/zPtKOoAPKW/241166
 
+#EXTINF:-1 tvg-logo="http://77.68.73.254/sport/astro-supersport-my.png" group-title="ASTRO",VIP MLZ: ASTRO SUPERSPORTS 1 HD (geostream)
+http://geostream.me:8080/nadya/nadya/19170
+#EXTINF:-1 tvg-logo="http://77.68.73.254/sport/astro-supersport-my.png" group-title="ASTRO",VIP MLZ: ASTRO SUPERSPORTS 1 (geostream)
+http://geostream.me:8080/nadya/nadya/40598
+#EXTINF:-1 tvg-logo="http://77.68.73.254/sport/astro-supersport-2-my.png" group-title="ASTRO",VIP MLZ: ASTRO SUPERSPORTS 2 HD (geostream)
+http://geostream.me:8080/nadya/nadya/19171
+#EXTINF:-1 tvg-logo="http://77.68.73.254/sport/astro-supersport-2-my.png" group-title="ASTRO",VIP MLZ: ASTRO SUPERSPORTS 2 (geostream)
+http://geostream.me:8080/nadya/nadya/40599
+#EXTINF:-1 tvg-logo="http://77.68.73.254/sport/astro-supersport-3-my.png" group-title="ASTRO",VIP MLZ: ASTRO SUPERSPORTS 3 HD (geostream)
+http://geostream.me:8080/nadya/nadya/19172
+#EXTINF:-1 tvg-logo="http://77.68.73.254/sport/astro-supersport-3-my.png" group-title="ASTRO",VIP MLZ: ASTRO SUPERSPORTS 3 (geostream)
+http://geostream.me:8080/nadya/nadya/40600
+#EXTINF:-1 tvg-logo="http://77.68.73.254/sport/astro-supersport-4-my.png" group-title="ASTRO",VIP MLZ: ASTRO SUPERSPORTS 4 HD (geostream)
+http://geostream.me:8080/nadya/nadya/19173
+#EXTINF:-1 tvg-logo="http://77.68.73.254/sport/astro-supersport-4-my.png" group-title="ASTRO",VIP MLZ: ASTRO SUPERSPORTS 4 (geostream)
+http://geostream.me:8080/nadya/nadya/40601
+
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport (stack)
 #http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
