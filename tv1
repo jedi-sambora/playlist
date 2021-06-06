@@ -4,9 +4,11 @@ https://nonton.site:8443/provision/pp/728
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports ID",BeIN Sport 2 ID
 https://nonton.site:8443/provision/pp/729
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports ID",ID: beIN Sports 1 HD
-http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/165105
+#http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/165105
+http://hottest.fit:8080/itzik/itzik3/28732
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports ID",ID: beIN Sports 2 HD
-http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/165073
+#http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/165073
+http://hottest.fit:8080/itzik/itzik3/28731
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sports ID",Usee Sport 1
 https://nonton.site:8443/provision/pp/36240
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sports ID",Usee Sport 2
@@ -25,6 +27,9 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8
 #EXTINF:-1   tvg-logo="" group-title="Sports ID",Oman sport
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#movie
+#EXTINF:-1 group-title="Movie",VIP MLZ: ASTRO BOX OFFICE
+http://hottest.fit:8080/itzik/itzik3/50889
 
 
 #EXTINF:-1group-title="THAI SPORT",True remier Football HD 1 (77)
@@ -101,6 +106,10 @@ http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EN : BEIN SPORT 2 HD" tvg-logo="" group-title="AR SPORT",EN : BEIN SPORT 2  HD
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 
+#EXTINF:-1 group-title="Astro",VIP MLZ: BEIN SPORTS HD (hottest)
+http://hottest.fit:8080/itzik/itzik3/20367
+#EXTINF:-1 group-title="Astro",VIP MLZ: BEIN MAX HD (hottest)
+http://hottest.fit:8080/itzik/itzik3/33285
 #EXTINF: -1 group-title="Astro", beIN MAX 2 (m3u-editor)
 https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619168
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO bEIN MAX" tvg-logo="" group-title="ASTRO",ASTRO bEIN MAX (PENANG)
@@ -115,14 +124,14 @@ http://iptv.tvmalaysia.cc:80/139664/139664/6748
 #EXTINF:-1 tvg-id="" tvg-name="beIN MAX 2" tvg-logo="https://i.postimg.cc/sX9NLwMV/1613886308377.png" group-title="ASTRO",beIN MAX 2
 http://iptv.tvmalaysia.cc:80/139664/139664/7195
 
-#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-my.png" group-title="ASTRO",Astro Super Sport 1 HD (PULSE)
-http://pulselightning.uk:8080/DAVEDAVE/zPtKOoAPKW/241164
-#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-2-my.png" group-title="ASTRO",Astro Super Sport 2 HD (PULSE)
-http://pulselightning.uk:8080/DAVEDAVE/zPtKOoAPKW/241165 
-#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-3-my.png" group-title="ASTRO",Astro Super Sport 3 HD (PULSE)
-http://pulselightning.uk:8080/DAVEDAVE/zPtKOoAPKW/287835
-#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-4-my.png" group-title="ASTRO",Astro Super Sport 4 HD (PULSE)
-http://pulselightning.uk:8080/DAVEDAVE/zPtKOoAPKW/241166
+#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-my.png" group-title="ASTRO",Astro Super Sport 1 HD (hottest)
+http://hottest.fit:8080/itzik/itzik3/19170
+#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-2-my.png" group-title="ASTRO",Astro Super Sport 2 HD (hottest)
+http://hottest.fit:8080/itzik/itzik3/19171
+#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-3-my.png" group-title="ASTRO",Astro Super Sport 3 HD (hottest)
+http://hottest.fit:8080/itzik/itzik3/19172
+#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-4-my.png" group-title="ASTRO",Astro Super Sport 4 HD (hottest)
+http://hottest.fit:8080/itzik/itzik3/19173
 
 #EXTINF:-1 tvg-logo="http://77.68.73.254/sport/astro-supersport-my.png" group-title="ASTRO",VIP MLZ: ASTRO SUPERSPORTS 1 HD (geostream)
 http://geostream.me:8080/nadya/nadya/19170
