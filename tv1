@@ -30,6 +30,8 @@ https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 #movie
 #EXTINF:-1 group-title="Movie",VIP MLZ: ASTRO BOX OFFICE
 http://hottest.fit:8080/itzik/itzik3/50889
+#EXTINF:-1 group-title="Movie",indo viet
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
 
 #EXTINF:-1group-title="THAI SPORT",True remier Football HD 1 (77)
