@@ -59,12 +59,7 @@ http://geostream.me:8080/nadya/nadya/42648
 #EXTINF:-1 group-title="THAI SPORT",VIP TH: True Tennis HD
 http://geostream.me:8080/nadya/nadya/10863
 
-#EXTINF:-1 group-title="THAI SPORT",Thai: Bein sport 1 TH (kingtv)
-http://kingsiptv.streamtv.to:8080/Jx89wrg5mF/53qWDkwKRL/8510
-#EXTINF:-1 group-title="THAI SPORT",Thai: Bein sport 2 TH (kingtv)
-http://kingsiptv.streamtv.to:8080/Jx89wrg5mF/53qWDkwKRL/8509
-#EXTINF:-1 group-title="THAI SPORT",Thai: Bein sport 3 TH (kingtv)
-http://kingsiptv.streamtv.to:8080/Jx89wrg5mF/53qWDkwKRL/8504
+
 
 
 #EXTINF:-1  group-title="SS SAF",  Super Sport Grandstand
