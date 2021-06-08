@@ -108,10 +108,10 @@ http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EN : BEIN SPORT 2 HD" tvg-logo="" group-title="AR SPORT",EN : BEIN SPORT 2  HD
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
 
-#EXTINF:-1 group-title="Astro",VIP MLZ: BEIN SPORTS HD (hottest)
-http://hottest.fit:8080/itzik/itzik3/20367
-#EXTINF:-1 group-title="Astro",VIP MLZ: BEIN MAX HD (hottest)
-http://hottest.fit:8080/itzik/itzik3/33285
+#EXTINF:-1 group-title="Astro",VIP MLZ: BEIN SPORTS HD (mynxg)
+http://mynxg.top:8080/c0:97:27:4a:80:ba/KAYODE/3268
+#EXTINF:-1 group-title="Astro",VIP MLZ: BEIN MAX HD (mynxg)
+http://mynxg.top:8080/c0:97:27:4a:80:ba/KAYODE/3848
 #EXTINF: -1 group-title="Astro", beIN MAX 2 (m3u-editor)
 https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619168
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO bEIN MAX" tvg-logo="" group-title="ASTRO",ASTRO bEIN MAX (PENANG)
@@ -126,31 +126,14 @@ http://iptv.tvmalaysia.cc:80/139664/139664/6748
 #EXTINF:-1 tvg-id="" tvg-name="beIN MAX 2" tvg-logo="https://i.postimg.cc/sX9NLwMV/1613886308377.png" group-title="ASTRO",beIN MAX 2
 http://iptv.tvmalaysia.cc:80/139664/139664/7195
 
-#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-my.png" group-title="ASTRO",Astro Super Sport 1 HD (hottest)
-http://hottest.fit:8080/itzik/itzik3/19170
-#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-2-my.png" group-title="ASTRO",Astro Super Sport 2 HD (hottest)
-http://hottest.fit:8080/itzik/itzik3/19171
-#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-3-my.png" group-title="ASTRO",Astro Super Sport 3 HD (hottest)
-http://hottest.fit:8080/itzik/itzik3/19172
-#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-4-my.png" group-title="ASTRO",Astro Super Sport 4 HD (hottest)
-http://hottest.fit:8080/itzik/itzik3/19173
-
-#EXTINF:-1 tvg-logo="http://77.68.73.254/sport/astro-supersport-my.png" group-title="ASTRO",VIP MLZ: ASTRO SUPERSPORTS 1 HD (geostream)
-http://geostream.me:8080/nadya/nadya/19170
-#EXTINF:-1 tvg-logo="http://77.68.73.254/sport/astro-supersport-my.png" group-title="ASTRO",VIP MLZ: ASTRO SUPERSPORTS 1 (geostream)
-http://geostream.me:8080/nadya/nadya/40598
-#EXTINF:-1 tvg-logo="http://77.68.73.254/sport/astro-supersport-2-my.png" group-title="ASTRO",VIP MLZ: ASTRO SUPERSPORTS 2 HD (geostream)
-http://geostream.me:8080/nadya/nadya/19171
-#EXTINF:-1 tvg-logo="http://77.68.73.254/sport/astro-supersport-2-my.png" group-title="ASTRO",VIP MLZ: ASTRO SUPERSPORTS 2 (geostream)
-http://geostream.me:8080/nadya/nadya/40599
-#EXTINF:-1 tvg-logo="http://77.68.73.254/sport/astro-supersport-3-my.png" group-title="ASTRO",VIP MLZ: ASTRO SUPERSPORTS 3 HD (geostream)
-http://geostream.me:8080/nadya/nadya/19172
-#EXTINF:-1 tvg-logo="http://77.68.73.254/sport/astro-supersport-3-my.png" group-title="ASTRO",VIP MLZ: ASTRO SUPERSPORTS 3 (geostream)
-http://geostream.me:8080/nadya/nadya/40600
-#EXTINF:-1 tvg-logo="http://77.68.73.254/sport/astro-supersport-4-my.png" group-title="ASTRO",VIP MLZ: ASTRO SUPERSPORTS 4 HD (geostream)
-http://geostream.me:8080/nadya/nadya/19173
-#EXTINF:-1 tvg-logo="http://77.68.73.254/sport/astro-supersport-4-my.png" group-title="ASTRO",VIP MLZ: ASTRO SUPERSPORTS 4 (geostream)
-http://geostream.me:8080/nadya/nadya/40601
+#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-my.png" group-title="ASTRO",Astro Super Sport 1 HD (mynxg)
+http://mynxg.top:8080/c0:97:27:4a:80:ba/KAYODE/3259
+#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-2-my.png" group-title="ASTRO",Astro Super Sport 2 HD (mynxg)
+http://mynxg.top:8080/c0:97:27:4a:80:ba/KAYODE/3258
+#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-3-my.png" group-title="ASTRO",Astro Super Sport 3 HD (mynxg)
+http://mynxg.top:8080/c0:97:27:4a:80:ba/KAYODE/3257
+#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-4-my.png" group-title="ASTRO",Astro Super Sport 4 HD (mynxg)
+http://mynxg.top:8080/c0:97:27:4a:80:ba/KAYODE/3256
 
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport (stack)
@@ -192,14 +175,6 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
 #EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT 4 HD" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="ASTRO",ASTRO SUPERSPORT 4 HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png" group-title="ASTRO",Astro Super Sport 1 HD (pulse)
-http://pulselightning.uk:8080/RYtgbUB79K/3CNKEEVWgF/241164
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXv2LpmL/Astro-Super-Sport-2.png" group-title="ASTRO",Astro Super Sport 2 HD (pulse)
-http://pulselightning.uk:8080/RYtgbUB79K/3CNKEEVWgF/241165
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wmgKLYP/200px-Astro-ASSP3.png" group-title="ASTRO",Astro Super Sport 3 HD (pulse)
-http://pulselightning.uk:8080/RYtgbUB79K/3CNKEEVWgF/287835
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="ASTRO",Astro Super Sport 4 HD (pulse)
-http://pulselightning.uk:8080/RYtgbUB79K/3CNKEEVWgF/241166
 
 #EXTINF: -1tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png"  group-title="ASTRO", ASTRO SUPERSPORT HD (m3u-editor)
 https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619158
