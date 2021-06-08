@@ -25,11 +25,7 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0CyFv4-SR0eH_tbFi6pDnecZyx8=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-f32604.jpg" group-title="Sports ID",Champions TV 3
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8
-#EXTINF:-1   tvg-logo="" group-title="Sports ID",Oman sport
-https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
-#movie
-#EXTINF:-1 group-title="Movie",VIP MLZ: ASTRO BOX OFFICE
-http://hottest.fit:8080/itzik/itzik3/50889
+
 #EXTINF:-1 group-title="Movie",indo viet
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
