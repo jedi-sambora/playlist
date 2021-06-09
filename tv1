@@ -32,6 +32,8 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 
 #EXTINF:-1group-title="THAI SPORT",True remier Football HD 1 (77)
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1group-title="THAI SPORT",PPTV (77)
+http://77.83.117.60:8888/02_PPTVHD_720p/chunklist.m3u8
 #EXTINF:-1group-title="THAI SPORT",True remier Football HD 2 (77)
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT",  TRUE SPORT 1 (77)
