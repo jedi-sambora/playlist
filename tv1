@@ -32,30 +32,19 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 
 #EXTINF:-1group-title="THAI SPORT",True remier Football HD 1 (77)
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1group-title="THAI SPORT",PPTV (77)
-http://77.83.117.60:8888/02_PPTVHD_720p/chunklist.m3u8
 #EXTINF:-1group-title="THAI SPORT",True remier Football HD 2 (77)
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1group-title="THAI SPORT",PPTV (77)
+http://77.83.117.60:8888/02_PPTVHD_720p/chunklist.m3u8
+#EXTINF:-1group-title="THAI SPORT",NBT
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT",  TRUE SPORT 1 (77)
 http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT",  TRUE SPORT 2 (77)
 http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT",  TRUE SPORT 3 (77)
 http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="THAI SPORT",VIP TH: True Sports 1 HD
-http://geostream.me:8080/nadya/nadya/10870
-#EXTINF:-1 group-title="THAI SPORT",VIP TH: True Sports 2 HD
-http://geostream.me:8080/nadya/nadya/10869
-#EXTINF:-1 group-title="THAI SPORT",VIP TH: True Sports 2 SD
-http://geostream.me:8080/nadya/nadya/10868
-#EXTINF:-1 group-title="THAI SPORT",VIP TH: True Sports 3 HD
-http://geostream.me:8080/nadya/nadya/10867
-#EXTINF:-1 group-title="THAI SPORT",VIP TH: True Sports 4 HD
-http://geostream.me:8080/nadya/nadya/10874
-#EXTINF:-1 group-title="THAI SPORT",VIP TH: True Sports 7 HD
-http://geostream.me:8080/nadya/nadya/42648
-#EXTINF:-1 group-title="THAI SPORT",VIP TH: True Tennis HD
-http://geostream.me:8080/nadya/nadya/10863
+
 
 
 
