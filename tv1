@@ -26,8 +26,19 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0CyFv4-SR0eH_tbFi6pDnecZyx8=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-f32604.jpg" group-title="Sports ID",Champions TV 3
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8
 
-#EXTINF:-1 group-title="Movie",indo viet
+
+#EXTINF:-1 group-title="Sports ad",AD SPORTS 1 720 HD
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="Sports ad",AD SPORTS 1 1080 HD
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Sports ad",AD SPORTS 2 720 HD
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="Sports ad",AD SPORTS 2 1080 HD
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Sports ad",AD SPORTS 4 720 HD
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="Sports ad",AD SPORTS 4 1080 HD
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 
 #EXTINF:-1group-title="THAI SPORT",True remier Football HD 1 (77)
