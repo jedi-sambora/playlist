@@ -128,6 +128,14 @@ http://mynxg.top:8080/c0:97:27:4a:80:ba/KAYODE/3257
 #EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-4-my.png" group-title="ASTRO",Astro Super Sport 4 HD (mynxg)
 http://mynxg.top:8080/c0:97:27:4a:80:ba/KAYODE/3256
 
+#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-my.png" group-title="ASTRO",ASTRO SUPERSPORT 1 FHD (webo)
+http://webo.asia:80/Andrews/Ben/57500
+#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-2-my.png" group-title="ASTRO",ASTRO SUPERSPORT 2 FHD (webo)
+http://webo.asia:80/Andrews/Ben/57501
+#EXTINF:-1 tvg-logo="http://77.68.73.254/sport/astro-supersport-3-my.png" group-title="ASTRO",ASTRO SUPERSPORT 3 FHD (webo)
+http://webo.asia:80/Andrews/Ben/57502
+#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-4-my.png" group-title="ASTRO",ASTRO SUPERSPORT 4 FHD (webo)
+
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport (stack)
 #http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
