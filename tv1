@@ -26,30 +26,6 @@ http://tigerfights.xyz:2052/Michelle/Michelle/2599257
 #EXTINF:-1 tvg-id="" tvg-name="MY: Cinemax HD" tvg-logo="" group-title="MALAYSIA",MY: Cinemax HD
 http://tigerfights.xyz:2052/Michelle/Michelle/2599260
 
-#EXTINF:-1 tvg-id="OLY1" tvg-name="OLYMPIC 1" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="olympic",OLYMPIC 1
-https://link.zozotv.xyz:443/Freemium1/unlimited99/318
-#EXTINF:-1 tvg-id="OLY2" tvg-name="OLYMPIC 2" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="olympic",OLYMPIC 2
-https://link.zozotv.xyz:443/Freemium1/unlimited99/319
-#EXTINF:-1 tvg-id="OLY3" tvg-name="OLYMPIC 3" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="olympic",OLYMPIC 3
-https://link.zozotv.xyz:443/Freemium1/unlimited99/320
-#EXTINF:-1 tvg-id="OLY4" tvg-name="OLYMPIC 4" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="olympic",OLYMPIC 4
-https://link.zozotv.xyz:443/Freemium1/unlimited99/321
-#EXTINF:-1 tvg-id="OLY5" tvg-name="OLYMPIC 5" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="olympic",OLYMPIC 5
-https://link.zozotv.xyz:443/Freemium1/unlimited99/322
-#EXTINF:-1 tvg-id="OLY6" tvg-name="OLYMPIC 6" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="olympic",OLYMPIC 6
-https://link.zozotv.xyz:443/Freemium1/unlimited99/323
-#EXTINF:-1 tvg-id="OLY7" tvg-name="OLYMPIC 7" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="olympic",OLYMPIC 7
-https://link.zozotv.xyz:443/Freemium1/unlimited99/324
-#EXTINF:-1 tvg-id="OLY8" tvg-name="OLYMPIC 8" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="olympic",OLYMPIC 8
-https://link.zozotv.xyz:443/Freemium1/unlimited99/325
-#EXTINF:-1 tvg-id="OLY9" tvg-name="OLYMPIC 9" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="olympic",OLYMPIC 9
-https://link.zozotv.xyz:443/Freemium1/unlimited99/326
-#EXTINF:-1 tvg-id="OLY10" tvg-name="OLYMPIC 10" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="olympic",OLYMPIC 10
-https://link.zozotv.xyz:443/Freemium1/unlimited99/327
-#EXTINF:-1 tvg-id="OLY11" tvg-name="OLYMPIC 11" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="olympic",OLYMPIC 11
-https://link.zozotv.xyz:443/Freemium1/unlimited99/336
-#EXTINF:-1 tvg-id="OLY12" tvg-name="OLYMPIC 12" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="olympic",OLYMPIC 12
-https://link.zozotv.xyz:443/Freemium1/unlimited99/337
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports ID",BeIN Sport 1 ID
 https://nonton.site:8443/provision/pp/728
@@ -80,6 +56,31 @@ https://link.zozotv.xyz:443/Freemium1/unlimited99/165
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0CyFv4-SR0eH_tbFi6pDnecZyx8=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-f32604.jpg" group-title="Sports ID",Champions TV 3
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8
 
+
+#EXTINF:-1 tvg-id="OLY1" tvg-name="OLYMPIC 1" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 1
+https://link.zozotv.xyz:443/Freemium3/unlimited99/318
+#EXTINF:-1 tvg-id="OLY2" tvg-name="OLYMPIC 2" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 2
+https://link.zozotv.xyz:443/Freemium3/unlimited99/319
+#EXTINF:-1 tvg-id="OLY3" tvg-name="OLYMPIC 3" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 3
+https://link.zozotv.xyz:443/Freemium3/unlimited99/320
+#EXTINF:-1 tvg-id="OLY4" tvg-name="OLYMPIC 4" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 4
+https://link.zozotv.xyz:443/Freemium3/unlimited99/321
+#EXTINF:-1 tvg-id="OLY5" tvg-name="OLYMPIC 5" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 5
+https://link.zozotv.xyz:443/Freemium3/unlimited99/322
+#EXTINF:-1 tvg-id="OLY6" tvg-name="OLYMPIC 6" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 6
+https://link.zozotv.xyz:443/Freemium3/unlimited99/323
+#EXTINF:-1 tvg-id="OLY7" tvg-name="OLYMPIC 7" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 7
+https://link.zozotv.xyz:443/Freemium3/unlimited99/324
+#EXTINF:-1 tvg-id="OLY8" tvg-name="OLYMPIC 8" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 8
+https://link.zozotv.xyz:443/Freemium3/unlimited99/325
+#EXTINF:-1 tvg-id="OLY9" tvg-name="OLYMPIC 9" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 9
+https://link.zozotv.xyz:443/Freemium3/unlimited99/326
+#EXTINF:-1 tvg-id="OLY10" tvg-name="OLYMPIC 10" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 10
+https://link.zozotv.xyz:443/Freemium3/unlimited99/327
+#EXTINF:-1 tvg-id="OLY11" tvg-name="OLYMPIC 11" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 11
+https://link.zozotv.xyz:443/Freemium3/unlimited99/336
+#EXTINF:-1 tvg-id="OLY12" tvg-name="OLYMPIC 12" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 12
+https://link.zozotv.xyz:443/Freemium3/unlimited99/337
 
 #EXTINF:-1 group-title="Sports ad",AD SPORTS 1 720 HD
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
