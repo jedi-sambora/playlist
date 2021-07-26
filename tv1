@@ -71,9 +71,11 @@ https://www.dropbox.com/s/rpeaz6fv15fyyz9/beinxtra.m3u8?dl=1
 http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/26820.ts
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9lMwU2a5XuS_mPbbxiMRIR2ZGfQ=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-cd5af1.jpg" group-title="Sports ID", Champions TV 1
 #https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6685_720p/index.m3u8
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6685_720p/index.m3u8
+#https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6685_720p/index.m3u8
+https://link.zozotv.xyz:443/Freemium1/unlimited99/164
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zVTqzS-Vwnp_mhhekbD0xVUdBdI=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-e0b0b4.jpg" group-title="Sports ID", Champions TV 2
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u8
+#https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u8
+https://link.zozotv.xyz:443/Freemium1/unlimited99/165
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0CyFv4-SR0eH_tbFi6pDnecZyx8=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-f32604.jpg" group-title="Sports ID",Champions TV 3
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8
