@@ -1,30 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="MY: HBO HD" tvg-logo="" group-title="Movie",MY: HBO HD
-http://tigerfights.xyz:2052/Michelle/Michelle/2599284
-#EXTINF:-1 tvg-id="" tvg-name="MY: Red By HBO" tvg-logo="" group-title="Movie",MY: Red By HBO
-http://tigerfights.xyz:2052/Michelle/Michelle/2599373
-#EXTINF:-1 tvg-id="" tvg-name="MY: HBO Signature" tvg-logo="" group-title="Movie",MY: HBO Signature
-http://tigerfights.xyz:2052/Michelle/Michelle/2599372
-#EXTINF:-1 tvg-id="" tvg-name="MY: HBO Family" tvg-logo="" group-title="Movie",MY: HBO Family
-http://tigerfights.xyz:2052/Michelle/Michelle/2599371
-#EXTINF:-1 tvg-id="" tvg-name="MY: HBO Hits" tvg-logo="" group-title="Movie",MY: HBO Hits
-http://tigerfights.xyz:2052/Michelle/Michelle/2599370
-#EXTINF:-1 tvg-id="" tvg-name="MY: FOX Action Movies" tvg-logo="" group-title="Movie",MY: FOX Action Movies
-http://tigerfights.xyz:2052/Michelle/Michelle/2599327
-#EXTINF:-1 tvg-id="" tvg-name="MY: Warner TV" tvg-logo="" group-title="Movie",MY: Warner TV
-http://tigerfights.xyz:2052/Michelle/Michelle/2599319
-#EXTINF:-1 tvg-id="" tvg-name="MY: TVS" tvg-logo="" group-title="Movie",MY: TVS
-http://tigerfights.xyz:2052/Michelle/Michelle/2599318
-#EXTINF:-1 tvg-id="" tvg-name="MY: tvN Movies" tvg-logo="" group-title="Movie",MY: tvN Movies
-http://tigerfights.xyz:2052/Michelle/Michelle/2599317
-#EXTINF:-1 tvg-id="" tvg-name="MY: tvN HD" tvg-logo="" group-title="Movie",MY: tvN HD
-http://tigerfights.xyz:2052/Michelle/Michelle/2599316
-#EXTINF:-1 tvg-id="" tvg-name="MY: Cinemax HD" tvg-logo="" group-title="Movie",MY: Cinemax HD
-http://tigerfights.xyz:2052/Michelle/Michelle/2599260
-#EXTINF:-1 tvg-id="" tvg-name="MY: Celestial Movies HD" tvg-logo="" group-title="MALAYSIA",MY: Celestial Movies HD
-http://tigerfights.xyz:2052/Michelle/Michelle/2599257
-#EXTINF:-1 tvg-id="" tvg-name="MY: Cinemax HD" tvg-logo="" group-title="MALAYSIA",MY: Cinemax HD
-http://tigerfights.xyz:2052/Michelle/Michelle/2599260
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports ID",BeIN Sport 1 ID
@@ -47,8 +21,8 @@ https://nonton.site:8443/provision/pp/36240
 https://nonton.site:8443/provision/pp/36241
 #EXTINF:-1 tvg-logo = "https://www.dropbox.com/s/p41okl7lo4yh7rz/beIN-SPORTS-XTRA_LOGO.png?dl=1" group-title="Sports ID", Bein Sport XTRA 
 https://www.dropbox.com/s/rpeaz6fv15fyyz9/beinxtra.m3u8?dl=1 
-#EXTINF:-1   tvg-logo="" group-title="Sports ID",NBCSN
-http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/26820.ts
+#EXTINF:-1   tvg-logo="" group-title="Sports ID",ASTRO ARENA
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9lMwU2a5XuS_mPbbxiMRIR2ZGfQ=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-cd5af1.jpg" group-title="Sports ID", Champions TV 1
 #https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6685_720p/index.m3u8
 #https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6685_720p/index.m3u8
