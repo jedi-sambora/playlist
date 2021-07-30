@@ -34,28 +34,43 @@ https://link.zozotv.xyz:443/Freemium1/unlimited99/165
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0CyFv4-SR0eH_tbFi6pDnecZyx8=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-f32604.jpg" group-title="Sports ID",Champions TV 3
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8
 
-#EXTINF:-1   group-title="OLYMPIC 2",BEINS 1
-http://31.220.41.88:8081/live/bein1.stream/chunks.m3u8
-#EXTINF:-1   group-title="OLYMPIC 2",BEINS 2
-http://31.220.41.88:8081/live/bein2.stream/chunks.m3u8
-#EXTINF:-1   group-title="OLYMPIC 2",BEINS 3
-http://31.220.41.88:8081/live/bein3.stream/chunks.m3u8
-#EXTINF:-1   group-title="OLYMPIC 2",BEINS 4
-http://31.220.41.88:8081/live/bein4.stream/chunks.m3u8
-#EXTINF:-1   group-title="OLYMPIC 2",BEINS 5
-http://31.220.41.88:8081/live/bein2.stream/chunks.m3u8
-#EXTINF:-1   group-title="OLYMPIC 2",BEINS 6
-http://31.220.41.88:8081/live/bein6.stream/chunks.m3u8
-#EXTINF:-1   group-title="OLYMPIC 2",BEINS 7
-http://31.220.41.88:8081/live/bein7.stream/chunks.m3u8
-#EXTINF:-1   group-title="OLYMPIC 2",BEINS 8
-http://31.220.41.88:8081/live/bein8.stream/chunks.m3u8
-#EXTINF:-1   group-title="OLYMPIC 2",BEINS 9
-http://31.220.41.88:8081/live/bein9.stream/chunks.m3u8
-#EXTINF:-1   group-title="OLYMPIC 2",BEINS 10
-http://31.220.41.88:8081/live/bein10.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="OLY1" tvg-name="OLYMPIC 1" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 1
+#EXTINF:-1 group-title="OLYMPIC",beIN SPORTS 1HD
+http://x12tv.co:80/55555/66666/20998
+#EXTINF:-1 group-title="OLYMPIC",beIN SPORTS 2HD
+http://x12tv.co:80/55555/66666/20999
+#EXTINF:-1 group-title="OLYMPIC",beIN SPORTS 3HD
+http://x12tv.co:80/55555/66666/21000
+#EXTINF:-1 group-title="OLYMPIC",beIN SPORTS 4HD
+http://x12tv.co:80/55555/66666/19143
+#EXTINF:-1 group-title="OLYMPIC",beIN SPORTS 5HD
+http://x12tv.co:80/55555/66666/7881
+#EXTINF:-1 group-title="OLYMPIC",beIN SPORTS 6HD
+http://x12tv.co:80/55555/66666/8796
+#EXTINF:-1 group-title="OLYMPIC",beIN SPORTS 7HD
+http://x12tv.co:80/55555/66666/1695
+#EXTINF:-1 group-title="OLYMPIC",beIN SPORTS premium 1HD
+http://x12tv.co:80/55555/66666/1694
+#EXTINF:-1 group-title="OLYMPIC",beIN SPORTS premium 2HD
+http://x12tv.co:80/55555/66666/1693
+#EXTINF:-1 group-title="OLYMPIC",beIN SPORTS premium 3HD
+http://x12tv.co:80/55555/66666/1692
+#EXTINF:-1 group-title="OLYMPIC",beIN SPORT MAX4 HD
+http://x12tv.co:80/55555/66666/4043
+#EXTINF:-1 group-title="OLYMPIC",beIN SPORT MAX5 HD
+http://x12tv.co:80/55555/66666/4044
+#EXTINF:-1 group-title="OLYMPIC",beIN SPORT MAX6 HD
+http://x12tv.co:80/55555/66666/4045
+#EXTINF:-1 group-title="OLYMPIC",beIN SPORT MAX7 HD
+http://x12tv.co:80/55555/66666/4046
+#EXTINF:-1 group-title="OLYMPIC",beIN SPORT MAX8 HD
+http://x12tv.co:80/55555/66666/4047
+#EXTINF:-1 group-title="OLYMPIC",beIN SPORT MAX9 HD
+http://x12tv.co:80/55555/66666/4048
+#EXTINF:-1 group-title="OLYMPIC",beIN SPORT MAX10 HD
+http://x12tv.co:80/55555/66666/4049
+
+XTINF:-1 tvg-id="OLY1" tvg-name="OLYMPIC 1" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 1
 https://link.zozotv.xyz:443/Freemium3/unlimited99/318
 #EXTINF:-1 tvg-id="OLY2" tvg-name="OLYMPIC 2" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 2
 https://link.zozotv.xyz:443/Freemium3/unlimited99/319
