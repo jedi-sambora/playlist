@@ -34,6 +34,38 @@ https://link.zozotv.xyz:443/Freemium1/unlimited99/165
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0CyFv4-SR0eH_tbFi6pDnecZyx8=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-f32604.jpg" group-title="Sports ID",Champions TV 3
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8
 
+#EXTINF:-1 group-title="OLYMPICX",CH1
+http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
+#EXTINF:-1 group-title="OLYMPICX",CH2
+http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
+#EXTINF:-1 group-title="OLYMPICX",CH3
+http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
+#EXTINF:-1 group-title="OLYMPICX",CH4
+http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
+#EXTINF:-1 group-title="OLYMPICX",CH5
+http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
+#EXTINF:-1 group-title="OLYMPICX",CH6
+http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
+#EXTINF:-1 group-title="OLYMPICX",CH7
+http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
+#EXTINF:-1 group-title="OLYMPICX",CH8
+http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
+#EXTINF:-1 group-title="OLYMPICX",CH9
+http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
+#EXTINF:-1 group-title="OLYMPICX",CH10
+http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
+#EXTINF:-1 group-title="OLYMPICX",CH11
+http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
+#EXTINF:-1 group-title="OLYMPICX",CH12
+http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
+#EXTINF:-1 group-title="OLYMPICX",CH13
+http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8
+#EXTINF:-1 group-title="OLYMPICX",CH14
+http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
+#EXTINF:-1 group-title="OLYMPICX",CH15
+http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
+#EXTINF:-1 group-title="OLYMPICX",CH16
+http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
 
 #EXTINF:-1 group-title="OLYMPIC",beIN SPORTS 1HD
 http://x12tv.co:80/55555/66666/20998
