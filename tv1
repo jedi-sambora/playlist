@@ -170,46 +170,15 @@ http://mag.all.iptv.uno:80/9DwVYK469/nP2hyR749/23451
 #EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-4-my.png" group-title="ASTRO",Astro Super Sport 4 HD (mag.all)
 http://mag.all.iptv.uno:80/9DwVYK469/nP2hyR749/33973
 
-#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-my.png" group-title="ASTRO",ASTRO SUPERSPORT 1 FHD (webo)
-http://tigerfights.xyz:2052/Michelle/Michelle/2599375
-#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-2-my.png" group-title="ASTRO",ASTRO SUPERSPORT 2 FHD (webo)
-http://tigerfights.xyz:2052/Michelle/Michelle/2599376
-#EXTINF:-1 tvg-logo="http://77.68.73.254/sport/astro-supersport-3-my.png" group-title="ASTRO",ASTRO SUPERSPORT 3 FHD (webo)
-http://tigerfights.xyz:2052/Michelle/Michelle/2599377
-#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-4-my.png" group-title="ASTRO",ASTRO SUPERSPORT 4 FHD (webo)
-http://tigerfights.xyz:2052/Michelle/Michelle/2599212
-#EXTINF:-1 tvg-id=""  tvg-logo="" group-title="ASTRO",MY: Astro Box Office Sports
-http://tigerfights.xyz:2052/Michelle/Michelle/2599378
+#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-my.png" group-title="ASTRO",ASTRO SUPERSPORT 1 FHD (/iptv.tvmalaysia)
+http://iptv.tvmalaysia.cc:80/139664/139664/6708
+#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-2-my.png" group-title="ASTRO",ASTRO SUPERSPORT 2 FHD (/iptv.tvmalaysia)
+http://iptv.tvmalaysia.cc:80/139664/139664/6710
+#EXTINF:-1 tvg-logo="http://77.68.73.254/sport/astro-supersport-3-my.png" group-title="ASTRO",ASTRO SUPERSPORT 3 FHD (/iptv.tvmalaysia)
+http://iptv.tvmalaysia.cc:80/139664/139664/6711
+#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-4-my.png" group-title="ASTRO",ASTRO SUPERSPORT 4 FHD (/iptv.tvmalaysia)
+http://iptv.tvmalaysia.cc:80/139664/139664/6712
 
-
-#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport (stack)
-#http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
-#http://ztvuk.com:8080/saif/saif123/93033
-#http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/110252.ts
-#http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/23453
-#http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/146068
-http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport 2 (stack)
-#http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
-#http://ztvuk.com:8080/saif/saif123/93034
-#http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/110253.ts
-#http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/23452
-#http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157556
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport 3 (stack)
-#http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
-#http://ztvuk.com:8080/saif/saif123/93035
-#http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/110254.ts
-#http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/23451
-#http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157557
-http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" tvg-url="" group-title="ASTRO",Astro SuperSport 4 (stack)
-#http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
-#http://ztvuk.com:8080/saif/saif123/93036
-#http://iptvfree1.com:8080/live/6nohAlrc2f/xg6y44/110255.ts
-#http://tv.iptvstack.net:80/mavol/2LpMn92Bj1/33973
-#http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157558
-http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png" group-title="ASTRO",ASTRO SUPERSPORT HD
