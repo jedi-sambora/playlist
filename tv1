@@ -102,31 +102,6 @@ http://x12tv.co:80/55555/66666/4048
 #EXTINF:-1 group-title="OLYMPIC",beIN SPORT MAX10 HD
 http://x12tv.co:80/55555/66666/4049
 
-XTINF:-1 tvg-id="OLY1" tvg-name="OLYMPIC 1" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 1
-https://link.zozotv.xyz:443/Freemium3/unlimited99/318
-#EXTINF:-1 tvg-id="OLY2" tvg-name="OLYMPIC 2" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 2
-https://link.zozotv.xyz:443/Freemium3/unlimited99/319
-#EXTINF:-1 tvg-id="OLY3" tvg-name="OLYMPIC 3" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 3
-https://link.zozotv.xyz:443/Freemium3/unlimited99/320
-#EXTINF:-1 tvg-id="OLY4" tvg-name="OLYMPIC 4" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 4
-https://link.zozotv.xyz:443/Freemium3/unlimited99/321
-#EXTINF:-1 tvg-id="OLY5" tvg-name="OLYMPIC 5" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 5
-https://link.zozotv.xyz:443/Freemium3/unlimited99/322
-#EXTINF:-1 tvg-id="OLY6" tvg-name="OLYMPIC 6" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 6
-https://link.zozotv.xyz:443/Freemium3/unlimited99/323
-#EXTINF:-1 tvg-id="OLY7" tvg-name="OLYMPIC 7" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 7
-https://link.zozotv.xyz:443/Freemium3/unlimited99/324
-#EXTINF:-1 tvg-id="OLY8" tvg-name="OLYMPIC 8" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 8
-https://link.zozotv.xyz:443/Freemium3/unlimited99/325
-#EXTINF:-1 tvg-id="OLY9" tvg-name="OLYMPIC 9" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 9
-https://link.zozotv.xyz:443/Freemium3/unlimited99/326
-#EXTINF:-1 tvg-id="OLY10" tvg-name="OLYMPIC 10" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 10
-https://link.zozotv.xyz:443/Freemium3/unlimited99/327
-#EXTINF:-1 tvg-id="OLY11" tvg-name="OLYMPIC 11" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 11
-https://link.zozotv.xyz:443/Freemium3/unlimited99/336
-#EXTINF:-1 tvg-id="OLY12" tvg-name="OLYMPIC 12" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 12
-https://link.zozotv.xyz:443/Freemium3/unlimited99/337
-
 #EXTINF:-1 group-title="Sports ad",AD SPORTS 1 720 HD
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 group-title="Sports ad",AD SPORTS 1 1080 HD
@@ -160,40 +135,7 @@ http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
 
 
 
-#EXTINF:-1  group-title="SS SAF",  Super Sport Grandstand
-http://ztvuk.com:8080/younis/younis123/17189
-#EXTINF:-1  group-title="SS SAF",  Super Sport Action
-http://ztvuk.com:8080/younis/younis123/17186
-#EXTINF:-1  group-title="SS SAF",  Super Sport Golf
-http://ztvuk.com:8080/younis/younis123/17190
-#EXTINF:-1  group-title="SS SAF",  Super Sport Cricket
-http://ztvuk.com:8080/younis/younis123/17685
-#EXTINF:-1  group-title="SS SAF",  Super Sport PSL
-http://ztvuk.com:8080/younis/younis123/17273
-#EXTINF:-1  group-title="SS SAF",  Super Sport Tennis
-http://ztvuk.com:8080/younis/younis123/17272
-#EXTINF:-1  group-title="SS SAF",  Super Sport Rugby
-http://ztvuk.com:8080/younis/younis123/17681
-#EXTINF:-1  group-title="SS SAF",  Super Sport Football
-http://ztvuk.com:8080/younis/younis123/17682
-#EXTINF:-1  group-title="SS SAF",  Super Sport Blitz
-http://ztvuk.com:8080/younis/younis123/17687
-#EXTINF:-1  group-title="SS SAF",  Supersports La Liga
-http://ztvuk.com:8080/younis/younis123/17684
-#EXTINF:-1  group-title="SS SAF",  Super Sport Motorsport
-http://ztvuk.com:8080/younis/younis123/17688
-#EXTINF:-1  group-title="SS SAF",SAF:  Super Sport Play
-http://ztvuk.com:8080/younis/younis123/92474
-#EXTINF:-1  group-title="SS SAF",  Super Sport WWE
-http://ztvuk.com:8080/younis/younis123/92204
-#EXTINF:-1  group-title="SS SAF",SAF:  Super Sports Variety 1
-http://ztvuk.com:8080/younis/younis123/17187
-#EXTINF:-1  group-title="SS SAF",SAF:  Super Sports Variety 2
-http://ztvuk.com:8080/younis/younis123/17683
-#EXTINF:-1  group-title="SS SAF",SAF:  Super Sports Variety 3
-http://ztvuk.com:8080/younis/younis123/92157
-#EXTINF:-1  group-title="SS SAF",SAF:  Super Sports Variety 4
-http://ztvuk.com:8080/younis/younis123/92158
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="EN : BEIN SPORT 1 HD" tvg-logo="" group-title="AR SPORT",EN : BEIN SPORT 1  HD
@@ -219,14 +161,14 @@ http://iptv.tvmalaysia.cc:80/139664/139664/6748
 #EXTINF:-1 tvg-id="" tvg-name="beIN MAX 2" tvg-logo="https://i.postimg.cc/sX9NLwMV/1613886308377.png" group-title="ASTRO",beIN MAX 2
 http://iptv.tvmalaysia.cc:80/139664/139664/7195
 
-#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-my.png" group-title="ASTRO",Astro Super Sport 1 HD (mynxg)
-http://mynxg.top:8080/c0:97:27:4a:80:ba/KAYODE/3259
-#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-2-my.png" group-title="ASTRO",Astro Super Sport 2 HD (mynxg)
-http://mynxg.top:8080/c0:97:27:4a:80:ba/KAYODE/3258
-#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-3-my.png" group-title="ASTRO",Astro Super Sport 3 HD (mynxg)
-http://mynxg.top:8080/c0:97:27:4a:80:ba/KAYODE/3257
-#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-4-my.png" group-title="ASTRO",Astro Super Sport 4 HD (mynxg)
-http://mynxg.top:8080/c0:97:27:4a:80:ba/KAYODE/3256
+#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-my.png" group-title="ASTRO",Astro Super Sport 1 HD (mag.all)
+http://mag.all.iptv.uno:80/9DwVYK469/nP2hyR749/23453
+#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-2-my.png" group-title="ASTRO",Astro Super Sport 2 HD (mag.all)
+http://mag.all.iptv.uno:80/9DwVYK469/nP2hyR749/23452
+#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-3-my.png" group-title="ASTRO",Astro Super Sport 3 HD (mag.all)
+http://mag.all.iptv.uno:80/9DwVYK469/nP2hyR749/23451
+#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-4-my.png" group-title="ASTRO",Astro Super Sport 4 HD (mag.all)
+http://mag.all.iptv.uno:80/9DwVYK469/nP2hyR749/33973
 
 #EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-my.png" group-title="ASTRO",ASTRO SUPERSPORT 1 FHD (webo)
 http://tigerfights.xyz:2052/Michelle/Michelle/2599375
