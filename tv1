@@ -2,7 +2,8 @@
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports ID",BeIN Sport 1 ID
-https://nonton.site:8443/provision/pp/728
+#https://nonton.site:8443/provision/pp/728
+https://google-me.cdn.booyah.live/hls/113132/80668246.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports ID",BeIN Sport 2 ID
 https://nonton.site:8443/provision/pp/729
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZzOKCWZcdQTbxvueQaVaDKqW_Lpp-4pNtQ&usqp=CAU"  group-title="Sports ID", INDOSIAR
