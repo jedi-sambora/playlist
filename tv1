@@ -1,107 +1,36 @@
 #EXTM3U
-
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports ID",BeIN Sport 1 ID
-#https://nonton.site:8443/provision/pp/728
-https://google-me.cdn.booyah.live/hls/113132/80668246.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports ID",BeIN Sport 2 ID
-https://nonton.site:8443/provision/pp/729
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZzOKCWZcdQTbxvueQaVaDKqW_Lpp-4pNtQ&usqp=CAU"  group-title="Sports ID", INDOSIAR
-https://iptvid.cgflix.xyz/lokal/indosiar.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports ID",TVRI SPORT
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports ID",ID: beIN Sports 1 HD
-#http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/165105
-http://hottest.fit:8080/itzik/itzik3/28732
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="Sports ID",ID: beIN Sports 2 HD
-#http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/165073
-http://hottest.fit:8080/itzik/itzik3/28731
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sports ID",Usee Sport 1
-https://nonton.site:8443/provision/pp/36240
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Sports ID",Usee Sport 2
-https://nonton.site:8443/provision/pp/36241
-#EXTINF:-1 tvg-logo = "https://www.dropbox.com/s/p41okl7lo4yh7rz/beIN-SPORTS-XTRA_LOGO.png?dl=1" group-title="Sports ID", Bein Sport XTRA 
-https://www.dropbox.com/s/rpeaz6fv15fyyz9/beinxtra.m3u8?dl=1 
-#EXTINF:-1   tvg-logo="" group-title="Sports ID",ASTRO ARENA
-http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9lMwU2a5XuS_mPbbxiMRIR2ZGfQ=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-cd5af1.jpg" group-title="Sports ID", Champions TV 1
-#https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6685_720p/index.m3u8
-#https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6685_720p/index.m3u8
-https://link.zozotv.xyz:443/Freemium1/unlimited99/164
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zVTqzS-Vwnp_mhhekbD0xVUdBdI=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-e0b0b4.jpg" group-title="Sports ID", Champions TV 2
-#https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u8
-https://link.zozotv.xyz:443/Freemium1/unlimited99/165
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0CyFv4-SR0eH_tbFi6pDnecZyx8=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-f32604.jpg" group-title="Sports ID",Champions TV 3
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8
-
-#EXTINF:-1 group-title="OLYMPICX",CH1
-http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
-#EXTINF:-1 group-title="OLYMPICX",CH2
-http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
-#EXTINF:-1 group-title="OLYMPICX",CH3
-http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
-#EXTINF:-1 group-title="OLYMPICX",CH4
-http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
-#EXTINF:-1 group-title="OLYMPICX",CH5
-http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
-#EXTINF:-1 group-title="OLYMPICX",CH6
-http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
-#EXTINF:-1 group-title="OLYMPICX",CH7
-http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
-#EXTINF:-1 group-title="OLYMPICX",CH8
-http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
-#EXTINF:-1 group-title="OLYMPICX",CH9
-http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
-#EXTINF:-1 group-title="OLYMPICX",CH10
-http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
-#EXTINF:-1 group-title="OLYMPICX",CH11
-http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
-#EXTINF:-1 group-title="OLYMPICX",CH12
-http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
-#EXTINF:-1 group-title="OLYMPICX",CH13
-http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8
-#EXTINF:-1 group-title="OLYMPICX",CH14
-http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
-#EXTINF:-1 group-title="OLYMPICX",CH15
-http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
-#EXTINF:-1 group-title="OLYMPICX",CH16
-http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
-
-#EXTINF:-1 group-title="OLYMPIC",beIN SPORTS 1HD
-http://x12tv.co:80/55555/66666/20998
-#EXTINF:-1 group-title="OLYMPIC",beIN SPORTS 2HD
-http://x12tv.co:80/55555/66666/20999
-#EXTINF:-1 group-title="OLYMPIC",beIN SPORTS 3HD
-http://x12tv.co:80/55555/66666/21000
-#EXTINF:-1 group-title="OLYMPIC",beIN SPORTS 4HD
-http://x12tv.co:80/55555/66666/19143
-#EXTINF:-1 group-title="OLYMPIC",beIN SPORTS 5HD
-http://x12tv.co:80/55555/66666/7881
-#EXTINF:-1 group-title="OLYMPIC",beIN SPORTS 6HD
-http://x12tv.co:80/55555/66666/8796
-#EXTINF:-1 group-title="OLYMPIC",beIN SPORTS 7HD
-http://x12tv.co:80/55555/66666/1695
-#EXTINF:-1 group-title="OLYMPIC",beIN SPORTS premium 1HD
-http://x12tv.co:80/55555/66666/1694
-#EXTINF:-1 group-title="OLYMPIC",beIN SPORTS premium 2HD
-http://x12tv.co:80/55555/66666/1693
-#EXTINF:-1 group-title="OLYMPIC",beIN SPORTS premium 3HD
-http://x12tv.co:80/55555/66666/1692
-#EXTINF:-1 group-title="OLYMPIC",beIN SPORT MAX4 HD
-http://x12tv.co:80/55555/66666/4043
-#EXTINF:-1 group-title="OLYMPIC",beIN SPORT MAX5 HD
-http://x12tv.co:80/55555/66666/4044
-#EXTINF:-1 group-title="OLYMPIC",beIN SPORT MAX6 HD
-http://x12tv.co:80/55555/66666/4045
-#EXTINF:-1 group-title="OLYMPIC",beIN SPORT MAX7 HD
-http://x12tv.co:80/55555/66666/4046
-#EXTINF:-1 group-title="OLYMPIC",beIN SPORT MAX8 HD
-http://x12tv.co:80/55555/66666/4047
-#EXTINF:-1 group-title="OLYMPIC",beIN SPORT MAX9 HD
-http://x12tv.co:80/55555/66666/4048
-#EXTINF:-1 group-title="OLYMPIC",beIN SPORT MAX10 HD
-http://x12tv.co:80/55555/66666/4049
+#EXTINF:-1group-title="77 SPORT",True remier Football HD 1 (77)
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1group-title="77 SPORT",True remier Football HD 2 (77)
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1group-title="77 SPORT",PPTV (77)
+http://77.83.117.60:8888/02_PPTVHD_720p/chunklist.m3u8
+#EXTINF:-1group-title="77 SPORT",NBT
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="77 SPORT",  TRUE SPORT 1 (77)
+http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="77 SPORT",  TRUE SPORT 2 (77)
+http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="77 SPORT",  TRUE SPORT 3 (77)
+http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EN : BEIN SPORT 1 HD" tvg-logo="" group-title="77 SPORT",EN : BEIN SPORT 1  HD
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EN : BEIN SPORT 2 HD" tvg-logo="" group-title="77 SPORT",EN : BEIN SPORT 2  HD
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:-1 group-title="77 SPORT" tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",PT: SPORT TV 1 HD (83)
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="77 SPORT" tvg-logo="http://logo.ddnb.tn/logochanel/2124.png",PT: SPORT TV 2 HD (83)
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="77 SPORT" "tvg-logo="http://logo.ddnb.tn/logochanel/2125.png",PT: SPORT TV 3 HD (83)
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="77 SPORT""tvg-logo="http://logo.ddnb.tn/logochanel/2126.png",SPORTTV 4 (83)
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="77 SPORT""tvg-logo="http://logo.ddnb.tn/logochanel/2127.png",SPORTTV 5 (83)
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="77 SPORTS",UK: BT Sport 1
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="77 SPORTS",UK: BT Sport 2
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports ad",AD SPORTS 1 720 HD
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
@@ -117,20 +46,6 @@ https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_
 https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 
-#EXTINF:-1group-title="THAI SPORT",True remier Football HD 1 (77)
-http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1group-title="THAI SPORT",True remier Football HD 2 (77)
-http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1group-title="THAI SPORT",PPTV (77)
-http://77.83.117.60:8888/02_PPTVHD_720p/chunklist.m3u8
-#EXTINF:-1group-title="THAI SPORT",NBT
-http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT",  TRUE SPORT 1 (77)
-http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT",  TRUE SPORT 2 (77)
-http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="THAI SPORT",  TRUE SPORT 3 (77)
-http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
 
 
 
@@ -139,10 +54,8 @@ http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="EN : BEIN SPORT 1 HD" tvg-logo="" group-title="AR SPORT",EN : BEIN SPORT 1  HD
-http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EN : BEIN SPORT 2 HD" tvg-logo="" group-title="AR SPORT",EN : BEIN SPORT 2  HD
-http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+
+
 
 #EXTINF:-1 group-title="Astro",VIP MLZ: BEIN SPORTS HD (mynxg)
 http://mynxg.top:8080/c0:97:27:4a:80:ba/KAYODE/3268
@@ -180,132 +93,9 @@ http://iptv.tvmalaysia.cc:80/139664/139664/6711
 #EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-4-my.png" group-title="ASTRO",ASTRO SUPERSPORT 4 FHD (/iptv.tvmalaysia)
 http://iptv.tvmalaysia.cc:80/139664/139664/6712
 
-
-
-#EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png" group-title="ASTRO",ASTRO SUPERSPORT HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
-#EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT 2 HD" tvg-name="ASTRO SUPERSPORT 2 HD" tvg-logo="https://i.postimg.cc/LXv2LpmL/Astro-Super-Sport-2.png" group-title="ASTRO",ASTRO SUPERSPORT 2 HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
-#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="ASTRO SUPERSPORT 3 HD" tvg-logo="https://i.postimg.cc/3wmgKLYP/200px-Astro-ASSP3.png" group-title="ASTRO",ASTRO SUPERSPORT 3 HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
-#EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT 4 HD" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="ASTRO",ASTRO SUPERSPORT 4 HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
-
-
-#EXTINF: -1tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png"  group-title="ASTRO", ASTRO SUPERSPORT HD (m3u-editor)
-https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619158
-#EXTINF: -1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png" group-title="ASTRO", ASTRO SUPERSPORT 2 HD  (m3u-editor)
-https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619159
-#EXTINF: -1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" group-title="ASTRO", ASTRO SUPERSPORT 3 HD  (m3u-editor)
-https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619160
-#EXTINF: -1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/834_300.png" group-title="ASTRO", ASTRO SUPERSPORT 4 HD  (m3u-editor)
-https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619161
-
-#EXTINF:-1 tvg-id="Erz.Assp1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="ASTRO",Astro Supersport 1 m3e
-#http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
-https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295299151
-#EXTINF:-1 tvg-id="Erz.Assp2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3N8F_hJKmX9Ct16ir5opC6x30NVo_3exrw&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="ASTRO",Astro Supersport 2 m3e
-#http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295299151
-#EXTINF:-1 tvg-id="Erz.Assp3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLuBQjEQPzXniLS9Sy85t1wpSzymd2YdW5Xg&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="ASTRO",Astro Supersport 3 m3e
-#http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
-https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295815152
-#EXTINF:-1 tvg-id="Erz.Assp4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKroP1M0tQjt9HJ7olsUlmhuPLBxsw9TceQ&usqp=CAU" tvg-id="Erz.champions1" tvg-name"Champions TV 1" group-title="ASTRO",Astro Supersport 4 m3e
-#http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
-https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/295815153
-
-#EXTINF: -1tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png"  group-title="ASTRO", ASTRO SUPERSPORT HD (ztvuk)
-http://ztvuk.com:8080/younis/younis123/93033
-#EXTINF: -1tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png"  group-title="ASTRO", ASTRO SUPERSPORT 2 HD (ztvuk)
-http://ztvuk.com:8080/younis/younis123/93034
-#EXTINF: -1tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png"  group-title="ASTRO", ASTRO SUPERSPORT 3 HD (ztvuk)
-http://ztvuk.com:8080/younis/younis123/93035
-#EXTINF: -1tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/834_300.png"  group-title="ASTRO", ASTRO SUPERSPORT 4 HD (ztvuk)
-http://ztvuk.com:8080/younis/younis123/93036
-
-#EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="https://i.postimg.cc/7hm8GMMV/Astro-ASSP1.png" group-title="ASTRO",ASTRO SUPERSPORT HD (IPTVMAL)
-http://iptv.tvmalaysia.cc:80/139664/139664/6708
-#EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT 2 HD" tvg-name="ASTRO SUPERSPORT 2 HD" tvg-logo="https://i.postimg.cc/LXv2LpmL/Astro-Super-Sport-2.png" group-title="ASTRO",ASTRO SUPERSPORT 2 HD (IPTVMAL)
-http://iptv.tvmalaysia.cc:80/139664/139664/6710
-#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="ASTRO SUPERSPORT 3 HD" tvg-logo="https://i.postimg.cc/3wmgKLYP/200px-Astro-ASSP3.png" group-title="ASTRO",ASTRO SUPERSPORT 3 HD (IPTVMAL)
-http://iptv.tvmalaysia.cc:80/139664/139664/6711
-#EXTINF:-1 tvg-id="MY: ASTRO SUPERSPORT 4 HD" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://i.postimg.cc/439rXTKs/download-12.png" group-title="ASTRO",ASTRO SUPERSPORT 4 HD (IPTVMAL)
-http://iptv.tvmalaysia.cc:80/139664/139664/6712
-
 #EXTINF:-1, tvg-id="" tvg-name="TR : BEIN SPORT HD" tvg-logo="" group-title="BEIN SPORTS",TR : BEIN SPORT  HD (echo)
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/137.ts
 
-#EXTINF:-1 group-title="BEIN RICO",,BEIN SPORT 1 HD PREMIUM
-http://ricoootv.xyz:8080/ricotv0899/ricotv0899/1
-#EXTINF:-1 group-title="BEIN RICO",,BEIN SPORT 2 HD PREMIUM
-http://ricoootv.xyz:8080/ricotv0899/ricotv0899/2
-#EXTINF:-1 group-title="BEIN RICO",,BEIN SPORT 3 HD PREMIUM
-http://ricoootv.xyz:8080/ricotv0899/ricotv0899/3
-#EXTINF:-1 group-title="BEIN RICO",,BEIN SPORT 1 HD
-http://ricoootv.xyz:8080/ricotv0899/ricotv0899/4
-#EXTINF:-1 group-title="BEIN RICO",,BEIN SPORT 2 HD
-http://ricoootv.xyz:8080/ricotv0899/ricotv0899/5
-#EXTINF:-1 group-title="BEIN RICO",,BEIN SPORT 3 HD
-http://ricoootv.xyz:8080/ricotv0899/ricotv0899/6
-#EXTINF:-1 group-title="BEIN RICO",,BEIN SPORT 4 HD
-http://ricoootv.xyz:8080/ricotv0899/ricotv0899/7
-#EXTINF:-1 group-title="BEIN RICO",,BEIN SPORT 5 HD
-http://ricoootv.xyz:8080/ricotv0899/ricotv0899/8
-#EXTINF:-1 group-title="BEIN RICO",,BEIN SPORT 6 HD
-http://ricoootv.xyz:8080/ricotv0899/ricotv0899/9
-#EXTINF:-1 group-title="BEIN RICO",,BEIN SPORT 7 HD
-http://ricoootv.xyz:8080/ricotv0899/ricotv0899/10
-#EXTINF:-1 group-title="BEIN RICO",,BEIN SPORT EXTRA 1
-http://ricoootv.xyz:8080/ricotv0899/ricotv0899/12
-#EXTINF:-1 group-title="BEIN RICO",,BEIN SPORT EXTRA 2
-http://ricoootv.xyz:8080/ricotv0899/ricotv0899/13
-
-#EXTINF:-1 group-title="BEIN SPORTS",BEINSPORT1FR
-http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/544
-#EXTINF:-1  group-title="BEIN SPORTS",BEINSPORT2FR
-http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/543
-#EXTINF:-1 group-title="BEIN SPORTS",BEINSPORT3FR
-http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/542
-#EXTINF:-1 group-title="BEIN SPORTS",Bein Sport Max 4
-http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/3187
-#EXTINF:-1 group-title="BEIN SPORTS",Bein Sport Max 5
-http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/3186
-#EXTINF:-1 group-title="BEIN SPORTS",Bein Sport Max 6
-http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/3185
-#EXTINF:-1 group-title="BEIN SPORTS",Bein Sport Max 7
-http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/3184
-#EXTINF:-1 group-title="BEIN SPORTS",Bein Sport Max 8
-http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/3183
-#EXTINF:-1 group-title="BEIN SPORTS",Bein Sport Max 9
-http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/3182
-#EXTINF:-1 group-title="BEIN SPORTS",Bein Sport Max 10
-http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/3181
-#EXTINF:-1 group-title="BEIN SPORTS",RMC SPORT 1
-http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/541
-#EXTINF:-1 group-title="BEIN SPORTS",RMC SPORT 2
-http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/540
-#EXTINF:-1 group-title="BEIN SPORTS",RMC SPORT 3
-http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/539
-#EXTINF:-1 group-title="BEIN SPORTS",RMCSPORT4
-http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/538
-#EXTINF:-1 group-title="BEIN SPORTS",RMC SPORT 5 HD
-http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/3215
-#EXTINF:-1 group-title="BEIN SPORTS",EUROSPORT  2 FR
-http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/537
-#EXTINF:-1 group-title="BEIN SPORTS",EUROSPORT 1 FR
-http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/536
-#EXTINF:-1 group-title="BEIN SPORTS",EXTREME SPORTS
-http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/535
-#EXTINF:-1 group-title="BEIN SPORTS",AB MOTORS
-http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/475
-#EXTINF:-1 group-title="BEIN SPORTS",INFOSPORT
-http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/534
-#EXTINF:-1 group-title="BEIN SPORTS",L'EQUIPE 21
-http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/533
-#EXTINF:-1 group-title="BEIN SPORTS",EQUIDIA LIVE
-http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/531
-#EXTINF:-1 group-title="BEIN SPORTS",GOLF CHANNEL
-http://xtra.xcs521.cz:8080/00:1A:79:17:00:74/ziajdjjfdifjd64646/530
 
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 HD" tvg-logo="" group-title="BEIN SPORTS",TR: BEIN SPORTS 1 HD
 https://b.pscdn.live/hls/bein-sports-1.m3u8
