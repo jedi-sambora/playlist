@@ -46,34 +46,15 @@ https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_
 https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 
+#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-my.png" group-title="ASTRO",Astro Super Sport 1 HD (m3e-editor)
+https://m3u-editor.com/serve/cba65d90-f8f3-11eb-86ec-a999a456a6a9/351724975
+#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-2-my.png" group-title="ASTRO",Astro Super Sport 2 HD (m3e-editor)
+https://m3u-editor.com/serve/cba65d90-f8f3-11eb-86ec-a999a456a6a9/351724976
+#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-3-my.png" group-title="ASTRO",Astro Super Sport 3 HD (m3e-editor)
+https://m3u-editor.com/serve/cba65d90-f8f3-11eb-86ec-a999a456a6a9/351724977
+#EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-4-my.png" group-title="ASTRO",Astro Super Sport 4 HD (m3e-editor)
+https://m3u-editor.com/serve/cba65d90-f8f3-11eb-86ec-a999a456a6a9/351724978
 
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Astro",VIP MLZ: BEIN SPORTS HD (mynxg)
-http://mynxg.top:8080/c0:97:27:4a:80:ba/KAYODE/3268
-#EXTINF:-1 group-title="Astro",VIP MLZ: BEIN MAX HD (mynxg)
-http://mynxg.top:8080/c0:97:27:4a:80:ba/KAYODE/3848
-#EXTINF: -1 group-title="Astro", beIN MAX 2 (m3u-editor)
-https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619168
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO bEIN MAX" tvg-logo="" group-title="ASTRO",ASTRO bEIN MAX (PENANG)
-#http://thespeedmedia.watch:2086/65945/65945/76330
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
-#EXTINF:-1 tvg-id="" tvg-name="MY: beIN MAX" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/eea179e94ee357c53b3f2edc2cf9ed84.png"  group-title="ASTRO",MY: beIN MAX
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157487
-#EXTINF:-1 tvg-id="MY: BEIN SPORTS HD" tvg-name="beIN Sports" tvg-logo="https://i.postimg.cc/JhVqt6KN/11b14885c76a7e6534130043e86337d0.png" group-title="ASTRO",beIN Sports
-http://iptv.tvmalaysia.cc:80/139664/139664/6749
-#EXTINF:-1 tvg-id="beinsportsmax.my" tvg-name="beIN MAX" tvg-logo="https://i.postimg.cc/QxTnfTBd/bein-sports-max.png" group-title="ASTRO",beIN MAX
-http://iptv.tvmalaysia.cc:80/139664/139664/6748
-#EXTINF:-1 tvg-id="" tvg-name="beIN MAX 2" tvg-logo="https://i.postimg.cc/sX9NLwMV/1613886308377.png" group-title="ASTRO",beIN MAX 2
-http://iptv.tvmalaysia.cc:80/139664/139664/7195
 
 #EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-my.png" group-title="ASTRO",Astro Super Sport 1 HD (mag.all)
 http://mag.all.iptv.uno:80/9DwVYK469/nP2hyR749/23453
