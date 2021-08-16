@@ -77,28 +77,7 @@ http://iptv.tvmalaysia.cc:80/139664/139664/6712
 #EXTINF:-1, tvg-id="" tvg-name="TR : BEIN SPORT HD" tvg-logo="" group-title="BEIN SPORTS",TR : BEIN SPORT  HD (echo)
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/137.ts
 
-#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="|FR| BEIN SPORTS 1 HD" tvg-logo="http://wagmaupload.com/images/live150_55.png" group-title="FRANCE HD",|FR| BEIN SPORTS 1 HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/3536
-#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="|FR| BEIN SPORTS 2 HD" tvg-logo="http://wagmaupload.com/images/live150_56.png" group-title="FRANCE HD",|FR| BEIN SPORTS 2 HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/3537
-#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="|FR| BEIN SPORTS 3 HD" tvg-logo="http://wagmaupload.com/images/live150_57.png" group-title="FRANCE HD",|FR| BEIN SPORTS 3 HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/3538
-#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="|FR| BEIN SPORT MAX 4 HD" tvg-logo="http://wagmaupload.com/images/live150_58.png" group-title="FRANCE HD",|FR| BEIN SPORT MAX 4 HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/3539
-#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="|FR| BEIN SPORT MAX 5 HD" tvg-logo="http://wagmaupload.com/images/live150_59.png" group-title="FRANCE HD",|FR| BEIN SPORT MAX 5 HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/3540
-#EXTINF:-1 tvg-id="bein6max.fr" tvg-name="|FR| BEIN SPORT MAX 6 HD" tvg-logo="http://wagmaupload.com/images/live150_60.png" group-title="FRANCE HD",|FR| BEIN SPORT MAX 6 HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/3541
-#EXTINF:-1 tvg-id="bein7max.fr" tvg-name="|FR| BEIN SPORT MAX 7 HD" tvg-logo="http://wagmaupload.com/images/live150_61.png" group-title="FRANCE HD",|FR| BEIN SPORT MAX 7 HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/3542
-#EXTINF:-1 tvg-id="bein8max.fr" tvg-name="|FR| BEIN SPORT MAX 8 HD" tvg-logo="http://wagmaupload.com/images/live150_62.png" group-title="FRANCE HD",|FR| BEIN SPORT MAX 8 HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/3543
-#EXTINF:-1 tvg-id="bein9max.fr" tvg-name="|FR| BEIN SPORT MAX 9 HD" tvg-logo="http://wagmaupload.com/images/live150_63.png" group-title="FRANCE HD",|FR| BEIN SPORT MAX 9 HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/3544
-#EXTINF:-1 tvg-id="bein10max.fr" tvg-name="|FR| BEIN SPORT MAX 10 HD" tvg-logo="http://wagmaupload.com/images/live150_64.png" group-title="FRANCE HD",|FR| BEIN SPORT MAX 10 HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/3545
 
-#EXTM3U
 #EXTINF:-1 group-title="RUSS SPORT",Футбол 1
 https://95-213-172-213.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1 group-title="RUSS SPORT",Футбол 1 HD
