@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1group-title="77 SPORT",True remier Football HD 1 (77)
+#EXTINF:-1 group-title="77 SPORT",True remier Football HD 1 (77)
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1group-title="77 SPORT",True remier Football HD 2 (77)
+#EXTINF:-1 group-title="77 SPORT",True remier Football HD 2 (77)
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1group-title="77 SPORT",PPTV (77)
+#EXTINF:-1 group-title="77 SPORT",PPTV (77)
 http://77.83.117.60:8888/02_PPTVHD_720p/chunklist.m3u8
-#EXTINF:-1group-title="77 SPORT",NBT
+#EXTINF:-1 group-title="77 SPORT",NBT
 http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true_sport_hd.png" group-title="77 SPORT",  TRUE SPORT 1 (77)
 http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
@@ -212,6 +212,32 @@ https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 https://46-166-139-70.livesports24.online/sport1ua.m3u8
 #EXTINF:-1 group-title="RUSS SPORT",Спорт 1 Украина [SD]
 https://95-213-224-186.livesports24.online/sport1ua.m3u8
+
+
+#EXTINF:-1 group-title="BEIN FR",FR: beIN Sports 1 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/15272
+#EXTINF:-1 group-title="BEIN FR",FR: beIN Sports 2 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/15274
+#EXTINF:-1 group-title="BEIN FR",FR: beIN Sports 3 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/15276
+#EXTINF:-1 group-title="BEIN FR",FR: beIN Sports 4 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/15278
+#EXTINF:-1 group-title="BEIN FR",FR: beIN Sports Max 4 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/15279
+#EXTINF:-1 group-title="BEIN FR",FR: beIN Sports Max 5 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/15280
+#EXTINF:-1 group-title="BEIN FR",FR: beIN Sports Max 6 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/15281
+#EXTINF:-1 group-title="BEIN FR",FR: beIN Sports Max 7 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/15282
+#EXTINF:-1 group-title="BEIN FR",FR: beIN Sports Max 8 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/15283
+#EXTINF:-1 group-title="BEIN FR",FR: beIN Sports Max 9 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/15284
+#EXTINF:-1 group-title="BEIN FR",FR: beIN Sports Max 10 FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/15285
+#EXTINF:-1 group-title="BEIN FR",FR: beIN Sports 10 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/15286
 
 
 
