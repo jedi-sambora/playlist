@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Pilem",Red dot
 https://cdn3ii.diebutx.com/own2hls/2020/ce5a6a0bd2749698f7d023f2648afae1/540p/index.m3u8
+#EXTINF:-1 group-title="Pilem",Yin Yang Master
+https://cdn3ii.diebutx.com/own2hls/2020/60a4e83ee154b971dd8daf9ec9146b66/540p/index.m3u8
 #EXTINF:-1 group-title="77 SPORT",True remier Football HD 1 (77)
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="77 SPORT",True remier Football HD 2 (77)
