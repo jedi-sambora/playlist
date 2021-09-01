@@ -3,6 +3,17 @@
 https://cdn3ii.diebutx.com/own2hls/2020/ce5a6a0bd2749698f7d023f2648afae1/540p/index.m3u8
 #EXTINF:-1 group-title="Pilem",Yin Yang Master
 https://cdn3ii.diebutx.com/own2hls/2020/60a4e83ee154b971dd8daf9ec9146b66/540p/index.m3u8
+#EXTINF:-1 group-title="Pilem",HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 group-title="Pilem",HBO HITS
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+#EXTINF:-1 group-title="Pilem",&PRive
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Pilem",Red by Hbo
+https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
+#EXTINF:-1 group-title="Pilem",Cinemax
+https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
+
 #EXTINF:-1 group-title="77 SPORT",True remier Football HD 1 (77)
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="77 SPORT",True remier Football HD 2 (77)
@@ -77,6 +88,16 @@ http://iptv.tvmalaysia.cc:80/139664/139664/6710
 http://iptv.tvmalaysia.cc:80/139664/139664/6711
 #EXTINF:-1  tvg-logo="http://77.68.73.254/sport/astro-supersport-4-my.png" group-title="ASTRO",ASTRO SUPERSPORT 4 FHD (/iptv.tvmalaysia)
 http://iptv.tvmalaysia.cc:80/139664/139664/6712
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="http://tvmalaysia.cc:80/images/75cc9241f13d21de8368834292db1592.png" group-title="ASTRO ",ASTRO SUPERSPORT HD
+http://iptv.tvmalaysia.cc:80/989898/989898/6708
+#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="ASTRO SUPERSPORT 2 HD" tvg-logo="http://tvmalaysia.cc:80/images/e3c388f0dceef7b0bf46c2525f8cc4f1.png" group-title="ASTRO",ASTRO SUPERSPORT 2 HD
+http://iptv.tvmalaysia.cc:80/989898/989898/6710
+#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="ASTRO SUPERSPORT 3 HD" tvg-logo="http://tvmalaysia.cc:80/images/a4088df4e560d3b64125b924fd46236c.png" group-title="ASTRO",ASTRO SUPERSPORT 3 HD
+http://iptv.tvmalaysia.cc:80/989898/989898/6711
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 3 (LIVE EPL ONLY)" tvg-logo="" group-title="ASTRO",ASSP 3 (LIVE EPL ONLY)
+http://iptv.tvmalaysia.cc:80/989898/989898/9020
+#EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="http://tvmalaysia.cc:80/images/883b8a176132d660fdce1d14f2bfaf7e.png" group-title="ASTRO",ASTRO SUPERSPORT 4 HD
+http://iptv.tvmalaysia.cc:80/989898/989898/6712
 
 #EXTINF:-1, tvg-id="" tvg-name="TR : BEIN SPORT HD" tvg-logo="" group-title="BEIN SPORTS",TR : BEIN SPORT  HD (echo)
 http://echotv.online:8080/live/HalowTV/FSyzHfEhvb/137.ts
