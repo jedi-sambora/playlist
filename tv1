@@ -1,8 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Pilem",Red dot
-https://cdn3ii.diebutx.com/own2hls/2020/ce5a6a0bd2749698f7d023f2648afae1/540p/index.m3u8
-#EXTINF:-1 group-title="Pilem",Yin Yang Master
-https://cdn3ii.diebutx.com/own2hls/2020/60a4e83ee154b971dd8daf9ec9146b66/540p/index.m3u8
+
 #EXTINF:-1 group-title="Pilem",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="Pilem",HBO HITS
