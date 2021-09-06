@@ -242,3 +242,31 @@ http://1.yaciaptk.xyz/live/6161655/index.m3u8
 http://1.yaciaptk.xyz/live/616194987/index.m3u8
 #EXTINF:-1 group-title="BEIN AR",FR: beIN Sports 3 FHD
 http://1.yaciaptk.xyz/live/6151278887/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH | PremierHD1" tvg-logo="" group-title="THAILAND",TH | PremierHD1
+http://pelicanhosting.xyz:80/112233/112233/563555
+#EXTINF:-1 tvg-id="" tvg-name="TH | PremierHD2" tvg-logo="" group-title="THAILAND",TH | PremierHD2
+http://pelicanhosting.xyz:80/112233/112233/563556
+#EXTINF:-1 tvg-id="" tvg-name="TH | PremierHD3" tvg-logo="" group-title="THAILAND",TH | PremierHD3
+http://pelicanhosting.xyz:80/112233/112233/563557
+#EXTINF:-1 tvg-id="" tvg-name="TH | PremierHD4" tvg-logo="" group-title="THAILAND",TH | PremierHD4
+http://pelicanhosting.xyz:80/112233/112233/563558
+#EXTINF:-1 tvg-id="" tvg-name="TH | PremierHD5" tvg-logo="" group-title="THAILAND",TH | PremierHD5
+http://pelicanhosting.xyz:80/112233/112233/563559
+#EXTINF:-1 tvg-id="" tvg-name="TH | True Sport HD1" tvg-logo="" group-title="THAILAND",TH | True Sport HD1
+http://pelicanhosting.xyz:80/112233/112233/563561
+#EXTINF:-1 tvg-id="" tvg-name="TH | True Sport HD2" tvg-logo="" group-title="THAILAND",TH | True Sport HD2
+http://pelicanhosting.xyz:80/112233/112233/563562
+#EXTINF:-1 tvg-id="" tvg-name="TH | True Sport HD3" tvg-logo="" group-title="THAILAND",TH | True Sport HD3
+http://pelicanhosting.xyz:80/112233/112233/563563
+#EXTINF:-1 tvg-id="" tvg-name="TH | True Sport HD4" tvg-logo="" group-title="THAILAND",TH | True Sport HD4
+http://pelicanhosting.xyz:80/112233/112233/563564
+#EXTINF:-1 tvg-id="" tvg-name="TH | Fox Sport2" tvg-logo="" group-title="THAILAND",TH | Fox Sport2
+http://pelicanhosting.xyz:80/112233/112233/563565
+#EXTINF:-1 tvg-id="" tvg-name="TH | Fox Sport3" tvg-logo="" group-title="THAILAND",TH | Fox Sport3
+http://pelicanhosting.xyz:80/112233/112233/563566
+#EXTINF:-1 tvg-id="" tvg-name="TH | Tennis HD" tvg-logo="" group-title="THAILAND",TH | Tennis HD
+http://pelicanhosting.xyz:80/112233/112233/563567
+#EXTINF:-1 tvg-id="" tvg-name="TH | NBA HD" tvg-logo="" group-title="THAILAND",TH | NBA HD
+http://pelicanhosting.xyz:80/112233/112233/563568
+
