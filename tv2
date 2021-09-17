@@ -1,106 +1,102 @@
 #EXTM3U
-#EXTINF:-1,=== ASTRO SPORTS ===
+#EXTINF:-1 group-title="ASTRO",As
 http://iptv.tvmalaysia.cc:80/titi3/titi3/7214
-#EXTINF:-1,ASTRO Arena HD
+#EXTINF:-1  group-title="ASTRO",ASTRO Arena HD
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6707
-#EXTINF:-1,Arena ( B )
+#EXTINF:-1  group-title="ASTRO",Arena ( B )
 http://iptv.tvmalaysia.cc:80/titi3/titi3/9010
-#EXTINF:-1,EPL LIVE 1
+#EXTINF:-1  group-title="ASTRO",EPL LIVE 1
 http://iptv.tvmalaysia.cc:80/titi3/titi3/9022
-#EXTINF:-1,EPL LIVE 2
+#EXTINF:-1  group-title="ASTRO",EPL LIVE 2
 http://iptv.tvmalaysia.cc:80/titi3/titi3/9023
-#EXTINF:-1,ASTRO SUPERSPORT HD
+#EXTINF:-1  group-title="ASTRO",ASTRO SUPERSPORT HD
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6708
-#EXTINF:-1,ASSP 1
+#EXTINF:-1  group-title="ASTRO",ASSP 1
 http://iptv.tvmalaysia.cc:80/titi3/titi3/9024
 #EXTINF:-1,ASTRO SUPERSPORT 2 HD
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6710
-#EXTINF:-1,ASSP 2
+#EXTINF:-1  group-title="ASTRO",ASSP 2
 http://iptv.tvmalaysia.cc:80/titi3/titi3/9025
-#EXTINF:-1,ASTRO SUPERSPORT 3 HD
+#EXTINF:-1  group-title="ASTRO",ASTRO SUPERSPORT 3 HD
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6711
-#EXTINF:-1,ASSP 3 (LIVE EPL ONLY)
+#EXTINF:-1  group-title="ASTRO",ASSP 3 (LIVE EPL ONLY)
 http://iptv.tvmalaysia.cc:80/titi3/titi3/9020
-#EXTINF:-1,ASTRO SUPERSPORT 4 HD
+#EXTINF:-1  group-title="ASTRO",ASTRO SUPERSPORT 4 HD
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6712
-#EXTINF:-1,ASSP 4
+#EXTINF:-1  group-title="ASTRO",ASSP 4
 http://iptv.tvmalaysia.cc:80/titi3/titi3/9026
-#EXTINF:-1,FOX Sports HD
+#EXTINF:-1  group-title="ASTRO",FOX Sports HD
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6793
-#EXTINF:-1,FOX Sports 2 HD
+#EXTINF:-1  group-title="ASTRO",FOX Sports 2 HD
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6791
-#EXTINF:-1,FOX Sports 3 HD
+#EXTINF:-1  group-title="ASTRO",FOX Sports 3 HD
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6792
-#EXTINF:-1,ASTRO Cricket
+#EXTINF:-1  group-title="ASTRO",ASTRO Cricket
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6717
-#EXTINF:-1,beIN Sports
+#EXTINF:-1  group-title="ASTRO",beIN Sports
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6749
-#EXTINF:-1,beIN MAX
+#EXTINF:-1  group-title="ASTRO",beIN MAX
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6748
-#EXTINF:-1,beIN MAX 2
+#EXTINF:-1  group-title="ASTRO",beIN MAX 2
 http://iptv.tvmalaysia.cc:80/titi3/titi3/7195
-#EXTINF:-1,WWE Network
+#EXTINF:-1  group-title="ASTRO",WWE Network
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6849
-#EXTINF:-1,Rugby Pass TV
+#EXTINF:-1  group-title="ASTRO",Rugby Pass TV
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6821
-#EXTINF:-1,Golf Channel HD
+#EXTINF:-1  group-title="ASTRO",Golf Channel HD
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6796
-#EXTINF:-1,====== TSN ======
-http://iptv.tvmalaysia.cc:80/titi3/titi3/8969
-#EXTINF:-1,TSN 1
+
+#EXTINF:-1  group-title="TSN",TSN 1
 http://iptv.tvmalaysia.cc:80/titi3/titi3/8923
-#EXTINF:-1,TSN 2
+#EXTINF:-1 group-title="TSN",TSN 2
 http://iptv.tvmalaysia.cc:80/titi3/titi3/8924
-#EXTINF:-1,TSN 4
+#EXTINF:-1 group-title="TSN",TSN 4
 http://iptv.tvmalaysia.cc:80/titi3/titi3/8926
-#EXTINF:-1,TSN 3
+#EXTINF:-1 group-title="TSN",TSN 3
 http://iptv.tvmalaysia.cc:80/titi3/titi3/8925
-#EXTINF:-1,=== DSTV Supersport ===
-http://iptv.tvmalaysia.cc:80/titi3/titi3/7215
-#EXTINF:-1,DSTV: SuperSport Grandstand
+
+#EXTINF:-1 group-title="DSTV",DSTV: SuperSport Grandstand
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6572
-#EXTINF:-1,DSTV: SuperSport PSL
+#EXTINF:-1 group-title="DSTV",DSTV: SuperSport PSL
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6573
-#EXTINF:-1,DSTV: SuperSport Premier League
+#EXTINF:-1 group-title="DSTV",DSTV: SuperSport Premier League
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6574
-#EXTINF:-1,DSTV: SuperSport La Liga
+#EXTINF:-1 group-title="DSTV",DSTV: SuperSport La Liga
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6575
-#EXTINF:-1,DSTV: SuperSport Football
+#EXTINF:-1 group-title="DSTV",DSTV: SuperSport Football
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6576
-#EXTINF:-1,DSTV: SuperSport Variety 1
+#EXTINF:-1 group-title="DSTV",DSTV: SuperSport Variety 1
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6577
-#EXTINF:-1,DSTV: SuperSport Variety 2
+#EXTINF:-1 group-title="DSTV",DSTV: SuperSport Variety 2
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6578
-#EXTINF:-1,DSTV: SuperSport Variety 3
+#EXTINF:-1 group-title="DSTV",DSTV: SuperSport Variety 3
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6579
-#EXTINF:-1,DSTV: SuperSport Variety 4
+#EXTINF:-1 group-title="DSTV",DSTV: SuperSport Variety 4
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6580
-#EXTINF:-1,DSTV: SuperSport Cricket
+#EXTINF:-1 group-title="DSTV",DSTV: SuperSport Cricket
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6583
-#EXTINF:-1,DSTV: Supersport Blitz
+#EXTINF:-1 group-title="DSTV",DSTV: Supersport Blitz
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6584
-#EXTINF:-1,DSTV: SuperSport MáXimo
+#EXTINF:-1 group-title="DSTV",DSTV: SuperSport MáXimo
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6585
-#EXTINF:-1,DSTV: SuperSport Rugby
+#EXTINF:-1 group-title="DSTV",DSTV: SuperSport Rugby
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6582
-#EXTINF:-1,DSTV: SuperSport Action
+#EXTINF:-1 group-title="DSTV",DSTV: SuperSport Action
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6581
-#EXTINF:-1,DSTV: SuperSport Motorsport
+#EXTINF:-1 group-title="DSTV",DSTV: SuperSport Motorsport
 http://iptv.tvmalaysia.cc:80/titi3/titi3/7142
-#EXTINF:-1,DSTV: SuperSport Tennis
+#EXTINF:-1 group-title="DSTV",DSTV: SuperSport Tennis
 http://iptv.tvmalaysia.cc:80/titi3/titi3/7143
-#EXTINF:-1,DSTV: SuperSport WWE
+#EXTINF:-1 group-title="DSTV",DSTV: SuperSport WWE
 http://iptv.tvmalaysia.cc:80/titi3/titi3/7144
-#EXTINF:-1,DSTV: SuperSport Golf
+#EXTINF:-1 group-title="DSTV",DSTV: SuperSport Golf
 http://iptv.tvmalaysia.cc:80/titi3/titi3/7145
-#EXTINF:-1,BeIN Sport 1
+#EXTINF:-1 group-title="DSTV",BeIN Sport 1
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6597
-#EXTINF:-1,BeIN Sport 2
+#EXTINF:-1 group-title="DSTV",BeIN Sport 2
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6598
-#EXTINF:-1,BeIN Sport 13
+#EXTINF:-1 group-title="DSTV",BeIN Sport 13
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6609
-#EXTINF:-1,=== BT SPORT ===
-http://iptv.tvmalaysia.cc:80/titi3/titi3/7218
 #EXTINF:-1,BT Sport 1
 http://iptv.tvmalaysia.cc:80/titi3/titi3/6610
 #EXTINF:-1,BT Sport 2
