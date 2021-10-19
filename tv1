@@ -1,5 +1,8 @@
 #EXTM3U
-
+#EXTINF:-1 group-title="temp ",football
+http://96.amaniyouhra.xyz/live/6161655/index.m3u8?ZAnA_IPTV.m3u8
+#EXTINF:-1 group-title="temp ",football2
+https://ZAnA@sports24.ws/20516.html?ZAnA_IPTV.m3u8
 #EXTINF:-1 group-title="Pilem",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="Pilem",HBO HITS
