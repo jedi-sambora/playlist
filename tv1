@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="SPORT ",INDOSIAR
 http://tvnasional.mobie.in/M3U8/205.m3u8
+#EXTINF:-1 group-title="SPORT ",INDOSIAR sby
+http://194.233.65.189:80/tvsby/alives/playlist.m3u8
+#EXTINF:-1 group-title="SPORT ",INDOSIAR jkt
+http://194.233.65.189:80/tvjkt/alives/playlist.m3u8
 #EXTINF:-1 group-title="SPORT ",ASTRO SPORT 1
 http://iptv.tvmalaysia.cc:80/174726/174726/6708
 #EXTINF:-1 group-title="SPORT ",ASTRO SPORT 2
