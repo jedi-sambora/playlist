@@ -11,3 +11,7 @@ http://iptv.tvmalaysia.cc:80/174726/174726/6711
 http://iptv.tvmalaysia.cc:80/174726/174726/6712
 #EXTINF:-1 group-title="SPORT ",ASTRO SPORT 5
 http://iptv.tvmalaysia.cc:80/174726/174726/9029
+#EXTINF:-1 group-title="SPORT ",ARENA
+http://iptv.tvmalaysia.cc:80/174726/174726/6707
+#EXTINF:-1 group-title="SPORT ",ARENA2
+http://iptv.tvmalaysia.cc:80/174726/174726/9028
