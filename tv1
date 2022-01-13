@@ -15,3 +15,7 @@ http://iptv.tvmalaysia.cc:80/174726/174726/9029
 http://iptv.tvmalaysia.cc:80/174726/174726/6707
 #EXTINF:-1 group-title="SPORT ",ARENA2
 http://iptv.tvmalaysia.cc:80/174726/174726/9028
+#EXTINF:-1 group-title="SPORT ",BEIN MAX
+http://iptv.tvmalaysia.cc:80/174726/174726/6748
+#EXTINF:-1 group-title="SPORT ",BEIN MAX2
+http://iptv.tvmalaysia.cc:80/174726/174726/7195
