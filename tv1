@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="SPORT ",tv1
-https://ZAnA@www.new-yalla-shoot.com/p/premiere-1-mobile.html?m=1
+https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/J2GRkYkCw55E4-g8JZZpBrpMv_fkUKtr6WBl9gsJxcfsTvOxCY-QfTWrL2oGo70fBNV7SABwjcVvPfKUt-0sFQ/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_highlatency.m3u8
 #EXTINF:-1 group-title="SPORT ",tv2
 https://ZAnA@cloud.yalla-shoot.us/p/premium-1-mob.html?m=0
 #EXTINF:-1 group-title="SPORT ",tv3
