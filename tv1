@@ -1,12 +1,18 @@
 #EXTM3U
-#EXTINF:-1 group-title="SPORT ",tv1
-https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/J2GRkYkCw55E4-g8JZZpBrpMv_fkUKtr6WBl9gsJxcfsTvOxCY-QfTWrL2oGo70fBNV7SABwjcVvPfKUt-0sFQ/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_highlatency.m3u8
-#EXTINF:-1 group-title="SPORT ",tv2
-https://ZAnA@cloud.yalla-shoot.us/p/premium-1-mob.html?m=0
-#EXTINF:-1 group-title="SPORT ",tv3
-http://m16.aminouras.xyz/live/61616/index.m3u8?ZAnA_IPTV.m3u8
-#EXTINF:-1 group-title="SPORT ",tv4
-https://transcoder-itatiba-01.nxplay.com.br/ESPN_BR/index.m3u8?ZAnA_IPTV.m3u8
+#EXTINF:-1 group-title="SPORT ",bein sport 1 720
+http://195.230.23.8:25461/o0O00oOoo0o0O0o/goldstv.com/7863
+#EXTINF:-1 group-title="SPORT ",bein sport 2 720
+http://195.230.23.8:25461/o0O00oOoo0o0O0o/goldstv.com/7864
+#EXTINF:-1 group-title="SPORT ",bein sport 3 720
+http://195.230.23.8:25461/o0O00oOoo0o0O0o/goldstv.com/7865
+#EXTINF:-1 group-title="SPORT ",Bein sport En 1 sd
+http://195.230.23.8:25461/o0O00oOoo0o0O0o/goldstv.com/7890
+#EXTINF:-1 group-title="SPORT ",Bein sport En 2 sd
+http://195.230.23.8:25461/o0O00oOoo0o0O0o/goldstv.com/7891
+#EXTINF:-1 group-title="SPORT ",Bein sport max 2 sd
+http://195.230.23.8:25461/o0O00oOoo0o0O0o/goldstv.com/7848
+#EXTINF:-1 group-title="SPORT ",Bein sport max 1 720
+http://195.230.23.8:25461/o0O00oOoo0o0O0o/goldstv.com/7849
 #EXTINF:-1 group-title="SPORT ",ASTRO SPORT 1
 http://iptv.tvmalaysia.cc:80/174726/174726/6708
 #EXTINF:-1 group-title="SPORT ",ASTRO SPORT 2
