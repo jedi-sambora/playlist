@@ -1,10 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="SPORT ",INDOSIAR
-http://tvnasional.mobie.in/M3U8/205.m3u8
-#EXTINF:-1 group-title="SPORT ",INDOSIAR sby
-http://194.233.65.189:80/tvsby/alives/playlist.m3u8
-#EXTINF:-1 group-title="SPORT ",INDOSIAR jkt
-http://194.233.65.189:80/tvjkt/alives/playlist.m3u8
+#EXTINF:-1 group-title="SPORT ",tv1
+https://ZAnA@www.new-yalla-shoot.com/p/premiere-1-mobile.html?m=1
+#EXTINF:-1 group-title="SPORT ",tv2
+https://ZAnA@cloud.yalla-shoot.us/p/premium-1-mob.html?m=0
+#EXTINF:-1 group-title="SPORT ",tv3
+http://m16.aminouras.xyz/live/61616/index.m3u8?ZAnA_IPTV.m3u8
+#EXTINF:-1 group-title="SPORT ",tv4
+https://transcoder-itatiba-01.nxplay.com.br/ESPN_BR/index.m3u8?ZAnA_IPTV.m3u8
 #EXTINF:-1 group-title="SPORT ",ASTRO SPORT 1
 http://iptv.tvmalaysia.cc:80/174726/174726/6708
 #EXTINF:-1 group-title="SPORT ",ASTRO SPORT 2
