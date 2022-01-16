@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="SPORT ",bein sport 1 720
-http://195.230.23.8:25461/o0O00oOoo0o0O0o/goldstv.com/7863
-#EXTINF:-1 group-title="SPORT ",bein sport 2 720
+#EXTINF:-1 group-title="SPORT ",EPL 1
+http://194.233.65.189:80/ontvjkt/onflyy/playlist.m3u8
+#EXTINF:-1 group-title="SPORT ",EPL 2
 http://195.230.23.8:25461/o0O00oOoo0o0O0o/goldstv.com/7864
 #EXTINF:-1 group-title="SPORT ",bein sport 3 720
 http://195.230.23.8:25461/o0O00oOoo0o0O0o/goldstv.com/7865
