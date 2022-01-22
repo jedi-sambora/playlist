@@ -1,18 +1,20 @@
 #EXTM3U
-#EXTINF:-1 group-title="SPORT ",indosiar
-http://194.233.65.189/tvjkt/alives/playlist.m3u8
-#EXTINF:-1 group-title="SPORT ",EPL 2
-http://195.230.23.8:25461/o0O00oOoo0o0O0o/goldstv.com/7864
-#EXTINF:-1 group-title="SPORT ",bein sport 3 720
-http://195.230.23.8:25461/o0O00oOoo0o0O0o/goldstv.com/7865
-#EXTINF:-1 group-title="SPORT ",Bein sport En 1 sd
-http://195.230.23.8:25461/o0O00oOoo0o0O0o/goldstv.com/7890
-#EXTINF:-1 group-title="SPORT ",Bein sport En 2 sd
-http://195.230.23.8:25461/o0O00oOoo0o0O0o/goldstv.com/7891
-#EXTINF:-1 group-title="SPORT ",Bein sport max 2 sd
-http://195.230.23.8:25461/o0O00oOoo0o0O0o/goldstv.com/7848
-#EXTINF:-1 group-title="SPORT ",Bein sport max 1 720
-http://195.230.23.8:25461/o0O00oOoo0o0O0o/goldstv.com/7849
+#EXTINF:-1 group-title="SPORT ",beins sport 1
+http://sonyiptv.net:8080/22807/22807/205895
+#EXTINF:-1 group-title="SPORT ",beins sport 2
+http://sonyiptv.net:8080/22807/22807/205896
+#EXTINF:-1 group-title="SPORT ",beins sport 3
+http://sonyiptv.net:8080/22807/22807/205897
+#EXTINF:-1 group-title="SPORT ",beins sport 5
+http://sonyiptv.net:8080/22807/22807/209403
+#EXTINF:-1 group-title="SPORT ",beins sport 7
+http://sonyiptv.net:8080/22807/22807/209405
+#EXTINF:-1 group-title="SPORT ",Super sport 2
+http://sonyiptv.net:8080/22807/22807/208395
+#EXTINF:-1 group-title="SPORT ",Super sport 3
+http://sonyiptv.net:8080/22807/22807/208407
+#EXTINF:-1 group-title="SPORT ",Super sport 4
+http://sonyiptv.net:8080/22807/22807/208408
 #EXTINF:-1 group-title="SPORT ",ASTRO SPORT 1
 http://iptv.tvmalaysia.cc:80/174726/174726/6708
 #EXTINF:-1 group-title="SPORT ",ASTRO SPORT 2
