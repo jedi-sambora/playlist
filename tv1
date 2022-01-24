@@ -1,20 +1,21 @@
 #EXTM3U
-#EXTINF:-1 group-title="SPORT ",beins sport 1
-http://sonyiptv.net:8080/22807/22807/205895
-#EXTINF:-1 group-title="SPORT ",beins sport 2
-http://sonyiptv.net:8080/22807/22807/205896
-#EXTINF:-1 group-title="SPORT ",beins sport 3
-http://sonyiptv.net:8080/22807/22807/205897
-#EXTINF:-1 group-title="SPORT ",beins sport 5
-http://sonyiptv.net:8080/22807/22807/209403
-#EXTINF:-1 group-title="SPORT ",beins sport 7
-http://sonyiptv.net:8080/22807/22807/209405
-#EXTINF:-1 group-title="SPORT ",Super sport 2
-http://sonyiptv.net:8080/22807/22807/208395
-#EXTINF:-1 group-title="SPORT ",Super sport 3
-http://sonyiptv.net:8080/22807/22807/208407
-#EXTINF:-1 group-title="SPORT ",Super sport 4
-http://sonyiptv.net:8080/22807/22807/208408
+#EXTINF:-1 group-title="SPORT ",beins sport 1 prem
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/13
+#EXTINF:-1 group-title="SPORT ",beins sport 2 prem
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/14
+#EXTINF:-1 group-title="SPORT ",beins sport 3 prem
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/15
+#EXTINF:-1 group-title="SPORT ", beIN Sports 1 HD
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/16
+#EXTINF:-1 group-title="SPORT ", beIN Sports 2 HD
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/17
+#EXTINF:-1 group-title="SPORT ", beIN Sports 3 HD
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/18
+#EXTINF:-1 group-title="SPORT ", beIN Sports 4 HD
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/19
+#EXTINF:-1 group-title="SPORT ", beIN Sports 5 HD
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/20
+
 #EXTINF:-1 group-title="SPORT ",ASTRO SPORT 1
 http://iptv.tvmalaysia.cc:80/174726/174726/6708
 #EXTINF:-1 group-title="SPORT ",ASTRO SPORT 2
