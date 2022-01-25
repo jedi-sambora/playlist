@@ -37,3 +37,13 @@ http://iptv.tvmalaysia.cc:80/174726/174726/9028
 http://iptv.tvmalaysia.cc:80/174726/174726/6748
 #EXTINF:-1 group-title="SPORT ",BEIN MAX2
 http://iptv.tvmalaysia.cc:80/174726/174726/7195
+#EXTINF:-1 group-title="MOVIE ",CINEMAX
+https://m3u-editor.com/serve/d3036c60-76b2-11ec-a22b-1b15fb8aac55/477946677
+#EXTINF:-1 group-title="MOVIE ",HBO SIGNATURE ID
+https://m3u-editor.com/serve/d3036c60-76b2-11ec-a22b-1b15fb8aac55/477946676
+#EXTINF:-1 group-title="MOVIE ",HBO HITS ID
+https://m3u-editor.com/serve/d3036c60-76b2-11ec-a22b-1b15fb8aac55/477946675
+#EXTINF:-1 group-title="MOVIE ",HBO FAMILY ID
+https://m3u-editor.com/serve/d3036c60-76b2-11ec-a22b-1b15fb8aac55/477946674
+#EXTINF:-1 group-title="MOVIE ",HBO ID
+https://m3u-editor.com/serve/d3036c60-76b2-11ec-a22b-1b15fb8aac55/477946673
