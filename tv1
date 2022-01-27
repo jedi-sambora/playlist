@@ -1,23 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="SPORT ",beins sport 1 prem
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/13
-#EXTINF:-1 group-title="SPORT ",beins sport 2 prem
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/14
-#EXTINF:-1 group-title="SPORT ",beins sport 3 prem
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/15
-#EXTINF:-1 group-title="SPORT ", beIN Sports 1 HD
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/16
-#EXTINF:-1 group-title="SPORT ", beIN Sports 2 HD
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/17
-#EXTINF:-1 group-title="SPORT ", beIN Sports 3 HD
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/18
-#EXTINF:-1 group-title="SPORT ", beIN Sports 4 HD
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/19
-#EXTINF:-1 group-title="SPORT ", beIN Sports 5 HD
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/20
-#EXTINF:-1 group-title="SPORT ", ESPN
-http://xcui.vitvabc.xyz:8880/287994016552/287994016552/16725
-#EXTINF:-1 group-title="SPORT ", ESPN2
+#EXTINF:-1,BE| PROXIMUS - PICKX+ SPORTS 1 HD
+http://foxx-tv.com:9600/4F8qzrgag1ttB0o/wUdDVywA2wtBr3z/378540
 http://xcui.vitvabc.xyz:8880/287994016241/287994016241/16717
 #EXTINF:-1 group-title="SPORT ", SPOTV HD
 http://xcui.vitvabc.xyz:8880/287994016552/287994016552/16753
