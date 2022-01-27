@@ -21,6 +21,12 @@ http://foxx-tv.com:9600/4F8qzrgag1ttB0o/wUdDVywA2wtBr3z/378548
 http://foxx-tv.com:9600/4F8qzrgag1ttB0o/wUdDVywA2wtBr3z/378549
 #EXTINF:-1 group-title="SPORT ",BE-NL| PLAY SPORTS 1 HD
 http://foxx-tv.com:9600/4F8qzrgag1ttB0o/wUdDVywA2wtBr3z/228556
+#EXTINF:-1 group-title="SPORT ",BE-NL| ELEVEN SPORT 1 (NL)
+http://foxx-tv.com:9600/4F8qzrgag1ttB0o/wUdDVywA2wtBr3z/235058
+#EXTINF:-1 group-title="SPORT ",BE-NL| ELEVEN SPORTS 2 (NL)
+http://foxx-tv.com:9600/4F8qzrgag1ttB0o/wUdDVywA2wtBr3z/235057
+#EXTINF:-1 group-title="SPORT ",BE-NL| ELEVEN SPORTS 3 (NL)
+http://foxx-tv.com:9600/4F8qzrgag1ttB0o/wUdDVywA2wtBr3z/235056
 #EXTINF:-1 group-title="SPORT ", SPOTV HD
 http://xcui.vitvabc.xyz:8880/287994016552/287994016552/16753
 #EXTINF:-1 tvg-id="Astro SuperSport" tvg-name="Astro Supersport 1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="SPORTS",Astro Supersport 1
