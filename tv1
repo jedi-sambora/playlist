@@ -27,8 +27,8 @@ http://foxx-tv.com:9600/4F8qzrgag1ttB0o/wUdDVywA2wtBr3z/235058
 http://foxx-tv.com:9600/4F8qzrgag1ttB0o/wUdDVywA2wtBr3z/235057
 #EXTINF:-1 group-title="SPORT ",BE-NL| ELEVEN SPORTS 3 (NL)
 http://foxx-tv.com:9600/4F8qzrgag1ttB0o/wUdDVywA2wtBr3z/235056
-#EXTINF:-1 group-title="SPORT ", SPOTV HD
-http://xcui.vitvabc.xyz:8880/287994016552/287994016552/16753
+#EXTINF:-1 group-title="SPORT ",FR| CANAL+ PREMIER LEAGUE HD (Actif pour evenements)
+http://foxx-tv.com:9600/4F8qzrgag1ttB0o/wUdDVywA2wtBr3z/295371
 #EXTINF:-1 tvg-id="Astro SuperSport" tvg-name="Astro Supersport 1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="SPORTS",Astro Supersport 1
 http://tv.raizoml.xyz:25461/live/freenet/freenet/29.m3u8
 #EXTINF:-1 tvg-id="Astro SuperSport 2" tvg-name="Astro Supersport 2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS",Astro Supersport 2
@@ -41,5 +41,4 @@ http://tv.raizoml.xyz:25461/live/freenet/freenet/32.m3u8
 http://tv.raizoml.xyz:25461/live/freenet/freenet/84.m3u8
 #EXTINF:-1 group-title="MOVIE ",TVN Movie
 http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
-#EXTINF:-1 group-title="MOVIE ",INDOSIAR
-https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
+
