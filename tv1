@@ -1,10 +1,16 @@
 #EXTM3U
 #EXTINF:-1 group-title="SPORT ",BEINS 1 PREM
 http://eaiptv.net:8888/hatem/102030/26479
+#EXTINF:-1 group-title="SPORT ",BEINS 1 PREM2
+http://mo3ad.xyz:8080/mo3ad22c0KK9/mo3ad22c0KK9/1
 #EXTINF:-1 group-title="SPORT ",BEINS 2 PREM
 http://eaiptv.net:8888/hatem/102030/26501
+#EXTINF:-1 group-title="SPORT ",BEINS 2 PREM2
+http://mo3ad.xyz:8080/mo3ad22c0KK9/mo3ad22c0KK9/3
 #EXTINF:-1 group-title="SPORT ",BEINS 3 PREM
 http://eaiptv.net:8888/hatem/102030/26502
+#EXTINF:-1 group-title="SPORT ",BEINS 3 PREM2
+http://mo3ad.xyz:8080/mo3ad22c0KK9/mo3ad22c0KK9/5
 #EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_1_H265" tvg-logo="http://eaiptv.net:8888/images/27cb32fe67691f6d913545795b767a28.png" group-title="beIN SPORT H265",BeIN_SPORTS_1_H265
 http://eaiptv.net:8888/hatem/102030/26503
 #EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_2_H265" tvg-logo="http://eaiptv.net:8888/images/6e9e1151c4b1b80b513850509a84d73a.png" group-title="beIN SPORT H265",BeIN_SPORTS_2_H265
