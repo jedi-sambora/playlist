@@ -1,6 +1,25 @@
 #EXTM3U
 #EXTINF:-1 group-title="SPORT ",BEINS 1 PREM
 http://eaiptv.net:8888/hatem/102030/26479
+#EXTINF:-1 group-title="SPORT ",BEINS 2 PREM
+http://eaiptv.net:8888/hatem/102030/26501
+#EXTINF:-1 group-title="SPORT ",BEINS 3 PREM
+http://eaiptv.net:8888/hatem/102030/26502
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_1_H265" tvg-logo="http://eaiptv.net:8888/images/27cb32fe67691f6d913545795b767a28.png" group-title="beIN SPORT H265",BeIN_SPORTS_1_H265
+http://eaiptv.net:8888/hatem/102030/26503
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_2_H265" tvg-logo="http://eaiptv.net:8888/images/6e9e1151c4b1b80b513850509a84d73a.png" group-title="beIN SPORT H265",BeIN_SPORTS_2_H265
+http://eaiptv.net:8888/hatem/102030/26504
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_3_H265" tvg-logo="http://eaiptv.net:8888/images/0940b7d404bbd2b66820615102b9bf34.png" group-title="beIN SPORT H265",BeIN_SPORTS_3_H265
+http://eaiptv.net:8888/hatem/102030/26505
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_4_H265" tvg-logo="http://eaiptv.net:8888/images/9209863f5031badd668c134c468bff98.png" group-title="beIN SPORT H265",BeIN_SPORTS_4_H265
+http://eaiptv.net:8888/hatem/102030/26506
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_5_H265" tvg-logo="http://eaiptv.net:8888/images/46cfc27d0fc2aea81ea48bf174381542.png" group-title="beIN SPORT H265",BeIN_SPORTS_5_H265
+http://eaiptv.net:8888/hatem/102030/26507
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_6_H265" tvg-logo="http://eaiptv.net:8888/images/1d2c6e6d8d24c0744011b1496dbb7217.png" group-title="beIN SPORT H265",BeIN_SPORTS_6_H265
+http://eaiptv.net:8888/hatem/102030/26508
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_SPORTS_7_H265" tvg-logo="http://eaiptv.net:8888/images/ddb7f6a3dd0bacbad276dc0fef236c00.png" group-title="beIN SPORT H265",BeIN_SPORTS_7_H265
+http://eaiptv.net:8888/hatem/102030/26509
+
 #EXTINF:-1 group-title="SPORT ",BE| PROXIMUS - PICKX+ SPORTS 1 HD
 http://foxx-tv.com:9600/4F8qzrgag1ttB0o/wUdDVywA2wtBr3z/378540
 #EXTINF:-1 group-title="SPORT ",BE| PROXIMUS - PICKX+ SPORTS 2 HD
