@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="SPORT ",BEINS 1 PREM
+http://eaiptv.net:8888/hatem/102030/26479
 #EXTINF:-1 group-title="SPORT ",BE| PROXIMUS - PICKX+ SPORTS 1 HD
 http://foxx-tv.com:9600/4F8qzrgag1ttB0o/wUdDVywA2wtBr3z/378540
 #EXTINF:-1 group-title="SPORT ",BE| PROXIMUS - PICKX+ SPORTS 2 HD
