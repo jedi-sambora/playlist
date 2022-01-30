@@ -66,7 +66,10 @@ http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/181177
 http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/181178
 #EXTINF:-1 tvg-id="" tvg-name="ASIA: MY Astro Supersport_50fps" tvg-logo="https://expatfinancial.com/wp-content/uploads/2014/10/Asia.png" group-title="ASIA",ASIA: MY Astro Supersport_50fps
 http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/181179
-
+#EXTINF:-1 group-title="LOKAL",INDOSIAR
+https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
 #EXTINF:-1 group-title="MOVIE ",TVN Movie
 http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
+#EXTINF:-1 group-title="MOVIE ", Celestial Movie
+http://rr1.dens.tv/h/h14/02.m3u8?chname=Celestial_Movies
 
