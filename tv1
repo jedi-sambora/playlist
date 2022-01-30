@@ -36,16 +36,6 @@ http://foxx-tv.com:9600/4F8qzrgag1ttB0o/wUdDVywA2wtBr3z/235057
 http://foxx-tv.com:9600/4F8qzrgag1ttB0o/wUdDVywA2wtBr3z/235056
 #EXTINF:-1 group-title="SPORT ",FR| CANAL+ PREMIER LEAGUE HD (Actif pour evenements)
 http://foxx-tv.com:9600/4F8qzrgag1ttB0o/wUdDVywA2wtBr3z/295371
-#EXTINF:-1 tvg-id="Astro SuperSport" tvg-name="Astro Supersport 1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="SPORTS",Astro Supersport 1
-http://tv.raizoml.xyz:25461/live/freenet/freenet/29.m3u8
-#EXTINF:-1 tvg-id="Astro SuperSport 2" tvg-name="Astro Supersport 2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS",Astro Supersport 2
-http://tv.raizoml.xyz:25461/live/freenet/freenet/30.m3u8
-#EXTINF:-1 tvg-id="Astro SuperSport 3" tvg-name="Astro Supersport 3" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="SPORTS",Astro Supersport 3
-http://tv.raizoml.xyz:25461/live/freenet/freenet/31.m3u8
-#EXTINF:-1 tvg-id="Astro SuperSport 4" tvg-name="Astro Supersport 4" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="SPORTS",Astro Supersport 4
-http://tv.raizoml.xyz:25461/live/freenet/freenet/32.m3u8
-#EXTINF:-1 tvg-id="Astro SuperSport 5" tvg-name="Astro Supersport 5" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="SPORTS",Astro Supersport 5
-http://tv.raizoml.xyz:25461/live/freenet/freenet/84.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ASIA: MY Astro Supersport" tvg-logo="https://expatfinancial.com/wp-content/uploads/2014/10/Asia.png" group-title="ASIA",ASIA: MY Astro Supersport
 http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/181171
 #EXTINF:-1 tvg-id="" tvg-name="ASIA: MY Astro Supersport 2" tvg-logo="https://expatfinancial.com/wp-content/uploads/2014/10/Asia.png" group-title="ASIA",ASIA: MY Astro Supersport 2
