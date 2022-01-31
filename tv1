@@ -1,23 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="SPORT ",BEINS 1 PREM2
-http://mo3ad.xyz:8080/mo3ad22c0KK9/mo3ad22c0KK9/1
-#EXTINF:-1 group-title="SPORT ",BEINS 2 PREM2
-http://mo3ad.xyz:8080/mo3ad22c0KK9/mo3ad22c0KK9/3
-#EXTINF:-1 group-title="SPORT ",BEINS 3 PREM2
-http://mo3ad.xyz:8080/mo3ad22c0KK9/mo3ad22c0KK9/5
-#EXTINF:-1 group-title="SPORT ",beIN Sports 1 HD
-http://mo3ad.xyz:8080/mo3ad22c0KK9/mo3ad22c0KK9/15
-#EXTINF:-1 group-title="SPORT ",beIN Sports 2 HD
-http://mo3ad.xyz:8080/mo3ad22c0KK9/mo3ad22c0KK9/16
-#EXTINF:-1 group-title="SPORT ",beIN Sports 3 HD
-http://mo3ad.xyz:8080/mo3ad22c0KK9/mo3ad22c0KK9/17
-#EXTINF:-1 group-title="SPORT ",beIN Sports 5 HD
-http://mo3ad.xyz:8080/mo3ad22c0KK9/mo3ad22c0KK9/9
-#EXTINF:-1 group-title="SPORT ",Bein Sport Max 1 HD
-http://mo3ad.xyz:8080/mo3ad22c0KK9/mo3ad22c0KK9/97
-#EXTINF:-1 group-title="SPORT ",Bein Sport Max 2 HD
-http://mo3ad.xyz:8080/mo3ad22c0KK9/mo3ad22c0KK9/98
 #EXTINF:-1 group-title="SPORT ",BE| PROXIMUS - PICKX+ SPORTS 1 HD
 http://foxx-tv.com:9600/4F8qzrgag1ttB0o/wUdDVywA2wtBr3z/378540
 #EXTINF:-1 group-title="SPORT ",BE| PROXIMUS - PICKX+ SPORTS 2 HD
@@ -48,24 +30,6 @@ http://foxx-tv.com:9600/4F8qzrgag1ttB0o/wUdDVywA2wtBr3z/235057
 http://foxx-tv.com:9600/4F8qzrgag1ttB0o/wUdDVywA2wtBr3z/235056
 #EXTINF:-1 group-title="SPORT ",FR| CANAL+ PREMIER LEAGUE HD (Actif pour evenements)
 http://foxx-tv.com:9600/4F8qzrgag1ttB0o/wUdDVywA2wtBr3z/295371
-#EXTINF:-1 tvg-id="" tvg-name="ASIA: MY Astro Supersport" tvg-logo="https://expatfinancial.com/wp-content/uploads/2014/10/Asia.png" group-title="ASIA",ASIA: MY Astro Supersport
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/181171
-#EXTINF:-1 tvg-id="" tvg-name="ASIA: MY Astro Supersport 2" tvg-logo="https://expatfinancial.com/wp-content/uploads/2014/10/Asia.png" group-title="ASIA",ASIA: MY Astro Supersport 2
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/181172
-#EXTINF:-1 tvg-id="" tvg-name="ASIA: MY Astro Supersport 2_50fps" tvg-logo="https://expatfinancial.com/wp-content/uploads/2014/10/Asia.png" group-title="ASIA",ASIA: MY Astro Supersport 2_50fps
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/181173
-#EXTINF:-1 tvg-id="" tvg-name="ASIA: MY Astro Supersport 3" tvg-logo="https://expatfinancial.com/wp-content/uploads/2014/10/Asia.png" group-title="ASIA",ASIA: MY Astro Supersport 3
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/181174
-#EXTINF:-1 tvg-id="" tvg-name="ASIA: MY Astro Supersport 3_50fps" tvg-logo="https://expatfinancial.com/wp-content/uploads/2014/10/Asia.png" group-title="ASIA",ASIA: MY Astro Supersport 3_50fps
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/181175
-#EXTINF:-1 tvg-id="" tvg-name="ASIA: MY Astro Supersport 4" tvg-logo="https://expatfinancial.com/wp-content/uploads/2014/10/Asia.png" group-title="ASIA",ASIA: MY Astro Supersport 4
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/181176
-#EXTINF:-1 tvg-id="" tvg-name="ASIA: MY Astro Supersport 4_50fps" tvg-logo="https://expatfinancial.com/wp-content/uploads/2014/10/Asia.png" group-title="ASIA",ASIA: MY Astro Supersport 4_50fps
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/181177
-#EXTINF:-1 tvg-id="" tvg-name="ASIA: MY Astro Supersport 5" tvg-logo="https://expatfinancial.com/wp-content/uploads/2014/10/Asia.png" group-title="ASIA",ASIA: MY Astro Supersport 5
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/181178
-#EXTINF:-1 tvg-id="" tvg-name="ASIA: MY Astro Supersport_50fps" tvg-logo="https://expatfinancial.com/wp-content/uploads/2014/10/Asia.png" group-title="ASIA",ASIA: MY Astro Supersport_50fps
-http://thelegend.host:8080/laron.mccall@gmail.com/YTXDqsPQpx/181179
 #EXTINF:-1 group-title="LOKAL",INDOSIAR
 https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
 #EXTINF:-1 group-title="MOVIE ",TVN Movie
