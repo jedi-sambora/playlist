@@ -1,4 +1,18 @@
 #EXTM3U
-#http://195.230.23.8:25461/get.php?username=o0O00oOoo0o0O0o&password=goldstv.com&type=m3u
-#EXTINF:-1 group-title="ASTRO",As
-http://iptv.tvmalaysia.cc:80/titi3/titi3/7214
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@Relax",ChampionTv1
+http://tvnid.wapgem.com/vidio/ch1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@Relax",ChampionTv2
+http://tvnid.wapgem.com/vidio/ch2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@Relax",ChampionTv3
+http://tvnid.wapgem.com/vidio/ch3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="ShareExt@Relax",ChampionTvGOAL
+http://tvnid.wapgem.com/vidio/chgo.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASSP_1
+https://lnk.ec/shareext@assp1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASSP_2
+https://lnk.ec/shareext@assp2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASSP_3
+https://lnk.ec/shareext@assp3
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",ASSP_4
+https://lnk.ec/shareext@assp4
+#EXTINF:-1   tvg-logo="https://i
