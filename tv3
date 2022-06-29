@@ -37,8 +37,23 @@ http://213.202.230.51:25461/live_sport1/live_sport_ios/17
 http://213.202.230.51:25461/live_sport1/live_sport_ios/18
 #EXTINF:-1,BR: SPORT TV 1
 http://fortv.cc:8080/juice/juice/43492
-http://fortv.cc:8080/juice/juice/43492
 #EXTINF:-1,BR: SPORT TV 3 HD
 http://fortv.cc:8080/juice/juice/43493
 #EXTINF:-1,BR: SPORTV 2 HD
 http://fortv.cc:8080/juice/juice/43491
+#EXTINF:-1,PT: Sport TV 1
+http://fortv.cc:8080/juice/juice/78513
+#EXTINF:-1,PT: Sport TV 2
+http://fortv.cc:8080/juice/juice/78515
+#EXTINF:-1,PT: Sport TV 3
+http://fortv.cc:8080/juice/juice/78517
+#EXTINF:-1,EPL: Astro Supersport 1 HD
+http://fortv.cc:8080/juice/juice/122349
+#EXTINF:-1,EPL: Astro Supersport 2 HD
+http://fortv.cc:8080/juice/juice/122350
+#EXTINF:-1,EPL: Astro Supersport 3 HD
+http://fortv.cc:8080/juice/juice/122351
+#EXTINF:-1,EPL: Astro Supersport 4 HD
+http://fortv.cc:8080/juice/juice/122352
+#EXTINF:-1,EPL: Astro Supersport 5 HD
+http://fortv.cc:8080/juice/juice/122353
