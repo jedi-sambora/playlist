@@ -1,1 +1,37 @@
-
+#EXTM3U
+#EXTINF:-1,BeIN | BeIN Sport Premium 1
+http://213.202.230.51:25461/live_sport1/live_sport_ios/1
+#EXTINF:-1,BeIN | BeIN Sport Premium 2
+http://213.202.230.51:25461/live_sport1/live_sport_ios/2
+#EXTINF:-1,BeIN | BeIN Sport Premium 3
+http://213.202.230.51:25461/live_sport1/live_sport_ios/3
+#EXTINF:-1,BeIN | BeIN Sport 1
+http://213.202.230.51:25461/live_sport1/live_sport_ios/4
+#EXTINF:-1,BeIN | BeIN Sport 2
+http://213.202.230.51:25461/live_sport1/live_sport_ios/5
+#EXTINF:-1,BeIN | BeIN Sport 3
+http://213.202.230.51:25461/live_sport1/live_sport_ios/6
+#EXTINF:-1,BeIN | BeIN Sport 4
+http://213.202.230.51:25461/live_sport1/live_sport_ios/7
+#EXTINF:-1,BeIN | BeIN Sport Premium 1 ᴴᴰ
+http://213.202.230.51:25461/live_sport1/live_sport_ios/8
+#EXTINF:-1,BeIN | BeIN Sport Premium 2 ᴴᴰ
+http://213.202.230.51:25461/live_sport1/live_sport_ios/9
+#EXTINF:-1,BeIN | BeIN Sport Premium 3 ᴴᴰ
+http://213.202.230.51:25461/live_sport1/live_sport_ios/10
+#EXTINF:-1,BeIN | BeIN Sport 1 ᴴᴰ
+http://213.202.230.51:25461/live_sport1/live_sport_ios/11
+#EXTINF:-1,BeIN | BeIN Sport 2 ᴴᴰ
+http://213.202.230.51:25461/live_sport1/live_sport_ios/12
+#EXTINF:-1,BeIN | BeIN Sport 3 ᴴᴰ
+http://213.202.230.51:25461/live_sport1/live_sport_ios/13
+#EXTINF:-1,BeIN | BeIN Sport 4 ᴴᴰ
+http://213.202.230.51:25461/live_sport1/live_sport_ios/14
+#EXTINF:-1,AR | ONTIME SPORTS
+http://213.202.230.51:25461/live_sport1/live_sport_ios/15
+#EXTINF:-1,AR | ONTIME SPORTS ᴴᴰ
+http://213.202.230.51:25461/live_sport1/live_sport_ios/16
+#EXTINF:-1,AR | ONTIME SPORTS2
+http://213.202.230.51:25461/live_sport1/live_sport_ios/17
+#EXTINF:-1,AR | ONTIME SPORTS2 ᴴᴰ
+http://213.202.230.51:25461/live_sport1/live_sport_ios/18
