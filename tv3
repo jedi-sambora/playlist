@@ -1,40 +1,4 @@
 #EXTM3U
-#EXTINF:-1,BeIN | BeIN Sport Premium 1
-http://213.202.230.51:25461/live_sport1/live_sport_ios/1
-#EXTINF:-1,BeIN | BeIN Sport Premium 2
-http://213.202.230.51:25461/live_sport1/live_sport_ios/2
-#EXTINF:-1,BeIN | BeIN Sport Premium 3
-http://213.202.230.51:25461/live_sport1/live_sport_ios/3
-#EXTINF:-1,BeIN | BeIN Sport 1
-http://213.202.230.51:25461/live_sport1/live_sport_ios/4
-#EXTINF:-1,BeIN | BeIN Sport 2
-http://213.202.230.51:25461/live_sport1/live_sport_ios/5
-#EXTINF:-1,BeIN | BeIN Sport 3
-http://213.202.230.51:25461/live_sport1/live_sport_ios/6
-#EXTINF:-1,BeIN | BeIN Sport 4
-http://213.202.230.51:25461/live_sport1/live_sport_ios/7
-#EXTINF:-1,BeIN | BeIN Sport Premium 1 ᴴᴰ
-http://213.202.230.51:25461/live_sport1/live_sport_ios/8
-#EXTINF:-1,BeIN | BeIN Sport Premium 2 ᴴᴰ
-http://213.202.230.51:25461/live_sport1/live_sport_ios/9
-#EXTINF:-1,BeIN | BeIN Sport Premium 3 ᴴᴰ
-http://213.202.230.51:25461/live_sport1/live_sport_ios/10
-#EXTINF:-1,BeIN | BeIN Sport 1 ᴴᴰ
-http://213.202.230.51:25461/live_sport1/live_sport_ios/11
-#EXTINF:-1,BeIN | BeIN Sport 2 ᴴᴰ
-http://213.202.230.51:25461/live_sport1/live_sport_ios/12
-#EXTINF:-1,BeIN | BeIN Sport 3 ᴴᴰ
-http://213.202.230.51:25461/live_sport1/live_sport_ios/13
-#EXTINF:-1,BeIN | BeIN Sport 4 ᴴᴰ
-http://213.202.230.51:25461/live_sport1/live_sport_ios/14
-#EXTINF:-1,AR | ONTIME SPORTS
-http://213.202.230.51:25461/live_sport1/live_sport_ios/15
-#EXTINF:-1,AR | ONTIME SPORTS ᴴᴰ
-http://213.202.230.51:25461/live_sport1/live_sport_ios/16
-#EXTINF:-1,AR | ONTIME SPORTS2
-http://213.202.230.51:25461/live_sport1/live_sport_ios/17
-#EXTINF:-1,AR | ONTIME SPORTS2 ᴴᴰ
-http://213.202.230.51:25461/live_sport1/live_sport_ios/18
 #EXTINF:-1,BR: SPORT TV 1
 http://fortv.cc:8080/juice/juice/43492
 #EXTINF:-1,BR: SPORT TV 3 HD
@@ -57,3 +21,15 @@ http://fortv.cc:8080/juice/juice/122351
 http://fortv.cc:8080/juice/juice/122352
 #EXTINF:-1,EPL: Astro Supersport 5 HD
 http://fortv.cc:8080/juice/juice/122353
+#EXTINF:-1,SPOTV +
+http://vipscreen.fun:8080/pedro123pereira/pereira456pedro/73478
+#EXTINF:-1,SPOTV 1 MOBILE
+http://vipscreen.fun:8080/pedro123pereira/pereira456pedro/73479
+#EXTINF:-1,SPOTV 2 MOBILE
+http://vipscreen.fun:8080/pedro123pereira/pereira456pedro/73480
+#EXTINF:-1,SPOTV 3 MOBILE
+http://vipscreen.fun:8080/pedro123pereira/pereira456pedro/73481
+#EXTINF:-1,SPOTV 4 MOBILE
+http://vipscreen.fun:8080/pedro123pereira/pereira456pedro/73482
+#EXTINF:-1,SPOTV 5 MOBILE
+http://vipscreen.fun:8080/pedro123pereira/pereira456pedro/73483
