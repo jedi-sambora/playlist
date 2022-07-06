@@ -11,35 +11,90 @@ http://fortv.cc:8080/juice/juice/78513
 http://fortv.cc:8080/juice/juice/78515
 #EXTINF:-1,PT: Sport TV 3
 http://fortv.cc:8080/juice/juice/78517
-#EXTINF:-1,EPL: Astro Supersport 1 HD
-http://fortv.cc:8080/juice/juice/122349
-#EXTINF:-1,EPL: Astro Supersport 2 HD
-http://fortv.cc:8080/juice/juice/122350
-#EXTINF:-1,EPL: Astro Supersport 3 HD
-http://fortv.cc:8080/juice/juice/122351
-#EXTINF:-1,EPL: Astro Supersport 4 HD
-http://fortv.cc:8080/juice/juice/122352
-#EXTINF:-1,EPL: Astro Supersport 5 HD
-http://fortv.cc:8080/juice/juice/122353
-#EXTINF:-1,SPOTV +
-http://vipscreen.fun:8080/pedro123pereira/pereira456pedro/73478
-#EXTINF:-1,SPOTV 1 MOBILE
-http://vipscreen.fun:8080/pedro123pereira/pereira456pedro/73479
-#EXTINF:-1,SPOTV 2 MOBILE
-http://vipscreen.fun:8080/pedro123pereira/pereira456pedro/73480
-#EXTINF:-1,SPOTV 3 MOBILE
-http://vipscreen.fun:8080/pedro123pereira/pereira456pedro/73481
-#EXTINF:-1,SPOTV 4 MOBILE
-http://vipscreen.fun:8080/pedro123pereira/pereira456pedro/73482
-#EXTINF:-1,SPOTV 5 MOBILE
-http://vipscreen.fun:8080/pedro123pereira/pereira456pedro/73483
-#EXTINF:-1,BR :  SPOTV 2 MOBILE
-http://vipscreen.fun:8080/pedro123pereira/pereira456pedro/85641
-#EXTINF:-1, BR : SPOTV 3 MOBILE
-http://vipscreen.fun:8080/pedro123pereira/pereira456pedro/85644
-#EXTINF:-1,BR : SPOTV  MOBILE
-http://vipscreen.fun:8080/pedro123pereira/pereira456pedro/85647
 #EXTINF:-1,BR : ESPN
 http://vipscreen.fun:8080/pedro123pereira/pereira456pedro/85401
 #EXTINF:-1,BR : Foxsport 2
 http://vipscreen.fun:8080/pedro123pereira/pereira456pedro/85398
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115614
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",ASTRO.SUPERSPORTS_1 HD TH MY
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115615
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",ASTRO.SUPERSPORTS_2 HD TH MY
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115616
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 3 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",ASTRO.SUPERSPORTS_3 HD TH MY
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115617
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",ASTRO.SUPERSPORTS_4 HD TH MY
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115618
+#EXTINF:-1 tvg-id="" tvg-name="Fight Night TH" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",Fight_Night TH
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115320
+#EXTINF:-1 tvg-id="" tvg-name="Fightclub (Sling) TH" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",Fightclub(Sling) TH
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115303
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD TH" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",Spotv HD TH
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115304
+#EXTINF:-1 tvg-id="" tvg-name="Golf 2 TH [Thai]" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",Golf_2[Thai]
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115699
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel Thailand HD TH" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",Golf.Channel Thailand HD
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115446
+#EXTINF:-1 tvg-id="" tvg-name="GOLF TH  [ENG]" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",GOLF_TH[ENG]
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115703
+#EXTINF:-1 tvg-id="" tvg-name="Hi Sport TH [Thai]" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",Hi_Sport[Thai]
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115709
+#EXTINF:-1 tvg-id="" tvg-name="NBA TH" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",NBA_TH
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115302
+#EXTINF:-1 tvg-id="" tvg-name="NFL TH" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",NFL_TH
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115743
+#EXTINF:-1 tvg-id="" tvg-name="One Golf TH" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",One.Golf TH
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115325
+#EXTINF:-1 tvg-id="" tvg-name="PPTV TH" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",PPTV_TH
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115756
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football 1 TH [Thai]" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",Premier_Football_1[Thai]
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115757
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 2  [ENG]" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",Premier_Football_2[ENG]
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115762
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 3" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",Premier_Football_3(thai)
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115510
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 4" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",Premier_Football_4(thai)
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115513
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 5" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",Premier_Football_5(thai)
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115515
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 1-X [Thai]" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",Premier_Football_1B[Thai]
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115771
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 2 [ENG]" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",Premier_Football_2B[ENG]
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115518
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 3" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",Premier_Football_3B(Thai)
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115520
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 4-X" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",Premier_Football_4B(thai)
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115524
+#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 5" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",Premier_Football_5B(Thai)
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115525
+#EXTINF:-1 tvg-id="" tvg-name="Sport TH 1 [THAI]" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",TRUESport_1[THAI]
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115532
+#EXTINF:-1 tvg-id="" tvg-name="Sport TH 2 [THAI]" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",TRUESport2[THAI]
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115535
+#EXTINF:-1 tvg-id="" tvg-name="Sport TH 3 [THAI]" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",TRUESport_3B[THAI]
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115538
+#EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 1[THAI]" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",TRUESport_02 HD[THAI]
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115531
+#EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 2 [THAI]" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",TRUESport2[THAI]
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115533
+#EXTINF:-1 tvg-id="" tvg-name="Sport HD TH 3 [THAI]" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",TRUESport3[THAI]
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115537
+#EXTINF:-1 tvg-id="" tvg-name="Sport 5 TH [THAI]" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",TRUESport_5 TH [THAI]
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115541
+#EXTINF:-1 tvg-id="" tvg-name="Sport 6 TH [THAI]" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",TRUESport 6C[THAI]
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115542
+#EXTINF:-1 tvg-id="" tvg-name="Sport 7 TH [ENG]" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",TRUESport7[ENG]
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115798
+#EXTINF:-1 tvg-id="" tvg-name="Sport 7 TH [THAI]" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",TRUESport7.[THAI]
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115799
+#EXTINF:-1 tvg-id="" tvg-name="Super Bunteung/FightBox" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",SuperBunteung/FightBox
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115500
+#EXTINF:-1 tvg-id="" tvg-name="Tennis HD TH" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",Tennis HD TH
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115805
+#EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 1 HD TH [THAI]" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",BeINSports 1 HD[THAI]
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115807
+#EXTINF:-1 tvg-id="" tvg-name="Thai BeIN Sports 2 HD TH [THAI]" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",BeINSports 2 HD[THAI]
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115809
+#EXTINF:-1 tvg-id="" tvg-name="Thairath HD TH" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",Thairath HD TH
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115328
+#EXTINF:-1 tvg-id="" tvg-name="Trace Sport TH" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",Trace_Sport TH
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115318
