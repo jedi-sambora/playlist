@@ -15,6 +15,31 @@ http://fortv.cc:8080/juice/juice/78517
 http://vipscreen.fun:8080/pedro123pereira/pereira456pedro/85401
 #EXTINF:-1,BR : Foxsport 2
 http://vipscreen.fun:8080/pedro123pereira/pereira456pedro/85398
+#EXTINF:-1,BR : ESPN HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232229
+#EXTINF:-1,BR : ESPN 2 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232230
+#EXTINF:-1,SP: Bundesliga: Sky Bundesliga 1 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232192
+#EXTINF:-1 group-title="BEIN",beIN SPORTS 1 PREMIUM HD 
+http://topiptv.net:5890/reda/123456/145072
+#EXTINF:-1 group-title="BEIN",beIN SPORTS 2 PREMIUM HD
+http://topiptv.net:5890/reda/123456/98225
+#EXTINF:-1 group-title="BEIN",beIN SPORTS 3 PREMIUM HD
+http://topiptv.net:5890/reda/123456/98228
+#EXTINF:-1 group-title="BEIN",beIN SPORTS 1 ENGLISH HD
+http://topiptv.net:5890/reda/123456/26
+#EXTINF:-1 group-title="BEIN",beIN SPORTS 2 ENGLISH HD
+http://topiptv.net:5890/reda/123456/27
+#EXTINF:-1 group-title="BEIN",beIN SPORTS 3 ENGLISH HD
+http://topiptv.net:5890/reda/123456/28
+#EXTINF:-1 group-title="BEIN",beIN SPORTS 1HD
+http://topiptv.net:5890/reda/123456/16
+#EXTINF:-1 group-title="BEIN",beIN SPORTS 2HD
+http://topiptv.net:5890/reda/123456/17
+#EXTINF:-1 group-title="BEIN",beIN SPORTS 3HD
+http://topiptv.net:5890/reda/123456/18
+
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="ASTRO",ASTRO.SUPERSPORTS_1 HD TH MY
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115615
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="ASTRO",ASTRO.SUPERSPORTS_2 HD TH MY
