@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="indonesia",indosiar 
+http://golive.yn.lt/live/aff/01.m3u8
+#EXTINF:-1 group-title="indonesia",indosiar 2
+https://rmue2hq1pcliv.vcdn.cloud/2f3964474dbdb10c43b6a1404796dcfa/1657330474736/lhsazur/lhsazur@720p.m3u8
 #EXTINF:-1,BR: SPORT TV 1
 http://fortv.cc:8080/juice/juice/43492
 #EXTINF:-1,BR: SPORT TV 3 HD
