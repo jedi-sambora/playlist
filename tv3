@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="indonesia",indosiar 
 https://rmue2hq1pcliv.vcdn.cloud/160e6f14b04c11f7bdb2c2750a033283/1657846554519/9l7x9pa/9l7x9pa@720p.m3u8?
+#EXTINF:-1 group-title="indonesia",indosiar 2 
+https://rmue2hq1pcliv.vcdn.cloud/6903adaea785bb7d2ae1aa40002fbbbd/1657850360951/9l7x9pa/9l7x9pa@720p.m3u8
 #EXTINF:-1 group-title="indonesia",vnl eng
 http://134.19.182.131:8080/pdg/L9tZJFt-0KfTuBWjnP-21Q/616521/edd377b4f1361749/236818/3230322e38302e3231372e313037/1657834750.m3u8
 #EXTINF:-1,BR: SPORT TV 3 HD
