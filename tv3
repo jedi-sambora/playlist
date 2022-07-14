@@ -1,9 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="indonesia",indosiar 
 https://rmue2hq1pcliv.vcdn.cloud/160e6f14b04c11f7bdb2c2750a033283/1657846554519/9l7x9pa/9l7x9pa@720p.m3u8?
-#EXTINF:-1 group-title="indonesia",i
-http://27assia.com/hls/43.m3u8?md5=WSFcUK8uPome6Uj_YWcJfA&expires=1657809164
-http://fortv.cc:8080/juice/juice/43492
+#EXTINF:-1 group-title="indonesia",vnl eng
+http://134.19.182.131:8080/pdg/L9tZJFt-0KfTuBWjnP-21Q/616521/edd377b4f1361749/236818/3230322e38302e3231372e313037/1657834750.m3u8
 #EXTINF:-1,BR: SPORT TV 3 HD
 http://fortv.cc:8080/juice/juice/43493
 #EXTINF:-1,BR: SPORTV 2 HD
