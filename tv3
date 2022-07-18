@@ -5,28 +5,18 @@ https://rmue2hq1pcliv.vcdn.cloud/160e6f14b04c11f7bdb2c2750a033283/1657846554519/
 https://rmue2hq1pcliv.vcdn.cloud/6903adaea785bb7d2ae1aa40002fbbbd/1657850360951/9l7x9pa/9l7x9pa@720p.m3u8
 #EXTINF:-1 group-title="indonesia",vnl eng
 http://134.19.182.131:8080/pdg/L9tZJFt-0KfTuBWjnP-21Q/616521/edd377b4f1361749/236818/3230322e38302e3231372e313037/1657834750.m3u8
-#EXTINF:-1,BR: SPORT TV 3 HD
-http://fortv.cc:8080/juice/juice/43493
-#EXTINF:-1,BR: SPORTV 2 HD
-http://fortv.cc:8080/juice/juice/43491
-#EXTINF:-1,PT: Sport TV 1
-http://fortv.cc:8080/juice/juice/78513
-#EXTINF:-1,PT: Sport TV 2
-http://fortv.cc:8080/juice/juice/78515
-#EXTINF:-1,PT: Sport TV 3
+#EXTINF:-1 group-title="PT SPORT",PT: Sport TV 1
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119724
+#EXTINF:-1 group-title="PT SPORT",PT: Sport TV 2
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119726
+#EXTINF:-1 group-title="PT SPORT",PT: Sport TV 3
 http://fortv.cc:8080/juice/juice/78517
-#EXTINF:-1,BR : ESPN
-http://vipscreen.fun:8080/pedro123pereira/pereira456pedro/85401
-#EXTINF:-1,BR : Foxsport 2
-http://vipscreen.fun:8080/pedro123pereira/pereira456pedro/85398
-#EXTINF:-1,BR : ESPN HD
+#EXTINF:-1 group-title="PT SPORT",BR : ESPN HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232229
-#EXTINF:-1,BR : ESPN 2 HD
+#EXTINF:-1 group-title="PT SPORT",BR : ESPN 2 HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232230
 #EXTINF:-1,SP: Bundesliga: Sky Bundesliga 1 HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232192
-
-
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="ASTRO",ASTRO.SUPERSPORTS_1 HD TH MY
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115615
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="ASTRO",ASTRO.SUPERSPORTS_2 HD TH MY
