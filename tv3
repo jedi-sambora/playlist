@@ -29,6 +29,24 @@ http://103.125.191.32:9981/stream/channelid/1255807346?profile=cvaceplus
 http://103.125.191.32:9981/stream/channelid/349506418?profile=cvaceplus
 #EXTINF:-1 group-title="SETANTA SPORTS",Setanta Sports 2 HD
 http://103.125.191.32:9981/stream/channelid/1729204696?profile=cvaceplus
+#EXTINF:-1 group-title="ARENA SPORT",Arena Sport 1
+http://15.235.147.150:9981/stream/channelid/502490136?profile=cvaceplus
+#EXTINF:-1 group-title="ARENA SPORT",Arena Sport 2
+http://15.235.147.150:9981/stream/channelid/1237383600?profile=cvaceplus
+#EXTINF:-1 group-title="ARENA SPORT",Arena Sport 3
+http://15.235.147.150:9981/stream/channelid/2138644937?profile=cvaceplus
+#EXTINF:-1 group-title="ARENA SPORT",Arena Sport 4
+http://15.235.147.150:9981/stream/channelid/1619072804?profile=cvaceplus
+#EXTINF:-1 group-title="ARENA SPORT",Arena Sport 5
+http://15.235.147.150:9981/stream/channelid/730100354?profile=cvaceplus
+#EXTINF:-1 group-title="ARENA SPORT",Arena Sport 6
+http://15.235.147.150:9981/stream/channelid/597326232?profile=cvaceplus
+#EXTINF:-1 group-title="ARENA SPORT",Arena 1 Premium
+http://15.235.147.150:9981/stream/channelid/247231852?profile=cvaceplus
+#EXTINF:-1 group-title="ARENA SPORT",Arena 2 Premium
+http://15.235.147.150:9981/stream/channelid/1809387380?profile=cvaceplus
+#EXTINF:-1 group-title="ARENA SPORT",Arena 3 Premium
+http://15.235.147.150:9981/stream/channelid/362923414?profile=cvaceplus
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="ASTRO",ASTRO.SUPERSPORTS_1 HD TH MY
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115615
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="ASTRO",ASTRO.SUPERSPORTS_2 HD TH MY
