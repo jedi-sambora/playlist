@@ -1,6 +1,49 @@
 #EXTM3U
 #EXTINF:-1 group-title="Movie",Douyu Movie
 https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
+#EXTINF:-1 group-title="DSTV SPORT",Af | DSTV: SUPER SPORTS La Liga
+http://20062016.com:80/turki/turki/107147
+#EXTINF:-1 group-title="DSTV SPORT",Af | DSTV: SUPER SPORTS 1 PSL
+http://20062016.com:80/turki/turki/107148
+#EXTINF:-1 group-title="DSTV SPORT",Af | DSTV: SUPER SPORTS PREMIER LEAGUE
+http://20062016.com:80/turki/turki/107149
+#EXTINF:-1 group-title="DSTV SPORT",Af | DSTV: SUPER SPORTS GRAND STAND
+http://20062016.com:80/turki/turki/107150
+#EXTINF:-1 group-title="DSTV SPORT",Af | DSTV: SUPER SPORTS OTT 2 HD
+http://20062016.com:80/turki/turki/107151
+#EXTINF:-1 group-title="DSTV SPORT",Af | DSTV: SUPER SPORTS ACTION
+http://20062016.com:80/turki/turki/107152
+#EXTINF:-1 group-title="DSTV SPORT",Af | DSTV: SUPER SPORTS FOOTBALL 4
+http://20062016.com:80/turki/turki/107153
+#EXTINF:-1 group-title="DSTV SPORT",Af | DSTV: SUPER SPORTS VARIETY 1
+http://20062016.com:80/turki/turki/107154
+#EXTINF:-1 group-title="DSTV SPORT",Af | DSTV: SUPER SPORTS VARIETY 2
+http://20062016.com:80/turki/turki/107155
+#EXTINF:-1 group-title="DSTV SPORT",Af | DSTV: SUPER SPORTS VARIETY 4
+http://20062016.com:80/turki/turki/107156
+#EXTINF:-1 group-title="DSTV SPORT",Af | DSTV: SUPER SPORTS VARIETY 3
+http://20062016.com:80/turki/turki/107157
+#EXTINF:-1 group-title="DSTV SPORT",Af | DSTV: SUPER SPORTS RUGBY
+http://20062016.com:80/turki/turki/107158
+#EXTINF:-1 group-title="DSTV SPORT",Af | DSTV: SUPER SPORTS CRICKET
+http://20062016.com:80/turki/turki/107159
+#EXTINF:-1 group-title="DSTV SPORT",Af | DSTV: SUPER SPORTS GOLF
+http://20062016.com:80/turki/turki/107160
+#EXTINF:-1 group-title="DSTV SPORT",Af | DSTV: SuperSport Maximo 1
+http://20062016.com:80/turki/turki/107161
+#EXTINF:-1 group-title="DSTV SPORT",Af | DSTV: SuperSport Play
+http://20062016.com:80/turki/turki/107162
+#EXTINF:-1 group-title="DSTV SPORT",Af | DSTV: SUPER SPORTS MOTORSPORTS
+http://20062016.com:80/turki/turki/107163
+#EXTINF:-1 group-title="DSTV SPORT",Af | DSTV: SUPER SPORTS TENNIS
+http://20062016.com:80/turki/turki/107164
+#EXTINF:-1 group-title="DSTV SPORT",Af | DSTV: SuperSport Blitz
+http://20062016.com:80/turki/turki/107165
+#EXTINF:-1 group-title="DSTV SPORT",Af | DSTV: ESPN 1
+http://20062016.com:80/turki/turki/107166
+#EXTINF:-1 group-title="DSTV SPORT",Af | DSTV: ESPN 2
+http://20062016.com:80/turki/turki/107167
+
 
 #EXTINF:-1 group-title="indonesia",indosiar 
 https://rmue2hq1pcliv.vcdn.cloud/160e6f14b04c11f7bdb2c2750a033283/1657846554519/9l7x9pa/9l7x9pa@720p.m3u8?
