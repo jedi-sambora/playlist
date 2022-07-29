@@ -3,8 +3,8 @@
 #https://raw.githubusercontent.com/ShareExt-Group/ShareExt/main/UpdateFile
 #EXTINF:-1 group-title="Movie",Douyu Movie
 https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
-#EXTINF:-1 group-title="Movie",Hot Blooded
-https://server41.goyusa.lol/index2.php?v=SHBIdFgrdkxjMk8vR21zeG5ZQzhIdXJyZ08wSW9SODF1ZmZ2b3ZyZ2VMTlllK3h3R2hiZXFSSG9YL3JNaHJkSg==&t=1658937269&res=720
+#EXTINF:-1 group-title="Movie",&flix
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/45506.m3u8
 #EXTINF:-1 group-title="Movie",HBO
 #http://mkcfc.freevar.com/pess/hbo.m3u8
 http://203.77.246.50:5000/udp/239.1.3.84:5000 
