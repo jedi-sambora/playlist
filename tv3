@@ -3,6 +3,8 @@
 #https://raw.githubusercontent.com/ShareExt-Group/ShareExt/main/UpdateFile
 #EXTINF:-1 group-title="Movie",Douyu Movie
 https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
+#EXTINF:-1 group-title="Movie",Movies X
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="Movie",&flix
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/45506.m3u8
 #EXTINF:-1 group-title="Movie",HBO
