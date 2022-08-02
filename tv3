@@ -26,8 +26,12 @@ http://203.77.246.50:5000/udp/239.1.2.162:5000
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/141884
 #EXTINF:-1 group-title="Movie",TVN Movie
 http://210.210.155.35/dr9445/h/h21/index.m3u8
-
-
+#-----sport china
+#EXTINF:-1 group-title="Sport tw",Bossi sport
+http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
+#EXTINF:-1 group-title="Sport tw",Bossi Tenis
+http://50.7.220.74:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+#-----sport china
 #EXTINF:-1  group-title="SPORT WANI",AF131:SuperSport Action
 http://ku03.wanicelife.com:8880/12m0525/772229617/60788
 #EXTINF:-1  group-title="SPORT WANI",AF132:SuperSport Blitz
