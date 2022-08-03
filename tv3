@@ -7,6 +7,8 @@ https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="Movie",&flix
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/45506.m3u8
+#EXTINF:-1 tvg-name="Movie" tvg-logo="http://62.182.85.43/poster/STAR.MOVIES.png",IND ➤ STAR MOVIES HD
+http://5gfksa.ltd:2052/live/991155/551199/43164.m3u8
 #EXTINF:-1 group-title="Movie",HBO
 #http://mkcfc.freevar.com/pess/hbo.m3u8
 http://203.77.246.50:5000/udp/239.1.3.84:5000 
@@ -213,3 +215,9 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115809
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115328
 #EXTINF:-1 tvg-id="" tvg-name="Trace Sport TH" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",Trace_Sport TH
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115318
+#-----sport
+#EXTINF:-1tvg-logo="http://www.vod-logo.net/photos/bfa54192427f9e62269d740a46e3cac5.png" group-title="SPORT KSA",DE- ❤ SKY SPORT BUNDESLIGA 1 HD
+http://5gfksa.ltd:2052/live/991155/551199/77045.m3u8
+#EXTINF:-1tvg-logo="http://www.vod-logo.net/photos/bfa54192427f9e62269d740a46e3cac5.png" group-title="SPORT KSA",DE- ❤ SKY SPORT BUNDESLIGA 2 HD
+http://5gfksa.ltd:2052/live/991155/551199/77044.m3u8
+
