@@ -238,6 +238,8 @@ http://5gfksa.ltd:2052/live/991155/551199/180170.m3u8
 http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 #EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.3.png" group-title="SPORT KSA",CCTV 5-2
 http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.3.png" group-title="SPORT KSA",CCTV 5+
+http://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8
 #-- legend sport
 #EXTINF:-1  group-title="SPORT LEGENS",ZA: SuperSport Premier League
 http://legendtvs.com:80/anwar123/12345/391206
