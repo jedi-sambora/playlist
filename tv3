@@ -236,52 +236,7 @@ http://5gfksa.ltd:2052/live/991155/551199/180170.m3u8
 http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 #EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.3.png" group-title="SPORT KSA",CCTV 5-2
 http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
-#-----DSTV
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: Maximo" tvg-logo="https://pmexpressng.com/wp-content/uploads/2020/08/20200821_091426.jpg" group-title="SYOK SPORT",DSTV: Maximo
-http://syok.tv:2082/live/fred/fred/9053.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: WWE" tvg-logo="https://pmexpressng.com/wp-content/uploads/2020/08/20200821_091426.jpg" group-title="SYOK SPORT",DSTV: WWE
-http://syok.tv:2082/live/fred/fred/9054.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORT CRICKET" tvg-logo="https://pmexpressng.com/wp-content/uploads/2020/08/20200821_091426.jpg" group-title="SYOK SPORT",DSTV: SUPERSPORT CRICKET
-http://syok.tv:2082/live/fred/fred/9055.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV:  SUPERSPORT LA LIGA" tvg-logo="https://pmexpressng.com/wp-content/uploads/2020/08/20200821_091426.jpg" group-title="SYOK SPORT",DSTV:  SUPERSPORT LA LIGA
-http://syok.tv:2082/live/fred/fred/9056.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV:  SUPERSPORT RUGBY" tvg-logo="https://pmexpressng.com/wp-content/uploads/2020/08/20200821_091426.jpg" group-title="SYOK SPORT",DSTV:  SUPERSPORT RUGBY
-http://syok.tv:2082/live/fred/fred/9057.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORT VARIETY 1" tvg-logo="https://pmexpressng.com/wp-content/uploads/2020/08/20200821_091426.jpg" group-title="SYOK SPORT",DSTV: SUPERSPORT VARIETY 1
-http://syok.tv:2082/live/fred/fred/9058.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORT VARIETY 2" tvg-logo="https://pmexpressng.com/wp-content/uploads/2020/08/20200821_091426.jpg" group-title="SYOK SPORT",DSTV: SUPERSPORT VARIETY 2
-http://syok.tv:2082/live/fred/fred/9059.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORT VARIETY 3" tvg-logo="https://pmexpressng.com/wp-content/uploads/2020/08/20200821_091426.jpg" group-title="SYOK SPORT",DSTV: SUPERSPORT VARIETY 3
-http://syok.tv:2082/live/fred/fred/9060.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV:  SUPERSPORT VARIETY 4" tvg-logo="https://pmexpressng.com/wp-content/uploads/2020/08/20200821_091426.jpg" group-title="SYOK SPORT",DSTV:  SUPERSPORT VARIETY 4
-http://syok.tv:2082/live/fred/fred/9061.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV:  SUPERSPORT GRANDSTAND" tvg-logo="https://pmexpressng.com/wp-content/uploads/2020/08/20200821_091426.jpg" group-title="SYOK SPORT",DSTV:  SUPERSPORT GRANDSTAND
-http://syok.tv:2082/live/fred/fred/9062.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV:  SUPERSPORT PREMIER LEAGUE" tvg-logo="https://pmexpressng.com/wp-content/uploads/2020/08/20200821_091426.jpg" group-title="SYOK SPORT",DSTV:  SUPERSPORT PREMIER LEAGUE
-http://syok.tv:2082/live/fred/fred/9063.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV:  SUPERSPORT FOOTBALL" tvg-logo="https://pmexpressng.com/wp-content/uploads/2020/08/20200821_091426.jpg" group-title="SYOK SPORT",DSTV:  SUPERSPORT FOOTBALL
-http://syok.tv:2082/live/fred/fred/9064.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORTS PSL" tvg-logo="https://pmexpressng.com/wp-content/uploads/2020/08/20200821_091426.jpg" group-title="SYOK SPORT",DSTV: SUPERSPORTS PSL
-http://syok.tv:2082/live/fred/fred/9065.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV:  SUPERSPORT BLITZ" tvg-logo="https://pmexpressng.com/wp-content/uploads/2020/08/20200821_091426.jpg" group-title="SYOK SPORT",DSTV:  SUPERSPORT BLITZ
-http://syok.tv:2082/live/fred/fred/9066.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV:  SUPERSPORT TENNIS" tvg-logo="https://pmexpressng.com/wp-content/uploads/2020/08/20200821_091426.jpg" group-title="SYOK SPORT",DSTV:  SUPERSPORT TENNIS
-http://syok.tv:2082/live/fred/fred/9067.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORTS ACTION" tvg-logo="https://pmexpressng.com/wp-content/uploads/2020/08/20200821_091426.jpg" group-title="SYOK SPORT",DSTV: SUPERSPORTS ACTION
-http://syok.tv:2082/live/fred/fred/9068.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV:  SUPERSPORT GOLF" tvg-logo="https://pmexpressng.com/wp-content/uploads/2020/08/20200821_091426.jpg" group-title="SYOK SPORT",DSTV:  SUPERSPORT GOLF
-http://syok.tv:2082/live/fred/fred/9069.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV:  SUPERSPORT MOTORSPORT" tvg-logo="https://pmexpressng.com/wp-content/uploads/2020/08/20200821_091426.jpg" group-title="SYOK SPORT",DSTV:  SUPERSPORT MOTORSPORT
-#EXTINF:-1 tvg-id="802" tvg-name="MY: Astro Arena 2" tvg-logo="https://i.imgur.com/JS5Kve6.png" group-title="SYOK SPORTS",MY: Astro Arena 2
-http://syok.tv:2082/live/fred/fred/123.m3u8
-#EXTINF:-1 tvg-id="811" tvg-name="MY: Astro Super Sport 1" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="SYOK SPORTS",MY: Astro Super Sport 1
-http://syok.tv:2082/live/fred/fred/124.m3u8
-#EXTINF:-1 tvg-id="812" tvg-name="MY: Astro Super Sport 2" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="SYOK SPORTS",MY: Astro Super Sport 2
-http://syok.tv:2082/live/fred/fred/125.m3u8
-#EXTINF:-1 tvg-id="813" tvg-name="MY: Astro Super Sport 3" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SYOK SPORTS",MY: Astro Super Sport 3
-http://syok.tv:2082/live/fred/fred/126.m3u8
-#EXTINF:-1 tvg-id="814" tvg-name="MY: Astro Super Sport 4" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SYOK SPORTS",MY: Astro Super Sport 4
-http://syok.tv:2082/live/fred/fred/127.m3u8
+
 
 
 
