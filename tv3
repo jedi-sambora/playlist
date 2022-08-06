@@ -9,6 +9,8 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/45506.m3u8
 #EXTINF:-1 tvg-name="Movie" tvg-logo="http://62.182.85.43/poster/STAR.MOVIES.png",IND ➤ STAR MOVIES HD
 http://5gfksa.ltd:2052/live/991155/551199/43164.m3u8
+#EXTINF:-1 tvg-name="Movie" tvg-logo="http://62.182.85.43/poster/STAR.MOVIES.png", ➤ STAR MOVIES HD
+http://legendtvs.com:80/anwar123/12345/359886
 #EXTINF:-1 group-title="Movie",HBO
 #http://mkcfc.freevar.com/pess/hbo.m3u8
 http://203.77.246.50:5000/udp/239.1.3.84:5000 
@@ -236,7 +238,31 @@ http://5gfksa.ltd:2052/live/991155/551199/180170.m3u8
 http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 #EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.3.png" group-title="SPORT KSA",CCTV 5-2
 http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
-
-
-
+#-- legend sport
+#EXTINF:-1  group-title="SPORT LEGENS",ZA: SuperSport Premier League
+http://legendtvs.com:80/anwar123/12345/391206
+#EXTINF:-1 group-title="SPORT LEGENS",ZA: SuperSport Football
+http://legendtvs.com:80/anwar123/12345/391208
+#EXTINF:-1 group-title="SPORT LEGENS",ZA: SuperSport LaLiga
+http://legendtvs.com:80/anwar123/12345/391157
+#EXTINF:-1 group-title="SPORT LEGENS",BR: Band Sports
+http://legendtvs.com:80/anwar123/12345/390846
+#EXTINF:-1 group-title="SPORT LEGENS",BR: FOX SPORTS 2
+http://legendtvs.com:80/anwar123/12345/390798
+#EXTINF:-1 group-title="SPORT LEGENS",BR: SPORTV 2
+http://legendtvs.com:80/anwar123/12345/390715
+#EXTINF:-1 group-title="SPORT LEGENS",BR: SPORTV 3
+http://legendtvs.com:80/anwar123/12345/390714
+#EXTINF:-1 group-title="SPORT LEGENS",PT: ELEVEN SPORTS 1 FHD
+http://legendtvs.com:80/anwar123/12345/381450
+#EXTINF:-1 group-title="SPORT LEGENS",PT: ELEVEN SPORTS 2 FHD
+http://legendtvs.com:80/anwar123/12345/381449
+#EXTINF:-1 group-title="SPORT LEGENS",PT: ELEVEN SPORTS 3 HD
+http://legendtvs.com:80/anwar123/12345/381448
+#EXTINF:-1 group-title="SPORT LEGENS",PT: ELEVEN SPORTS 4 FHD
+http://legendtvs.com:80/anwar123/12345/381447
+#EXTINF:-1 group-title="SPORT LEGENS",PT: ELEVEN SPORTS 5 HD
+http://legendtvs.com:80/anwar123/12345/381446
+#EXTINF:-1 group-title="SPORT LEGENS",PT: ELEVEN SPORTS 6 FHD
+http://legendtvs.com:80/anwar123/12345/381445
 
