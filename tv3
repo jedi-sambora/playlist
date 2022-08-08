@@ -181,6 +181,18 @@ http://5gfksa.ltd:2052/live/991155/551199/180169.m3u8
 http://5gfksa.ltd:2052/live/991155/551199/180158.m3u8
 #EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.3.png" group-title="SPORT KSA",BEIN SP⚽RTS ENGLISH 3 HD
 http://5gfksa.ltd:2052/live/991155/551199/180170.m3u8
+#EXTINF:-1 tvg-name="BEIN SP⚽RTS PREMIUM 1 SD" tvg-logo="http://62.182.85.43/poster/BEIN- PREMIUM.1.png" group-title="SPORT KSA",BEIN SP⚽RTS PREMIUM 1 SD
+http://5gfksa.ltd:2052/live/991155/551199/180147.m3u8
+#EXTINF:-1 tvg-name="BEIN SP⚽RTS PREMIUM 1 HD" tvg-logo="http://62.182.85.43/poster/BEIN- PREMIUM.1.png" group-title="SPORT KSA",BEIN SP⚽RTS PREMIUM 1 HD
+http://5gfksa.ltd:2052/live/991155/551199/180137.m3u8
+#EXTINF:-1 tvg-name="BEIN SP⚽RTS PREMIUM 2 SD" tvg-logo="http://62.182.85.43/poster/BEIN- PREMIUM.2.png" group-title="SPORT KSA",BEIN SP⚽RTS PREMIUM 2 SD
+http://5gfksa.ltd:2052/live/991155/551199/180148.m3u8
+#EXTINF:-1 tvg-name="BEIN SP⚽RTS PREMIUM 2 HD" tvg-logo="http://62.182.85.43/poster/BEIN- PREMIUM.2.png" group-title="SPORT KSA",BEIN SP⚽RTS PREMIUM 2 HD
+http://5gfksa.ltd:2052/live/991155/551199/180138.m3u8
+#EXTINF:-1 tvg-name="BEIN SP⚽RTS PREMIUM 3 SD" tvg-logo="http://62.182.85.43/poster/BEIN- PREMIUM.3.png" group-title="SPORT KSA",BEIN SP⚽RTS PREMIUM 3 SD
+http://5gfksa.ltd:2052/live/991155/551199/180149.m3u8
+#EXTINF:-1 tvg-name="BEIN SP⚽RTS PREMIUM 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- PREMIUM.3.png" group-title="SPORT KSA",BEIN SP⚽RTS PREMIUM 3 HD
+http://5gfksa.ltd:2052/live/991155/551199/180139.m3u8
 #EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.3.png" group-title="SPORT KSA",CCTV 5
 http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 #EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.3.png" group-title="SPORT KSA",CCTV 5-2
