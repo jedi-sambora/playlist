@@ -44,8 +44,11 @@ http://50.7.220.74:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&
 #--drakisport
 #EXTINF:-1 group-title="draki sport",PT: ELEVEN SPORTS 1
 http://drakiptv.uno:80/mustapha/mustapha123/164283
+#EXTINF:-1 group-title="draki sport",PT: ELEVEN SPORTS 1 (2)
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 #EXTINF:-1 group-title="draki sport",PT: ELEVEN SPORTS 2
 http://drakiptv.uno:80/mustapha/mustapha123/164284
+
 #EXTINF:-1 group-title="draki sport",PT: ELEVEN SPORTS 3
 http://drakiptv.uno:80/mustapha/mustapha123/164285
 #EXTINF:-1 group-title="draki sport",PT: ELEVEN SPORTS 4
@@ -54,6 +57,12 @@ http://drakiptv.uno:80/mustapha/mustapha123/164286
 http://drakiptv.uno:80/mustapha/mustapha123/164287
 #EXTINF:-1 group-title="draki sport",PT:  ELEVEN SPORTS 6
 http://drakiptv.uno:80/mustapha/mustapha123/164288
+#EXTINF:-1 group-title="draki sport" ,ELEVEN SPORTS 2 ðŸ‡µðŸ‡¹
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
+#EXTINF:-1 group-title="draki sport",ELEVEN SPORTS 3 ðŸ‡µðŸ‡¹
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
+#EXTINF:-1 group-title="draki sport",ELEVEN SPORTS 4 ðŸ‡µðŸ‡¹
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
 #EXTINF:-1 group-title="draki sport",PT: SPORT TV +
 http://drakiptv.uno:80/mustapha/mustapha123/164289
 #EXTINF:-1 group-title="draki sport",PT: SPORT TV 1
