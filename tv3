@@ -6,6 +6,8 @@
 https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
 #EXTINF:-1 group-title="Movie",Movies X
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="Movie",Sony Pix
+http://103.127.92.38:81/play/a01s
 #EXTINF:-1 group-title="Movie",&flix
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/45506.m3u8
 #EXTINF:-1 tvg-name="Movie" tvg-logo="http://62.182.85.43/poster/STAR.MOVIES.png",IND ➤ STAR MOVIES HD
@@ -109,6 +111,10 @@ http://45.71.185.142:8500/play/a021
 http://45.71.185.142:8500/play/a01n
 #EXTINF:-1 group-title="PT SPORT",Fox Sports 3 🇦🇷
 http://45.71.185.142:8500/play/a01o
+#EXTINF:-1 group-title="PT SPORT",ESPN Vivo
+http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="PT SPORT",ESPN 1
+http://tptv.cz/get.php?username=5C4A0CD579DC411&password=E6MeYc5rom&type=m3u
 
 #EXTINF:-1  group-title="PT SPORT",Sportv HD BR
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/46597
@@ -123,7 +129,24 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115617
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="ASTRO",ASTRO.SUPERSPORTS_4 HD TH MY
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115618
 
-
+#EXTINF:-1 group-title="SPORT PABLO", BeIN  Premium HD 1
+http://pablotv.us:8080/Abdo22/12341234/58860
+#EXTINF:-1 group-title="SPORT PABLO",BeIN  Premium HD 2
+http://pablotv.us:8080/Abdo22/12341234/58861
+#EXTINF:-1 group-title="SPORT PABLO",BeIN  Premium HD 3
+http://pablotv.us:8080/Abdo22/12341234/58862
+#EXTINF:-1 group-title="SPORT PABLO",BeinSport HD 1
+http://pablotv.us:8080/Abdo22/12341234/58854
+#EXTINF:-1 group-title="SPORT PABLO",BeinSport HD 2
+http://pablotv.us:8080/Abdo22/12341234/58855
+#EXTINF:-1 group-title="SPORT PABLO",BeinSport HD 3
+http://pablotv.us:8080/Abdo22/12341234/58856
+#EXTINF:-1 group-title="SPORT PABLO",BeinSport HD 4
+http://pablotv.us:8080/Abdo22/12341234/58857
+#EXTINF:-1 group-title="SPORT PABLO",BeinSport HD 5
+http://pablotv.us:8080/Abdo22/12341234/58858
+#EXTINF:-1 group-title="SPORT PABLO",BeinSport HD 6
+http://pablotv.us:8080/Abdo22/12341234/58859
 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Night TH" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",Fight_Night TH
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115320
