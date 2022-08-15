@@ -285,6 +285,10 @@ http://legendtvs.com:80/anwar123/12345/381446
 #EXTINF:-1 group-title="SPORT LEGENS",PT: ELEVEN SPORTS 6 FHD
 http://legendtvs.com:80/anwar123/12345/381445
 
+#EXTINF:-1 group-title="SPORT RUS",Match! Futbol 1 HD RU
+http://mytv.fun:8080/kw0m4n725c/zmrj92wwz/36898
+#EXTINF:-1 group-title="SPORT RUS",Match! Futbol 2 FHD RU
+http://mytv.fun:8080/kw0m4n725c/zmrj92wwz/36897
 #EXTINF:-1 group-title="SPORT RUS",Матч! Футбол 1
 http://1.allnetcom.com:80/play/vmBpFr845oXscVgzlhFw9MAuzcY1-_pdT11kqlNZ7xk/ts
 #EXTINF:-1 group-title="SPORT RUS",KHL
