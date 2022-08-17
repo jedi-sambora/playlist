@@ -149,6 +149,8 @@ http://pablotv.us:8080/Abdo22/12341234/58857
 http://pablotv.us:8080/Abdo22/12341234/58858
 #EXTINF:-1 group-title="SPORT PABLO",BeinSport HD 6
 http://pablotv.us:8080/Abdo22/12341234/58859
+#EXTINF:-1 group-title="SPORT PABLO",HK: NOW PREMIER SPORTS 1 HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/370047.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Night TH" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",Fight_Night TH
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115320
