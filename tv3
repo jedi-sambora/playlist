@@ -19,6 +19,8 @@ http://legendtvs.com:80/anwar123/12345/359886
 http://203.77.246.50:5000/udp/239.1.3.84:5000 
 #EXTINF:-1 group-title="Movie",Cinemax
 http://mkcfc.freevar.com/pess/cin.m3u8
+#EXTINF:-1 group-title="Movie",Cinemax 2
+http://pprotv.com:80/live/asim1234/123456/39506.ts
 #EXTINF:-1 group-title="Movie",HBO Signature
 #http://mkcfc.freevar.com/pess/sig.m3u8
 http://203.77.246.50:5000/udp/239.1.3.74:5000
@@ -255,6 +257,8 @@ http://5gfksa.ltd:2052/live/991155/551199/180139.m3u8
 http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 #EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.3.png" group-title="SPORT KSA",CCTV 5-2
 http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.3.png" group-title="SPORT KSA",CCTV 5-3
+http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
 #EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.3.png" group-title="SPORT KSA",CCTV 5+
 http://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8
 #-- legend sport
