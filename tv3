@@ -231,8 +231,14 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115318
 #-----sport
 #EXTINF:-1tvg-logo="http://www.vod-logo.net/photos/bfa54192427f9e62269d740a46e3cac5.png" group-title="SPORT KSA",DE- ❤ SKY SPORT BUNDESLIGA 1 HD
 http://5gfksa.ltd:2052/live/991155/551199/77045.m3u8
+
 #EXTINF:-1tvg-logo="http://www.vod-logo.net/photos/bfa54192427f9e62269d740a46e3cac5.png" group-title="SPORT KSA",DE- ❤ SKY SPORT BUNDESLIGA 2 HD
 http://5gfksa.ltd:2052/live/991155/551199/77044.m3u8
+#EXTINF:-1tvg-logo="http://www.vod-logo.net/photos/bfa54192427f9e62269d740a46e3cac5.png" group-title="SPORT KSA",DE- ❤ SKY SPORT BUNDESLIGA 1 bak HD
+https://list.iptvcat.com/my_list/s/7645d61f6e557d3e734bc4a6c2267e3e.m3u8
+#EXTINF:-1  group-title="SPORT LEGENS", SuperSport 1
+https://list.iptvcat.com/my_list/s/a861cf9d450eb9dcf2f432867caf28e2.m3u8
+
 #EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 1 SD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.1.png" group-title="SPORT KSA",BEIN SP⚽RTS ENGLISH 1 SD
 http://5gfksa.ltd:2052/live/991155/551199/180159.m3u8
 #EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 1 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.1.png" group-title="SPORT KSA",BEIN SP⚽RTS ENGLISH 1 HD
