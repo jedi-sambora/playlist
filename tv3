@@ -8,6 +8,8 @@ https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="Movie",Sony Pix
 http://103.127.92.38:81/play/a01s
+#EXTINF:-1 group-title="Movie",My cinema Europe
+http://rmvberantakan.com/dens/uq2663/h/h18/index.m3u8
 #EXTINF:-1 group-title="Movie",&flix
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/45506.m3u8
 #EXTINF:-1 tvg-name="Movie" tvg-logo="http://62.182.85.43/poster/STAR.MOVIES.png",IND ➤ STAR MOVIES HD
