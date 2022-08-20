@@ -37,6 +37,8 @@ http://203.77.246.50:5000/udp/239.1.2.162:5000
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/141884
 #EXTINF:-1 group-title="Movie",TVN Movie
 http://210.210.155.35/dr9445/h/h21/index.m3u8
+#EXTINF:-1 group-title="Movie",TVN Movie (mpd)
+http://stream-cdn.mncnow.id//live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTINF:-1 group-title="Movie",&flix
 http://watchindia.net:8880/live/73352/40942/2088.m3u8
 #EXTINF:-1 group-title="Movie",&Prive
