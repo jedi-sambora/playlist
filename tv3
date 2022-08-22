@@ -71,17 +71,17 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
 #EXTINF:-1 group-title="draki sport",ELEVEN SPORTS 4 ðŸ‡µðŸ‡¹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
-#EXTINF:-1 group-title="draki sport",PT: SPORT TV +
+#EXTINF:-1 group-title="PT SPORT",PT: SPORT TV +
 http://drakiptv.uno:80/mustapha/mustapha123/164289
-#EXTINF:-1 group-title="draki sport",PT: SPORT TV 1
+#EXTINF:-1 group-title="PT SPORT",PT: SPORT TV 1
 http://drakiptv.uno:80/mustapha/mustapha123/164290
-#EXTINF:-1 group-title="draki sport",PT:  SPORT TV 2
+#EXTINF:-1 group-title="PT SPORT",PT:  SPORT TV 2
 http://drakiptv.uno:80/mustapha/mustapha123/164291
-#EXTINF:-1 group-title="draki sport",PT:  SPORT TV 4
+#EXTINF:-1 group-title="PT SPORT",PT:  SPORT TV 4
 http://drakiptv.uno:80/mustapha/mustapha123/164292
-#EXTINF:-1 group-title="draki sport",PT:  SPORT TV 3
+#EXTINF:-1 group-title="PT SPORT",PT:  SPORT TV 3
 http://drakiptv.uno:80/mustapha/mustapha123/164293
-#EXTINF:-1 group-title="draki sport",SPORT TV 5
+#EXTINF:-1 group-title="PT SPORT",SPORT TV 5
 http://drakiptv.uno:80/mustapha/mustapha123/164294
 #--drakisport
 
@@ -153,8 +153,7 @@ http://pablotv.us:8080/Abdo22/12341234/58857
 http://pablotv.us:8080/Abdo22/12341234/58858
 #EXTINF:-1 group-title="SPORT PABLO",BeinSport HD 6
 http://pablotv.us:8080/Abdo22/12341234/58859
-#EXTINF:-1 group-title="SPORT PABLO",HK: NOW PREMIER SPORTS 1 HD
-http://king-tv.online:8080/gisle@/FDPWGufCmY/370047.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Fight Night TH" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="SHAREEXT@$PORTS_Thailand",Fight_Night TH
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115320
@@ -241,37 +240,13 @@ https://list.iptvcat.com/my_list/s/7645d61f6e557d3e734bc4a6c2267e3e.m3u8
 #EXTINF:-1  group-title="SPORT LEGENS", SuperSport 1
 https://list.iptvcat.com/my_list/s/a861cf9d450eb9dcf2f432867caf28e2.m3u8
 
-#EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 1 SD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.1.png" group-title="SPORT KSA",BEIN SP⚽RTS ENGLISH 1 SD
-http://5gfksa.ltd:2052/live/991155/551199/180159.m3u8
-#EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 1 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.1.png" group-title="SPORT KSA",BEIN SP⚽RTS ENGLISH 1 HD
-http://5gfksa.ltd:2052/live/991155/551199/180168.m3u8
-#EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 2 SD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.2.png" group-title="SPORT KSA",BEIN SP⚽RTS ENGLISH 2 SD
-http://5gfksa.ltd:2052/live/991155/551199/180157.m3u8
-#EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 2 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.2.png" group-title="SPORT KSA",BEIN SP⚽RTS ENGLISH 2 HD
-http://5gfksa.ltd:2052/live/991155/551199/180169.m3u8
-#EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 3 SD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.3.png" group-title="SPORT KSA",BEIN SP⚽RTS ENGLISH 3 SD
-http://5gfksa.ltd:2052/live/991155/551199/180158.m3u8
-#EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.3.png" group-title="SPORT KSA",BEIN SP⚽RTS ENGLISH 3 HD
-http://5gfksa.ltd:2052/live/991155/551199/180170.m3u8
-#EXTINF:-1 tvg-name="BEIN SP⚽RTS PREMIUM 1 SD" tvg-logo="http://62.182.85.43/poster/BEIN- PREMIUM.1.png" group-title="SPORT KSA",BEIN SP⚽RTS PREMIUM 1 SD
-http://5gfksa.ltd:2052/live/991155/551199/180147.m3u8
-#EXTINF:-1 tvg-name="BEIN SP⚽RTS PREMIUM 1 HD" tvg-logo="http://62.182.85.43/poster/BEIN- PREMIUM.1.png" group-title="SPORT KSA",BEIN SP⚽RTS PREMIUM 1 HD
-http://5gfksa.ltd:2052/live/991155/551199/180137.m3u8
-#EXTINF:-1 tvg-name="BEIN SP⚽RTS PREMIUM 2 SD" tvg-logo="http://62.182.85.43/poster/BEIN- PREMIUM.2.png" group-title="SPORT KSA",BEIN SP⚽RTS PREMIUM 2 SD
-http://5gfksa.ltd:2052/live/991155/551199/180148.m3u8
-#EXTINF:-1 tvg-name="BEIN SP⚽RTS PREMIUM 2 HD" tvg-logo="http://62.182.85.43/poster/BEIN- PREMIUM.2.png" group-title="SPORT KSA",BEIN SP⚽RTS PREMIUM 2 HD
-http://5gfksa.ltd:2052/live/991155/551199/180138.m3u8
-#EXTINF:-1 tvg-name="BEIN SP⚽RTS PREMIUM 3 SD" tvg-logo="http://62.182.85.43/poster/BEIN- PREMIUM.3.png" group-title="SPORT KSA",BEIN SP⚽RTS PREMIUM 3 SD
-http://5gfksa.ltd:2052/live/991155/551199/180149.m3u8
-#EXTINF:-1 tvg-name="BEIN SP⚽RTS PREMIUM 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- PREMIUM.3.png" group-title="SPORT KSA",BEIN SP⚽RTS PREMIUM 3 HD
-http://5gfksa.ltd:2052/live/991155/551199/180139.m3u8
-#EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.3.png" group-title="SPORT KSA",CCTV 5
+#EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.3.png" group-title="SPORT CINA",CCTV 5
 http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
-#EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.3.png" group-title="SPORT KSA",CCTV 5-2
+#EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.3.png" group-title="SPORT CINA",CCTV 5-2
 http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
-#EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.3.png" group-title="SPORT KSA",CCTV 5-3
+#EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.3.png" group-title="SPORT CINA",CCTV 5-3
 http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
-#EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.3.png" group-title="SPORT KSA",CCTV 5+
+#EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.3.png" group-title="SPORT CINA",CCTV 5+
 http://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8
 #-- legend sport
 #EXTINF:-1  group-title="SPORT LEGENS",ZA: SuperSport Premier League
@@ -280,32 +255,6 @@ http://legendtvs.com:80/anwar123/12345/391206
 http://legendtvs.com:80/anwar123/12345/391208
 #EXTINF:-1 group-title="SPORT LEGENS",ZA: SuperSport LaLiga
 http://legendtvs.com:80/anwar123/12345/391157
-#EXTINF:-1 group-title="SPORT LEGENS",SuperSport Premier League HD VIP AF
-http://mytv.fun:8080/kw0m4n725c/zmrj92wwz/678029
-#EXTINF:-1 group-title="SPORT LEGENS",SuperSport La Liga HD VIP AF
-http://mytv.fun:8080/kw0m4n725c/zmrj92wwz/683001
-#EXTINF:-1 group-title="SPORT LEGENS",SuperSport Football HD VIP AF
-http://mytv.fun:8080/kw0m4n725c/zmrj92wwz/678024
-#EXTINF:-1 group-title="SPORT LEGENS",BR: Band Sports
-http://legendtvs.com:80/anwar123/12345/390846
-#EXTINF:-1 group-title="SPORT LEGENS",BR: FOX SPORTS 2
-http://legendtvs.com:80/anwar123/12345/390798
-#EXTINF:-1 group-title="SPORT LEGENS",BR: SPORTV 2
-http://legendtvs.com:80/anwar123/12345/390715
-#EXTINF:-1 group-title="SPORT LEGENS",BR: SPORTV 3
-http://legendtvs.com:80/anwar123/12345/390714
-#EXTINF:-1 group-title="SPORT LEGENS",PT: ELEVEN SPORTS 1 FHD
-http://legendtvs.com:80/anwar123/12345/381450
-#EXTINF:-1 group-title="SPORT LEGENS",PT: ELEVEN SPORTS 2 FHD
-http://legendtvs.com:80/anwar123/12345/381449
-#EXTINF:-1 group-title="SPORT LEGENS",PT: ELEVEN SPORTS 3 HD
-http://legendtvs.com:80/anwar123/12345/381448
-#EXTINF:-1 group-title="SPORT LEGENS",PT: ELEVEN SPORTS 4 FHD
-http://legendtvs.com:80/anwar123/12345/381447
-#EXTINF:-1 group-title="SPORT LEGENS",PT: ELEVEN SPORTS 5 HD
-http://legendtvs.com:80/anwar123/12345/381446
-#EXTINF:-1 group-title="SPORT LEGENS",PT: ELEVEN SPORTS 6 FHD
-http://legendtvs.com:80/anwar123/12345/381445
 
 #EXTINF:-1 group-title="SPORT RUS",Match! Futbol 1 HD RU
 http://mytv.fun:8080/kw0m4n725c/zmrj92wwz/36898
