@@ -50,39 +50,15 @@ http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&
 http://50.7.220.74:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
 #-----sport china
 #--drakisport
-#EXTINF:-1 group-title="draki sport",PT: ELEVEN SPORTS 1
-http://drakiptv.uno:80/mustapha/mustapha123/164283
 #EXTINF:-1 group-title="draki sport",PT: ELEVEN SPORTS 1 (2)
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
-#EXTINF:-1 group-title="draki sport",PT: ELEVEN SPORTS 2
-http://drakiptv.uno:80/mustapha/mustapha123/164284
-
-#EXTINF:-1 group-title="draki sport",PT: ELEVEN SPORTS 3
-http://drakiptv.uno:80/mustapha/mustapha123/164285
-#EXTINF:-1 group-title="draki sport",PT: ELEVEN SPORTS 4
-http://drakiptv.uno:80/mustapha/mustapha123/164286
-#EXTINF:-1 group-title="draki sport",PT: ELEVEN SPORTS 5 LOW
-http://drakiptv.uno:80/mustapha/mustapha123/164287
-#EXTINF:-1 group-title="draki sport",PT:  ELEVEN SPORTS 6
-http://drakiptv.uno:80/mustapha/mustapha123/164288
 #EXTINF:-1 group-title="draki sport" ,ELEVEN SPORTS 2 ðŸ‡µðŸ‡¹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 #EXTINF:-1 group-title="draki sport",ELEVEN SPORTS 3 ðŸ‡µðŸ‡¹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
 #EXTINF:-1 group-title="draki sport",ELEVEN SPORTS 4 ðŸ‡µðŸ‡¹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
-#EXTINF:-1 group-title="PT SPORT",PT: SPORT TV +
-http://drakiptv.uno:80/mustapha/mustapha123/164289
-#EXTINF:-1 group-title="PT SPORT",PT: SPORT TV 1
-http://drakiptv.uno:80/mustapha/mustapha123/164290
-#EXTINF:-1 group-title="PT SPORT",PT:  SPORT TV 2
-http://drakiptv.uno:80/mustapha/mustapha123/164291
-#EXTINF:-1 group-title="PT SPORT",PT:  SPORT TV 4
-http://drakiptv.uno:80/mustapha/mustapha123/164292
-#EXTINF:-1 group-title="PT SPORT",PT:  SPORT TV 3
-http://drakiptv.uno:80/mustapha/mustapha123/164293
-#EXTINF:-1 group-title="PT SPORT",SPORT TV 5
-http://drakiptv.uno:80/mustapha/mustapha123/164294
+
 #--drakisport
 
 #EXTINF:-1 group-title="indonesia",indosiar 
@@ -289,4 +265,6 @@ http://1.allnetcom.com:80/play/vmBpFr845oXscVgzlhFw9Aev5RbrUAkt19Xi1avJLiI/ts
 http://1.allnetcom.com:80/play/vmBpFr845oXscVgzlhFw9HU1O5OJ9z9vjGZIaubFLuU/ts
 #EXTINF:-1 group-title="SPORT RUS",NBC SPORTS NETWORK US
 http://1.allnetcom.com:80/play/vmBpFr845oXscVgzlhFw9PmOUZFIqNJ_L8YQdyxQ4qU/ts
+#EXTINF:-1 group-title="SPORT RUS",SETANTA
+http://91.213.59.156/play/6/index.m3u8
 
