@@ -48,6 +48,8 @@ http://watchindia.net:8880/live/73352/40942/2103.m3u8
 http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
 #EXTINF:-1 group-title="Sport tw",Bossi Tenis
 http://50.7.220.74:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+#EXTINF:-1 group-title="Sport tw",IT: SUPER TENNIS ᴴᴰ
+http://toxic-panel.com:8080/FarukDaudbasic_viber2/LGf4RvNcu6/53285
 #-----sport china
 #--drakisport
 #EXTINF:-1 group-title="draki sport",PT: ELEVEN SPORTS 1 (2)
