@@ -290,4 +290,44 @@ http://4da3b091.akciatv.ru/iptv/4A7W47LD5TPGQM/2522/index.m3u8
 http://4da3b091.akciatv.ru/iptv/4A7W47LD5TPGQM/2524/index.m3u8
 #EXTINF:-1 tvg-id="2922" tvg-rec="3" tvg-logo="http://epg.it999.ru/img2/2922.png"  group-title="BEIN SPORT",DIGI Sport 4 HD RO
 http://4da3b091.akciatv.ru/iptv/4A7W47LD5TPGQM/2538/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 1 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT CLIENTPORTAL",Astro Supersports 1 MY
+http://clientportal.link:80/PkIJXuYZHg3935/aFIfEl3466/23453
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 2 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT CLIENTPORTAL",Astro Supersports 2 MY
+http://clientportal.link:80/PkIJXuYZHg3935/aFIfEl3466/23452
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 3 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT CLIENTPORTAL",Astro Supersports 3 MY
+http://clientportal.link:80/PkIJXuYZHg3935/aFIfEl3466/23451
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 4 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="SPORT CLIENTPORTAL",Astro Supersports 4 MY
+http://clientportal.link:80/PkIJXuYZHg3935/aFIfEl3466/33973
+#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Sport Bundesliga HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1hd.jpg" group-title="SPORT CLIENTPORTAL",Sky Sport Bundesliga HD DE
+http://clientportal.link:80/PkIJXuYZHg3935/aFIfEl3466/3436
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Premier League FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg" group-title="SPORT CLIENTPORTAL",Sky Sport Premier League FHD DE
+http://clientportal.link:80/PkIJXuYZHg3935/aFIfEl3466/108335
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Mix FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportsmix.jpg" group-title="SPORT CLIENTPORTAL",Sky Sport Mix FHD DE
+http://clientportal.link:80/PkIJXuYZHg3935/aFIfEl3466/108336
+#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1.jpg" group-title="SPORT CLIENTPORTAL",Sky Bundesliga 1 HD DE
+http://clientportal.link:80/PkIJXuYZHg3935/aFIfEl3466/14550
+#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="Sky Bundesliga 2 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga2.jpg" group-title="SPORT CLIENTPORTAL",Sky Bundesliga 2 DE
+http://clientportal.link:80/PkIJXuYZHg3935/aFIfEl3466/14551
+#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="Sky Bundesliga 3 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga3.jpg" group-title="SPORT CLIENTPORTAL",Sky Bundesliga 3 DE
+http://clientportal.link:80/PkIJXuYZHg3935/aFIfEl3466/14552
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 1 HD DE" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="SPORT CLIENTPORTAL",Dazn 1 HD DE
+http://clientportal.link:80/PkIJXuYZHg3935/aFIfEl3466/89580
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 2 HD DE" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="SPORT CLIENTPORTAL",Dazn 2 HD DE
+http://clientportal.link:80/PkIJXuYZHg3935/aFIfEl3466/89581
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 3 HD DE" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="SPORT CLIENTPORTAL",Dazn 3 HD DE
+http://clientportal.link:80/PkIJXuYZHg3935/aFIfEl3466/89582
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 4 HD DE" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="SPORT CLIENTPORTAL",Dazn 4 HD DE
+http://clientportal.link:80/PkIJXuYZHg3935/aFIfEl3466/89583
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 5 HD DE" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="SPORT CLIENTPORTAL",Dazn 5 HD DE
+http://clientportal.link:80/PkIJXuYZHg3935/aFIfEl3466/89584
+#EXTINF:-1 tvg-id="" tvg-name="Nova Sports Premier League HD GR" tvg-logo="https://picon-13398.kxcdn.com/novasports1gr.jpg" group-title="SPORT CLIENTPORTAL",Nova Sports Premier League HD GR
+http://clientportal.link:80/PkIJXuYZHg3935/aFIfEl3466/108919
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premier League UK" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg" group-title="SPORT CLIENTPORTAL",Sky Sports Premier League UK
+http://clientportal.link:80/PkIJXuYZHg3935/aFIfEl3466/14742
+#EXTINF:-1 tvg-id="" tvg-name="Premier League TV (PC) HD US" tvg-logo="https://picon-13398.kxcdn.com/premierleagueefl.jpg" group-title="SPORT CLIENTPORTAL"",Premier League TV (PC) HD US
+http://clientportal.link:80/PkIJXuYZHg3935/aFIfEl3466/82944
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 1 QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports1premium.jpg" group-title="SPORT CLIENTPORTAL"",beIN SPORTS Premium 1 QA
+http://clientportal.link:80/PkIJXuYZHg3935/aFIfEl3466/91335
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 2 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports2premium.jpg" group-title="SPORT CLIENTPORTAL"",beIN SPORTS Premium 2 HD QA
+http://clientportal.link:80/PkIJXuYZHg3935/aFIfEl3466/91336
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 3 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports3premium.jpg" group-title="SPORT CLIENTPORTAL"",beIN SPORTS Premium 3 HD QA
