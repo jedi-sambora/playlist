@@ -270,3 +270,24 @@ http://1.allnetcom.com:80/play/vmBpFr845oXscVgzlhFw9PmOUZFIqNJ_L8YQdyxQ4qU/ts
 #EXTINF:-1 group-title="SPORT RUS",SETANTA
 http://91.213.59.156/play/6/index.m3u8
 
+#EXTINF:-1 tvg-id="bein-sport-1" tvg-logo="https://iptvxcdn.ml/bein-sport-1.png" tvg-name="BeIN Sport 1 HD" group-title="BEIN SPORT",BeIN Sport 1 HD
+http://saveukraine.only4.tv/5588/video.m3u8?token=l2pv0UjiRy
+#EXTINF:-1 tvg-id="bein-sport-2" tvg-logo="https://iptvxcdn.ml/bein-sport-2.png" tvg-name="BeIN Sport 2 HD" group-title="BEIN SPORT",BeIN Sport 2 HD
+http://saveukraine.only4.tv/5589/video.m3u8?token=l2pv0UjiRy
+#EXTINF:-1 tvg-id="bein-sport-3" tvg-logo="https://iptvxcdn.ml/bein-sport-4.png" tvg-name="BeIN Sport 3 HD" group-title="BEIN SPORT",BeIN Sport 3 HD
+http://saveukraine.only4.tv/5590/video.m3u8?token=l2pv0UjiRy
+#EXTINF:-1 tvg-id="bein-sport-4" tvg-logo="https://iptvxcdn.ml/bein-sport-3.png" tvg-name="BeIN Sport 3 HD" group-title="BEIN SPORT",BeIN Sport 3 HD
+http://saveukraine.only4.tv/5591/video.m3u8?token=l2pv0UjiRy
+#EXTINF:-1 tvg-id="bein-sport-5" tvg-logo="https://iptvxcdn.ml/bein-sport-5.png" tvg-name="BeIN Sport 5 HD" group-title="BEIN SPORT",BeIN Sport 5 HD
+http://saveukraine.only4.tv/5592/video.m3u8?token=l2pv0UjiRy
+#EXTINF:-1 group-title="BEIN SPORT",BeIN Sport 6 HD
+http://saveukraine.only4.tv/5593/video.m3u8?token=l2pv0UjiRy
+#EXTINF:-1 tvg-id="2907" tvg-rec="3" tvg-logo="http://epg.it999.ru/img2/2907.png"  group-title="BEIN SPORT¦",DIGI Sport 1 HD RO
+http://4da3b091.akciatv.ru/iptv/4A7W47LD5TPGQM/2523/index.m3u8
+#EXTINF:-1 tvg-id="2906" tvg-rec="3" tvg-logo="http://epg.it999.ru/img2/2906.png"  group-title="BEIN SPORT",DIGI Sport 2 HD RO
+http://4da3b091.akciatv.ru/iptv/4A7W47LD5TPGQM/2522/index.m3u8
+#EXTINF:-1 tvg-id="2908" tvg-rec="3" tvg-logo="http://epg.it999.ru/img2/2908.png"  group-title="BEIN SPORT",DIGI Sport 3 HD RO
+http://4da3b091.akciatv.ru/iptv/4A7W47LD5TPGQM/2524/index.m3u8
+#EXTINF:-1 tvg-id="2922" tvg-rec="3" tvg-logo="http://epg.it999.ru/img2/2922.png"  group-title="BEIN SPORT",DIGI Sport 4 HD RO
+http://4da3b091.akciatv.ru/iptv/4A7W47LD5TPGQM/2538/index.m3u8
+
