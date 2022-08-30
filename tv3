@@ -271,3 +271,43 @@ http://rm.flysat.live:2089/152060676623387/152013888301174/205738
 #EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 6 HD" tvg-logo="" group-title="SPORT FLYSAT",|PT| ELEVEN SPORTS 6 HD
 http://rm.flysat.live:2089/152060676623387/152013888301174/205737
 
+#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS 1 PREMIUM HD
+http://line.stealthdino.com:80/876183d1dc/6e20530f4e/550443
+#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS 2 PREMIUM HD
+http://line.stealthdino.com:80/876183d1dc/6e20530f4e/550442
+#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS 3 PREMIUM HD
+http://line.stealthdino.com:80/876183d1dc/6e20530f4e/550441
+#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS 1 HD
+http://line.stealthdino.com:80/876183d1dc/6e20530f4e/550440
+#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS 2 HD
+http://line.stealthdino.com:80/876183d1dc/6e20530f4e/550439
+#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS 3 HD
+http://line.stealthdino.com:80/876183d1dc/6e20530f4e/550438
+#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS 4 HD
+http://line.stealthdino.com:80/876183d1dc/6e20530f4e/550437
+#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS 5 HD
+http://line.stealthdino.com:80/876183d1dc/6e20530f4e/550436
+#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS 6 HD
+http://line.stealthdino.com:80/876183d1dc/6e20530f4e/550435
+#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS 7 HD
+http://line.stealthdino.com:80/876183d1dc/6e20530f4e/550434
+#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS XTRA 1 HD
+http://line.stealthdino.com:80/876183d1dc/6e20530f4e/603954
+#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS XTRA 2 HD
+http://line.stealthdino.com:80/876183d1dc/6e20530f4e/603952
+#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORT 1 HD EN
+http://line.stealthdino.com:80/876183d1dc/6e20530f4e/550433
+#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORT 2 HD EN
+http://line.stealthdino.com:80/876183d1dc/6e20530f4e/550432
+#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORT 3 HD EN
+http://line.stealthdino.com:80/876183d1dc/6e20530f4e/550431
+#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS FRENCH 1 HD
+http://line.stealthdino.com:80/876183d1dc/6e20530f4e/603950
+#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS FRENCH 2 HD
+http://line.stealthdino.com:80/876183d1dc/6e20530f4e/603948
+
+#EXTINF:-1 group-title= "SPORT LINE",IT - SKY SUPER TENNIS HD
+http://line.stealthdino.com:80/876183d1dc/6e20530f4e/601801
+
+
+
