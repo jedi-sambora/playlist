@@ -319,6 +319,14 @@ http://line.stealthdino.com:80/876183d1dc/6e20530f4e/487689
 
 #EXTINF:-1 group-title= "SPORT CLPORTAL",DE - ELEVEN 1 HD
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/46079
+#EXTINF:-1 group-title= "SPORT CLPORTAL",BE - ELEVEN 1 HD
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/39616
+#EXTINF:-1 group-title= "SPORT CLPORTAL",BE - ELEVEN 2 HD
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/39617
+#EXTINF:-1 group-title= "SPORT CLPORTAL",PT - Eleven Sports 1 HD
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/69003
+#EXTINF:-1 group-title= "SPORT CLPORTAL",PT - Eleven Sports 2 HD
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/69006
 #EXTINF:-1 group-title= "SPORT CLPORTAL",SuperSport Football FHD ZA
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/39413
 #EXTINF:-1 group-title= "SPORT CLPORTAL",SuperSport Grandstand FHD ZA
@@ -367,9 +375,12 @@ http://platinumxmedia.xyz:8080/geniptvservice/4EYQYcwMU6/93322
 #EXTINF:-1 group-title= "SPORT GENIPTV",MY | SpoTVⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/4EYQYcwMU6/104231
 
-#EXTINF:-1 group-title= "SPORT RESTREAM",BE | ELEVEN SPORT 1
-http://quality-restream.com:8080/Millenium/61f8930b/36420
-
+#EXTINF:-1 tvg-id="elevensports1nl.be" tvg-name="BE: ELEVEN SPORTS 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/3ce96de2bbb24a056acf10765f000d48.png" group-title="SPORT QUALI",BE: ELEVEN SPORTS 1
+http://quality-restream.com:8080/R2D2withC3PO/5f21954c/36420
+#EXTINF:-1 tvg-id="elevensports2nl.be" tvg-name="BE: ELEVEN SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/cce2a70fbce9c36d42cef63e6da8c3f8.png" group-title="SPORT QUALI",BE: ELEVEN SPORTS 2
+http://quality-restream.com:8080/R2D2withC3PO/5f21954c/82246
+#EXTINF:-1 tvg-id="" tvg-name="BE: ELEVEN SPORTS 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/ad32ef6fe9e5cbcdb683b77c5624e060.png" group-title="SPORT QUALI",BE: ELEVEN SPORTS 3
+http://quality-restream.com:8080/R2D2withC3PO/5f21954c/290476
 
 
 
