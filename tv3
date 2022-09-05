@@ -321,6 +321,12 @@ http://line.stealthdino.com:80/876183d1dc/6e20530f4e/699769
 #EXTINF:-1 group-title= "SPORT LINE",SP - TENNIS HD
 http://line.stealthdino.com:80/876183d1dc/6e20530f4e/487689
 
+#EXTINF:-1 group-title= "SPORT CLPORTAL",Sky Sports Football HD UK
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/11659
+#EXTINF:-1 group-title= "SPORT CLPORTAL",Sky Sports Premier League HD UK
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/9807
+#EXTINF:-1 group-title= "SPORT CLPORTAL",Sky Sports Premier League UK
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/127985
 #EXTINF:-1 group-title= "SPORT CLPORTAL",DE - ELEVEN 1 HD
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/46079
 #EXTINF:-1 group-title= "SPORT CLPORTAL",BE - ELEVEN 1 HD
@@ -347,6 +353,8 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/39408
 http://channels227070.clientportal.link:80/peYWNNRdGm813/Pkwdu7284/28896
 #EXTINF:-1 group-title= "SPORT CLPORTAL",SuperSport Premier League HD ZA (8s)
 http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/39408
+#EXTINF:-1 group-title= "SPORT CLPORTAL",SuperSport Premier League FHD ZA (es)
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/39408
 #EXTINF:-1 group-title= "SPORT CLPORTAL",Sky Sport Premier League HD ZA
 http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/9807
 #EXTINF:-1 group-title= "SPORT CLPORTAL",Sky Sport Premier League HD ZA
