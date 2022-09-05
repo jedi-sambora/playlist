@@ -343,8 +343,14 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/39406
 http://channels227070.clientportal.link:80/peYWNNRdGm813/Pkwdu7284/28895
 #EXTINF:-1 group-title= "SPORT CLPORTAL",SuperSport Premier League FHD ZA
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/39408
-#EXTINF:-1 group-title= "SPORT CLPORTAL",SuperSport Premier League HD ZA
+#EXTINF:-1 group-title= "SPORT CLPORTAL",SuperSport Premier League HD ZA (pe)
 http://channels227070.clientportal.link:80/peYWNNRdGm813/Pkwdu7284/28896
+#EXTINF:-1 group-title= "SPORT CLPORTAL",SuperSport Premier League HD ZA (8s)
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/39408
+#EXTINF:-1 group-title= "SPORT CLPORTAL",Sky Sport Premier League HD ZA
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/9807
+#EXTINF:-1 group-title= "SPORT CLPORTAL",Sky Sport Premier League HD ZA
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/127985
 #EXTINF:-1 group-title= "SPORT CLPORTAL",ASTRO SUPERSPORTS 1 HD TH MY
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115615
 #EXTINF:-1 group-title= "SPORT CLPORTAL",ASTRO SUPERSPORTS 2 HD TH MY
@@ -353,6 +359,14 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115616
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115617
 #EXTINF:-1 group-title= "SPORT CLPORTAL",ASTRO SUPERSPORTS 4 HD TH MY
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115618
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="" group-title="SPORT CLPORTAL",ASTRO SUPERSPORTS 1 HD TH MY (8s)
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/115615
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="" group-title="SPORT CLPORTAL",ASTRO SUPERSPORTS 2 HD TH MY (8s)
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/115616
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 3 HD TH MY" tvg-logo="" group-title="SPORT CLPORTAL",ASTRO SUPERSPORTS 3 HD TH MY (8s)
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/115617
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="" group-title="SPORT CLPORTAL",ASTRO SUPERSPORTS 4 HD TH MY (8s)
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/115618
 #EXTINF:-1 group-title= "SPORT CLPORTAL",Astro Supersports 1 MY
 http://channels227070.clientportal.link:80/peYWNNRdGm813/Pkwdu7284/23453
 #EXTINF:-1 group-title= "SPORT CLPORTAL",Astro Supersports 2 MY
@@ -415,6 +429,16 @@ http://channels227070.clientportal.link:80/peYWNNRdGm813/Pkwdu7284/108333
 http://channels227070.clientportal.link:80/peYWNNRdGm813/Pkwdu7284/4084
 #EXTINF:-1 group-title= "SPORT CLPORTAL",Tennis Channel HD US
 http://channels227070.clientportal.link:80/peYWNNRdGm813/Pkwdu7284/18386
+#EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="Eleven Sports 1 HD PL" tvg-logo="" group-title="SPORT CLPORTAL",Eleven Sports 1 HD PL
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/46079
+#EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="Eleven Sports 2 HD PL" tvg-logo="" group-title="SPORT CLPORTAL",Eleven Sports 2 HD PL
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/46080
+#EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="Eleven Sports 2 FHD PL" tvg-logo="http://185.211.43.125/PL/pl_eleven_2.jpg" group-title="SPORT CLPORTAL",Eleven Sports 2 FHD PL
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/11510
+#EXTINF:-1 tvg-id="elevensports3.pl" tvg-name="Eleven Sports 3 FHD PL" tvg-logo="http://185.211.43.125/PL/pl_eleven_3.jpg" group-title="SPORT CLPORTAL",Eleven Sports 3 FHD PL
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/26527
+#EXTINF:-1 tvg-id="elevensportsports4.pl" tvg-name="Eleven Sports 4 FHD PL" tvg-logo="http://185.211.43.125/PL/pl_eleven_4.jpg" group-title="SPORT CLPORTAL",Eleven Sports 4 FHD PL
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/26526
 
 
 #EXTINF:-1 tvg-id="elevensports1nl.be" tvg-name="BE: ELEVEN SPORTS 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/3ce96de2bbb24a056acf10765f000d48.png" group-title="SPORT QUALI",BE: ELEVEN SPORTS 1
@@ -441,3 +465,117 @@ http://watch-myjokertv.xyz:8080/3275537105/5715629871/267023
 #EXTINF:-1 tvg-id="" tvg-name="HK | Now Premier Sports 8" tvg-logo="https://img.favpng.com/16/24/4/now-tv-logo-hong-kong-now-com-hk-television-png-favpng-AL204Xagh3ygntxx2xxXbuDAB.jpg" group-title="INTERNATIONAL | SPORTS",HK | Now Premier Sports 8
 http://watch-myjokertv.xyz:8080/3275537105/5715629871/267024
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 PREMIUM AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 1 PREMIUM AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111600
+#EXTINF:-1 tvg-id="beinsports1premiumar.qa" tvg-name="beIN Sports 1 PREMIUM HD AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 1 PREMIUM HD AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111596
+#EXTINF:-1 tvg-id="beinsports1premiumar.qa" tvg-name="beIN Sports 1 PREMIUM HD+ AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 1 PREMIUM HD+ AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111597
+#EXTINF:-1 tvg-id="beinsports1premiumar.qa" tvg-name="beIN Sports 1 PREMIUM FHD AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 1 PREMIUM FHD AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111599
+#EXTINF:-1 tvg-id="beinsports1premiumar.qa" tvg-name="beIN Sports 1 PREMIUM 4K AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 1 PREMIUM 4K AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111598
+#EXTINF:-1 tvg-id="beinsports2premiumar.qa" tvg-name="beIN Sports 2 PREMIUM AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 2 PREMIUM AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111605
+#EXTINF:-1 tvg-id="beinsports2premiumar.qa" tvg-name="beIN Sports 2 PREMIUM HD AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 2 PREMIUM HD AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111601
+#EXTINF:-1 tvg-id="beinsports2premiumar.qa" tvg-name="beIN Sports 2 PREMIUM HD+ AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 2 PREMIUM HD+ AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111602
+#EXTINF:-1 tvg-id="beinsports2premiumar.qa" tvg-name="beIN Sports 2 PREMIUM FHD AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 2 PREMIUM FHD AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111604
+#EXTINF:-1 tvg-id="beinsports2premiumar.qa" tvg-name="beIN Sports 2 PREMIUM 4K AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 2 PREMIUM 4K AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111603
+#EXTINF:-1 tvg-id="beinsports3premiumar.qa" tvg-name="beIN Sports 3 PREMIUM 4K AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 3 PREMIUM 4K AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111608
+#EXTINF:-1 tvg-id="beinsports3premiumar.qa" tvg-name="beIN Sports 3 PREMIUM AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 3 PREMIUM AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111610
+#EXTINF:-1 tvg-id="beinsports3premiumar.qa" tvg-name="beIN Sports 3 PREMIUM HD+ AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 3 PREMIUM HD+ AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111607
+#EXTINF:-1 tvg-id="beinsports3premiumar.qa" tvg-name="beIN Sports 3 PREMIUM FHD AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 3 PREMIUM FHD AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111609
+#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="beIN Sports 1 AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 1 AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111615
+#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="beIN Sports 1 HD AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 1 HD AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111611
+#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="beIN Sports 1 HD+ AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 1 HD+ AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111612
+#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="beIN Sports 1 FHD AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 1 FHD AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111614
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="beIN Sports 1 4K AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 1 4K AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111613
+#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="beIN Sports 2 AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 2 AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111620
+#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="beIN Sports 2 HD AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 2 HD AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111616
+#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="beIN Sports 2 HD+ AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 2 HD+ AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111617
+#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="beIN Sports 2 FHD AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 2 FHD AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111619
+#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="beIN Sports 2 4K AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 2 4K AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111618
+#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="beIN Sports 3 AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 3 AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111625
+#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="beIN Sports 3 HD AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 3 HD AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111621
+#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="beIN Sports 3 HD+ AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 3 HD+ AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111622
+#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="beIN Sports 3 FHD AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 3 FHD AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111624
+#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="beIN Sports 3 4K AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 3 4K AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111623
+#EXTINF:-1 tvg-id="beinsports4ar.qa" tvg-name="beIN Sports 4 AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 4 AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111630
+#EXTINF:-1 tvg-id="beinsports4ar.qa" tvg-name="beIN Sports 4 HD AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 4 HD AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111626
+#EXTINF:-1 tvg-id="beinsports4ar.qa" tvg-name="beIN Sports 4 HD+ AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 4 HD+ AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111627
+#EXTINF:-1 tvg-id="beinsports4ar.qa" tvg-name="beIN Sports 4 FHD AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 4 FHD AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111629
+#EXTINF:-1 tvg-id="beinsports4ar.qa" tvg-name="beIN Sports 4 4K AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 4 4K AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111628
+#EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-name="beIN Sports 5 AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 5 AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111635
+#EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-name="beIN Sports 5 HD AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 5 HD AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111631
+#EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-name="beIN Sports 5 HD+ AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 5 HD+ AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111632
+#EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-name="beIN Sports 5 FHD AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 5 FHD AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111634
+#EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-name="beIN Sports 5 4K AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 5 4K AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111633
+#EXTINF:-1 tvg-id="beinsports6ar.qa" tvg-name="beIN Sports 6 AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 6 AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111640
+#EXTINF:-1 tvg-id="beinsports6ar.qa" tvg-name="beIN Sports 6 HD AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 6 HD AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111636
+#EXTINF:-1 tvg-id="beinsports6ar.qa" tvg-name="beIN Sports 6 HD+ AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 6 HD+ AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111637
+#EXTINF:-1 tvg-id="beinsports6ar.qa" tvg-name="beIN Sports 6 FHD AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 6 FHD AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111639
+#EXTINF:-1 tvg-id="beinsports6ar.qa" tvg-name="beIN Sports 6 4K AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 6 4K AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111638
+#EXTINF:-1 tvg-id="beinsports7ar.qa" tvg-name="beIN Sports 7 AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 7 AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111645
+#EXTINF:-1 tvg-id="beinsports7ar.qa" tvg-name="beIN Sports 7 HD AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 7 HD AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111641
+#EXTINF:-1 tvg-id="beinsports7ar.qa" tvg-name="beIN Sports 7 HD+ AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 7 HD+ AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111642
+#EXTINF:-1 tvg-id="beinsports7ar.qa" tvg-name="beIN Sports 7 FHD AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 7 FHD AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111644
+#EXTINF:-1 tvg-id="beinsports7ar.qa" tvg-name="beIN Sports 7 4K AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 7 4K AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111643
+#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="beIN Sports XTRA 1 AR" tvg-logo="" group-title="Arabic Sports",beIN Sports XTRA 1 AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111649
+#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="beIN Sports XTRA 1 HD AR" tvg-logo="" group-title="Arabic Sports",beIN Sports XTRA 1 HD AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111646
+#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="beIN Sports XTRA 1 HD+ AR" tvg-logo="" group-title="Arabic Sports",beIN Sports XTRA 1 HD+ AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111647
+#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="beIN Sports XTRA 1 FHD AR" tvg-logo="" group-title="Arabic Sports",beIN Sports XTRA 1 FHD AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111648
+#EXTINF:-1 tvg-id="beinsportsxtra2ar.qa" tvg-name="beIN Sports XTRA 2 AR" tvg-logo="" group-title="Arabic Sports",beIN Sports XTRA 2 AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111653
+#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="beIN Sports XTRA 2 HD AR" tvg-logo="" group-title="Arabic Sports",beIN Sports XTRA 2 HD AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111650
+#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="beIN Sports XTRA 2 HD+ AR" tvg-logo="" group-title="Arabic Sports",beIN Sports XTRA 2 HD+ AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111651
+#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="beIN Sports XTRA 2 FHD AR" tvg-logo="" group-title="Arabic Sports",beIN Sports XTRA 2 FHD AR
+http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111652
