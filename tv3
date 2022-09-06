@@ -52,15 +52,15 @@ http://50.7.220.74:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&
 http://toxic-panel.com:8080/FarukDaudbasic_viber2/LGf4RvNcu6/53285
 #-----sport china
 #--drakisport
-#EXTINF:-1 group-title="draki sport",PT: ELEVEN SPORTS 1 (2)
+#EXTINF:-1 group-title="Eleven sport",PT: ELEVEN SPORTS 1 (2)
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
-#EXTINF:-1 group-title="draki sport" ,ELEVEN SPORTS 2 ðŸ‡µðŸ‡¹
+#EXTINF:-1 group-title="Eleven sport" ,ELEVEN SPORTS 2 ðŸ‡µðŸ‡¹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
-#EXTINF:-1 group-title="draki sport",ELEVEN SPORTS 3 ðŸ‡µðŸ‡¹
+#EXTINF:-1 group-title="Eleven sport",ELEVEN SPORTS 3 ðŸ‡µðŸ‡¹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
-#EXTINF:-1 group-title="draki sport",ELEVEN SPORTS 4 ðŸ‡µðŸ‡¹
+#EXTINF:-1 group-title="Eleven sport",ELEVEN SPORTS 4 ðŸ‡µðŸ‡¹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
-#EXTINF:-1 group-title="draki sport",PT: ELEVEN SPORTS 5
+#EXTINF:-1 group-title="Eleven sport",PT: ELEVEN SPORTS 5
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 
 #--drakisport
@@ -275,51 +275,6 @@ http://rm.flysat.live:2089/152060676623387/152013888301174/205738
 #EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 6 HD" tvg-logo="" group-title="SPORT FLYSAT",|PT| ELEVEN SPORTS 6 HD
 http://rm.flysat.live:2089/152060676623387/152013888301174/205737
 
-#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS 1 PREMIUM HD
-http://line.stealthdino.com:80/876183d1dc/6e20530f4e/550443
-#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS 2 PREMIUM HD
-http://line.stealthdino.com:80/876183d1dc/6e20530f4e/550442
-#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS 3 PREMIUM HD
-http://line.stealthdino.com:80/876183d1dc/6e20530f4e/550441
-#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS 1 HD
-http://line.stealthdino.com:80/876183d1dc/6e20530f4e/550440
-#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS 2 HD
-http://line.stealthdino.com:80/876183d1dc/6e20530f4e/550439
-#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS 3 HD
-http://line.stealthdino.com:80/876183d1dc/6e20530f4e/550438
-#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS 4 HD
-http://line.stealthdino.com:80/876183d1dc/6e20530f4e/550437
-#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS 5 HD
-http://line.stealthdino.com:80/876183d1dc/6e20530f4e/550436
-#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS 6 HD
-http://line.stealthdino.com:80/876183d1dc/6e20530f4e/550435
-#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS 7 HD
-http://line.stealthdino.com:80/876183d1dc/6e20530f4e/550434
-#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS XTRA 1 HD
-http://line.stealthdino.com:80/876183d1dc/6e20530f4e/603954
-#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS XTRA 2 HD
-http://line.stealthdino.com:80/876183d1dc/6e20530f4e/603952
-#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORT 1 HD EN
-http://line.stealthdino.com:80/876183d1dc/6e20530f4e/550433
-#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORT 2 HD EN
-http://line.stealthdino.com:80/876183d1dc/6e20530f4e/550432
-#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORT 3 HD EN
-http://line.stealthdino.com:80/876183d1dc/6e20530f4e/550431
-#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS FRENCH 1 HD
-http://line.stealthdino.com:80/876183d1dc/6e20530f4e/603950
-#EXTINF:-1 group-title= "SPORT LINE",BEIN SPORTS FRENCH 2 HD
-http://line.stealthdino.com:80/876183d1dc/6e20530f4e/603948
-#EXTINF:-1 group-title= "SPORT LINE",IT - SKY SUPER TENNIS HD
-http://line.stealthdino.com:80/876183d1dc/6e20530f4e/601801
-#EXTINF:-1 group-title= "SPORT LINE",DE - SKY BUNDESLIGA 1 HD
-http://line.stealthdino.com:80/876183d1dc/6e20530f4e/699773
-#EXTINF:-1 group-title= "SPORT LINE",DE - SKY BUNDESLIGA 2 HD [EVENTS-ONLY]
-http://line.stealthdino.com:80/876183d1dc/6e20530f4e/699770
-#EXTINF:-1 group-title= "SPORT LINE",DE - SKY BUNDESLIGA 3 HD [EVENTS-ONLY]
-http://line.stealthdino.com:80/876183d1dc/6e20530f4e/699769
-#EXTINF:-1 group-title= "SPORT LINE",DE - SKY BUNDESLIGA 4 HD [EVENTS-ONLY]
-#EXTINF:-1 group-title= "SPORT LINE",SP - TENNIS HD
-http://line.stealthdino.com:80/876183d1dc/6e20530f4e/487689
 
 #EXTINF:-1 group-title= "SPORT CLPORTAL",Sky Sports Football HD UK
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/11659
