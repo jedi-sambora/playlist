@@ -19,10 +19,6 @@ http://legendtvs.com:80/anwar123/12345/359886
 #EXTINF:-1 group-title="Movie",HBO
 #http://mkcfc.freevar.com/pess/hbo.m3u8
 http://203.77.246.50:5000/udp/239.1.3.84:5000 
-#EXTINF:-1 group-title="Movie",Cinemax
-http://mkcfc.freevar.com/pess/cin.m3u8
-#EXTINF:-1 group-title="Movie",Cinemax 2
-http://pprotv.com:80/live/asim1234/123456/39506.ts
 #EXTINF:-1 group-title="Movie",HBO Signature
 #http://mkcfc.freevar.com/pess/sig.m3u8
 http://203.77.246.50:5000/udp/239.1.3.74:5000
@@ -37,20 +33,7 @@ http://203.77.246.50:5000/udp/239.1.2.162:5000
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/141884
 #EXTINF:-1 group-title="Movie",TVN Movie
 http://210.210.155.35/dr9445/h/h21/index.m3u8
-#EXTINF:-1 group-title="Movie",TVN Movie (mpd)
-http://stream-cdn.mncnow.id//live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-#EXTINF:-1 group-title="Movie",&flix
-http://watchindia.net:8880/live/73352/40942/2088.m3u8
-#EXTINF:-1 group-title="Movie",&Prive
-http://watchindia.net:8880/live/73352/40942/2103.m3u8
-#-----sport china
-#EXTINF:-1 group-title="Sport tw",Bossi sport
-http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
-#EXTINF:-1 group-title="Sport tw",Bossi Tenis
-http://50.7.220.74:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
-#EXTINF:-1 group-title="Sport tw",IT: SUPER TENNIS ᴴᴰ
-http://toxic-panel.com:8080/FarukDaudbasic_viber2/LGf4RvNcu6/53285
-#-----sport china
+
 #--drakisport
 #EXTINF:-1 group-title="Eleven sport",PT: ELEVEN SPORTS 1 (2)
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
@@ -148,11 +131,7 @@ http://pablotv.us:8080/Abdo22/12341234/58859
 
 
 #-----sport
-#EXTINF:-1tvg-logo="http://www.vod-logo.net/photos/bfa54192427f9e62269d740a46e3cac5.png" group-title="SPORT KSA",DE- ❤ SKY SPORT BUNDESLIGA 1 HD
-http://5gfksa.ltd:2052/live/991155/551199/77045.m3u8
 
-#EXTINF:-1tvg-logo="http://www.vod-logo.net/photos/bfa54192427f9e62269d740a46e3cac5.png" group-title="SPORT KSA",DE- ❤ SKY SPORT BUNDESLIGA 2 HD
-http://5gfksa.ltd:2052/live/991155/551199/77044.m3u8
 #EXTINF:-1tvg-logo="http://www.vod-logo.net/photos/bfa54192427f9e62269d740a46e3cac5.png" group-title="SPORT KSA",DE- ❤ SKY SPORT BUNDESLIGA 1 bak HD
 https://list.iptvcat.com/my_list/s/7645d61f6e557d3e734bc4a6c2267e3e.m3u8
 #EXTINF:-1  group-title="SPORT LEGENS", SuperSport 1
@@ -174,34 +153,7 @@ http://legendtvs.com:80/anwar123/12345/391208
 #EXTINF:-1 group-title="SPORT LEGENS",ZA: SuperSport LaLiga
 http://legendtvs.com:80/anwar123/12345/391157
 
-#EXTINF:-1 group-title="SPORT RUS",Match! Futbol 1 HD RU
-http://mytv.fun:8080/kw0m4n725c/zmrj92wwz/36898
-#EXTINF:-1 group-title="SPORT RUS",Match! Futbol 2 FHD RU
-http://mytv.fun:8080/kw0m4n725c/zmrj92wwz/36897
-#EXTINF:-1 group-title="SPORT RUS",Матч! Футбол 1
-http://1.allnetcom.com:80/play/vmBpFr845oXscVgzlhFw9MAuzcY1-_pdT11kqlNZ7xk/ts
-#EXTINF:-1 group-title="SPORT RUS",KHL
-http://1.allnetcom.com:80/play/vmBpFr845oXscVgzlhFw9EBpMkk-W6ES-TfzbWxMQZk/ts
-#EXTINF:-1 group-title="SPORT RUS",Матч! Футбол 3
-http://1.allnetcom.com:80/play/vmBpFr845oXscVgzlhFw9GSPgNpXIlZIFbQqoBBLutk/ts
-#EXTINF:-1 group-title="SPORT RUS",Матч! Футбол 2
-http://1.allnetcom.com:80/play/vmBpFr845oXscVgzlhFw9JW7PsBOSxjKv5FjHcHiFAY/ts
-#EXTINF:-1 group-title="SPORT RUS",МАТЧ ПРЕМЬЕР
-http://1.allnetcom.com:80/play/vmBpFr845oXscVgzlhFw9Fy3Aqrt_p3fUW5yi5R9oWw/ts
-#EXTINF:-1 group-title="SPORT RUS",Матч ТВ
-http://1.allnetcom.com:80/play/vmBpFr845oXscVgzlhFw9GJ0Q1dvyRN_xIypclyLnwg/ts
-#EXTINF:-1 group-title="SPORT RUS",Sky Sport 1 HD DE
-http://1.allnetcom.com:80/play/vmBpFr845oXscVgzlhFw9A67pEPhAS6ZkQ4xiN6D4hc/ts
-#EXTINF:-1 group-title="SPORT RUS",Sky Sport 2 HD DE
-http://1.allnetcom.com:80/play/vmBpFr845oXscVgzlhFw9Feniot-gHNfv7rz4d7QU8g/ts
-#EXTINF:-1 group-title="SPORT RUS",Sky Sport Bundesliga 1 HD DE
-http://1.allnetcom.com:80/play/vmBpFr845oXscVgzlhFw9Aev5RbrUAkt19Xi1avJLiI/ts
-#EXTINF:-1 group-title="SPORT RUS",CBS SPORTS NETWORK US
-http://1.allnetcom.com:80/play/vmBpFr845oXscVgzlhFw9HU1O5OJ9z9vjGZIaubFLuU/ts
-#EXTINF:-1 group-title="SPORT RUS",NBC SPORTS NETWORK US
-http://1.allnetcom.com:80/play/vmBpFr845oXscVgzlhFw9PmOUZFIqNJ_L8YQdyxQ4qU/ts
-#EXTINF:-1 group-title="SPORT RUS",SETANTA
-http://91.213.59.156/play/6/index.m3u8
+
 
 #EXTINF:-1 tvg-id="bein-sport-1" tvg-logo="https://iptvxcdn.ml/bein-sport-1.png" tvg-name="BeIN Sport 1 HD" group-title="BEIN SPORT",BeIN Sport 1 HD
 http://saveukraine.only4.tv/5588/video.m3u8?token=l2pv0UjiRy
