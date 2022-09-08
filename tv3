@@ -600,3 +600,99 @@ http://syok.tv:2082/mia/mia/9140
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORT ESPN" tvg-logo="https://www.techadvisor.com/cmsdata/features/3446577/bt_sport_logo_thumb1200_4-3.jpg" group-title="SYOK SPORTS",BT SPORT ESPN
 http://syok.tv:2082/mia/mia/9141
 
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Quality Sport",MY: Astro SuperSport 1
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/146068
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="Quality Sport",MY: Astro SuperSport 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/157556
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="Quality Sport",MY: Astro SuperSport 3
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/157557
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Quality Sport",MY: Astro SuperSport 4
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/157558
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d40f4a64bc712ca477fcb4e7412b5ccc.png" group-title="Quality Sport",FR: beIN Sports 1
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/144
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0546311aed22a274b1e87d23c33dd475.png" group-title="Quality Sport",FR: beIN Sports 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/145
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e36554e2468737a5a1e4a41112d673a5.png" group-title="Quality Sport",FR: beIN Sports 3
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/146
+#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="FR: beIN Sports Max 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d1e2a161fa7650f78d827bb7e8cd3c21.png" group-title="Quality Sport",FR: beIN Sports Max 4
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3599
+#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="FR: beIN Sports Max 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c8cadfdb308ce51abcaac8220528833e.png" group-title="Quality Sport",FR: beIN Sports Max 5
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/6083
+#EXTINF:-1 tvg-id="bein6max.fr" tvg-name="FR: beIN Sports Max 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6250ce9aa48d84200378db8e1c293ecb.png" group-title="Quality Sports",FR: beIN Sports Max 6
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/4368
+#EXTINF:-1 tvg-id="bein7max.fr" tvg-name="FR: beIN Sports Max 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b2834f48777b3cd3bd463f5f88a80a2d.png" group-title="Quality Sports",FR: beIN Sports Max 7
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/4369
+#EXTINF:-1 tvg-id="bein8max.fr" tvg-name="FR: beIN Sports Max 8" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7b8e9459b28777e8b6123dd030b7b88d.png" group-title="Quality Sports",FR: beIN Sports Max 8
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/4370
+#EXTINF:-1 tvg-id="bein9max.fr" tvg-name="FR: beIN Sports Max 9" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6373a7564fe06eaffa6429200895b1ab.png" group-title="Quality  Sports",FR: beIN Sports Max 9
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/4371
+#EXTINF:-1 tvg-id="bein10max.fr" tvg-name="FR: beIN Sports Max 10" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/188bf35c841af13de45c2cf86e7438b5.png" group-title="Quality Sport",FR: beIN Sports Max 10
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/6088
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/ed9835d693546034bdf25efb8b3a7064.png" group-title="Quality Sport",FR: RMC SPORT 3
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/279991
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/73cffa5f211ea7a500efc57624d1085b.png" group-title="Quality Sport",FR: RMC SPORT 4
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/279752
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 5" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/78b9cea6671e86c0d7e66912be2d5d75.png" group-title="Quality Sport",FR: RMC SPORT 5
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1940
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/eff690c2ea262f51dc20359a6a5d2dab.jpg" group-title="Quality Sport",FR: RMC SPORT 7
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/20883
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 8" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/7ba3def00bf7bcf5dc60c53248dc5280.jpg" group-title="Quality Sport",FR: RMC SPORT 8
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/20884
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 9" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/a883723670d7bc644176d7aba669cabc.jpg" group-title="Quality Sport",FR: RMC SPORT 9
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/20885
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 10" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d40f3d8995bcc19f0e66081362a2b8e5.png" group-title="Quality Sport",FR: RMC SPORT 10
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/192025
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 11" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/241dbd77515eb71526fdfea265678ae7.png" group-title="Quality Sport",FR: RMC SPORT 11
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/20888
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 12" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c8e0e790aa04235207798f3be7025794.jpg" group-title="Quality Sport",FR: RMC SPORT 12
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/20887
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 13" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/713b9ca02caa88867392d859344d62bf.png" group-title="Quality Sport",FR: RMC SPORT 13
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/20890
+#EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="PL: ELEVEN SPORTS 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6dbad401029775c28d9e7df7bbc58e81.png" group-title="Quality Sport",PL: ELEVEN SPORTS 1
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/347
+#EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="PL: ELEVEN SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0fe5b9578692f9baaeace94f995cc585.png" group-title="Quality Sport",PL: ELEVEN SPORTS 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3643
+#EXTINF:-1 tvg-id="elevensports3.pl" tvg-name="PL: ELEVEN SPORTS 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8ffe0919e6125a450c32ae08aa5ab282.png" group-title="Quality Sport",PL: ELEVEN SPORTS 3
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3644
+#EXTINF:-1 tvg-id="elevensportsports4.pl" tvg-name="PL: ELEVEN SPORTS 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/41ec41ec81476d5663826a743938b397.png" group-title="Quality Sport",PL: ELEVEN SPORTS 4
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3645
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="US: beIN Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/b6ce2426cc52ca48e337dd2a263ccb21.jpg" group-title="Quality Sport",US: beIN Sports
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/284530
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="US: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6129fe72ded1a946884fed4f021411fa.png" group-title="Quality Sport",US: beIN Sports 1
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2272
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/36c8a2f7e977b190633248afab44b0be.png" group-title="Quality Sport",US: beIN Sports 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/151022
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/d633a8820b5347f07f377b0961e49033.png" group-title="Quality Sport",US: beIN Sports 3
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/151025
+#EXTINF:-1 tvg-id="beinsports4.us" tvg-name="US: beIN Sports 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/968b2561d3ef02a84e6761d4d914db6a.png" group-title="Quality Sport",US: beIN Sports 4
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/151024
+#EXTINF:-1 tvg-id="beinsports6.us" tvg-name="US: beIN Sports 6" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/508c7fe8551803cd75658da2876e94c9.png" group-title="Quality Sport",US: beIN Sports 6
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/151030
+#EXTINF:-1 tvg-id="beinsports7.us" tvg-name="US: beIN Sports 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/35bdc00f1836b7669f614ffa005537c1.png" group-title="Quality Sport",US: beIN Sports 7
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/151028
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports n" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/ac031332317a1f4f3209a4a4aa54df90.png" group-title="Quality Sport",US: beIN Sports n
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/296690
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="US: beIN Sports USA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/1af633ac21f674213181b644bd010f25.png" group-title="Quality Sport",US: beIN Sports USA
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/296691
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/67b5b20cb871eb0a1d91bedb8be826ff.png" group-title="Quality Sport",IN: Star Sports 1
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3630
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8d83db120afcaa7b2d4ef5422fb3ace5.png" group-title="Quality Sport",IN: Star Sports 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3631
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cb6f86b5373ecc7840bd3b57967f37bc.png" group-title="Quality Sport",IN: Star Sports 3
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/62584
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/32dd229ae9dd6bb71e041ba5545ca2b9.jpg" group-title="Quality Sport",IN: Star Sports Select 1
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/82628
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/90d4a692460906d2af537d261d1ac3a1.jpg" group-title="Quality Sport",IN: Star Sports Select 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/16619
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="Quality Sport",PT: ELEVEN SPORTS 1
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1499
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title="Quality Sport",PT: ELEVEN SPORTS 2
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1503
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title="Quality Sport",PT: ELEVEN SPORTS 3
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1506
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title="Quality Sport",PT: ELEVEN SPORTS 4
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1509
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png" group-title="Quality Sport",PT: ELEVEN SPORTS 5
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1512
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/089df823b4a66ca080d161cdd412ff1b.png" group-title="Quality Sport",PT: ELEVEN SPORTS 6
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1515
