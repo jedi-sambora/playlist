@@ -42,6 +42,14 @@ http://210.210.155.35/dr9445/h/h21/index.m3u8
 
 #EXTINF:-1 group-title="ind sport",Star Sports S 1 HD-Rs19
 http://103.179.246.243:8000/play/a018
+#EXTINF:-1 group-title="ind sport",Star Sports S 2 HD-Rs19
+http://103.179.246.243:8000/play/a019
+#EXTINF:-1 group-title="ind sport", Sony Ten 1 HD- Rs 19
+http://103.179.246.243:8000/play/a00e
+#EXTINF:-1 group-title="ind sport", Sony Ten 2 HD- Rs 19
+http://103.179.246.243:8000/play/a01a
+#EXTINF:-1 group-title="ind sport", Sony Ten 3 HD- Rs 19
+http://103.179.246.243:8000/play/a026
 
 #--drakisport
 #EXTINF:-1 group-title="Eleven sport",PT: ELEVEN SPORTS 1 (2)
