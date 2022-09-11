@@ -75,4 +75,15 @@ http://txm.flysat.live:2089/152087208243161/152003418536112/210152
 #EXTINF:-1 group-title="TXMFLY  SPORT",  AF SUPERSPORT TENNIS HD
 http://txm.flysat.live:2089/152087208243161/152003418536112/210151
 
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="Sportv HD BR" tvg-logo="" group-title="Brazil",Sportv HD BR
+http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/46597
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="Sportv 2 HD BR" tvg-logo="" group-title="Brazil",Sportv 2 HD BR
+http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/46596
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD BR" tvg-logo="" group-title="Brazil",Band Sports HD BR
+http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/46507
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports HD BR" tvg-logo="" group-title="Brazil",Fox Sports HD BR
+http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/46540
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD BR" tvg-logo="" group-title="Brazil",Fox Sports 2 HD BR
+http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/46539
+
 
