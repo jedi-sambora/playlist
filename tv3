@@ -162,6 +162,10 @@ http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
 http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
 #EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.3.png" group-title="SPORT CINA",CCTV 5+
 http://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8
+#EXTINF:-1    group-title="SPORT CINA",CCTV_5
+https://live.olelive.com:4443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1    group-title="SPORT CINA",CCTV_5Plus
+https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
 #-- legend sport
 #EXTINF:-1  group-title="SPORT LEGENS",ZA: SuperSport Premier League
 http://legendtvs.com:80/anwar123/12345/391206
