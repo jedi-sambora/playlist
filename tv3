@@ -84,12 +84,35 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 #EXTINF:-1 group-title="indonesia",USEE SPORT 1
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/49
 
-#EXTINF:-1 group-title="PT SPORT",PT: Sport TV 1
+#EXTINF:-1 group-title="Fort SPORT",PT: Sport TV 1
 http://fortv.cc:8080/jsc/jsc/43492
-#EXTINF:-1 group-title="PT SPORT",PT: Sport TV 2
+#EXTINF:-1 group-title="Fort SPORT",PT: Sport TV 2
 http://fortv.cc:8080/jsc/jsc/43491
 #EXTINF:-1 group-title="PT SPORT",PT: Sport TV 3
 http://fortv.cc:8080/jsc/jsc/43493
+#EXTINF:-1 tvg-id="" tvg-name="PT Eleven Sports 1 FHD (D)" tvg-logo="" group-title="Fort SPORT ",PT Eleven Sports 1 FHD (D)
+http://fortv.cc:8080/vince/vince/35264
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 2 HD" tvg-logo="" group-title="Fort SPORT",PT: Eleven 2 HD
+http://fortv.cc:8080/vince/vince/78455
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 3" tvg-logo="" group-title="Fort SPORT",PT: Eleven 3
+http://fortv.cc:8080/vince/vince/78456
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 4" tvg-logo="" group-title="Fort SPORT",PT: Eleven 4
+http://fortv.cc:8080/vince/vince/78457
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 5" tvg-logo="" group-title="Fort SPORT",PT: Eleven 5
+http://fortv.cc:8080/vince/vince/78458
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 6" tvg-logo="" group-title="Fort SPORT",PT: Eleven 6
+http://fortv.cc:8080/vince/vince/78459
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 1" tvg-logo="" group-title="Fort SPORT",PT: Sport TV 1
+http://fortv.cc:8080/vince/vince/78513
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2" tvg-logo="" group-title="PFort SPORT",PT: Sport TV 2
+http://fortv.cc:8080/vince/vince/78515
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3" tvg-logo="" group-title="Fort SPORT",PT: Sport TV 3
+http://fortv.cc:8080/vince/vince/78517
+#EXTINF:-1 tvg-id="sky.sports.premier.league.gb" tvg-name="UK: SKY SP PREMIER LEAGUE FHD" tvg-logo="" group-title="Fort Sports Fanatic's ",UK: SKY SP PREMIER LEAGUE FHD
+http://fortv.cc:8080/vince/vince/35242
+#EXTINF:-1 tvg-id="sky.sports.football.gb" tvg-name="UK Sky Sports Football 1 (P)" tvg-logo="" group-title="Fort Sports",UK Sky Sports Football 1 (P)
+http://fortv.cc:8080/vince/vince/35239
+
 #EXTINF:-1 group-title="PT SPORT",US : ESPN HD
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/9660
 #EXTINF:-1 group-title="PT SPORT",BR : ESPN HD
@@ -144,36 +167,10 @@ http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
 https://live.olelive.com:4443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1    group-title="SPORT CINA",CCTV_5Plus
 https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
-#-- legend sport
-#EXTINF:-1  group-title="SPORT LEGENS",ZA: SuperSport Premier League
-http://legendtvs.com:80/anwar123/12345/391206
-#EXTINF:-1 group-title="SPORT LEGENS",ZA: SuperSport Football
-http://legendtvs.com:80/anwar123/12345/391208
-#EXTINF:-1 group-title="SPORT LEGENS",ZA: SuperSport LaLiga
-http://legendtvs.com:80/anwar123/12345/391157
 
 
 
-#EXTINF:-1 tvg-id="bein-sport-1" tvg-logo="https://iptvxcdn.ml/bein-sport-1.png" tvg-name="BeIN Sport 1 HD" group-title="BEIN SPORT",BeIN Sport 1 HD
-http://saveukraine.only4.tv/5588/video.m3u8?token=l2pv0UjiRy
-#EXTINF:-1 tvg-id="bein-sport-2" tvg-logo="https://iptvxcdn.ml/bein-sport-2.png" tvg-name="BeIN Sport 2 HD" group-title="BEIN SPORT",BeIN Sport 2 HD
-http://saveukraine.only4.tv/5589/video.m3u8?token=l2pv0UjiRy
-#EXTINF:-1 tvg-id="bein-sport-3" tvg-logo="https://iptvxcdn.ml/bein-sport-4.png" tvg-name="BeIN Sport 3 HD" group-title="BEIN SPORT",BeIN Sport 3 HD
-http://saveukraine.only4.tv/5590/video.m3u8?token=l2pv0UjiRy
-#EXTINF:-1 tvg-id="bein-sport-4" tvg-logo="https://iptvxcdn.ml/bein-sport-3.png" tvg-name="BeIN Sport 3 HD" group-title="BEIN SPORT",BeIN Sport 3 HD
-http://saveukraine.only4.tv/5591/video.m3u8?token=l2pv0UjiRy
-#EXTINF:-1 tvg-id="bein-sport-5" tvg-logo="https://iptvxcdn.ml/bein-sport-5.png" tvg-name="BeIN Sport 5 HD" group-title="BEIN SPORT",BeIN Sport 5 HD
-http://saveukraine.only4.tv/5592/video.m3u8?token=l2pv0UjiRy
-#EXTINF:-1 group-title="BEIN SPORT",BeIN Sport 6 HD
-http://saveukraine.only4.tv/5593/video.m3u8?token=l2pv0UjiRy
-#EXTINF:-1 tvg-id="2907" tvg-rec="3" tvg-logo="http://epg.it999.ru/img2/2907.png"  group-title="BEIN SPORT¦",DIGI Sport 1 HD RO
-http://4da3b091.akciatv.ru/iptv/4A7W47LD5TPGQM/2523/index.m3u8
-#EXTINF:-1 tvg-id="2906" tvg-rec="3" tvg-logo="http://epg.it999.ru/img2/2906.png"  group-title="BEIN SPORT",DIGI Sport 2 HD RO
-http://4da3b091.akciatv.ru/iptv/4A7W47LD5TPGQM/2522/index.m3u8
-#EXTINF:-1 tvg-id="2908" tvg-rec="3" tvg-logo="http://epg.it999.ru/img2/2908.png"  group-title="BEIN SPORT",DIGI Sport 3 HD RO
-http://4da3b091.akciatv.ru/iptv/4A7W47LD5TPGQM/2524/index.m3u8
-#EXTINF:-1 tvg-id="2922" tvg-rec="3" tvg-logo="http://epg.it999.ru/img2/2922.png"  group-title="BEIN SPORT",DIGI Sport 4 HD RO
-http://4da3b091.akciatv.ru/iptv/4A7W47LD5TPGQM/2538/index.m3u8
+
 
 #EXTINF:-1   group-title="Kor SPORT",SPOTV NOW
 http://live1.streamk.co:8080/sportsbox_preview/live46/playlist.m3u8?site=gaktv&ch=live46
@@ -225,7 +222,83 @@ http://rm.flysat.live:2089/152060676623387/152013888301174/205739
 http://rm.flysat.live:2089/152060676623387/152013888301174/205738
 #EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 6 HD" tvg-logo="" group-title="SPORT FLYSAT",|PT| ELEVEN SPORTS 6 HD
 http://rm.flysat.live:2089/152060676623387/152013888301174/205737
-
+###COMAG
+#EXTINF:-1 group-title="COMAG SPORT", BEINSPORTS HD
+http://comag.rip:8000/50000294027085/23534165557770/3882
+#EXTINF:-1 group-title="COMAG SPORT", beIN SPORTS 01 PREMIUM HD
+http://comag.rip:8000/50000294027085/23534165557770/156468
+#EXTINF:-1 group-title="COMAG SPORT", beIN SPORTS 02 PREMIUM HD
+http://comag.rip:8000/50000294027085/23534165557770/156466
+#EXTINF:-1 group-title="COMAG SPORT", beIN SPORTS 03 PREMIUM HD
+http://comag.rip:8000/50000294027085/23534165557770/156464
+#EXTINF:-1 group-title="COMAG SPORT", beIN SPORTS 01 HD
+http://comag.rip:8000/50000294027085/23534165557770/156462
+#EXTINF:-1 group-title="COMAG SPORT", beIN SPORTS 02 HD
+http://comag.rip:8000/50000294027085/23534165557770/156460
+#EXTINF:-1 group-title="COMAG SPORT", beIN SPORTS 03 HD
+http://comag.rip:8000/50000294027085/23534165557770/156458
+#EXTINF:-1 group-title="COMAG SPORT", beIN SPORTS 04 HD
+http://comag.rip:8000/50000294027085/23534165557770/156456
+#EXTINF:-1 group-title="COMAG SPORT", beIN SPORTS 05 HD
+http://comag.rip:8000/50000294027085/23534165557770/156454
+#EXTINF:-1 group-title="COMAG SPORT", beIN SPORTS 06 HD
+http://comag.rip:8000/50000294027085/23534165557770/156452
+#EXTINF:-1 group-title="COMAG SPORT", beIN SPORTS 07 HD
+http://comag.rip:8000/50000294027085/23534165557770/156450
+#EXTINF:-1 group-title="COMAG SPORT", beIN SPORTS 1 EN HD
+http://comag.rip:8000/50000294027085/23534165557770/156448
+#EXTINF:-1 group-title="COMAG SPORT", beIN SPORTS 2 EN HD
+http://comag.rip:8000/50000294027085/23534165557770/156446
+#EXTINF:-1 group-title="COMAG SPORT", beIN SPORTS 3 EN HD
+http://comag.rip:8000/50000294027085/23534165557770/158822
+#EXTINF:-1 group-title="COMAG SPORT", beIN SPORTS 1 FR HD
+http://comag.rip:8000/50000294027085/23534165557770/158825
+#EXTINF:-1 group-title="COMAG SPORT", beIN SPORTS 2 FR HD
+http://comag.rip:8000/50000294027085/23534165557770/158824
+#EXTINF:-1 group-title="COMAG SPORT", beIN SPORTS 3 FR HD
+http://comag.rip:8000/50000294027085/23534165557770/158823
+#EXTINF:-1 group-title="COMAG SPORT", beIN SPORTS XTRA 1 HD
+http://comag.rip:8000/50000294027085/23534165557770/161970
+#EXTINF:-1 group-title="COMAG SPORT", beIN SPORTS XTRA 2 HD
+http://comag.rip:8000/50000294027085/23534165557770/161969
+#EXTINF:-1 group-title="COMAG SPORT", beINSPORTS PREMIUM 1
+http://comag.rip:8000/50000294027085/23534165557770/156445
+#EXTINF:-1 group-title="COMAG SPORT", beINSPORTS PREMIUM  2
+http://comag.rip:8000/50000294027085/23534165557770/156444
+#EXTINF:-1 group-title="COMAG SPORT", beINSPORTS PREMIUM  3
+http://comag.rip:8000/50000294027085/23534165557770/156443
+#EXTINF:-1 group-title="COMAG SPORT", beINSPORTS 1
+http://comag.rip:8000/50000294027085/23534165557770/156442
+#EXTINF:-1 group-title="COMAG SPORT", beINSPORTS 2
+http://comag.rip:8000/50000294027085/23534165557770/156441
+#EXTINF:-1 group-title="COMAG SPORT", beINSPORTS 3
+http://comag.rip:8000/50000294027085/23534165557770/156440
+#EXTINF:-1 group-title="COMAG SPORT", beINSPORTS 4
+http://comag.rip:8000/50000294027085/23534165557770/156439
+#EXTINF:-1 group-title="COMAG SPORT", beINSPORTS 5
+http://comag.rip:8000/50000294027085/23534165557770/156438
+#EXTINF:-1 group-title="COMAG SPORT", beINSPORTS 6
+http://comag.rip:8000/50000294027085/23534165557770/156437
+#EXTINF:-1 group-title="COMAG SPORT", beINSPORTS 7
+http://comag.rip:8000/50000294027085/23534165557770/156436
+#EXTINF:-1 group-title="COMAG SPORT", beINSPORTS 1 FR
+http://comag.rip:8000/50000294027085/23534165557770/156435
+#EXTINF:-1 group-title="COMAG SPORT", beINSPORTS 2 FR
+http://comag.rip:8000/50000294027085/23534165557770/156434
+#EXTINF:-1 group-title="COMAG SPORT", beINSPORTS 3 FR
+http://comag.rip:8000/50000294027085/23534165557770/156433
+#EXTINF:-1 group-title="COMAG SPORT",DSTV| SUPER SPORT PREMIER LEAGUE HD
+http://comag.rip:8000/50000294027085/23534165557770/230368
+#EXTINF:-1 group-title="COMAG SPORT",DSTV| SUPER SPORT LALIGA HD
+http://comag.rip:8000/50000294027085/23534165557770/230367
+#EXTINF:-1 group-title="COMAG SPORT",DSTV| SUPER SPORT FOOTBALL HD
+http://comag.rip:8000/50000294027085/23534165557770/230366
+#EXTINF:-1 group-title="COMAG SPORT",DSTV| SUPER SPORT FOOTBALL PLUS HD
+http://comag.rip:8000/50000294027085/23534165557770/230365
+#EXTINF:-1 group-title="COMAG SPORT",DSTV| SUPER SPORT PSL HD
+http://comag.rip:8000/50000294027085/23534165557770/230364
+#EXTINF:-1 group-title="COMAG SPORT",DSTV| SUPER SPORT TENNIS HD
+http://comag.rip:8000/50000294027085/23534165557770/230363
 
 #EXTINF:-1 group-title= "SPORT CLPORTAL",Sky Sports Football HD UK
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/11659
