@@ -168,8 +168,56 @@ https://live.olelive.com:4443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1    group-title="SPORT CINA",CCTV_5Plus
 https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
 
-
-
+#EXTINF:-1 group-title="BOSSTV SPORT",TH: true Sport 1 FHD
+http://45.148.147.253:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/277652.ts
+#EXTINF:-1 group-title="BOSSTV SPORT",TH: true Sport 2 FHD
+http://45.148.147.253:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/277655.ts
+#EXTINF:-1 group-title="BOSSTV SPORT",TH: true Sport 3 FHD
+http://45.148.147.253:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/277656.ts
+#EXTINF:-1 group-title="BOSSTV SPORT",AR: beIN SPORTS 1 HD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257231.ts
+#EXTINF:-1 group-title="BOSSTV SPORT",AR: beIN SPORTS 2 HD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257232.ts
+#EXTINF:-1 group-title="BOSSTV SPORT",AR: beIN SPORTS 3 HD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257233.ts
+#EXTINF:-1 group-title="BOSSTV SPORT",AR: beIN SPORTS 4 HD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257234.ts
+#EXTINF:-1 group-title="BOSSTV SPORT",AR: beIN SPORTS 5 HD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257235.ts
+#EXTINF:-1 group-title="BOSSTV SPORT",AR: beIN SPORTS 6 HD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257236.ts
+#EXTINF:-1 group-title="BOSSTV SPORT",AR: beIN SPORTS 7 HD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257237.ts
+#EXTINF:-1 group-title="BOSSTV SPORT",AR: beIN SPORTS PREMIUM 1 HD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257238.ts
+#EXTINF:-1 group-title="BOSSTV SPORT",AR: beIN SPORTS PREMIUM 2 HD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257239.ts
+#EXTINF:-1 group-title="BOSSTV SPORT",AR: beIN SPORTS PREMIUM 3 HD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257240.ts
+#EXTINF:-1 group-title="BOSSTV SPORT",AR: beIN SPORTS MAX 1 HD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257241.ts
+#EXTINF:-1 group-title="BOSSTV SPORT",AR: beIN SPORTS MAX 2 HD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257242.ts
+#EXTINF:-1 group-title="BOSSTV SPORT",AR: beIN SPORTS MAX 3 HD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257243.ts
+#EXTINF:-1 group-title="BOSSTV SPORT",AR: beIN SPORTS MAX 4 HD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257244.ts
+#EXTINF:-1 group-title="BOSSTV SPORT",AR: beIN SPORTS MAX 5 HD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257245.ts
+#EXTINF:-1 group-title="BOSSTV SPORT",AR: beIN SPORTS MAX 6 HD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257246.ts
+#EXTINF:-1 group-title="BOSSTV SPORT",AR: beIN SPORTS 1 EN HD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257247.ts
+#EXTINF:-1 group-title="BOSSTV SPORT",AR: beIN SPORTS 2 EN HD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257248.ts
+#EXTINF:-1 group-title="BOSSTV SPORT",PL| ELRVEN SPORTS 1 HD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/281016.ts
+#EXTINF:-1 group-title="BOSSTV SPORT",PL| ELEVEN SPORTS 2 FHD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/281017.ts
+#EXTINF:-1 group-title="BOSSTV SPORT",PL| ELEVEN SPORTS 3 HD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/281018.ts
+#EXTINF:-1 group-title="BOSSTV SPORT",PL| ELEVEN SPORTS 4 HD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/281019.ts
 
 
 #EXTINF:-1   group-title="Kor SPORT",SPOTV NOW
