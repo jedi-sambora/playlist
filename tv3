@@ -427,16 +427,6 @@ http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/26527
 #EXTINF:-1 tvg-id="elevensportsports4.pl" tvg-name="Eleven Sports 4 FHD PL" tvg-logo="http://185.211.43.125/PL/pl_eleven_4.jpg" group-title="SPORT CLPORTAL",Eleven Sports 4 FHD PL
 http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/26526
 
-
-#EXTINF:-1 tvg-id="elevensports1nl.be" tvg-name="BE: ELEVEN SPORTS 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/3ce96de2bbb24a056acf10765f000d48.png" group-title="SPORT QUALI",BE: ELEVEN SPORTS 1
-http://quality-restream.com:8080/R2D2withC3PO/5f21954c/36420
-#EXTINF:-1 tvg-id="elevensports2nl.be" tvg-name="BE: ELEVEN SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/cce2a70fbce9c36d42cef63e6da8c3f8.png" group-title="SPORT QUALI",BE: ELEVEN SPORTS 2
-http://quality-restream.com:8080/R2D2withC3PO/5f21954c/82246
-#EXTINF:-1 tvg-id="" tvg-name="BE: ELEVEN SPORTS 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/ad32ef6fe9e5cbcdb683b77c5624e060.png" group-title="SPORT QUALI",BE: ELEVEN SPORTS 3
-http://quality-restream.com:8080/R2D2withC3PO/5f21954c/290476
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 PREMIUM AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 1 PREMIUM AR
 http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111600
 #EXTINF:-1 tvg-id="beinsports1premiumar.qa" tvg-name="beIN Sports 1 PREMIUM HD AR" tvg-logo="" group-title="Arabic Sports",beIN Sports 1 PREMIUM HD AR
@@ -551,43 +541,6 @@ http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111650
 http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111651
 #EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="beIN Sports XTRA 2 FHD AR" tvg-logo="" group-title="Arabic Sports",beIN Sports XTRA 2 FHD AR
 http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111652
-
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Premium 1 HD" tvg-logo="http://darkteam.vip:25461/images/b25ffa68ad761f8578cc61700c0140ed.png" group-title="BEIN SPORT HD",Bein Sports Premium 1 HD
-http://darkteam.vip:25461/FREXCHWEI3020/23UHDJDKNWJE9/121
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Premium 2 HD" tvg-logo="http://darkteam.vip:25461/images/b25ffa68ad761f8578cc61700c0140ed.png" group-title="BEIN SPORT HD",Bein Sports Premium 2 HD
-http://darkteam.vip:25461/FREXCHWEI3020/23UHDJDKNWJE9/122
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Premium 3 HD" tvg-logo="http://darkteam.vip:25461/images/b25ffa68ad761f8578cc61700c0140ed.png" group-title="BEIN SPORT HD",Bein Sports Premium 3 HD
-http://darkteam.vip:25461/FREXCHWEI3020/23UHDJDKNWJE9/123
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 1 HD" tvg-logo="http://darkteam.vip:25461/images/b25ffa68ad761f8578cc61700c0140ed.png" group-title="DARK SPORT",BeIN Sports 1 HD
-http://darkteam.vip:25461/FREXCHWEI3020/23UHDJDKNWJE9/124
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 2 HD" tvg-logo="http://darkteam.vip:25461/images/b25ffa68ad761f8578cc61700c0140ed.png" group-title="DARK SPORT",BeIN Sports 2 HD
-http://darkteam.vip:25461/FREXCHWEI3020/23UHDJDKNWJE9/125
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 3 HD" tvg-logo="http://darkteam.vip:25461/images/b25ffa68ad761f8578cc61700c0140ed.png" group-title="DARK SPORT",BeIN Sports 3 HD
-http://darkteam.vip:25461/FREXCHWEI3020/23UHDJDKNWJE9/126
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 4 HD" tvg-logo="http://darkteam.vip:25461/images/b25ffa68ad761f8578cc61700c0140ed.png" group-title="DARK SPORT",BeIN Sports 4 HD
-http://darkteam.vip:25461/FREXCHWEI3020/23UHDJDKNWJE9/127
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 5 HD" tvg-logo="http://darkteam.vip:25461/images/b25ffa68ad761f8578cc61700c0140ed.png" group-title="DARK SPORT",BeIN Sports 5 HD
-http://darkteam.vip:25461/FREXCHWEI3020/23UHDJDKNWJE9/128
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 6 HD" tvg-logo="http://darkteam.vip:25461/images/b25ffa68ad761f8578cc61700c0140ed.png" group-title="DARK SPORT",BeIN Sports 6 HD
-http://darkteam.vip:25461/FREXCHWEI3020/23UHDJDKNWJE9/129
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 7 HD" tvg-logo="http://darkteam.vip:25461/images/b25ffa68ad761f8578cc61700c0140ed.png" group-title="DARK SPORT",BeIN Sports 7 HD
-http://darkteam.vip:25461/FREXCHWEI3020/23UHDJDKNWJE9/130
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Extra HD1" tvg-logo="http://darkteam.vip:25461/images/b25ffa68ad761f8578cc61700c0140ed.png" group-title="DARK SPORT",BeIN Sports Extra HD1
-http://darkteam.vip:25461/FREXCHWEI3020/23UHDJDKNWJE9/131
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports English HD2" tvg-logo="http://darkteam.vip:25461/images/b25ffa68ad761f8578cc61700c0140ed.png" group-title="DARK SPORT",Bein Sports English HD2
-http://darkteam.vip:25461/FREXCHWEI3020/23UHDJDKNWJE9/132
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports English HD3" tvg-logo="http://darkteam.vip:25461/images/b25ffa68ad761f8578cc61700c0140ed.png" group-title="DARK SPORT",Bein Sports English HD3
-http://darkteam.vip:25461/FREXCHWEI3020/23UHDJDKNWJE9/133
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports French HD1" tvg-logo="http://darkteam.vip:25461/images/b25ffa68ad761f8578cc61700c0140ed.png" group-title="DARK SPORT",Bein Sports French HD1
-http://darkteam.vip:25461/FREXCHWEI3020/23UHDJDKNWJE9/134
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports French HD2" tvg-logo="http://darkteam.vip:25461/images/b25ffa68ad761f8578cc61700c0140ed.png" group-title="DARK SPORT",Bein Sports French HD2
-http://darkteam.vip:25461/FREXCHWEI3020/23UHDJDKNWJE9/135
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports English HD1" tvg-logo="http://darkteam.vip:25461/images/b25ffa68ad761f8578cc61700c0140ed.png" group-title="DARK SPORT",Bein Sports English HD1
-http://darkteam.vip:25461/FREXCHWEI3020/23UHDJDKNWJE9/136
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports NBA HD" tvg-logo="http://darkteam.vip:25461/images/b25ffa68ad761f8578cc61700c0140ed.png" group-title="DARK SPORT",BeIN Sports NBA HD
-http://darkteam.vip:25461/FREXCHWEI3020/23UHDJDKNWJE9/137
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Extra HD2" tvg-logo="http://darkteam.vip:25461/images/b25ffa68ad761f8578cc61700c0140ed.png" group-title="DARK SPORT",BeIN Sports Extra HD2
-http://darkteam.vip:25461/FREXCHWEI3020/23UHDJDKNWJE9/7049
 
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORT CRICKET" tvg-logo="https://pmexpressng.com/wp-content/uploads/2020/08/20200821_091426.jpg" group-title="SYOK SPORT",DSTV: SUPERSPORT CRICKET
 http://syok.tv:2082/mia/mia/9055
