@@ -961,4 +961,69 @@ http://platinumxmedia.xyz:8080/@masontv/p2vGKn3G3f/9537
 #EXTINF:-1group-title="PLATINUM SPORT",PT | SPORT TV 6ⓧ FHD
 http://platinumxmedia.xyz:8080/@masontv/p2vGKn3G3f/108253
 
+#EXTINF:-1 tvg-id="" tvg-name="HD | BE SPORTS 1 PREMIUM" tvg-logo="http://rockets.ws/logo/beinhd2.png" group-title="PPROTV SPORT",HD | BE SPORTS 1 PREMIUM
+http://pprotv.com:80/fahad70/fahad70/119
+#EXTINF:-1 tvg-id="" tvg-name="HD | BE SPORTS 2 PREMIUM" tvg-logo="http://rockets.ws/logo/beinhd2.png" group-title="PPROTV SPORT",HD | BE SPORTS 2 PREMIUM
+http://pprotv.com:80/fahad70/fahad70/121
+#EXTINF:-1 tvg-id="" tvg-name="HD | BE SPORTS 3 PREMIUM" tvg-logo="http://rockets.ws/logo/beinhd2.png" group-title="PPROTV SPORT",HD | BE SPORTS 3 PREMIUM
+http://pprotv.com:80/fahad70/fahad70/123
+#EXTINF:-1 tvg-id="" tvg-name="HD | BE SPORTS 1  " tvg-logo="http://rockets.ws/logo/beinhd2.png" group-title="PPROTV SPORT",HD | BE SPORTS 1  
+http://pprotv.com:80/fahad70/fahad70/105
+#EXTINF:-1 tvg-id="" tvg-name="HD | BE SPORTS 2" tvg-logo="http://rockets.ws/logo/beinhd2.png" group-title="PPROTV SPORT",HD | BE SPORTS 2
+http://pprotv.com:80/fahad70/fahad70/107
+#EXTINF:-1 tvg-id="" tvg-name="HD | BE SPORTS 3" tvg-logo="http://rockets.ws/logo/beinhd2.png" group-title="PPROTV SPORT",HD | BE SPORTS 3
+http://pprotv.com:80/fahad70/fahad70/109
+#EXTINF:-1 tvg-id="" tvg-name="HD | BE SPORTS 4" tvg-logo="http://rockets.ws/logo/beinhd2.png" group-title="PPROTV SPORT",HD | BE SPORTS 4
+http://pprotv.com:80/fahad70/fahad70/111
+#EXTINF:-1 tvg-id="" tvg-name="HD | BE SPORTS 5" tvg-logo="http://rockets.ws/logo/beinhd2.png" group-title="PPROTV SPORT",HD | BE SPORTS 5
+http://pprotv.com:80/fahad70/fahad70/113
+#EXTINF:-1 tvg-id="" tvg-name="HD | BE SPORTS 6" tvg-logo="http://rockets.ws/logo/beinhd2.png" group-title="PPROTV SPORT",HD | BE SPORTS 6
+http://pprotv.com:80/fahad70/fahad70/115
+#EXTINF:-1 tvg-id="" tvg-name="HD | BE SPORTS 7" tvg-logo="http://rockets.ws/logo/beinhd2.png" group-title="PPROTV SPORT",HD | BE SPORTS 7
+http://pprotv.com:80/fahad70/fahad70/117
+#EXTINF:-1 tvg-id="" tvg-name="HD | BE SPORTS 1 ENG" tvg-logo="http://rockets.ws//logo/globe-ben.png" group-title="PPROTV SPORT",HD | BE SPORTS 1 ENG
+http://pprotv.com:80/fahad70/fahad70/162231
+#EXTINF:-1 tvg-id="" tvg-name="HD | BE SPORTS 2 ENG" tvg-logo="http://rockets.ws//logo/globe-ben.png" group-title="PPROTV SPORT",HD | BE SPORTS 2 ENG
+http://pprotv.com:80/fahad70/fahad70/162232
+#EXTINF:-1 tvg-id="" tvg-name="HD | BE SPORTS 1 FR" tvg-logo="http://rockets.ws//logo/globe-ben.png" group-title="PPROTV SPORT",HD | BE SPORTS 1 FR
+http://pprotv.com:80/fahad70/fahad70/162234
+#EXTINF:-1 tvg-id="" tvg-name="HD | BE SPORTS 2 FR" tvg-logo="http://rockets.ws//logo/globe-ben.png" group-title="PPROTV SPORT",HD | BE SPORTS 2 FR
+http://pprotv.com:80/fahad70/fahad70/162235
+#EXTINF:-1 tvg-id="" tvg-name="HD | BE SPORTS 3 FR" tvg-logo="http://rockets.ws//logo/globe-ben.png" group-title="PPROTV SPORT",HD | BE SPORTS 3 FR
+http://pprotv.com:80/fahad70/fahad70/162236
+#EXTINF:-1 tvg-id="" tvg-name="HD | BE SPORTS 3 ENG" tvg-logo="http://rockets.ws//logo/globe-ben.png" group-title="PPROTV SPORT",HD | BE SPORTS 3 ENG
+http://pprotv.com:80/fahad70/fahad70/162233
+#EXTINF:-1 tvg-id="" tvg-name="PT |  ELEVEN SPORTS 1 HD" tvg-logo="http://rockets.ws/logo/eurologo.png" group-title="PPROTV SPORT",PT |  ELEVEN SPORTS 1 HD
+http://pprotv.com:80/fahad70/fahad70/154773
+#EXTINF:-1 tvg-id="" tvg-name="PT |  ELEVEN SPORTS 2 HD" tvg-logo="http://rockets.ws/logo/eurologo.png" group-title="PPROTV SPORT",PT |  ELEVEN SPORTS 2 HD
+http://pprotv.com:80/fahad70/fahad70/154774
+#EXTINF:-1 tvg-id="" tvg-name="PT |  ELEVEN SPORTS 3 HD" tvg-logo="http://rockets.ws/logo/eurologo.png" group-title="PPROTV SPORT",PT |  ELEVEN SPORTS 3 HD
+http://pprotv.com:80/fahad70/fahad70/154775
+#EXTINF:-1 tvg-id="" tvg-name="PT |  SPORTING TV" tvg-logo="http://rockets.ws/logo/eurologo.png" group-title="PPROTV SPORT",PT |  SPORTING TV
+http://pprotv.com:80/fahad70/fahad70/154781
+#EXTINF:-1 tvg-id="" tvg-name="PT |  SPORT TV 3 HD" tvg-logo="http://rockets.ws/logo/eurologo.png" group-title="PPROTV SPORT",PT |  SPORT TV 3 HD
+http://pprotv.com:80/fahad70/fahad70/154784
+#EXTINF:-1 tvg-id="" tvg-name="PT |  SPORT TV 2 HD" tvg-logo="http://rockets.ws/logo/eurologo.png" group-title="PPROTV SPORT",PT |  SPORT TV 2 HD
+http://pprotv.com:80/fahad70/fahad70/154785
+#EXTINF:-1 tvg-id="" tvg-name="PT |  SPORT TV 4 HD" tvg-logo="http://rockets.ws/logo/eurologo.png" group-title="PPROTV SPORT",PT |  SPORT TV 4 HD
+http://pprotv.com:80/fahad70/fahad70/154787
+#EXTINF:-1 tvg-id="" tvg-name="EU SPORT |  IT DAZN 2 HD" tvg-logo="http://rockets.ws/logo/euros.png" group-title="PPROTV SPORT",EU SPORT |  IT DAZN 2 HD
+http://pprotv.com:80/fahad70/fahad70/109431
+#EXTINF:-1 tvg-id="" tvg-name="EU SPORT |  IT DAZN 3 HD" tvg-logo="http://rockets.ws/logo/euros.png" group-title="PPROTV SPORT",EU SPORT |  IT DAZN 3 HD
+http://pprotv.com:80/fahad70/fahad70/109432
+#EXTINF:-1 tvg-id="" tvg-name="EU SPORT |  DE DAZN 1 HD" tvg-logo="http://rockets.ws/logo/euros.png" group-title="PPROTV SPORT",EU SPORT |  DE DAZN 1 HD
+http://pprotv.com:80/fahad70/fahad70/109434
+#EXTINF:-1 tvg-id="" tvg-name="EU SPORT | RMC SPORT 1" tvg-logo="http://rockets.ws/logo/euros.png" group-title="PPROTV SPORT",EU SPORT | RMC SPORT 1
+http://pprotv.com:80/fahad70/fahad70/6520
+#EXTINF:-1 tvg-id="" tvg-name="EU SPORT | RMC SPORT 2" tvg-logo="http://rockets.ws/logo/euros.png" group-title="PPROTV SPORT",EU SPORT | RMC SPORT 2
+http://pprotv.com:80/fahad70/fahad70/6521
+#EXTINF:-1 tvg-id="" tvg-name="EU SPORT | RMC SPORT 3" tvg-logo="http://rockets.ws/logo/euros.png" group-title="PPROTV SPORT",EU SPORT | RMC SPORT 3
+http://pprotv.com:80/fahad70/fahad70/6522
+#EXTINF:-1 tvg-id="" tvg-name="EU SPORT | RMC SPORT 4" tvg-logo="http://rockets.ws/logo/euros.png" group-title="PPROTV SPORT",EU SPORT | RMC SPORT 4
+http://pprotv.com:80/fahad70/fahad70/6523
+#EXTINF:-1 tvg-id="" tvg-name="EU SPORT | RMC SPORT LIVE 8" tvg-logo="http://rockets.ws/logo/euros.png" group-title="PPROTV SPORT",EU SPORT | RMC SPORT LIVE 8
+http://pprotv.com:80/fahad70/fahad70/6528
+#EXTINF:-1 tvg-id="" tvg-name="EU SPORT | RMC SPORT LIVE 9" tvg-logo="http://rockets.ws/logo/euros.png" group-title="PPROTV SPORT",EU SPORT | RMC SPORT LIVE 9
+http://pprotv.com:80/fahad70/fahad70/6529
+
 
