@@ -36,6 +36,15 @@ http://203.77.246.50:5000/udp/239.1.2.162:5000
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/141884
 #EXTINF:-1 group-title="Movie",TVN Movie
 http://210.210.155.35/dr9445/h/h21/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Atlantic" tvg-logo="http://tvgolatino.com:8080/images/f7eaf2aa5dcee53d5fe96b5337039495.png" group-title="Movie",DE: Sky Atlantic
+http://megatitan.net:8080/TitANeSS123Llor4321/EBUgT6DDsxQE/33596
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema" tvg-logo="" group-title="Movie",DE: Sky Cinema
+http://megatitan.net:8080/TitANeSS123Llor4321/EBUgT6DDsxQE/33583
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema" tvg-logo="" group-title="Movie",DE: Sky Cinema
+http://megatitan.net:8080/TitANeSS123Llor4321/EBUgT6DDsxQE/33585
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Action" tvg-logo="" group-title="Movie",DE: Sky Cinema Action
+http://megatitan.net:8080/TitANeSS123Llor4321/EBUgT6DDsxQE/33599
+
 
 #EXTINF:-1 group-title="ind sport",Star Sports S 1 HD-Rs19
 http://103.179.246.243:8000/play/a018
@@ -1026,4 +1035,44 @@ http://pprotv.com:80/fahad70/fahad70/6528
 #EXTINF:-1 tvg-id="" tvg-name="EU SPORT | RMC SPORT LIVE 9" tvg-logo="http://rockets.ws/logo/euros.png" group-title="PPROTV SPORT",EU SPORT | RMC SPORT LIVE 9
 http://pprotv.com:80/fahad70/fahad70/6529
 
+#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport Premium HD 1
+http://209.126.80.43:25461/beinsport47/sport8874/76525
+#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport Premium HD 2
+http://209.126.80.43:25461/beinsport47/sport8874/76526
+#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport Premium HD 3
+http://209.126.80.43:25461/beinsport47/sport8874/76527
+#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport HD 1
+http://209.126.80.43:25461/beinsport47/sport8874/76528
+#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport HD 2
+http://209.126.80.43:25461/beinsport47/sport8874/76529
+#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport HD 3
+http://209.126.80.43:25461/beinsport47/sport8874/76530
+#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport HD 4
+http://209.126.80.43:25461/beinsport47/sport8874/76531
+#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport HD 5
+http://209.126.80.43:25461/beinsport47/sport8874/76532
+#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport HD 6
+http://209.126.80.43:25461/beinsport47/sport8874/76533
+#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport HD 7
+http://209.126.80.43:25461/beinsport47/sport8874/76534
+#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport Premium FHD 1
+http://209.126.80.43:25461/beinsport47/sport8874/76515
+#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport Premium FHD 1
+http://209.126.80.43:25461/beinsport47/sport8874/76516
+#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport Premium FHD 1
+http://209.126.80.43:25461/beinsport47/sport8874/76517
+#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport FHD 1
+http://209.126.80.43:25461/beinsport47/sport8874/76518
+#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport FHD 2
+http://209.126.80.43:25461/beinsport47/sport8874/76519
+#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport FHD 3
+http://209.126.80.43:25461/beinsport47/sport8874/76520
+#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport FHD 4
+http://209.126.80.43:25461/beinsport47/sport8874/76521
+#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport FHD 5
+http://209.126.80.43:25461/beinsport47/sport8874/76522
+#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport FHD 6
+http://209.126.80.43:25461/beinsport47/sport8874/76523
+#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport FHD 7
+http://209.126.80.43:25461/beinsport47/sport8874/76524
 
