@@ -1154,3 +1154,62 @@ http://iptvtree.net:8080/i4stream/d78b24fc9a18/280370
 http://iptvtree.net:8080/i4stream/d78b24fc9a18/3187
 #EXTINF:-1group-title="IPTVTREE  SPORT", ARG: FOX SPORTS 3
 http://iptvtree.net:8080/i4stream/d78b24fc9a18/10921
+
+#EXTINF:-1 tvg-id="" tvg-name="KU: See Sports HD" tvg-logo="" group-title="365tv SPORT",KU: See Sports HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/119679
+#EXTINF:-1 tvg-id="" tvg-name="KU: See Sports 3 HD" tvg-logo="" group-title="365tv SPORT",KU: See Sports 3 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/120177
+#EXTINF:-1 tvg-id="" tvg-name="KU: See Sports 2 HD" tvg-logo="" group-title="365tv SPORT",KU: See Sports 2 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/120178
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 1 HD" tvg-logo="" group-title="365tv SPORT",beIN Sports Premium 1 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101926
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 2 HD" tvg-logo="" group-title="365tv SPORT",beIN Sports Premium 2 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101925
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 3 HD" tvg-logo="" group-title="365tv SPORT",beIN SPORTS Premium 3 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101932
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 1" tvg-logo="" group-title="365tv SPORT",beIN SPORTS HD 1
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90164
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD 2" tvg-logo="" group-title="365tv SPORT",beIN SPORTS HD 2
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90165
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD 4" tvg-logo="" group-title="365tv SPORT",beIN SPORT HD 4
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90167
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD 3" tvg-logo="" group-title="365tv SPORT",beIN SPORT HD 3
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90166
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD 5" tvg-logo="" group-title="365tv SPORT",beIN SPORT HD 5
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90168
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD 6" tvg-logo="" group-title="365tv SPORT",beIN SPORT HD 6
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90169
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD 7" tvg-logo="" group-title="365tv SPORT",beIN SPORT HD 7
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90170
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 1 FHD" tvg-logo="" group-title="365tv SPORT",beIN SPORTS Premium 1 FHD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101931
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 2 FHD" tvg-logo="" group-title="365tv SPORT",beIN SPORTS Premium 2 FHD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101929
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 3 FHD" tvg-logo="" group-title="365tv SPORT",beIN Sports Premium 3 FHD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/117116
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 1" tvg-logo="" group-title="365tv SPORT",beIN SPORT FHD 1
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90154
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 2" tvg-logo="" group-title="365tv SPORT",beIN SPORT FHD 2
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90155
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 3" tvg-logo="" group-title="365tv SPORT",beIN SPORT FHD 3
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90156
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 4" tvg-logo="" group-title="365tv SPORT",beIN SPORT FHD 4
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90157
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 5" tvg-logo="" group-title="365tv SPORT",beIN SPORT FHD 5
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90158
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 6" tvg-logo="" group-title="365tv SPORT",beIN SPORT FHD 6
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90159
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT FHD 7" tvg-logo="" group-title="365tv SPORT",beIN SPORT FHD 7
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90160
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS English 1 HD" tvg-logo="" group-title="365tv SPORT",beIN SPORTS English 1 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101944
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS English 2 HD" tvg-logo="" group-title="365tv SPORT",beIN SPORTS English 2 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101945
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS English 3 HD" tvg-logo="" group-title="365tv SPORT",beIN SPORTS English 3 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101946
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS French 1 HD" tvg-logo="" group-title="365tv SPORT",beIN SPORTS French 1 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101947
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS French 2 HD" tvg-logo="" group-title="365tv SPORT",beIN SPORTS French 2 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101948
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS French 3 HD" tvg-logo="" group-title="365tv SPORT",beIN SPORTS French 3 HD
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101949
