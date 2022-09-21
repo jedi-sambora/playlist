@@ -45,19 +45,6 @@ http://megatitan.net:8080/TitANeSS123Llor4321/EBUgT6DDsxQE/33585
 #EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Action" tvg-logo="" group-title="Movie",DE: Sky Cinema Action
 http://megatitan.net:8080/TitANeSS123Llor4321/EBUgT6DDsxQE/33599
 
-
-
-#EXTINF:-1 group-title="ind sport",Star Sports S 1 HD-Rs19
-http://103.179.246.243:8000/play/a018
-#EXTINF:-1 group-title="ind sport",Star Sports S 2 HD-Rs19
-http://103.179.246.243:8000/play/a019
-#EXTINF:-1 group-title="ind sport", Sony Ten 1 HD- Rs 19
-http://103.179.246.243:8000/play/a00e
-#EXTINF:-1 group-title="ind sport", Sony Ten 2 HD- Rs 19
-http://103.179.246.243:8000/play/a01a
-#EXTINF:-1 group-title="ind sport", Sony Ten 3 HD- Rs 19
-http://103.179.246.243:8000/play/a026
-
 #--drakisport
 #EXTINF:-1 group-title="Eleven sport",PT: ELEVEN SPORTS 1 (2)
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
@@ -1136,7 +1123,7 @@ http://iptvtree.net:8080/i4stream/d78b24fc9a18/1499
 http://iptvtree.net:8080/i4stream/d78b24fc9a18/1503
 #EXTINF:-1group-title="IPTVTREE  SPORT", PT: ELEVEN SPORTS 3
 http://iptvtree.net:8080/i4stream/d78b24fc9a18/1506
-#EXTINF:-1group-title="IPTVTREE  SPORT", PT: ELEVEN SPORTS 4
+#EXTINF:-1 group-title="IPTVTREE  SPORT", PT: ELEVEN SPORTS 4
 http://iptvtree.net:8080/i4stream/d78b24fc9a18/1509
 #EXTINF:-1group-title="IPTVTREE  SPORT", PT: ELEVEN SPORTS 5
 http://iptvtree.net:8080/i4stream/d78b24fc9a18/1512
@@ -1256,3 +1243,60 @@ http://tzupro.co.uk:8181/okayiptv-skype/w0X4aYBF8p/581
 http://tzupro.co.uk:8181/okayiptv-skype/w0X4aYBF8p/582
 #EXTINF:-1 tvg-id="24422" tvg-name="SR: ARENA SPORT 3 HD" tvg-logo="http://uticnica.dynu.net/logos/arenasport3-drukahehip.png" group-title="SPORT EXYU",SR: ARENA SPORT 3 HD
 http://tzupro.co.uk:8181/okayiptv-skype/w0X4aYBF8p/583
+
+#EXTINF:-1 group-title="STREAM  SPORT",FR:RMC_SPORT1_HD
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3036
+#EXTINF:-1 group-title="STREAM  SPORT",FR:RMC_SPORT2_HD
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/902
+#EXTINF:-1 group-title="STREAM  SPORT",FR:RMC_SPORT3_HD
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/901
+#EXTINF:-1 group-title="STREAM  SPORT",FR:RMC_SPORT4_HD
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3931
+#EXTINF:-1 group-title="STREAM  SPORT",FR:RMC_SPORT5_HD
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3037
+#EXTINF:-1 group-title="STREAM  SPORT",FR:RMC_SPORT6_HD
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3932
+#EXTINF:-1 group-title="STREAM  SPORT",FR:RMC_SPORT7_HD
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3933
+#EXTINF:-1 group-title="STREAM  SPORT",FR:RMC_SPORT8_HD
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3934
+#EXTINF:-1 group-title="STREAM  SPORT",FR:RMC_SPORT9_HD
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3935
+#EXTINF:-1 group-title="STREAM  SPORT",FR:RMC_SPORT10_HD
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3936
+#EXTINF:-1 group-title="STREAM  SPORT",FR:RMC_SPORT12HD
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3927
+#EXTINF:-1 group-title="STREAM  SPORT",FR:RMC_SPORT13HD
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3929
+#EXTINF:-1 group-title="STREAM  SPORT",FR:BeinSport1_FULLHD
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3071
+#EXTINF:-1 group-title="STREAM  SPORT",FR:BeinSport1_HD
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/713
+#EXTINF:-1 group-title="STREAM  SPORT",FR:BeinSport1_SD
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3080
+#EXTINF:-1 group-title="STREAM  SPORT",FR:BeinSport2_FULLHD
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3072
+#EXTINF:-1 group-title="STREAM  SPORT",FR:BeinSport2_HD
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/714
+#EXTINF:-1 group-title="STREAM  SPORT",FR:BeinSport2_SD
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3079
+#EXTINF:-1 group-title="STREAM  SPORT",FR:BeinSport3_FULLHD
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3665
+#EXTINF:-1 group-title="STREAM  SPORT",FR:BeinSport3_HD
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/715
+#EXTINF:-1 group-title="STREAM  SPORT",FR:BeinSport3_SD
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3078
+#EXTINF:-1 group-title="STREAM  SPORT",FR:BeinSportMax4
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3021
+#EXTINF:-1 group-title="STREAM  SPORT",FR:BeinSportMax5
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3022
+#EXTINF:-1 group-title="STREAM  SPORT",FR:BeinSportMax6
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3023
+#EXTINF:-1 group-title="STREAM  SPORT",FR:BeinSportMax7
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3024
+#EXTINF:-1 group-title="STREAM  SPORT",FR:BeinSportMax8
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3025
+#EXTINF:-1 group-title="STREAM  SPORT",FR:BeinSportMax9
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3026
+#EXTINF:-1 group-title="STREAM  SPORT",FR:BeinSportMax10
+http://stream-full.selfip.com:8000/xtracodeFR/4qYUVQ3b3L/3027
