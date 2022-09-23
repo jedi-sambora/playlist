@@ -1419,3 +1419,82 @@ http://quality-restream.com:8080/resplice/v6EKnKb8gn3pGsz9/281487
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/09bb1aded27d31530f3939146dffbc0c.png" group-title="Qstream Sport",UK: Sky Sports Premier League
 http://quality-restream.com:8080/resplice/v6EKnKb8gn3pGsz9/263
 
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: SKY SPORTS PREMIER LEAGUE HD" tvg-logo="http://cdn.hwresources.xyz/img/skysportsplhd.png" group-title="HWDATA SPORT",UK: SKY SPORTS PREMIER LEAGUE HD
+http://hwdata.xyz:80/btinternal@/5616061093/12234
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="UK: PREMIER SPORTS 1 HD" tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="HWDATA SPORT",UK: PREMIER SPORTS 1 HD
+http://hwdata.xyz:80/btinternal@/5616061093/62285
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK: PREMIER SPORTS 2 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/frtowu1600893109.png" group-title="HWDATA SPORT",UK: PREMIER SPORTS 2 HD
+http://hwdata.xyz:80/btinternal@/5616061093/62284
+#EXTINF:-1 tvg-id="811" tvg-name="EPL: ASTRO SUPERSPORT  1 HD" tvg-logo="https://i.imgur.com/dfV5HCf.png" group-title="HWDATA SPORT",EPL: ASTRO SUPERSPORT  1 HD
+http://hwdata.xyz:80/btinternal@/5616061093/77043
+#EXTINF:-1 tvg-id="812" tvg-name="EPL: ASTRO SUPERSPORT  2 HD" tvg-logo="https://i.imgur.com/EKA1xTZ.png" group-title="HWDATA SPORT",EPL: ASTRO SUPERSPORT  2 HD
+http://hwdata.xyz:80/btinternal@/5616061093/77042
+#EXTINF:-1 tvg-id="813" tvg-name="EPL: ASTRO SUPERSPORT 3 HD" tvg-logo="https://i.imgur.com/DDFBwJR.png" group-title="HWDATA SPORT",EPL: ASTRO SUPERSPORT 3 HD
+http://hwdata.xyz:80/btinternal@/5616061093/77041
+#EXTINF:-1 tvg-id="814" tvg-name="EPL: ASTRO SUPERSPORT 4 HD" tvg-logo="https://i.imgur.com/zwodbF0.png" group-title="HWDATA SPORT",EPL: ASTRO SUPERSPORT 4 HD
+http://hwdata.xyz:80/btinternal@/5616061093/77040
+#EXTINF:-1 tvg-id="815" tvg-name="EPL: ASTRO SUPERSPORT 5 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="HWDATA SPORT",EPL: ASTRO SUPERSPORT 5 HD
+http://hwdata.xyz:80/btinternal@/5616061093/108228
+#EXTINF:-1 tvg-id="" tvg-name="EPL: NOW SPORTS 1" tvg-logo="https://i.imgur.com/9RBtJfy.png" group-title="HWDATA SPORT",EPL: NOW SPORTS 1
+http://hwdata.xyz:80/btinternal@/5616061093/27312
+#EXTINF:-1 tvg-id="" tvg-name="EPL: NOW SPORTS 2" tvg-logo="https://i.imgur.com/9RBtJfy.png" group-title="HWDATA SPORT",EPL: NOW SPORTS 2
+http://hwdata.xyz:80/btinternal@/5616061093/27313
+#EXTINF:-1 tvg-id="" tvg-name="EPL: NOW SPORTS 3" tvg-logo="https://i.imgur.com/9RBtJfy.png" group-title="HWDATA SPORT",EPL: NOW SPORTS 3
+http://hwdata.xyz:80/btinternal@/5616061093/27314
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 1" tvg-logo="https://xplanetiptv.com/Logotv/countries//digisport1.png" group-title="HWDATA SPORT",RO: DIGI SPORT 1
+http://hwdata.xyz:80/btinternal@/5616061093/106341
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 2" tvg-logo="https://xplanetiptv.com/Logotv/countries//digisport2.png" group-title="HWDATA SPORT",RO: DIGI SPORT 2
+http://hwdata.xyz:80/btinternal@/5616061093/106342
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 3" tvg-logo="https://xplanetiptv.com/Logotv/countries//digisport3.png" group-title="HWDATA SPORT",RO: DIGI SPORT 3
+http://hwdata.xyz:80/btinternal@/5616061093/106343
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 4" tvg-logo="https://xplanetiptv.com/Logotv/countries//digisport4.png" group-title="HWDATA SPORT",RO: DIGI SPORT 4
+http://hwdata.xyz:80/btinternal@/5616061093/106344
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 1" tvg-logo="https://xplanetiptv.com/Logotv/countries/elevensport1.png" group-title="HWDATA SPORT",PT: ELEVEN SPORT 1
+http://hwdata.xyz:80/btinternal@/5616061093/106214
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 2" tvg-logo="https://xplanetiptv.com/Logotv/countries/elevensport2.png" group-title="HWDATA SPORT",PT: ELEVEN SPORT 2
+http://hwdata.xyz:80/btinternal@/5616061093/106215
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 3" tvg-logo="https://xplanetiptv.com/Logotv/countries/elevensport3.png" group-title="HWDATA SPORT",PT: ELEVEN SPORT 3
+http://hwdata.xyz:80/btinternal@/5616061093/106216
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 4" tvg-logo="https://xplanetiptv.com/Logotv/countries/elevensport4.png" group-title="HWDATA SPORT",PT: ELEVEN SPORT 4
+http://hwdata.xyz:80/btinternal@/5616061093/106217
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 5" tvg-logo="https://xplanetiptv.us/Logotv/countries/HWDATA SPORT/eleven-sports-5-icon-pt" group-title="HWDATA SPORT",PT: ELEVEN SPORT 5
+http://hwdata.xyz:80/btinternal@/5616061093/106218
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 6" tvg-logo="https://xplanetiptv.com/Logotv/countries/elevensports6vip.png" group-title="HWDATA SPORT",PT: ELEVEN SPORT 6
+http://hwdata.xyz:80/btinternal@/5616061093/106219
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://xplanetiptv.com/Logotv/countries/beinsportmax4.png" group-title="HWDATA SPORT",FR: BEIN SPORT MAX 4
+http://hwdata.xyz:80/btinternal@/5616061093/105928
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://xplanetiptv.com/Logotv/countries/beinsportmax5.png" group-title="HWDATA SPORT",FR: BEIN SPORT MAX 5
+http://hwdata.xyz:80/btinternal@/5616061093/105929
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://xplanetiptv.com/Logotv/countries/beinsportmax6.png" group-title="HWDATA SPORT",FR: BEIN SPORT MAX 6
+http://hwdata.xyz:80/btinternal@/5616061093/105930
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="https://xplanetiptv.com/Logotv/countries/beinsportmax7.png" group-title="HWDATA SPORT",FR: BEIN SPORT MAX 7
+http://hwdata.xyz:80/btinternal@/5616061093/105931
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="https://xplanetiptv.com/Logotv/countries/beinsportmax8.png" group-title="HWDATA SPORT",FR: BEIN SPORT MAX 8
+http://hwdata.xyz:80/btinternal@/5616061093/105932
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 9" tvg-logo="https://xplanetiptv.com/Logotv/countries/beinsportmax9.png" group-title="HWDATA SPORT",FR: BEIN SPORT MAX 9
+http://hwdata.xyz:80/btinternal@/5616061093/105933
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 10" tvg-logo="https://xplanetiptv.com/Logotv/countries/beinsportmax10.png" group-title="HWDATA SPORT",FR: BEIN SPORT MAX 10
+http://hwdata.xyz:80/btinternal@/5616061093/105934
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://xplanetiptv.com/Logotv/countries/HWDATA SPORT/bein-sports-1-french-fr.png" group-title="HWDATA SPORT",FR: BEIN SPORTS 1
+http://hwdata.xyz:80/btinternal@/5616061093/105935
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1 VIP" tvg-logo="https://xplanetiptv.com/Logotv/countries/HWDATA SPORT/bein-sports-1-french-fr.png" group-title="HWDATA SPORT",FR: BEIN SPORTS 1 VIP
+http://hwdata.xyz:80/btinternal@/5616061093/105936
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 2" tvg-logo="https://xplanetiptv.com/Logotv/countries/HWDATA SPORT/bein-sports-2-french-fr.png" group-title="HWDATA SPORT",FR: BEIN SPORTS 2
+http://hwdata.xyz:80/btinternal@/5616061093/105937
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 2 VIP" tvg-logo="https://xplanetiptv.com/Logotv/countries/HWDATA SPORT/bein-sports-2-french-fr.png" group-title="HWDATA SPORT",FR: BEIN SPORTS 2 VIP
+http://hwdata.xyz:80/btinternal@/5616061093/105938
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 3" tvg-logo="https://xplanetiptv.com/Logotv/countries/HWDATA SPORT/bein-sports-3-french-fr.png" group-title="HWDATA SPORT",FR: BEIN SPORTS 3
+http://hwdata.xyz:80/btinternal@/5616061093/105939
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 3 VIP" tvg-logo="https://xplanetiptv.com/Logotv/countries/HWDATA SPORT/bein-sports-3-french-fr.png" group-title="HWDATA SPORT",FR: BEIN SPORTS 3 VIP
+http://hwdata.xyz:80/btinternal@/5616061093/105940
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="https://xplanetiptv.com/Logotv/countries/sporttv1.png" group-title="HWDATA SPORT",PT: SPORT TV 1
+http://hwdata.xyz:80/btinternal@/5616061093/106271
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="https://xplanetiptv.com/Logotv/countries/sporttv2.png" group-title="HWDATA SPORT",PT: SPORT TV 2
+http://hwdata.xyz:80/btinternal@/5616061093/106272
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="https://xplanetiptv.com/Logotv/countries/sporttv3.png" group-title="HWDATA SPORT",PT: SPORT TV 3
+http://hwdata.xyz:80/btinternal@/5616061093/106273
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="https://xplanetiptv.com/Logotv/countries/sporttv4.png" group-title="HWDATA SPORT",PT: SPORT TV 4
+http://hwdata.xyz:80/btinternal@/5616061093/106274
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="https://xplanetiptv.com/Logotv/countries/sporttv5.png" group-title="HWDATA SPORT",PT: SPORT TV 5
+http://hwdata.xyz:80/btinternal@/5616061093/106275
+
