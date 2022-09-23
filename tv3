@@ -70,34 +70,6 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 #EXTINF:-1 group-title="indonesia",USEE SPORT 1
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/49
 
-#EXTINF:-1 group-title="Fort SPORT",PT: Sport TV 1
-http://fortv.cc:8080/jsc/jsc/43492
-#EXTINF:-1 group-title="Fort SPORT",PT: Sport TV 2
-http://fortv.cc:8080/jsc/jsc/43491
-#EXTINF:-1 group-title="PT SPORT",PT: Sport TV 3
-http://fortv.cc:8080/jsc/jsc/43493
-#EXTINF:-1 tvg-id="" tvg-name="PT Eleven Sports 1 FHD (D)" tvg-logo="" group-title="Fort SPORT ",PT Eleven Sports 1 FHD (D)
-http://fortv.cc:8080/vince/vince/35264
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 2 HD" tvg-logo="" group-title="Fort SPORT",PT: Eleven 2 HD
-http://fortv.cc:8080/vince/vince/78455
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 3" tvg-logo="" group-title="Fort SPORT",PT: Eleven 3
-http://fortv.cc:8080/vince/vince/78456
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 4" tvg-logo="" group-title="Fort SPORT",PT: Eleven 4
-http://fortv.cc:8080/vince/vince/78457
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 5" tvg-logo="" group-title="Fort SPORT",PT: Eleven 5
-http://fortv.cc:8080/vince/vince/78458
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 6" tvg-logo="" group-title="Fort SPORT",PT: Eleven 6
-http://fortv.cc:8080/vince/vince/78459
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 1" tvg-logo="" group-title="Fort SPORT",PT: Sport TV 1
-http://fortv.cc:8080/vince/vince/78513
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2" tvg-logo="" group-title="Fort SPORT",PT: Sport TV 2
-http://fortv.cc:8080/vince/vince/78515
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3" tvg-logo="" group-title="Fort SPORT",PT: Sport TV 3
-http://fortv.cc:8080/vince/vince/78517
-#EXTINF:-1 tvg-id="sky.sports.premier.league.gb" tvg-name="UK: SKY SP PREMIER LEAGUE FHD" tvg-logo="" group-title="Fort SPORT Fanatic's ",UK: SKY SP PREMIER LEAGUE FHD
-http://fortv.cc:8080/vince/vince/35242
-#EXTINF:-1 tvg-id="sky.sports.football.gb" tvg-name="UK Sky Sports Football 1 (P)" tvg-logo="" group-title="Fort SPORT",UK Sky Sports Football 1 (P)
-http://fortv.cc:8080/vince/vince/35239
 
 #EXTINF:-1 group-title="PT SPORT",US : ESPN HD
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/9660
