@@ -853,46 +853,6 @@ http://pprotv.com:80/fahad70/fahad70/6528
 #EXTINF:-1 tvg-id="" tvg-name="EU SPORT | RMC SPORT LIVE 9" tvg-logo="http://rockets.ws/logo/euros.png" group-title="PPROTV SPORT",EU SPORT | RMC SPORT LIVE 9
 http://pprotv.com:80/fahad70/fahad70/6529
 
-#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport Premium HD 1
-http://209.126.80.43:25461/beinsport47/sport8874/76525
-#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport Premium HD 2
-http://209.126.80.43:25461/beinsport47/sport8874/76526
-#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport Premium HD 3
-http://209.126.80.43:25461/beinsport47/sport8874/76527
-#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport HD 1
-http://209.126.80.43:25461/beinsport47/sport8874/76528
-#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport HD 2
-http://209.126.80.43:25461/beinsport47/sport8874/76529
-#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport HD 3
-http://209.126.80.43:25461/beinsport47/sport8874/76530
-#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport HD 4
-http://209.126.80.43:25461/beinsport47/sport8874/76531
-#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport HD 5
-http://209.126.80.43:25461/beinsport47/sport8874/76532
-#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport HD 6
-http://209.126.80.43:25461/beinsport47/sport8874/76533
-#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport HD 7
-http://209.126.80.43:25461/beinsport47/sport8874/76534
-#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport Premium FHD 1
-http://209.126.80.43:25461/beinsport47/sport8874/76515
-#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport Premium FHD 1
-http://209.126.80.43:25461/beinsport47/sport8874/76516
-#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport Premium FHD 1
-http://209.126.80.43:25461/beinsport47/sport8874/76517
-#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport FHD 1
-http://209.126.80.43:25461/beinsport47/sport8874/76518
-#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport FHD 2
-http://209.126.80.43:25461/beinsport47/sport8874/76519
-#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport FHD 3
-http://209.126.80.43:25461/beinsport47/sport8874/76520
-#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport FHD 4
-http://209.126.80.43:25461/beinsport47/sport8874/76521
-#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport FHD 5
-http://209.126.80.43:25461/beinsport47/sport8874/76522
-#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport FHD 6
-http://209.126.80.43:25461/beinsport47/sport8874/76523
-#EXTINF:-1  group-title="Bein209 Sport ⚽",Bein Sport FHD 7
-http://209.126.80.43:25461/beinsport47/sport8874/76524
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 Premium" tvg-logo="http://iptvch.com:2082/images/2786c978e0016fed149a834ad320ec69.png" group-title=" SHAKY SPORT",beIN SPORTS 1 Premium
 http://sharkytv.com:2082/Fouzia/123456789/205576
@@ -1311,7 +1271,7 @@ http://quality-restream.com:8080/resplice/v6EKnKb8gn3pGsz9/6088
 #EXTINF:-1 tvg-id="beinsports.us" tvg-name="US: beIN Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/b6ce2426cc52ca48e337dd2a263ccb21.jpg" group-title="Qstream Sport",US: beIN Sports
 http://quality-restream.com:8080/resplice/v6EKnKb8gn3pGsz9/284530
 #EXTINF:-1 tvg-id="beinsports.us" tvg-name="US: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6129fe72ded1a946884fed4f021411fa.png" group-title="Qstream Sport",US: beIN Sports 1
-http://quality-restream.com:8080/resplice/v6EKnKb8gn3pGsz9/2272
+http://flix12.site:8080/get.php?username=4jvdjaj2iq&password=MK196102&type=m3u
 #EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/36c8a2f7e977b190633248afab44b0be.png" group-title="Qstream Sport",US: beIN Sports 2
 http://quality-restream.com:8080/resplice/v6EKnKb8gn3pGsz9/151022
 #EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/d633a8820b5347f07f377b0961e49033.png" group-title="Qstream Sport",US: beIN Sports 3
