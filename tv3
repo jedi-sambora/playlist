@@ -1434,3 +1434,26 @@ http://hwdata.xyz:80/btinternal@/5616061093/106274
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="https://xplanetiptv.com/Logotv/countries/sporttv5.png" group-title="HWDATA SPORT",PT: SPORT TV 5
 http://hwdata.xyz:80/btinternal@/5616061093/106275
 
+
+#EXTINF:-1 group-title="REDIPFOX Sport",beIN Sport Premium 01 (720P)
+http://red.ipfox.org:8080/Karam2022/Karam2023/31529
+#EXTINF:-1 group-title="REDIPFOX Sport",beIN Sport Premium 02 (720P)
+http://red.ipfox.org:8080/Karam2022/Karam2023/31528
+#EXTINF:-1 group-title="REDIPFOX Sport",beIN Sport Premium 03 (720P)
+http://red.ipfox.org:8080/Karam2022/Karam2023/31527
+#EXTINF:-1 group-title="REDIPFOX Sport",beIN Sport 01 (720P)
+http://red.ipfox.org:8080/Karam2022/Karam2023/31536
+#EXTINF:-1 group-title="REDIPFOX Sport",beIN Sport 02 (720P)
+http://red.ipfox.org:8080/Karam2022/Karam2023/31535
+#EXTINF:-1 group-title="REDIPFOX Sport",beIN Sport 03 (720P)
+http://red.ipfox.org:8080/Karam2022/Karam2023/31534
+#EXTINF:-1 group-title="REDIPFOX Sport",beIN Sport 04 (720P)
+http://red.ipfox.org:8080/Karam2022/Karam2023/31533
+#EXTINF:-1 group-title="REDIPFOX Sport",beIN Sport 05 (720P)
+http://red.ipfox.org:8080/Karam2022/Karam2023/31532
+#EXTINF:-1 group-title="REDIPFOX Sport",beIN Sport 06 (720P)
+http://red.ipfox.org:8080/Karam2022/Karam2023/31531
+#EXTINF:-1 group-title="REDIPFOX Sport",beIN Sport 07 (720P)
+http://red.ipfox.org:8080/Karam2022/Karam2023/31530
+
+
