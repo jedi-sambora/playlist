@@ -1555,3 +1555,13 @@ http://driptvs.com:8080/WHT1344/zNAqmDwYC4/8864
 http://driptvs.com:8080/WHT1344/zNAqmDwYC4/23583
 #EXTINF:-1 tvg-id="digisport4.ro" tvg-name="RO: DIGI SPORT 4" tvg-logo="https://asiagrandiptv.us/logo/digisport4.png" group-title="DRIP SPORT",RO: DIGI SPORT 4
 http://driptvs.com:8080/WHT1344/zNAqmDwYC4/8866
+#EXTINF:-1 tvg-id="skysportbundesligauhd.de" tvg-name="DE: SKY BUNDESLIGA 1 HD+" tvg-logo="https://xplanetiptv.com/Logotv/countries/germany/sky-sport/sky-sport-bundesliga-1-de.png" group-title="DRIP SPORT",DE: SKY BUNDESLIGA 1 HD+
+http://driptvs.com:8080/WHT1344/zNAqmDwYC4/342543
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="DE: SKY BUNDESLIGA 2 HD+" tvg-logo="https://xplanetiptv.com/Logotv/countries/germany/sky-sport/sky-sport-bundesliga-2-de.png" group-title="DRIP SPORT",DE: SKY BUNDESLIGA 2 HD+
+http://driptvs.com:8080/WHT1344/zNAqmDwYC4/301820
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA 3 HD+" tvg-logo="https://xplanetiptv.com/Logotv/countries/germany/sky-sport/sky-sport-bundesliga-3-de.png" group-title="DRIP SPORT",DE: SKY BUNDESLIGA 3 HD+
+http://driptvs.com:8080/WHT1344/zNAqmDwYC4/301928
+#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="DE: SKY BUNDESLIGA 6" tvg-logo="https://xplanetiptv.com/Logotv/countries/germany/sky-sport/sky-sport-bundesliga-6-de.png" group-title="DRIP SPORT",DE: SKY BUNDESLIGA 6
+http://driptvs.com:8080/WHT1344/zNAqmDwYC4/301824
+#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="DE: SKY BUNDESLIGA 9 HD+" tvg-logo="https://xplanetiptv.com/Logotv/countries/germany/sky-sport/sky-sport-bundesliga-9-de.png" group-title="DRIP SPORT",DE: SKY BUNDESLIGA 9 HD+
+http://driptvs.com:8080/WHT1344/zNAqmDwYC4/301815
