@@ -69,6 +69,8 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="indonesia",USEE SPORT 1
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/49
+#EXTINF:-1 group-title="indonesia",USEE SPORT 2
+http://bgltv.my.id:8080/live/NewApk/HMTV/199.ts
 #EXTINF:-1 group-title="indonesia",vidio wc 1
 https://production-drm-vidio-com-ctv-wc-1.akamaized.net/out/v1/cabfe9d2e23e4a958fcd390012891d79/index.mpd
 #EXTINF:-1 group-title="indonesia",vidio wc 2
@@ -128,50 +130,6 @@ http://45.148.147.253:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/193935.ts
 #EXTINF:-1 group-title="BOSSTV SPORT",RU: МАТЧ! Футбол 3 HD
 http://45.148.147.253:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/193936.ts
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="|SPORT| SUPERSPORT FOOTBALL HD" tvg-logo="" group-title="SPORT FLYSAT",|SPORT| SUPERSPORT FOOTBALL HD
-http://rm.flysat.live:2089/152060676623387/152013888301174/210155
-#EXTINF:-1 tvg-id="" tvg-name="|SPORT| SUPERSPORT PREMIER LEAGUE HD" tvg-logo="" group-title="SPORT FLYSAT",|SPORT| SUPERSPORT PREMIER LEAGUE HD
-http://rm.flysat.live:2089/152060676623387/152013888301174/210154
-#EXTINF:-1 tvg-id="" tvg-name="|SPORT| SUPERSPORT LA LIGA HD" tvg-logo="" group-title="SPORT FLYSAT",|SPORT| SUPERSPORT LA LIGA HD
-http://rm.flysat.live:2089/152060676623387/152013888301174/210153
-#EXTINF:-1 tvg-id="" tvg-name="|SPORT| SUPERSPORT FOOTBALL PLUS HD" tvg-logo="" group-title="SPORT FLYSAT",|SPORT| SUPERSPORT FOOTBALL PLUS HD
-http://rm.flysat.live:2089/152060676623387/152013888301174/210152
-#EXTINF:-1 tvg-id="" tvg-name="|SPORT| SUPERSPORT TENNIS HD" tvg-logo="" group-title="SPORT FLYSAT",|SPORT| SUPERSPORT TENNIS HD
-http://rm.flysat.live:2089/152060676623387/152013888301174/210151
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 1 (FHD)" tvg-logo="https://i.imgur.com/cnag5H2.png" group-title="SPORT FLYSAT",beIN Sports Premium 1 (FHD)
-http://rm.flysat.live:2089/152060676623387/152013888301174/216521
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 2 (HD)" tvg-logo="https://i.imgur.com/JHmyWxj.png" group-title="SPORT FLYSAT",beIN Sports Premium 2 (HD)
-http://rm.flysat.live:2089/152060676623387/152013888301174/216519
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 2 (FHD)" tvg-logo="https://i.imgur.com/6XD2Z1B.png" group-title="SPORT FLYSAT",beIN Sports Premium 2 (FHD)
-http://rm.flysat.live:2089/152060676623387/152013888301174/216518
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 3 (HD)" tvg-logo="https://i.imgur.com/P2qRkb7.png" group-title="SPORT FLYSAT",beIN Sports Premium 3 (HD)
-http://rm.flysat.live:2089/152060676623387/152013888301174/216516
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 3 (FHD)" tvg-logo="https://i.imgur.com/2DrFX28.png" group-title="SPORT FLYSAT",beIN Sports Premium 3 (FHD)
-http://rm.flysat.live:2089/152060676623387/152013888301174/216515
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD" tvg-logo="https://pixel4k.fr/Tvlogo/Beinsport/BeinsportHD1.jpg" group-title="SPORT FLYSAT",beIN Sports 1 HD
-http://rm.flysat.live:2089/152060676623387/152013888301174/216513
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 FHD" tvg-logo="https://pixel4k.fr/Tvlogo/Beinsport/BeinsportFULLHD1.jpg" group-title="SPORT FLYSAT",beIN Sports 1 FHD
-http://rm.flysat.live:2089/152060676623387/152013888301174/216512
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD" tvg-logo="https://pixel4k.fr/Tvlogo/Beinsport/BeinsportHD2.jpg" group-title="SPORT FLYSAT",beIN Sports 2 HD
-http://rm.flysat.live:2089/152060676623387/152013888301174/216510
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 FHD" tvg-logo="https://pixel4k.fr/Tvlogo/Beinsport/BeinsportFULLHD2.jpg" group-title="SPORT FLYSAT",beIN Sports 2 FHD
-http://rm.flysat.live:2089/152060676623387/152013888301174/216509
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD" tvg-logo="https://pixel4k.fr/Tvlogo/Beinsport/BeinsportHD3.jpg" group-title="SPORT FLYSAT",beIN Sports 3 HD
-http://rm.flysat.live:2089/152060676623387/152013888301174/216507
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 1 HD" tvg-logo="" group-title="SPORT FLYSAT",|PT| ELEVEN SPORTS 1 HD
-http://rm.flysat.live:2089/152060676623387/152013888301174/205742
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 2 HD" tvg-logo="" group-title="SPORT FLYSAT",|PT| ELEVEN SPORTS 2 HD
-http://rm.flysat.live:2089/152060676623387/152013888301174/205741
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 3 HD" tvg-logo="" group-title="SPORT FLYSAT",|PT| ELEVEN SPORTS 3 HD
-http://rm.flysat.live:2089/152060676623387/152013888301174/205740
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 4 HD" tvg-logo="" group-title="SPORT FLYSAT",|PT| ELEVEN SPORTS 4 HD
-http://rm.flysat.live:2089/152060676623387/152013888301174/205739
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 5 HD" tvg-logo="" group-title="SPORT FLYSAT",|PT| ELEVEN SPORTS 5 HD
-http://rm.flysat.live:2089/152060676623387/152013888301174/205738
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 6 HD" tvg-logo="" group-title="SPORT FLYSAT",|PT| ELEVEN SPORTS 6 HD
-http://rm.flysat.live:2089/152060676623387/152013888301174/205737
 
 #EXTINF:-1 group-title= "SPORT CLPORTAL",Sky Sports Football HD UK
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/11659
@@ -1523,3 +1481,69 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/11510
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/26527
 #EXTINF:-1 tvg-id="elevensportsports4.pl" tvg-name="Eleven Sports 4 FHD PL" tvg-logo="http://185.211.43.125/PL/pl_eleven_4.jpg"group-title="iptvworld",Eleven Sports 4 FHD PL
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/26526
+
+#EXTINF:-1 tvg-id="" tvg-name="AR:beIN Sports 4 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasÃ¶r/beinsport4.png" group-title="CS22CS SPORT",AR:beIN Sports 4 HD
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/20734
+#EXTINF:-1 tvg-id="" tvg-name="AR:beIN Sports HD" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Beinsportlogo.png" group-title="CS22CS SPORT",AR:beIN Sports HD
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/37678
+#EXTINF:-1 tvg-id="3abnl.us" tvg-name="AR:beIN Sports 3 HD" tvg-logo="" group-title="CS22CS SPORT",AR:beIN Sports 3 HD
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/31261
+
+#EXTINF:-1 tvg-id="1tvrus.europe.gb" tvg-name="AR:beIN Sports 1 HD" tvg-logo="" group-title="CS22CS SPORT",AR:beIN Sports 1 HD
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/20840
+#EXTINF:-1 tvg-id="" tvg-name="AR:beIN Sports 1 Premium" tvg-logo="" group-title="CS22CS SPORT",AR:beIN Sports 1 Premium
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/36270
+#EXTINF:-1 tvg-id="" tvg-name="AR:beIN Sports 3 Premium" tvg-logo="" group-title="CS22CS SPORT",AR:beIN Sports 3 Premium
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/41410
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="PL:Eleven Sports 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven1.png" group-title="CS22CS SPORT",PL:Eleven Sports 1 HD
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/36237
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="PL:Eleven Sports 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven2.png" group-title="CS22CS SPORT",PL:Eleven Sports 2 HD
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/36238
+#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="PL:Eleven Sports 3 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven3.png" group-title="CS22CS SPORT",PL:Eleven Sports 3 HD
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/36239
+#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="PL:Eleven Sports 4" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven4.png" group-title="CS22CS SPORT",PL:Eleven Sports 4
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/36240
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT:SPORT TV 1" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="CS22CS SPORT",PT:SPORT TV 1
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/30398
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="PT:SPORT TV 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="CS22CS SPORT",PT:SPORT TV 1 HD
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/21003
+#EXTINF:-1 tvg-id="" tvg-name="PT:SPORT TV 1 FHD" tvg-logo="" group-title="CS22CS SPORT",PT:SPORT TV 1 FHD
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/30423
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT:SPORT TV 2" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="CS22CS SPORT",PT:SPORT TV 2
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/26931
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT:SPORT TV 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="CS22CS SPORT",PT:SPORT TV 2 HD
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/21002
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT:SPORT TV 3" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="CS22CS SPORT",PT:SPORT TV 3
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/30397
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT:SPORT TV 6" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="CS22CS SPORT",PT:SPORT TV 6
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/24528
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT:SPORT TV 3 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="CS22CS SPORT",PT:SPORT TV 3 HD
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/30421
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT:SPORT TV 4" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="CS22CS SPORT",PT:SPORT TV 4
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/27101
+#EXTINF:-1 tvg-id="" tvg-name="PT:SPORT TV 4 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="CS22CS SPORT",PT:SPORT TV 4 HD
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/30419
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT:SPORT TV 5" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="CS22CS SPORT",PT:SPORT TV 5
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/24531
+#EXTINF:-1 tvg-id="SPORT TV5" tvg-name="PT:SPORT TV  5 HD" tvg-logo="" group-title="CS22CS SPORT",PT:SPORT TV  5 HD
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/22971
+#EXTINF:-1 tvg-id="" tvg-name="PT:ELEVEN SPORTS 1 HD" tvg-logo="" group-title="CS22CS SPORT",PT:ELEVEN SPORTS 1 HD
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/30028
+#EXTINF:-1 tvg-id="" tvg-name="PT:Eleven Sport 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven2.png" group-title="CS22CS SPORT",PT:Eleven Sport 2 HD
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/30414
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT:Eleven Sport 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven2.png" group-title="CS22CS SPORT",PT:Eleven Sport 2 HD
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/30029
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT:Eleven Sport 3" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven3.png" group-title="CS22CS SPORT",PT:Eleven Sport 3
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/30412
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT:Eleven Sport 4" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven4.png" group-title="CS22CS SPORT",PT:Eleven Sport 4
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/30410
+#EXTINF:-1 tvg-id="" tvg-name="PT:Eleven Sport 5" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/eleven5.png" group-title="CS22CS SPORT",PT:Eleven Sport 5
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/30408
+#EXTINF:-1 tvg-id="Digi Sport 1 RO" tvg-name="RO:DIGI SPORT 1" tvg-logo="" group-title="CS22CS SPORT",RO:DIGI SPORT 1
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/36301
+#EXTINF:-1 tvg-id="Digi Sport 2 RO" tvg-name="RO:DIGI SPORTS 2" tvg-logo="" group-title="CS22CS SPORT",RO:DIGI SPORTS 2
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/36303
+#EXTINF:-1 tvg-id="Digi Sport 3 RO" tvg-name="RO:DIGI SPORTS 3" tvg-logo="" group-title="CS22CS SPORT",RO:DIGI SPORTS 3
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/36302
+#EXTINF:-1 tvg-id="Digi Sport 4 RO" tvg-name="RO:Digi SportS 4" tvg-logo="" group-title="CS22CS SPORT",RO:Digi SportS 4
+http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/36304
