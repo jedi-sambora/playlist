@@ -121,14 +121,6 @@ https://live.olelive.com:4443/live/CCTV5HD/hls.m3u8
 https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
 
 
-#EXTINF:-1 group-title="BOSSTV SPORT",RU: МАТЧ!
-http://45.148.147.253:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/193933.ts
-#EXTINF:-1 group-title="BOSSTV SPORT",RU: МАТЧ! Футбол 1 HD
-http://45.148.147.253:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/193934.ts
-#EXTINF:-1 group-title="BOSSTV SPORT",RU: МАТЧ! Футбол 2 HD
-http://45.148.147.253:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/193935.ts
-#EXTINF:-1 group-title="BOSSTV SPORT",RU: МАТЧ! Футбол 3 HD
-http://45.148.147.253:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/193936.ts
 
 
 #EXTINF:-1 group-title= "SPORT CLPORTAL",Sky Sports Football HD UK
@@ -375,81 +367,6 @@ http://clientsportals.com:2095/8SLD4hhlim/khNcTfvhid/111652
 
 
 
-#EXTINF:-1 group-title="TXMFLY  SPORT", BEIN Sports Premium 1 (HD)
-http://txm.flysat.live:2089/152087208243161/152003418536112/216522
-#EXTINF:-1 group-title="TXMFLY  SPORT", BEIN Sports Premium 1 (FHD)
-http://txm.flysat.live:2089/152087208243161/152003418536112/216521
-#EXTINF:-1 group-title="TXMFLY  SPORT", BEIN Sports Premium 2 (HD)
-http://txm.flysat.live:2089/152087208243161/152003418536112/216519
-#EXTINF:-1 group-title="TXMFLY  SPORT", BEIN Sports Premium 2 (FHD)
-http://txm.flysat.live:2089/152087208243161/152003418536112/216518
-#EXTINF:-1 group-title="TXMFLY  SPORT", BEIN Sports Premium 3 (HD)
-http://txm.flysat.live:2089/152087208243161/152003418536112/216516
-#EXTINF:-1 group-title="TXMFLY  SPORT", BEIN Sports Premium 3 (FHD)
-http://txm.flysat.live:2089/152087208243161/152003418536112/216515
-#EXTINF:-1 group-title="TXMFLY  SPORT", BEIN Sports 1 HD
-http://txm.flysat.live:2089/152087208243161/152003418536112/216513
-#EXTINF:-1 group-title="TXMFLY  SPORT", BEIN Sports 1 FHD
-http://txm.flysat.live:2089/152087208243161/152003418536112/216512
-#EXTINF:-1 group-title="TXMFLY  SPORT", BEIN Sports 2 HD
-http://txm.flysat.live:2089/152087208243161/152003418536112/216510
-#EXTINF:-1 group-title="TXMFLY  SPORT", BEIN Sports 2 FHD
-http://txm.flysat.live:2089/152087208243161/152003418536112/216509
-#EXTINF:-1 group-title="TXMFLY  SPORT", BEIN Sports 3 HD
-http://txm.flysat.live:2089/152087208243161/152003418536112/216507
-#EXTINF:-1 group-title="TXMFLY  SPORT", BEIN Sports 3 FHD
-http://txm.flysat.live:2089/152087208243161/152003418536112/216506
-#EXTINF:-1 group-title="TXMFLY  SPORT", BEIN Sports 4 HD
-http://txm.flysat.live:2089/152087208243161/152003418536112/216504
-#EXTINF:-1 group-title="TXMFLY  SPORT", BEIN Sports 4 FHD
-http://txm.flysat.live:2089/152087208243161/152003418536112/216503
-#EXTINF:-1 group-title="TXMFLY  SPORT", BEIN Sports 5 HD
-http://txm.flysat.live:2089/152087208243161/152003418536112/216501
-#EXTINF:-1 group-title="TXMFLY  SPORT", BEIN Sports 5 FHD
-http://txm.flysat.live:2089/152087208243161/152003418536112/216500
-#EXTINF:-1 group-title="TXMFLY  SPORT", BEIN Sports 6 HD
-http://txm.flysat.live:2089/152087208243161/152003418536112/216498
-#EXTINF:-1 group-title="TXMFLY  SPORT", BEIN Sports 6 FHD
-http://txm.flysat.live:2089/152087208243161/152003418536112/216497
-#EXTINF:-1 group-title="TXMFLY  SPORT", BEIN Sports 7 HD
-http://txm.flysat.live:2089/152087208243161/152003418536112/216495
-#EXTINF:-1 group-title="TXMFLY  SPORT", BEIN Sports 7 FHD
-http://txm.flysat.live:2089/152087208243161/152003418536112/216494
-#EXTINF:-1 group-title="TXMFLY  SPORT", BEIN Sports English 1 HD
-http://txm.flysat.live:2089/152087208243161/152003418536112/216486
-#EXTINF:-1 group-title="TXMFLY  SPORT", BEIN Sports English 1 FHD
-http://txm.flysat.live:2089/152087208243161/152003418536112/216485
-#EXTINF:-1 group-title="TXMFLY  SPORT", BEIN Sports English 2 HD
-http://txm.flysat.live:2089/152087208243161/152003418536112/216483
-#EXTINF:-1 group-title="TXMFLY  SPORT", BEIN Sports English 2 FHD
-http://txm.flysat.live:2089/152087208243161/152003418536112/216482
-#EXTINF:-1 group-title="TXMFLY  SPORT", BEIN Sports English 3 HD
-http://txm.flysat.live:2089/152087208243161/152003418536112/216480
-#EXTINF:-1 group-title="TXMFLY  SPORT", BEIN Sports English 3 FHD
-http://txm.flysat.live:2089/152087208243161/152003418536112/216479
-#EXTINF:-1 group-title="TXMFLY  SPORT",  FR RMC SPORT 1 HD
-http://txm.flysat.live:2089/152087208243161/152003418536112/199117
-#EXTINF:-1 group-title="TXMFLY  SPORT",  FR RMC SPORT 1
-http://txm.flysat.live:2089/152087208243161/152003418536112/199116
-#EXTINF:-1 group-title="TXMFLY  SPORT",  FR RMC SPORT 2 HD
-http://txm.flysat.live:2089/152087208243161/152003418536112/199115
-#EXTINF:-1 group-title="TXMFLY  SPORT",  FR RMC SPORT 2
-http://txm.flysat.live:2089/152087208243161/152003418536112/199114
-#EXTINF:-1 group-title="TXMFLY  SPORT",  FR RMC SPORT 3
-http://txm.flysat.live:2089/152087208243161/152003418536112/199113
-#EXTINF:-1 group-title="TXMFLY  SPORT",  FR RMC SPORT 4
-http://txm.flysat.live:2089/152087208243161/152003418536112/199112
-#EXTINF:-1 group-title="TXMFLY  SPORT",  AF SUPERSPORT FOOTBALL HD
-http://txm.flysat.live:2089/152087208243161/152003418536112/210155
-#EXTINF:-1 group-title="TXMFLY  SPORT",  AF SUPERSPORT PREMIER LEAGUE HD
-http://txm.flysat.live:2089/152087208243161/152003418536112/210154
-#EXTINF:-1 group-title="TXMFLY  SPORT",  AF SUPERSPORT LA LIGA HD
-http://txm.flysat.live:2089/152087208243161/152003418536112/210153
-#EXTINF:-1 group-title="TXMFLY  SPORT",  AF SUPERSPORT FOOTBALL PLUS HD
-http://txm.flysat.live:2089/152087208243161/152003418536112/210152
-#EXTINF:-1 group-title="TXMFLY  SPORT",  AF SUPERSPORT TENNIS HD
-http://txm.flysat.live:2089/152087208243161/152003418536112/210151
-
 #EXTINF:-1 group-title="DM-LV SPORT",PT| ELEVEN SPORT 1 HD
 http://portal.dm-lv.com:8080/muratby/3dWe2MY6mk/185708
 #EXTINF:-1 group-title="DM-LV SPORT",PT| ELEVEN SPORT 2 HD
@@ -653,59 +570,6 @@ http://pprotv.com:80/fahad70/fahad70/6528
 #EXTINF:-1 tvg-id="" tvg-name="EU SPORT | RMC SPORT LIVE 9" tvg-logo="http://rockets.ws/logo/euros.png" group-title="PPROTV SPORT",EU SPORT | RMC SPORT LIVE 9
 http://pprotv.com:80/fahad70/fahad70/6529
 
-
-#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 1 HD (HR)
-http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/227
-#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 2 HD (HR)
-http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/226
-#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 3 HD (HR)
-http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/225
-#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 4 HD (HR)
-http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/224
-#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 5 HD (HR)
-http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/223
-#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 6 HD (HR)
-http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/6906
-#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 7 ᴴᴰ (HR)
-http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/6907
-#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 8 ᴴᴰ (HR)
-http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/6908
-#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 9 ᴴᴰ (HR)
-http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/6909
-#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 10 ᴴᴰ (HR)
-http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/6910
-#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 1 HD (SR)
-http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/222
-#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 2 HD (SR)
-http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/221
-#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 3 HD (SR)
-http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/220
-#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 4 HD (SR)
-http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/219
-#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 5 HD (SR)
-http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/218
-#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 1 PREMIUM ᴴᴰ (SR)
-http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/7635
-#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 2 PREMIUM ᴴᴰ (SR)
-http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/7636
-#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 3 PREMIUM ᴴᴰ (SR)
-http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/7637
-#EXTINF:-1 group-title="ROI SPORT", EX-YU: Sport Klub 1 ᴴᴰ (RS)
-http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/9330
-#EXTINF:-1 group-title="ROI SPORT", EX-YU: Sport Klub 2 ᴴᴰ (RS)
-http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/9331
-#EXTINF:-1 group-title="ROI SPORT", EX-YU: Sport Klub 3 ᴴᴰ (RS)
-http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/9332
-#EXTINF:-1 group-title="ROI SPORT", EX-YU: Sport Klub 4 ᴴᴰ (RS)
-http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/9333
-#EXTINF:-1 group-title="ROI SPORT", EX-YU: Sport Klub 5 ᴴᴰ (RS)
-http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/9334
-#EXTINF:-1 group-title="ROI SPORT", EX-YU: Sport Klub 6 ᴴᴰ (RS)
-http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/9335
-#EXTINF:-1 group-title="ROI SPORT", EX-YU: Sport Klub 7 ᴴᴰ (RS)
-http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/9336
-#EXTINF:-1 group-title="ROI SPORT", EX-YU: Sport Klub 8 ᴴᴰ (RS)
-http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/9337
 
 #EXTINF:-1group-title="IPTVTREE  SPORT", MY: Astro SuperSport 1
 http://iptvtree.net:8080/i4stream/d78b24fc9a18/146068
@@ -1200,27 +1064,6 @@ http://hwdata.xyz:80/btinternal@/5616061093/106274
 http://hwdata.xyz:80/btinternal@/5616061093/106275
 
 
-#EXTINF:-1 group-title="REDIPFOX Sport",beIN Sport Premium 01 (720P)
-http://red.ipfox.org:8080/Karam2022/Karam2023/31529
-#EXTINF:-1 group-title="REDIPFOX Sport",beIN Sport Premium 02 (720P)
-http://red.ipfox.org:8080/Karam2022/Karam2023/31528
-#EXTINF:-1 group-title="REDIPFOX Sport",beIN Sport Premium 03 (720P)
-http://red.ipfox.org:8080/Karam2022/Karam2023/31527
-#EXTINF:-1 group-title="REDIPFOX Sport",beIN Sport 01 (720P)
-http://red.ipfox.org:8080/Karam2022/Karam2023/31536
-#EXTINF:-1 group-title="REDIPFOX Sport",beIN Sport 02 (720P)
-http://red.ipfox.org:8080/Karam2022/Karam2023/31535
-#EXTINF:-1 group-title="REDIPFOX Sport",beIN Sport 03 (720P)
-http://red.ipfox.org:8080/Karam2022/Karam2023/31534
-#EXTINF:-1 group-title="REDIPFOX Sport",beIN Sport 04 (720P)
-http://red.ipfox.org:8080/Karam2022/Karam2023/31533
-#EXTINF:-1 group-title="REDIPFOX Sport",beIN Sport 05 (720P)
-http://red.ipfox.org:8080/Karam2022/Karam2023/31532
-#EXTINF:-1 group-title="REDIPFOX Sport",beIN Sport 06 (720P)
-http://red.ipfox.org:8080/Karam2022/Karam2023/31531
-#EXTINF:-1 group-title="REDIPFOX Sport",beIN Sport 07 (720P)
-http://red.ipfox.org:8080/Karam2022/Karam2023/31530
-
 #EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="AF: VIP SUPERSPORT PREMIER LEAGUE" tvg-logo="https://asiagrandiptv.us/logo/supersportpremierleague.png" group-title="DRIP SPORT",AF: VIP SUPERSPORT PREMIER LEAGUE
 http://driptvs.com:8080/WHT1344/zNAqmDwYC4/135956
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="AF: VIP SUPERSPORT LALIGA" tvg-logo="https://asiagrandiptv.us/logo/supersportlaliga.png" group-title="DRIP SPORT",AF: VIP SUPERSPORT LALIGA
@@ -1229,8 +1072,10 @@ http://driptvs.com:8080/WHT1344/zNAqmDwYC4/135960
 http://driptvs.com:8080/WHT1344/zNAqmDwYC4/135963
 #EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="AF: VIP SUPERSPORT TENNIS" tvg-logo="https://asiagrandiptv.us/logo/supersporttennis.png" group-title="DRIP SPORT",AF: VIP SUPERSPORT TENNIS
 http://driptvs.com:8080/WHT1344/zNAqmDwYC4/140560
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="AF: VIP SUPERSPORT FOOTBALL" tvg-logo="https://asiagrandiptv.us/logo/supersportfootball.png" group-title="DRIP SPORT",AF: VIP SUPERSPORT FOOTBALL
+
 http://driptvs.com:8080/WHT1344/zNAqmDwYC4/165884
-#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-name="AF: VIP SUPERSPORT GRANDSTAND" tvg-logo="https://asiagrandiptv.us/logo/supersportgrandstand.png" group-title="DRIP SPORT",AF: VIP SUPERSPORT GRANDSTAND
+#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-name="AF: VIP SUPERSPORT GRANDSTAND" tvg-logo="https://asiagrandiptv.us/logo/supersportgrandstand.png" group-title="DRIP SPORT",AF: VIP SUPERSPORT FOODBALL
 http://driptvs.com:8080/WHT1344/zNAqmDwYC4/135961
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1" tvg-logo="https://asiagrandiptv.us/logo/beinsports.png" group-title="DRIP SPORT",AR: BEIN SPORTS 1
 http://driptvs.com:8080/WHT1344/zNAqmDwYC4/4606
