@@ -654,92 +654,57 @@ http://pprotv.com:80/fahad70/fahad70/6528
 http://pprotv.com:80/fahad70/fahad70/6529
 
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 Premium" tvg-logo="http://iptvch.com:2082/images/2786c978e0016fed149a834ad320ec69.png" group-title=" SHAKY SPORT",beIN SPORTS 1 Premium
-http://sharkytv.com:2082/Fouzia/123456789/205576
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 Premium" tvg-logo="http://iptvch.com:2082/images/9df549d1f323e70a76af2b5d2e0ed9db.png" group-title="SHAKY SPORT",beIN SPORTS 2 Premium
-http://sharkytv.com:2082/Fouzia/123456789/205577
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 Premium" tvg-logo="http://iptvch.com:2082/images/2ce39d32bca4a30c6db76eb8ea45e290.png" group-title="SHAKY SPORT",beIN SPORTS 3 Premium
-http://sharkytv.com:2082/Fouzia/123456789/205578
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1" tvg-logo="http://iptvch.com:2082/images/b74c0f39b855ac255b7735f08855967f.png" group-title="SHAKY SPORT",beIN SPORTS 1
-http://sharkytv.com:2082/Fouzia/123456789/205579
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2" tvg-logo="http://iptvch.com:2082/images/57a448f32426a3c03a919db7970f0a25.png" group-title="SHAKY SPORT",beIN SPORTS 2
-http://sharkytv.com:2082/Fouzia/123456789/205580
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3" tvg-logo="http://iptvch.com:2082/images/b8d6e3171434d2382cadc1684242b0b9.png" group-title="SHAKY SPORT",beIN SPORTS 3
-http://sharkytv.com:2082/Fouzia/123456789/205581
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4" tvg-logo="http://iptvch.com:2082/images/ec7e22df4355924f4eb01fd2ce115f31.png" group-title="SHAKY SPORT",beIN SPORTS 4
-http://sharkytv.com:2082/Fouzia/123456789/205582
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5" tvg-logo="http://iptvch.com:2082/images/2136637860d4db705b67c2f79610fb0e.png" group-title="SHAKY SPORT",beIN SPORTS 5
-http://sharkytv.com:2082/Fouzia/123456789/205583
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6" tvg-logo="http://iptvch.com:2082/images/23db19a69e43f43af9455d5db16665bc.png" group-title="SHAKY SPORT",beIN SPORTS 6
-http://sharkytv.com:2082/Fouzia/123456789/205584
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7" tvg-logo="http://iptvch.com:2082/images/7bcb9b6a011cead6e9b6970889dd9800.png" group-title="SHAKY SPORT",beIN SPORTS 7
-http://sharkytv.com:2082/Fouzia/123456789/205585
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS English 1" tvg-logo="http://iptvch.com:2082/images/23830f8b9282974c22cb620b6d09bdcf.png" group-title="SHAKY SPORT",beIN SPORTS English 1
-http://sharkytv.com:2082/Fouzia/123456789/205586
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS English 2" tvg-logo="http://iptvch.com:2082/images/01989e840257807e9e2980f08e017e85.png" group-title="SHAKY SPORT",beIN SPORTS English 2
-http://sharkytv.com:2082/Fouzia/123456789/205587
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS English 3" tvg-logo="http://iptvch.com:2082/images/c333a548d5fd6a6b14643ccdde2d48ae.png" group-title="SHAKY SPORT",beIN SPORTS English 3
-http://sharkytv.com:2082/Fouzia/123456789/205588
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="" group-title=""SHAKY SPORT",MY: Astro SuperSport 4
-http://sharkytv.com:2082/Fouzia/123456789/212808
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="" group-title=""SHAKY SPORT",MY: Astro SuperSport 3
-http://sharkytv.com:2082/Fouzia/123456789/212809
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="" group-title=""SHAKY SPORT",MY: Astro SuperSport 2
-http://sharkytv.com:2082/Fouzia/123456789/212810
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="" group-title=""SHAKY SPORT",MY: Astro SuperSport 1
-http://sharkytv.com:2082/Fouzia/123456789/212811
-
-#EXTINF:-1group-title="ROI SPORT", EX-YU: ARENA SPORT 1 HD (HR)
+#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 1 HD (HR)
 http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/227
-#EXTINF:-1group-title="ROI SPORT", EX-YU: ARENA SPORT 2 HD (HR)
+#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 2 HD (HR)
 http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/226
-#EXTINF:-1group-title="ROI SPORT", EX-YU: ARENA SPORT 3 HD (HR)
+#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 3 HD (HR)
 http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/225
-#EXTINF:-1group-title="ROI SPORT", EX-YU: ARENA SPORT 4 HD (HR)
+#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 4 HD (HR)
 http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/224
-#EXTINF:-1group-title="ROI SPORT", EX-YU: ARENA SPORT 5 HD (HR)
+#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 5 HD (HR)
 http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/223
-#EXTINF:-1group-title="ROI SPORT", EX-YU: ARENA SPORT 6 HD (HR)
+#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 6 HD (HR)
 http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/6906
-#EXTINF:-1group-title="ROI SPORT", EX-YU: ARENA SPORT 7 ᴴᴰ (HR)
+#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 7 ᴴᴰ (HR)
 http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/6907
-#EXTINF:-1group-title="ROI SPORT", EX-YU: ARENA SPORT 8 ᴴᴰ (HR)
+#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 8 ᴴᴰ (HR)
 http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/6908
-#EXTINF:-1group-title="ROI SPORT", EX-YU: ARENA SPORT 9 ᴴᴰ (HR)
+#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 9 ᴴᴰ (HR)
 http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/6909
-#EXTINF:-1group-title="ROI SPORT", EX-YU: ARENA SPORT 10 ᴴᴰ (HR)
+#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 10 ᴴᴰ (HR)
 http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/6910
-#EXTINF:-1group-title="ROI SPORT", EX-YU: ARENA SPORT 1 HD (SR)
+#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 1 HD (SR)
 http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/222
-#EXTINF:-1group-title="ROI SPORT", EX-YU: ARENA SPORT 2 HD (SR)
+#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 2 HD (SR)
 http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/221
-#EXTINF:-1group-title="ROI SPORT", EX-YU: ARENA SPORT 3 HD (SR)
+#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 3 HD (SR)
 http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/220
-#EXTINF:-1group-title="ROI SPORT", EX-YU: ARENA SPORT 4 HD (SR)
+#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 4 HD (SR)
 http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/219
-#EXTINF:-1group-title="ROI SPORT", EX-YU: ARENA SPORT 5 HD (SR)
+#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 5 HD (SR)
 http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/218
-#EXTINF:-1group-title="ROI SPORT", EX-YU: ARENA SPORT 1 PREMIUM ᴴᴰ (SR)
+#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 1 PREMIUM ᴴᴰ (SR)
 http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/7635
-#EXTINF:-1group-title="ROI SPORT", EX-YU: ARENA SPORT 2 PREMIUM ᴴᴰ (SR)
+#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 2 PREMIUM ᴴᴰ (SR)
 http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/7636
-#EXTINF:-1group-title="ROI SPORT", EX-YU: ARENA SPORT 3 PREMIUM ᴴᴰ (SR)
+#EXTINF:-1 group-title="ROI SPORT", EX-YU: ARENA SPORT 3 PREMIUM ᴴᴰ (SR)
 http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/7637
-#EXTINF:-1group-title="ROI SPORT", EX-YU: Sport Klub 1 ᴴᴰ (RS)
+#EXTINF:-1 group-title="ROI SPORT", EX-YU: Sport Klub 1 ᴴᴰ (RS)
 http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/9330
-#EXTINF:-1group-title="ROI SPORT", EX-YU: Sport Klub 2 ᴴᴰ (RS)
+#EXTINF:-1 group-title="ROI SPORT", EX-YU: Sport Klub 2 ᴴᴰ (RS)
 http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/9331
-#EXTINF:-1group-title="ROI SPORT", EX-YU: Sport Klub 3 ᴴᴰ (RS)
+#EXTINF:-1 group-title="ROI SPORT", EX-YU: Sport Klub 3 ᴴᴰ (RS)
 http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/9332
-#EXTINF:-1group-title="ROI SPORT", EX-YU: Sport Klub 4 ᴴᴰ (RS)
+#EXTINF:-1 group-title="ROI SPORT", EX-YU: Sport Klub 4 ᴴᴰ (RS)
 http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/9333
-#EXTINF:-1group-title="ROI SPORT", EX-YU: Sport Klub 5 ᴴᴰ (RS)
+#EXTINF:-1 group-title="ROI SPORT", EX-YU: Sport Klub 5 ᴴᴰ (RS)
 http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/9334
-#EXTINF:-1group-title="ROI SPORT", EX-YU: Sport Klub 6 ᴴᴰ (RS)
+#EXTINF:-1 group-title="ROI SPORT", EX-YU: Sport Klub 6 ᴴᴰ (RS)
 http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/9335
-#EXTINF:-1group-title="ROI SPORT", EX-YU: Sport Klub 7 ᴴᴰ (RS)
+#EXTINF:-1 group-title="ROI SPORT", EX-YU: Sport Klub 7 ᴴᴰ (RS)
 http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/9336
-#EXTINF:-1group-title="ROI SPORT", EX-YU: Sport Klub 8 ᴴᴰ (RS)
+#EXTINF:-1 group-title="ROI SPORT", EX-YU: Sport Klub 8 ᴴᴰ (RS)
 http://roi-tv.net:9000/servicesiptvforever/skype-26-11-2019-LLkx/9337
 
 #EXTINF:-1group-title="IPTVTREE  SPORT", MY: Astro SuperSport 1
