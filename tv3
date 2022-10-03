@@ -14,11 +14,14 @@ http://103.179.246.243:8000/play/a00u
 http://rmvberantakan.com/dens/uq2663/h/h18/index.m3u8
 #EXTINF:-1 group-title="Movie",&flix
 #http://iptvtree.net:8080/live/iptvromania2020/31e75bff/45506.m3u8
-http://103.179.246.243:8000/play/a00p
+#http://103.179.246.243:8000/play/a00p
+http://103.166.102.58:8000/play/a00p
 #EXTINF:-1 group-title="Movie",&Prive
-http://103.179.246.243:8000/play/a01d
+#http://103.179.246.243:8000/play/a01d
+http://103.166.102.58:8000/play/a01d
 #EXTINF:-1 group-title="Movie" tvg-name="Movie" tvg-logo="http://62.182.85.43/poster/STAR.MOVIES.png",IND ➤ STAR MOVIES HD
-http://103.179.246.243:8000/play/a00v
+#http://103.179.246.243:8000/play/a00 
+http://103.166.102.58:8000/play/a00v
 #EXTINF:-1 group-title="Movie" tvg-name="Movie" tvg-logo="http://62.182.85.43/poster/STAR.MOVIES.png",IND ➤ STAR MOVIES SELECTED HD
 http://103.179.246.243:8000/play/a00v
 
