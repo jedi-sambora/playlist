@@ -899,8 +899,6 @@ http://quality-restream.com:8080/resplice/v6EKnKb8gn3pGsz9/4371
 http://quality-restream.com:8080/resplice/v6EKnKb8gn3pGsz9/6088
 #EXTINF:-1 tvg-id="beinsports.us" tvg-name="US: beIN Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/b6ce2426cc52ca48e337dd2a263ccb21.jpg" group-title="Qstream Sport",US: beIN Sports
 http://quality-restream.com:8080/resplice/v6EKnKb8gn3pGsz9/284530
-#EXTINF:-1 tvg-id="beinsports.us" tvg-name="US: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6129fe72ded1a946884fed4f021411fa.png" group-title="Qstream Sport",US: beIN Sports 1
-http://flix12.site:8080/get.php?username=4jvdjaj2iq&password=MK196102&type=m3u
 #EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/36c8a2f7e977b190633248afab44b0be.png" group-title="Qstream Sport",US: beIN Sports 2
 http://quality-restream.com:8080/resplice/v6EKnKb8gn3pGsz9/151022
 #EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/d633a8820b5347f07f377b0961e49033.png" group-title="Qstream Sport",US: beIN Sports 3
@@ -1064,118 +1062,6 @@ http://hwdata.xyz:80/btinternal@/5616061093/106274
 http://hwdata.xyz:80/btinternal@/5616061093/106275
 
 
-#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="AF: VIP SUPERSPORT PREMIER LEAGUE" tvg-logo="https://asiagrandiptv.us/logo/supersportpremierleague.png" group-title="DRIP SPORT",AF: VIP SUPERSPORT PREMIER LEAGUE
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/135956
-#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="AF: VIP SUPERSPORT LALIGA" tvg-logo="https://asiagrandiptv.us/logo/supersportlaliga.png" group-title="DRIP SPORT",AF: VIP SUPERSPORT LALIGA
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/135960
-#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="AF: VIP SUPERSPORT FOOTBALL" tvg-logo="https://asiagrandiptv.us/logo/supersportfootball.png" group-title="DRIP SPORT",AF: VIP SUPERSPORT FOOTBALL
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/135963
-#EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="AF: VIP SUPERSPORT TENNIS" tvg-logo="https://asiagrandiptv.us/logo/supersporttennis.png" group-title="DRIP SPORT",AF: VIP SUPERSPORT TENNIS
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/140560
-#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="AF: VIP SUPERSPORT FOOTBALL" tvg-logo="https://asiagrandiptv.us/logo/supersportfootball.png" group-title="DRIP SPORT",AF: VIP SUPERSPORT FOOTBALL
-
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/165884
-#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-name="AF: VIP SUPERSPORT GRANDSTAND" tvg-logo="https://asiagrandiptv.us/logo/supersportgrandstand.png" group-title="DRIP SPORT",AF: VIP SUPERSPORT FOODBALL
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/135961
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1" tvg-logo="https://asiagrandiptv.us/logo/beinsports.png" group-title="DRIP SPORT",AR: BEIN SPORTS 1
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/4606
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 5" tvg-logo="https://asiagrandiptv.us/logo/beinsports1.png" group-title="DRIP SPORT",AR: BEIN SPORTS 5
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/22882
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2" tvg-logo="https://asiagrandiptv.us/logo/beinsports2.png" group-title="DRIP SPORT",AR: BEIN SPORTS 2
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/25494
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3" tvg-logo="https://asiagrandiptv.us/logo/beinsports3.png" group-title="DRIP SPORT",AR: BEIN SPORTS 3
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/22886
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 4" tvg-logo="https://asiagrandiptv.us/logo/beinsports4.png" group-title="DRIP SPORT",AR: BEIN SPORTS 4
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/22888
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 6" tvg-logo="https://asiagrandiptv.us/logo/beinsports6.png" group-title="DRIP SPORT",AR: BEIN SPORTS 6
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/170909
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 7" tvg-logo="https://asiagrandiptv.us/logo/beinsports7.png" group-title="DRIP SPORT",AR: BEIN SPORTS 7
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/170911
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENG 1 4K" tvg-logo="https://asiagrandiptv.us/logo/beinsports1.png" group-title="DRIP SPORT",AR: BEIN SPORTS ENG 1 4K
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/260908
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENG 2 4K" tvg-logo="https://asiagrandiptv.us/logo/beinsports2.png" group-title="DRIP SPORT",AR: BEIN SPORTS ENG 2 4K
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/260909
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS ENG 3 4K" tvg-logo="https://asiagrandiptv.us/logo/beinsports3.png" group-title="DRIP SPORT",AR: BEIN SPORTS ENG 3 4K
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/260910
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS NBA" tvg-logo="https://asiagrandiptv.us/logo/beinsportsnba.png" group-title="DRIP SPORT",AR: BEIN SPORTS NBA
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/301956
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 1" tvg-logo="https://asiagrandiptv.us/logo//BEINSPORTSPREMIUM.png" group-title="DRIP SPORT",AR: BEIN SPORTS PREMIUM 1
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/18376
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 2" tvg-logo="https://asiagrandiptv.us/logo//BEINSPORTSPREMIUM.png" group-title="DRIP SPORT",AR: BEIN SPORTS PREMIUM 2
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/74131
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS PREMIUM 3" tvg-logo="https://asiagrandiptv.us/logo//BEINSPORTSPREMIUM.png" group-title="DRIP SPORT",AR: BEIN SPORTS PREMIUM 3
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/26215
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS XTRA 1" tvg-logo="https://asiagrandiptv.us/logo/beinsportsxtra.png" group-title="DRIP SPORT",AR: BEIN SPORTS XTRA 1
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/17756
-#EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="PL: ELEVEN SPORT 1 HD" tvg-logo="https://asiagrandiptv.us/logo/elevensport1.png" group-title="DRIP SPORT",PL: ELEVEN SPORT 1 HD
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/280972
-#EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="PL: ELEVEN SPORTS 2" tvg-logo="https://asiagrandiptv.us/logo/elevensports2.png" group-title="DRIP SPORT",PL: ELEVEN SPORTS 2
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/280973
-#EXTINF:-1 tvg-id="elevensports3.pl" tvg-name="PL: ELEVEN SPORTS 3" tvg-logo="https://asiagrandiptv.us/logo/elevensports3vip.png" group-title="DRIP SPORT",PL: ELEVEN SPORTS 3
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/280974
-#EXTINF:-1 tvg-id="elevensportsports4.pl" tvg-name="PL: ELEVEN SPORTS 4" tvg-logo="https://asiagrandiptv.us/logo/elevensports4vip.png" group-title="DRIP SPORT",PL: ELEVEN SPORTS 4
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/141
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1" tvg-logo="https://asiagrandiptv.us/logo/sporttv1.png" group-title="DRIP SPORT",PT: SPORT TV 1
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/170957
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2" tvg-logo="https://asiagrandiptv.us/logo/sporttv2.png" group-title="DRIP SPORT",PT: SPORT TV 2
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/206
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3" tvg-logo="https://asiagrandiptv.us/logo/sporttv3.png" group-title="DRIP SPORT",PT: SPORT TV 3
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/7688
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4" tvg-logo="https://asiagrandiptv.us/logo/sporttv4.png" group-title="DRIP SPORT",PT: SPORT TV 4
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/11073
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5" tvg-logo="https://asiagrandiptv.us/logo/sporttv5.png" group-title="DRIP SPORT",PT: SPORT TV 5
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/11074
-#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://asiagrandiptv.us/logo/beinsportmax4.png" group-title="DRIP SPORT",FR: BEIN SPORT MAX 4
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/25735
-#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://asiagrandiptv.us/logo/beinsportmax5.png" group-title="DRIP SPORT",FR: BEIN SPORT MAX 5
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/25736
-#EXTINF:-1 tvg-id="bein6max.fr" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://asiagrandiptv.us/logo/beinsportmax6.png" group-title="DRIP SPORT",FR: BEIN SPORT MAX 6
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/25737
-#EXTINF:-1 tvg-id="bein7max.fr" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="https://asiagrandiptv.us/logo/beinsportmax7.png" group-title="DRIP SPORT",FR: BEIN SPORT MAX 7
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/25738
-#EXTINF:-1 tvg-id="bein8max.fr" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="https://asiagrandiptv.us/logo/beinsportmax8.png" group-title="DRIP SPORT",FR: BEIN SPORT MAX 8
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/169716
-#EXTINF:-1 tvg-id="bein9max.fr" tvg-name="FR: BEIN SPORT MAX 9" tvg-logo="https://asiagrandiptv.us/logo/beinsportmax9.png" group-title="DRIP SPORT",FR: BEIN SPORT MAX 9
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/25740
-#EXTINF:-1 tvg-id="bein10max.fr" tvg-name="FR: BEIN SPORT MAX 10" tvg-logo="https://asiagrandiptv.us/logo/beinsportmax10.png" group-title="DRIP SPORT",FR: BEIN SPORT MAX 10
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/25734
-#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://xplanetiptv.com/Logotv/countries/france/bein-sports-1-french-fr.png" group-title="DRIP SPORT",FR: BEIN SPORTS 1
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/175359
-#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR: BEIN SPORTS 1 VIP" tvg-logo="https://xplanetiptv.com/Logotv/countries/france/bein-sports-1-french-fr.png" group-title="DRIP SPORT",FR: BEIN SPORTS 1 VIP
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/301961
-#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR: BEIN SPORTS 2" tvg-logo="https://xplanetiptv.com/Logotv/countries/france/bein-sports-2-french-fr.png" group-title="DRIP SPORT",FR: BEIN SPORTS 2
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/175360
-#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR: BEIN SPORTS 2 VIP" tvg-logo="https://xplanetiptv.com/Logotv/countries/france/bein-sports-2-french-fr.png" group-title="DRIP SPORT",FR: BEIN SPORTS 2 VIP
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/301962
-#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR: BEIN SPORTS 3" tvg-logo="https://xplanetiptv.com/Logotv/countries/france/bein-sports-3-french-fr.png" group-title="DRIP SPORT",FR: BEIN SPORTS 3
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/175361
-#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR: BEIN SPORTS 3 VIP" tvg-logo="https://xplanetiptv.com/Logotv/countries/france/bein-sports-3-french-fr.png" group-title="DRIP SPORT",FR: BEIN SPORTS 3 VIP
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/301963
-#EXTINF:-1 tvg-id="" tvg-name="IDS: VIP FOX SPORTS 1" tvg-logo="https://asiagrandiptv.us/logo//foxsports.png" group-title="DRIP SPORT",IDS: VIP FOX SPORTS 1
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/236871
-#EXTINF:-1 tvg-id="foxsports2.id" tvg-name="IDS: VIP FOX SPORTS 2" tvg-logo="https://asiagrandiptv.us/logo//foxsports.png" group-title="DRIP SPORT",IDS: VIP FOX SPORTS 2
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/236870
-#EXTINF:-1 tvg-id="foxsports3.id" tvg-name="IDS: VIP FOX SPORTS 3" tvg-logo="https://asiagrandiptv.us/logo//foxsports.png" group-title="DRIP SPORT",IDS: VIP FOX SPORTS 3
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/236869
-#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="RO: DIGI SPORT 1" tvg-logo="https://asiagrandiptv.us/logo/digisport1.png" group-title="DRIP SPORT",RO: DIGI SPORT 1
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/8863
-#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="RO: DIGI SPORT 2" tvg-logo="https://asiagrandiptv.us/logo/digisport2.png" group-title="DRIP SPORT",RO: DIGI SPORT 2
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/8864
-#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="RO: DIGI SPORT 3" tvg-logo="https://asiagrandiptv.us/logo/digisport3.png" group-title="DRIP SPORT",RO: DIGI SPORT 3
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/23583
-#EXTINF:-1 tvg-id="digisport4.ro" tvg-name="RO: DIGI SPORT 4" tvg-logo="https://asiagrandiptv.us/logo/digisport4.png" group-title="DRIP SPORT",RO: DIGI SPORT 4
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/8866
-#EXTINF:-1 tvg-id="skysportbundesligauhd.de" tvg-name="DE: SKY BUNDESLIGA 1 HD+" tvg-logo="https://xplanetiptv.com/Logotv/countries/germany/sky-sport/sky-sport-bundesliga-1-de.png" group-title="DRIP SPORT",DE: SKY BUNDESLIGA 1 HD+
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/342543
-#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="DE: SKY BUNDESLIGA 2 HD+" tvg-logo="https://xplanetiptv.com/Logotv/countries/germany/sky-sport/sky-sport-bundesliga-2-de.png" group-title="DRIP SPORT",DE: SKY BUNDESLIGA 2 HD+
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/301820
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA 3 HD+" tvg-logo="https://xplanetiptv.com/Logotv/countries/germany/sky-sport/sky-sport-bundesliga-3-de.png" group-title="DRIP SPORT",DE: SKY BUNDESLIGA 3 HD+
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/301928
-#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="DE: SKY BUNDESLIGA 6" tvg-logo="https://xplanetiptv.com/Logotv/countries/germany/sky-sport/sky-sport-bundesliga-6-de.png" group-title="DRIP SPORT",DE: SKY BUNDESLIGA 6
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/301824
-#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="DE: SKY BUNDESLIGA 9 HD+" tvg-logo="https://xplanetiptv.com/Logotv/countries/germany/sky-sport/sky-sport-bundesliga-9-de.png" group-title="DRIP SPORT",DE: SKY BUNDESLIGA 9 HD+
-http://driptvs.com:8080/WHT1344/zNAqmDwYC4/301815
-
 
 #EXTINF:-1 tvg-id="beinsport.ca" tvg-name="beIN Sports HD CA" tvg-logo=""group-title="iptvworld",beIN Sports HD CA
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8376
@@ -1292,71 +1178,6 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/26527
 #EXTINF:-1 tvg-id="elevensportsports4.pl" tvg-name="Eleven Sports 4 FHD PL" tvg-logo="http://185.211.43.125/PL/pl_eleven_4.jpg"group-title="iptvworld",Eleven Sports 4 FHD PL
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/26526
 
-#EXTINF:-1 tvg-id="" tvg-name="AR:beIN Sports 4 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Yeni klasÃ¶r/beinsport4.png" group-title="CS22CS SPORT",AR:beIN Sports 4 HD
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/20734
-#EXTINF:-1 tvg-id="" tvg-name="AR:beIN Sports HD" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/Beinsportlogo.png" group-title="CS22CS SPORT",AR:beIN Sports HD
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/37678
-#EXTINF:-1 tvg-id="3abnl.us" tvg-name="AR:beIN Sports 3 HD" tvg-logo="" group-title="CS22CS SPORT",AR:beIN Sports 3 HD
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/31261
-
-#EXTINF:-1 tvg-id="1tvrus.europe.gb" tvg-name="AR:beIN Sports 1 HD" tvg-logo="" group-title="CS22CS SPORT",AR:beIN Sports 1 HD
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/20840
-#EXTINF:-1 tvg-id="" tvg-name="AR:beIN Sports 1 Premium" tvg-logo="" group-title="CS22CS SPORT",AR:beIN Sports 1 Premium
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/36270
-#EXTINF:-1 tvg-id="" tvg-name="AR:beIN Sports 3 Premium" tvg-logo="" group-title="CS22CS SPORT",AR:beIN Sports 3 Premium
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/41410
-#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="PL:Eleven Sports 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven1.png" group-title="CS22CS SPORT",PL:Eleven Sports 1 HD
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/36237
-#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="PL:Eleven Sports 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven2.png" group-title="CS22CS SPORT",PL:Eleven Sports 2 HD
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/36238
-#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="PL:Eleven Sports 3 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven3.png" group-title="CS22CS SPORT",PL:Eleven Sports 3 HD
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/36239
-#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="PL:Eleven Sports 4" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven4.png" group-title="CS22CS SPORT",PL:Eleven Sports 4
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/36240
-#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT:SPORT TV 1" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="CS22CS SPORT",PT:SPORT TV 1
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/30398
-#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="PT:SPORT TV 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="CS22CS SPORT",PT:SPORT TV 1 HD
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/21003
-#EXTINF:-1 tvg-id="" tvg-name="PT:SPORT TV 1 FHD" tvg-logo="" group-title="CS22CS SPORT",PT:SPORT TV 1 FHD
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/30423
-#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT:SPORT TV 2" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="CS22CS SPORT",PT:SPORT TV 2
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/26931
-#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT:SPORT TV 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="CS22CS SPORT",PT:SPORT TV 2 HD
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/21002
-#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT:SPORT TV 3" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="CS22CS SPORT",PT:SPORT TV 3
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/30397
-#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT:SPORT TV 6" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="CS22CS SPORT",PT:SPORT TV 6
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/24528
-#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT:SPORT TV 3 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="CS22CS SPORT",PT:SPORT TV 3 HD
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/30421
-#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT:SPORT TV 4" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="CS22CS SPORT",PT:SPORT TV 4
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/27101
-#EXTINF:-1 tvg-id="" tvg-name="PT:SPORT TV 4 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="CS22CS SPORT",PT:SPORT TV 4 HD
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/30419
-#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT:SPORT TV 5" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="CS22CS SPORT",PT:SPORT TV 5
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/24531
-#EXTINF:-1 tvg-id="SPORT TV5" tvg-name="PT:SPORT TV  5 HD" tvg-logo="" group-title="CS22CS SPORT",PT:SPORT TV  5 HD
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/22971
-#EXTINF:-1 tvg-id="" tvg-name="PT:ELEVEN SPORTS 1 HD" tvg-logo="" group-title="CS22CS SPORT",PT:ELEVEN SPORTS 1 HD
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/30028
-#EXTINF:-1 tvg-id="" tvg-name="PT:Eleven Sport 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven2.png" group-title="CS22CS SPORT",PT:Eleven Sport 2 HD
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/30414
-#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT:Eleven Sport 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven2.png" group-title="CS22CS SPORT",PT:Eleven Sport 2 HD
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/30029
-#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT:Eleven Sport 3" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven3.png" group-title="CS22CS SPORT",PT:Eleven Sport 3
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/30412
-#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT:Eleven Sport 4" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven4.png" group-title="CS22CS SPORT",PT:Eleven Sport 4
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/30410
-#EXTINF:-1 tvg-id="" tvg-name="PT:Eleven Sport 5" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/eleven5.png" group-title="CS22CS SPORT",PT:Eleven Sport 5
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/30408
-#EXTINF:-1 tvg-id="Digi Sport 1 RO" tvg-name="RO:DIGI SPORT 1" tvg-logo="" group-title="CS22CS SPORT",RO:DIGI SPORT 1
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/36301
-#EXTINF:-1 tvg-id="Digi Sport 2 RO" tvg-name="RO:DIGI SPORTS 2" tvg-logo="" group-title="CS22CS SPORT",RO:DIGI SPORTS 2
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/36303
-#EXTINF:-1 tvg-id="Digi Sport 3 RO" tvg-name="RO:DIGI SPORTS 3" tvg-logo="" group-title="CS22CS SPORT",RO:DIGI SPORTS 3
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/36302
-#EXTINF:-1 tvg-id="Digi Sport 4 RO" tvg-name="RO:Digi SportS 4" tvg-logo="" group-title="CS22CS SPORT",RO:Digi SportS 4
-http://cs22cs.uk:2052/novagrad/hemzb3bRQ9/36304
 #EXTINF:-1 tvg-ID="" tvg-name="FR_BeIN_SPORTS_1_HD" tvg-logo="" group-title="SIBFUN SPORT",FR_BeIN_SPORTS_1_HD
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/3682
 #EXTINF:-1 tvg-ID="" tvg-name="FR_BeIN_SPORTS_2_HD" tvg-logo="" group-title="SIBFUN SPORT",FR_BeIN_SPORTS_2_HD
@@ -1508,11 +1329,11 @@ http://sharkytv.com:2082/BESTiPTV/0sj3rFpDY7/138331
 http://destiny4k.com:2086/live/YttdBgP0g7/yf1xGxWvXCbQ1TuMdfKP/2700.ts
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT 2 FHD" tvg-logo="" group-title="destiny4k SPORT",ZA: SUPERSPORT 2 FHD
 http://destiny4k.com:2086/live/YttdBgP0g7/yf1xGxWvXCbQ1TuMdfKP/2701.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT 3 FHD" tvg-logo="" group-title="destiny4k SPORT",ZA: SUPERSPORT 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT 3 FHD" tvg-logo="" group-title="destiny4k SPORT",ZA: SUPERSPORT Premier Leage
 http://destiny4k.com:2086/live/YttdBgP0g7/yf1xGxWvXCbQ1TuMdfKP/2702.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT 4 FHD" tvg-logo="" group-title="destiny4k SPORT",ZA: SUPERSPORT 4 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT 4 FHD" tvg-logo="" group-title="destiny4k SPORT",ZA: SUPERSPORT La Liga
 http://destiny4k.com:2086/live/YttdBgP0g7/yf1xGxWvXCbQ1TuMdfKP/2703.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT 5 FHD" tvg-logo="" group-title="destiny4k SPORT",ZA: SUPERSPORT 5 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT 5 FHD" tvg-logo="" group-title="destiny4k SPORT",ZA: SUPERSPORT Football
 http://destiny4k.com:2086/live/YttdBgP0g7/yf1xGxWvXCbQ1TuMdfKP/2704.ts
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT 6 FHD" tvg-logo="" group-title="destiny4k SPORT",ZA: SUPERSPORT 6 FHD
 http://destiny4k.com:2086/live/YttdBgP0g7/yf1xGxWvXCbQ1TuMdfKP/2705.ts
