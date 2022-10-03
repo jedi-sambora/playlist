@@ -1646,4 +1646,31 @@ http://4kfhd.xyz:80/KADIRabiIPTV/3o0KP3pLeI/24682
 #EXTINF:-1 tvg-id="" tvg-name="BR: Sport TV3" tvg-logo="" group-title="4kfhd SPORT",BR: Sport TV3
 http://4kfhd.xyz:80/KADIRabiIPTV/3o0KP3pLeI/24651
 
+#EXTINF:-1 group-title="163 sport", |PT/DC| SPORT TV 1 HEVC
+http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6331
+#EXTINF:-1 group-title="163 sport", |PT/DC| SPORT TV 2 HEVC
+http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6332
+#EXTINF:-1 group-title="163 sport", |PT/DC| SPORT TV 3 HEVC
+http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6333
+#EXTINF:-1 group-title="163 sport", |PT/DC| SPORT TV 4 HEVC
+http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6334
+#EXTINF:-1 group-title="163 sport", |PT/DC| SPORT TV 5 HEVC
+http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6335
+#EXTINF:-1 group-title="163 sport", |PT/DC| SPORT TV+ HEVC
+http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6336
+#EXTINF:-1 group-title="163 sport", |PT/DC| SPORT TV NBA HEVC
+http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6337
+#EXTINF:-1 group-title="163 sport", |PT/DC| ELEVEN SPORTS 1 HEVC
+http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6338
+#EXTINF:-1 group-title="163 sport", |PT/DC| ELEVEN SPORTS 2 HEVC
+http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6339
+#EXTINF:-1 group-title="163 sport", |PT/DC| ELEVEN SPORTS 3 HEVC
+http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6340
+#EXTINF:-1 group-title="163 sport", |PT/DC| ELEVEN SPORTS 4 HEVC
+http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6341
+#EXTINF:-1 group-title="163 sport", |PT/DC| ELEVEN SPORTS 5 HEVC
+http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6342
+#EXTINF:-1 group-title="163 sport", |PT/DC| ELEVEN SPORTS 6 HEVC
+http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6343
+
 
