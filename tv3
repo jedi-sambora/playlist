@@ -78,6 +78,8 @@ http://bgltv.my.id:8080/live/NewApk/HMTV/199.ts
 https://production-drm-vidio-com-ctv-wc-1.akamaized.net/out/v1/cabfe9d2e23e4a958fcd390012891d79/index.mpd
 #EXTINF:-1 group-title="indonesia",vidio wc 2
 https://production-drm-vidio-com-ctv-wc-2.akamaized.net/out/v1/816782c75a1b481c93b1c920a3124581/index.mpd
+#EXTINF:-1 group-title="indonesia",True sport 3
+https://sport.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
 
 #EXTINF:-1 group-title="PT SPORT",US : ESPN HD
@@ -1496,5 +1498,67 @@ http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6341
 http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6342
 #EXTINF:-1 group-title="163 sport", |PT/DC| ELEVEN SPORTS 6 HEVC
 http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6343
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DEP| beIN Sports 1 HD" tvg-logo="http://tv.streamid.ga:8080/images/e98e486fa20cf586e53ca0ebf86d1e22.png" group-title="TELE SPORT",DEP| beIN Sports 1 HD
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/7742
+#EXTINF:-1 tvg-id="" tvg-name="DEP| beIN Sports 1 HD Arabe" tvg-logo="http://tv.streamid.ga:8080/images/e98e486fa20cf586e53ca0ebf86d1e22.png" group-title="TELE SPORT",DEP| beIN Sports 1 HD Arabe
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/7743
+#EXTINF:-1 tvg-id="" tvg-name="DEP| beIN Sports 10 HD Arabe" tvg-logo="http://tv.streamid.ga:8080/images/e98e486fa20cf586e53ca0ebf86d1e22.png" group-title="TELE SPORT",DEP| beIN Sports 10 HD Arabe
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/7757
+#EXTINF:-1 tvg-id="" tvg-name="DEP| beIN Sports 11 HD Arabe" tvg-logo="http://tv.streamid.ga:8080/images/e98e486fa20cf586e53ca0ebf86d1e22.png" group-title="TELE SPORT",DEP| beIN Sports 11 HD Arabe
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/7758
+#EXTINF:-1 tvg-id="" tvg-name="DEP| beIN Sports 12 HD Arabe" tvg-logo="http://tv.streamid.ga:8080/images/e98e486fa20cf586e53ca0ebf86d1e22.png" group-title="TELE SPORT",DEP| beIN Sports 12 HD Arabe
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/7759
+#EXTINF:-1 tvg-id="" tvg-name="DEP| beIN Sports 2 HD" tvg-logo="http://tv.streamid.ga:8080/images/e98e486fa20cf586e53ca0ebf86d1e22.png" group-title="TELE SPORT",DEP| beIN Sports 2 HD
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/7744
+#EXTINF:-1 tvg-id="" tvg-name="DEP| beIN Sports 3 HD Arabe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png" group-title="TELE SPORT",DEP| beIN Sports 3 HD Arabe
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/7746
+#EXTINF:-1 tvg-id="" tvg-name="DEP| beIN Sports 4 HD  (Eventos)" tvg-logo="http://tv.streamid.ga:8080/images/e98e486fa20cf586e53ca0ebf86d1e22.png" group-title="TELE SPORT",DEP| beIN Sports 4 HD  (Eventos)
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/7747
+#EXTINF:-1 tvg-id="" tvg-name="DEP| beIN Sports 4 HD Arabe" tvg-logo="http://tv.streamid.ga:8080/images/e98e486fa20cf586e53ca0ebf86d1e22.png" group-title="TELE SPORT",DEP| beIN Sports 4 HD Arabe
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/7748
+#EXTINF:-1 tvg-id="" tvg-name="DEP| beIN Sports 5 HD (Eventos)" tvg-logo="http://tv.streamid.ga:8080/images/e98e486fa20cf586e53ca0ebf86d1e22.png" group-title="TELE SPORT",DEP| beIN Sports 5 HD (Eventos)
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/7749
+#EXTINF:-1 tvg-id="" tvg-name="DEP| beIN Sports 5 HD Arabe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaZdUPDjNh9z2qMSACn-kosaELymw8Fsd7HzLKOvcpMjgbXi49LQ&s" group-title="TELE SPORT",DEP| beIN Sports 5 HD Arabe
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/7750
+#EXTINF:-1 tvg-id="" tvg-name="DEP| beIN Sports 6 HD (Eventos)" tvg-logo="http://tv.streamid.ga:8080/images/e98e486fa20cf586e53ca0ebf86d1e22.png" group-title="TELE SPORT",DEP| beIN Sports 6 HD (Eventos)
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/7751
+#EXTINF:-1 tvg-id="" tvg-name="DEP| beIN Sports 6 HD Arabe" tvg-logo="http://tv.streamid.ga:8080/images/e98e486fa20cf586e53ca0ebf86d1e22.png" group-title="TELE SPORT",DEP| beIN Sports 6 HD Arabe
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/7752
+#EXTINF:-1 tvg-id="" tvg-name="DEP| beIN Sports 7 HD (Eventos)" tvg-logo="http://tv.streamid.ga:8080/images/e98e486fa20cf586e53ca0ebf86d1e22.png" group-title="TELE SPORT",DEP| beIN Sports 7 HD (Eventos)
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/7753
+#EXTINF:-1 tvg-id="" tvg-name="DEP| beIN Sports 7 HD Arabe" tvg-logo="http://tv.streamid.ga:8080/images/e98e486fa20cf586e53ca0ebf86d1e22.png" group-title="TELE SPORT",DEP| beIN Sports 7 HD Arabe
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/7754
+#EXTINF:-1 tvg-id="" tvg-name="DEP| beIN Sports 8 HD Arabe" tvg-logo="http://tv.streamid.ga:8080/images/e98e486fa20cf586e53ca0ebf86d1e22.png" group-title="TELE SPORT",DEP| beIN Sports 8 HD Arabe
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/7755
+#EXTINF:-1 tvg-id="" tvg-name="DEP| beIN Sports 9 HD Arabe" tvg-logo="http://tv.streamid.ga:8080/images/e98e486fa20cf586e53ca0ebf86d1e22.png" group-title="TELE SPORT",DEP| beIN Sports 9 HD Arabe
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/7756
+#EXTINF:-1 tvg-id="" tvg-name="DEP| beIN Sports HD 2 Arabe" tvg-logo="http://tv.streamid.ga:8080/images/e98e486fa20cf586e53ca0ebf86d1e22.png" group-title="TELE SPORT",DEP| beIN Sports HD 2 Arabe
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/7745
+#EXTINF:-1 tvg-id="" tvg-name="PORT| SPORTST V PORTUGAL 1 HD" tvg-logo="" group-title="TELE SPORT",PORT| SPORTST V PORTUGAL 1 HD
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/57185
+#EXTINF:-1 tvg-id="" tvg-name="PORT| SPORTS TV PORTUGAL 2 HD" tvg-logo="" group-title="TELE SPORT",PORT| SPORTS TV PORTUGAL 2 HD
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/57174
+#EXTINF:-1 tvg-id="" tvg-name="PORT| SPORTS TV PORTUGAL 3 HD" tvg-logo="" group-title="TELE SPORT",PORT| SPORTS TV PORTUGAL 3 HD
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/57175
+#EXTINF:-1 tvg-id="" tvg-name="PORT| SPORTS TV 4 HD PORTUGAL" tvg-logo="" group-title="TELE SPORT",PORT| SPORTS TV 4 PORTUGAL HD
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/57176
+#EXTINF:-1 tvg-id="" tvg-name="PORT| SPORTS TV 5 PORTUGAL" tvg-logo="" group-title="TELE SPORT",PORT| SPORTS TV 5 PORTUGAL HD
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/57177
+#EXTINF:-1 tvg-id="" tvg-name="PORT| SPORTS TV BRASIL HD" tvg-logo="" group-title="TELE SPORT",PORT| SPORTS TV BRASIL HD
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/57171
+#EXTINF:-1 tvg-id="" tvg-name="PORT| SPORTS TV BRASIL 2 HD" tvg-logo="" group-title="TELE SPORT",PORT| SPORTS TV BRASIL 2 HD
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/57172
+#EXTINF:-1 tvg-id="" tvg-name="PORT| SPORTS TV 3 BRASIL" tvg-logo="" group-title="TELE SPORT",PORT| SPORTS TV 3 BRASIL
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/57173
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 1 HD (lt)" tvg-logo="" group-title="TELE SPORT",ARG | FOX SPORTS 1 HD (lt)
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/58427
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 2 HD (lt)" tvg-logo="" group-title="TELE SPORT",ARG | FOX SPORTS 2 HD (lt)
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/7478
+#EXTINF:-1 tvg-id="" tvg-name="25 | ELEVEN SPORTS 2" tvg-logo="" group-title="TELE SPORT",25 | ELEVEN SPORTS 2
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/108333
+#EXTINF:-1 tvg-id="" tvg-name="26 | ELEVEN SPORTS 3" tvg-logo="" group-title="TELE SPORT",26 | ELEVEN SPORTS 3
+http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/108334
 
 
