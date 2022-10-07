@@ -80,7 +80,8 @@ https://production-drm-vidio-com-ctv-wc-1.akamaized.net/out/v1/cabfe9d2e23e4a958
 https://production-drm-vidio-com-ctv-wc-2.akamaized.net/out/v1/816782c75a1b481c93b1c920a3124581/index.mpd
 #EXTINF:-1 group-title="indonesia",True sport 3
 https://sport.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
-
+#EXTINF:-1 group-title="indonesia",MNC SPORT 1
+https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #EXTINF:-1 group-title="PT SPORT",US : ESPN HD
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/9660
