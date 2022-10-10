@@ -1562,4 +1562,42 @@ http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/108333
 #EXTINF:-1 tvg-id="" tvg-name="26 | ELEVEN SPORTS 3" tvg-logo="" group-title="TELE SPORT",26 | ELEVEN SPORTS 3
 http://tele.premiumstore.biz:8080/tickplay2020/vweytvfy2u/108334
 
+#EXTINF:-1 group-title="TTV SPORT",UK: BT SPORT 1 HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1388
+#EXTINF:-1 group-title="TTV SPORT",UK: BT SPORT 2 HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1389
+#EXTINF:-1 group-title="TTV SPORT",UK: BT SPORT 3 HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1390
+#EXTINF:-1 group-title="TTV SPORT",UK: BT SPORT ESPN
+http://ttv.bz:80/manolopc1/7U49kuozK8/1391
+#EXTINF:-1 group-title="TTV SPORT",UK: PREMIER SPORTS 2 HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1405
+#EXTINF:-1 group-title="TTV SPORT",UK: PREMIER SPORTS 1 FHD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1455
+#EXTINF:-1 group-title="TTV SPORT",AR: FOX SPORTS
+http://ttv.bz:80/manolopc1/7U49kuozK8/567
+#EXTINF:-1 group-title="TTV SPORT",AR: FOX SPORTS 2
+http://ttv.bz:80/manolopc1/7U49kuozK8/568
+#EXTINF:-1 group-title="TTV SPORT",AR: FOX SPORTS 3
+http://ttv.bz:80/manolopc1/7U49kuozK8/569
+#EXTINF:-1 group-title="TTV SPORT",AR: FOXSP PREMIUM
+#EXTINF:-1 group-title="TTV SPORT",AR: TNT SPORTS
+http://ttv.bz:80/manolopc1/7U49kuozK8/583
+#EXTINF:-1 group-title="TTV SPORT",BR: SPORTV HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/980
+#EXTINF:-1 group-title="TTV SPORT",BR: SPORTV 3 HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/981
+#EXTINF:-1 group-title="TTV SPORT",BR: SPORTV 2 HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/982
+#EXTINF:-1 group-title="TTV SPORT",BR: FOX SPORTS HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1038
+#EXTINF:-1 group-title="TTV SPORT",BR: FOX SPORTS 2 HD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1039
+#EXTINF:-1 group-title="TTV SPORT",UK: SKY SP PREMIER LEAGUE FHD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1478
+#EXTINF:-1 group-title="TTV SPORT",UK: SKY SP FOOTBALL FHD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1473
+#EXTINF:-1 group-title="TTV SPORT",UK: SKY SP MAIN EVENT FHD
+http://ttv.bz:80/manolopc1/7U49kuozK8/1475
+
 
