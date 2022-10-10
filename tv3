@@ -147,13 +147,13 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/69003
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/69006
 #EXTINF:-1 group-title= "SPORT CLPORTAL",SuperSport Football FHD ZA
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/39413
-#EXTINF:-1,SuperSport Football HD ZA
+#EXTINF:-1  group-title= "SPORT CLPORTAL",SuperSport Football HD ZA
 http://channels227070.clientportal.link:80/peYWNNRdGm813/Pkwdu7284/28901
 #EXTINF:-1 group-title= "SPORT CLPORTAL",SuperSport Grandstand FHD ZA
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/39409
 #EXTINF:-1 group-title= "SPORT CLPORTAL",SuperSport LaLiga HD ZA
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/39406
-#EXTINF:-1,SuperSport LaLiga HD ZA
+#EXTINF:-1  group-title= "SPORT CLPORTAL",SuperSport LaLiga HD ZA
 http://channels227070.clientportal.link:80/peYWNNRdGm813/Pkwdu7284/28895
 #EXTINF:-1 group-title= "SPORT CLPORTAL",SuperSport Premier League FHD ZA
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/39408
@@ -1680,4 +1680,18 @@ http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161886
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161885
 #EXTINF:-1 group-title="platin4k SPORT",AL: Super Sport 5 HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161884
+#EXTINF:-1 group-title="platin4k SPORT",BE: Eleven Sports 1 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135975
+#EXTINF:-1 group-title="platin4k SPORT",BE: Eleven Sports 2 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135976
+#EXTINF:-1 group-title="platin4k SPORT",BE: Eleven Sports 3 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135977
 
+#EXTINF:-1 group-title="31220 SPORT",ASSP.1
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115615&extension=ts&play_token
+#EXTINF:-1 group-title="31220 SPORT",ASSP.2
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115616&extension=ts&play_token
+#EXTINF:-1 group-title="31220 SPORT",ASSP.3
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=ts&play_token
+#EXTINF:-1 group-title="31220 SPORT",ASSP.4
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115618&extension=ts&play_token
