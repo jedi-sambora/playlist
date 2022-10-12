@@ -116,6 +116,15 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115616
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115617
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="ASTRO",ASTRO.SUPERSPORTS_4 HD TH MY
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115618
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.imgur.com/dfV5HCf.png" group-title="ASTRO",ASTRO.SUPERSPORTS 1 (21220)
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115615&extension=ts&play_token
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="ttps://i.imgur.com/EKA1xTZ.png" group-title="ASTRO",ASTRO.SUPERSPORTS 2 (21220)
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115616&extension=ts&play_token
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 3 HD TH MY" tvg-logo="https://i.imgur.com/DDFBwJR.png" group-title="ASTRO",ASTRO.SUPERSPORTS 3 (21220)
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=ts&play_token
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="https://i.imgur.com/zwodbF0.png" group-title="ASTRO",ASTRO.SUPERSPORTS 4 (21220)
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115618&extension=ts&play_token
+
 
 
 
