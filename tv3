@@ -1273,3 +1273,117 @@ http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115616&extension=
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=ts&play_token
 #EXTINF:-1 group-title="31220 SPORT",ASSP.4
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115618&extension=ts&play_token
+
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",PT: SPORT TV 1
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/170957.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",PT: SPORT TV 2
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/206.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",PT: SPORT TV 3
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/7688.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",PT: SPORT TV 4
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/11073.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",PT: SPORT TV 5
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/11074.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",PT: SPORT TV NBA
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/211.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",PL: ELEVEN SPORT 1 HD
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/280972.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",PL: ELEVEN SPORTS 2
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/280973.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",PL: ELEVEN SPORTS 3
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/280974.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",PL: ELEVEN SPORTS 4
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/141.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",RO: DIGI SPORT 1
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/8863.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",RO: DIGI SPORT 2
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/8864.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",RO: DIGI SPORT 3
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/23583.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",RO: DIGI SPORT 4
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/8866.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",BR: SPORTV 1
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/8016.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",BR: SPORTV 2
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/11819.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",BR: SPORTV 3
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/11820.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",GR: COSMOTE SPORT 1
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/175109.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",GR: COSMOTE SPORT 2
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/10835.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",GR: COSMOTE SPORT 3
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/10836.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",GR: COSMOTE SPORT 4
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/10837.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",GR: COSMOTE SPORT 5
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/10838.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",GR: COSMOTE SPORT 6
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/10839.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",GR: COSMOTE SPORT 7
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/175110.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",GR: COSMOTE SPORT 8
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/10841.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",GR: NOVA SPORT 1
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/178302.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",GR: NOVA SPORT 2
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/178303.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",GR: NOVA SPORT 3
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/18572.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",GR: NOVA SPORT 4
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/18573.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",FR: BEIN SPORT MAX 4
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/25735.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",FR: BEIN SPORT MAX 5
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/25736.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",FR: BEIN SPORT MAX 6
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/25737.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",FR: BEIN SPORT MAX 7
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/25738.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",FR: BEIN SPORT MAX 8
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/169716.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",FR: BEIN SPORT MAX 9
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/25740.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",FR: BEIN SPORT MAX 10
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/25734.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",FR: BEIN SPORTS 1
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/175359.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",FR: BEIN SPORTS 1 VIP
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/301961.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",FR: BEIN SPORTS 2
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/175360.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",FR: BEIN SPORTS 2 VIP
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/301962.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",FR: BEIN SPORTS 3
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/175361.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",FR: BEIN SPORTS 3 VIP
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/301963.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",AR: BEIN SPORTS 1
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/4606.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",AR: BEIN SPORTS 5
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/22882.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",AR: BEIN SPORTS 2
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/25494.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",AR: BEIN SPORTS 3
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/22886.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",AR: BEIN SPORTS 4
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/22888.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",AR: BEIN SPORTS 6
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/170909.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",AR: BEIN SPORTS 7
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/170911.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",AR: BEIN SPORTS ENG 1 4K
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/260908.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",AR: BEIN SPORTS ENG 2 4K
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/260909.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",AR: BEIN SPORTS ENG 3 4K
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/260910.m3u8
+
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",AR: BEIN SPORTS PREMIUM 1
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/18376.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",AR: BEIN SPORTS PREMIUM 2
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/74131.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",AR: BEIN SPORTS PREMIUM 3
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/26215.m3u8
+#EXTINF:-1 group-title= "IPTVPARTY SPORT",AR: BEIN SPORTS XTRA 1
+http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/17756.m3u8
