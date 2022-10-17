@@ -793,3 +793,10 @@ http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/74131.m3u8
 http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/26215.m3u8
 #EXTINF:-1 group-title= "IPTVPARTY SPORT",AR: BEIN SPORTS XTRA 1
 http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/17756.m3u8
+
+#EXTINF:-1,BEIN SPORTS PREMIUM 3 HD (AR)
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/10015
+#EXTINF:-1,BEIN SPORTS PREMIUM 1 HD (AR)
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/10001
+#EXTINF:-1,BEIN SPORTS PREMIUM 2 HD (AR)
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/10000
