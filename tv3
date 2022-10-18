@@ -82,8 +82,12 @@ https://production-drm-vidio-com-ctv-wc-2.akamaized.net/out/v1/816782c75a1b481c9
 https://sport.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 #EXTINF:-1 group-title="indonesia",MNC SPORT 1
 https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-#EXTINF:-1 group-title="indonesia",NET TV
-https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+#EXTINF:-1 group-title="indonesia",Denmark open c1
+https://bcovlive-a.akamaihd.net/d578564561544716bd11b4af8d6ed4ea/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1666081131~exp=9007200920822122~acl=/d578564561544716bd11b4af8d6ed4ea/*/profile_0/chunklist.m3u8*~hmac=aa16cf750747fbb5f79487a9fd7742e3e001ec52a2efe4e7cd58612a1a274b1f
+#EXTINF:-1 group-title="indonesia",Denmark open c2
+https://bcovlive-a.akamaihd.net/facbf6cdf3f647d48de51fda6e7d2d4b/ap-southeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1666081248~exp=9007200920822239~acl=/facbf6cdf3f647d48de51fda6e7d2d4b/*/profile_0/chunklist.m3u8*~hmac=c4371f10b3fc617cea9ddc0995f82553d1e30285df86601a4d394a822e25ae09
+#EXTINF:-1 group-title="indonesia",Denmark open c3
+https://bcovlive-a.akamaihd.net/8dbe9fecaaf3445da9dc68101293d99c/ap-southeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1666081312~exp=9007200920822303~acl=/8dbe9fecaaf3445da9dc68101293d99c/*/profile_0/chunklist.m3u8*~hmac=721067d96c7e23e61f2ebad25db4f9d4b3ad7b72163f73aef2c3a328c6eb340d
 
 #EXTINF:-1 group-title="PT SPORT",US : ESPN HD
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/9660
