@@ -39,6 +39,10 @@ http://203.77.246.50:5000/udp/239.1.2.162:5000
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/141884
 #EXTINF:-1 group-title="Movie",TVN Movie
 http://210.210.155.35/dr9445/h/h21/index.m3u8
+#EXTINF:-1 group-title="Movie",Jet Lie HD 1
+http://txtest-xp2p.p2p.huya.com/src/1524439855-1524439855-6547419321943982080-3049003166-10057-A-0-1.xs
+#EXTINF:-1 group-title="Movie",Jet Lie HD 2
+http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
 
 #--drakisport
 #EXTINF:-1 group-title="Eleven sport",PT: ELEVEN SPORTS 1 (2)
@@ -810,12 +814,30 @@ http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/26215.m3u8
 #EXTINF:-1 group-title= "IPTVPARTY SPORT",AR: BEIN SPORTS XTRA 1
 http://iptvparty.live:8080/live/StevOsnTelegram/Vc9zE2PWHw/17756.m3u8
 
-#EXTINF:-1,BEIN SPORTS PREMIUM 3 HD (AR)
+#EXTINF:-1 group-title="ott", BEIN SPORTS PREMIUM 3 HD (AR)
 http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/10015
-#EXTINF:-1,BEIN SPORTS PREMIUM 1 HD (AR)
+#EXTINF:-1 group-title="ott", BEIN SPORTS PREMIUM 1 HD (AR)
 http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/10001
-#EXTINF:-1,BEIN SPORTS PREMIUM 2 HD (AR)
+#EXTINF:-1 group-title="ott",BEIN SPORTS PREMIUM 2 HD (AR)
 http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/10000
+#EXTINF:-1 group-title="ott", SUPER SPORT 2 HD (AL)
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/789
+#EXTINF:-1 group-title="ott", SUPER SPORT 3 HD (AL)
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/790
+#EXTINF:-1 group-title="ott", SUPER SPORT 4 HD (AL)
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/791
+#EXTINF:-1 group-title="ott", SUPER SPORT 5 HD (AL)
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/792
+#EXTINF:-1 group-title="ott", TRING SPORT NEWS HD (AL)
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/794
+#EXTINF:-1 group-title="ott", TRING SPORT 1 HD (AL)
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/795
+#EXTINF:-1 group-title="ott", TRING SPORT 2 HD (AL)
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/796
+#EXTINF:-1 group-title="ott", TRING SPORT 3 HD (AL)
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/797
+#EXTINF:-1 group-title="ott", TRING SPORT 4 HD (AL)
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/798
 
 #EXTINF:-1 group-title="mo3ad", beIN ⚽ 1 Premium FHD
 http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/120
@@ -867,3 +889,78 @@ http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/348
 http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/349
 #EXTINF:-1 group-title="mo3ad", BR | SPORTV 3 HD
 http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/350
+
+#EXTINF:-1 group-title="XTRATEXXX SPORT",   CANAL FOOT+ 
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/90255
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  CANAL SPORT 360
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/90256
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  BEINSPORT 1 FR
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/544
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  BEINSPORT 2 FR
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/543
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  BEINSPORT 3 FR
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/542
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  Bein Sport Max 4
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/3187
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  Bein Sport Max 5
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/3186
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  Bein Sport Max 6
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/3185
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  Bein Sport Max 7
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/3184
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  Bein Sport Max 8
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/3183
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  Bein Sport Max 9
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/3182
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  Bein Sport Max 10
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/3181
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  RMC SPORT 1
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/541
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  RMC SPORT 2
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/540
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  RMC SPORT 3
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/539
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  RMCSPORT4
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/538
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  RMC SPORT 5 HD
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/3215
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  Bein Sport Premium 1 HD  2M
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/90867
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  Bein Sport Premium 2 HD  2M
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/90868
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  Bein Sport Premium 3 HD  2M
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/90869
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  BEIN SPORT 1 FHD
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/5658
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  BEIN SPORT 2 FHD
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/37619
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  BEIN SPORT 3 FHD
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/5656
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  BEIN SPORT 4 FHD
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/5655
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  BEIN SPORT 5 FHD
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/5654
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  BEIN SPORTS ENGLISH 1 HD
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/63916
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  BEIN SPORTS ENGLISH 2 HD
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/63914
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  BEIN SPORTS ENGLISH 3 HD
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/63915
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  ELEVEN SPORTS 1 HD
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/90837
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  ELEVEN SPORTS 2 HD
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/90838
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  Eleven Sport 1 PT
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/69757
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  Eleven Sport 2 PT
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/69768
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  Eleven Sport 3 PT
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/69769
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  Eleven Sport 4 PT
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/69770
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  Eleven Sport 5 PT
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/69771
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  Eleven Sport 6 PT
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/69772
+#EXTINF:-1 group-title="XTRATEXXX SPORT",  DAZN 1 HD
+http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/38469
