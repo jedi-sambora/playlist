@@ -87,9 +87,9 @@ https://sport.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8|Referer=ht
 #EXTINF:-1 group-title="indonesia",MNC SPORT 1
 https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 #EXTINF:-1 group-title="indonesia",Denmark open c1
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1666163441~exp=9007200920904432~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=436b72f0751fa50d6a48f685fb18960a120d95f328c1bb0b37b7a9facd5cc8ae
+https://bcovlive-a.akamaihd.net/926df14993e54e4a9de9a001e17e5cd8/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1666360406~exp=9007200921101397~acl=/926df14993e54e4a9de9a001e17e5cd8/*/profile_2/chunklist.m3u8*~hmac=7373abc28c728d54190bd2162c27609e83fe6537e004775010ccede631145950
 #EXTINF:-1 group-title="indonesia",Denmark open c2
-https://bcovlive-a.akamaihd.net/facbf6cdf3f647d48de51fda6e7d2d4b/ap-southeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1666163300~exp=9007200920904291~acl=/facbf6cdf3f647d48de51fda6e7d2d4b/*/profile_0/chunklist.m3u8*~hmac=9ca6ac0e88f33ec5bc218c1fe2f959a3765590b9eb110205c0374915d2dfcb4d
+https://bcovlive-a.akamaihd.net/facbf6cdf3f647d48de51fda6e7d2d4b/ap-southeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1666360527~exp=9007200921101518~acl=/facbf6cdf3f647d48de51fda6e7d2d4b/*/profile_2/chunklist.m3u8*~hmac=8fd144ea8ae390349b888ed5869ee3a9636addc30d5a548976915d2f2ae90560
 #EXTINF:-1 group-title="indonesia",Denmark open c3
 https://bcovlive-a.akamaihd.net/8dbe9fecaaf3445da9dc68101293d99c/ap-southeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1666163308~exp=9007200920904299~acl=/8dbe9fecaaf3445da9dc68101293d99c/*/profile_0/chunklist.m3u8*~hmac=6f48a5572725fdb7deae9c340319a579f8d95e7ceda9c4a427d4cc38be6eb03a
 
