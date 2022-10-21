@@ -130,6 +130,18 @@ http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115616&extension=
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=ts&play_token
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="https://i.imgur.com/zwodbF0.png" group-title="ASTRO",ASTRO.SUPERSPORTS 4 (21220)
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115618&extension=ts&play_token
+#EXTINF:-1 xui-id="3334297" tvg-id="AstroSuperSport.my" tvg-name="MY: Astro Supersport" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia/astro-supersport-hd-my.png?raw=true" group-title="ASTRO",MY: Astro Supersport
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E_gBYoqTXHg_4Z-JDGl5ga4 
+#EXTINF:-1 xui-id="3334161" tvg-id="AstroSuperSportUHD1.my" tvg-name="MY: Astro Supersport 1" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia/astro-supersport-hd-my.png?raw=true" group-title="ASTRO",MY: Astro Supersport 1
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E-AwLfm1kvQGBCYhkTt3iMQ 
+#EXTINF:-1 xui-id="3334294" tvg-id="AstroSuperSport2.my" tvg-name="MY: Astro Supersport 2" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia/astro-supersport-2-hd-my.png?raw=true" group-title="ASTRO",MY: Astro Supersport 2
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E6J8AFt85yygd-VM5_hEO3E 
+#EXTINF:-1 xui-id="3334295" tvg-id="AstroSuperSport3.my" tvg-name="MY: Astro Supersport 3" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia/astro-supersport-3-hd-my.png?raw=true" group-title="ASTRO",MY: Astro Supersport 3
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E82-pE3T7ZTGq5ibLemeCpw 
+#EXTINF:-1 xui-id="3334296" tvg-id="AstroSuperSport4.my" tvg-name="MY: Astro Supersport 4" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia/astro-supersport-4-hd-my.png?raw=true" group-title="ASTRO",MY: Astro Supersport 4
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E7GnyhqWbrAZQKWN60qv1uE
+#EXTINF:-1 xui-id="3334166" tvg-id="AstroSupersport5.my" tvg-name="MY: Astro Supersport 5 50fps" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia/astro-supersport-5-hd-my.png?raw=true" group-title="ASTRO",MY: Astro Supersport 5 50fps
+http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E-g7CSX-p-EhpK0fmrHOwP0 
 
 
 
@@ -804,3 +816,54 @@ http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/10015
 http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/10001
 #EXTINF:-1,BEIN SPORTS PREMIUM 2 HD (AR)
 http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/10000
+
+#EXTINF:-1 group-title="mo3ad", beIN ⚽ 1 Premium FHD
+http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/120
+#EXTINF:-1 group-title="mo3ad", beIN ⚽ 2 Premium FHD
+http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/121
+#EXTINF:-1 group-title="mo3ad", beIN ⚽ 3 Premium FHD
+http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/122
+#EXTINF:-1 group-title="mo3ad", beIN Sports 1 HD**
+http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/123
+#EXTINF:-1 group-title="mo3ad", beIN Sports 2 HD**
+http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/124
+#EXTINF:-1 group-title="mo3ad", beIN Sports 3 HD**
+http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/125
+#EXTINF:-1 group-title="mo3ad", beIN Sports 5 HD**
+http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/126
+#EXTINF:-1 group-title="mo3ad", beIN Sports 6 HD**
+http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/127
+#EXTINF:-1 group-title="mo3ad", beIN Sports 7 HD**
+http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/128
+#EXTINF:-1 group-title="mo3ad", ⚽ | beIN Sports 1 EN HD
+http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/156
+#EXTINF:-1 group-title="mo3ad", ⚽ | beIN Sports 2 EN HD
+http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/157
+#EXTINF:-1 group-title="mo3ad", ⚽ | beIN Sports 3 EN HD
+http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/158
+#EXTINF:-1 group-title="mo3ad", SuperSport Premier League
+http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/370
+#EXTINF:-1 group-title="mo3ad",SUPER SPORTS FOOTBALL
+http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/326
+#EXTINF:-1 group-title="mo3ad", ASTRO SPORTS 1
+http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/331
+#EXTINF:-1 group-title="mo3ad", ASTRO SPORTS 2
+http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/343
+#EXTINF:-1 group-title="mo3ad", PREMIER SPORTS 1 (UK)
+http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/345
+#EXTINF:-1 group-title="mo3ad", SPORT TV 1
+http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/365
+#EXTINF:-1 group-title="mo3ad", SPORT TV 2
+http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/366
+#EXTINF:-1 group-title="mo3ad", SPORT TV 3
+http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/367
+#EXTINF:-1 group-title="mo3ad", SPORT TV 4
+http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/368
+#EXTINF:-1 group-title="mo3ad", SPORT TV 5
+http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/369
+#EXTINF:-1 group-title="mo3ad", BR | SPORTV HD
+http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/348
+#EXTINF:-1 group-title="mo3ad", BR | SPORTV 2 HD
+http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/349
+#EXTINF:-1 group-title="mo3ad", BR | SPORTV 3 HD
+http://mo3ad.xyz:8080/mo3adZ66m7H/mo3adZ66m7H/350
