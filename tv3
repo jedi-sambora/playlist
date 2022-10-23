@@ -1043,4 +1043,28 @@ http://line.365tv.xyz:8060/lucky/jfdnndsfs/118344
 #EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 3 HD" tvg-logo="" group-title="LINE365 SPORTS",FR: BEIN SPORTS 3 HD
 http://line.365tv.xyz:8060/lucky/jfdnndsfs/118345
 
-
+#EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="[SPO**] Bein Sport Premium 01**" tvg-logo="http://superiptv1.com:2082/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="SUPERIPTV1 SPORTS",[SPO**] Bein Sport Premium 01**
+http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/26259
+#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="[SPO**] Bein Sport Premium 02**" tvg-logo="http://zredmonkey.com:2082/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="SUPERIPTV1 SPORTS",[SPO**] Bein Sport Premium 02**
+http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/26298
+#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="[SPO**] Bein Sport Premium 03**" tvg-logo="http://zredmonkey.com:2082/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="SUPERIPTV1 SPORTS",[SPO**] Bein Sport Premium 03**
+http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/26279
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="[SPO**] Bein Sport English 01**" tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="SUPERIPTV1 SPORTS",[SPO**] Bein Sport English 01**
+http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/26261
+http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/12895
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="[SPO**] Bein Sport English 02**" tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="SUPERIPTV1 SPORTS",[SPO**] Bein Sport English 02**
+http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/26262
+#EXTINF:-1 tvg-id="beinsports3en.qa" tvg-name="[SPO**] Bein Sport English 03**" tvg-logo="http://superiptv1.com:2082/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="SUPERIPTV1 SPORTS",[SPO**] Bein Sport English 03**
+http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/26289
+#EXTINF:-1 tvg-id="DAZN DE" tvg-name="[VIP DE]  DAZN Bar 1" tvg-logo="http://superiptv1.com:2082/images/2a9c9fe413c455fad2bf8de8f81112bd.png" group-title="SUPERIPTV1 SPORTS",[VIP DE]  DAZN Bar 1
+http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/45580
+#EXTINF:-1 tvg-id="" tvg-name="[SPO] ELEVEN Sports 1 HD (PT)" tvg-logo="http://smarters.ddns.net:8000/images/851ac643e03efdf1bd1e685f3a67db1d.png" group-title="SUPERIPTV1 SPORTS",[SPO] ELEVEN Sports 1 HD (PT)
+http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/13050
+#EXTINF:-1 tvg-id="" tvg-name="[SPO] ELEVEN Sports 2 HD (PT)" tvg-logo="http://smarters.ddns.net:8000/images/851ac643e03efdf1bd1e685f3a67db1d.png" group-title="SUPERIPTV1 SPORTS",[SPO] ELEVEN Sports 2 HD (PT)
+http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/13051
+#EXTINF:-1 tvg-id="" tvg-name="[SPO] ELEVEN Sports 3 HD (PT)" tvg-logo="http://smarters.ddns.net:8000/images/851ac643e03efdf1bd1e685f3a67db1d.png" group-title="SUPERIPTV1 SPORTS",[SPO] ELEVEN Sports 3 HD (PT)
+http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/13052
+#EXTINF:-1 tvg-id="" tvg-name="[SPO] ELEVEN Sports 4 HD (PT)" tvg-logo="http://superiptv1.com:2082/images/851ac643e03efdf1bd1e685f3a67db1d.png" group-title="SUPERIPTV1 SPORTS",[SPO] ELEVEN Sports 4 HD (PT)
+http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/13053
+#EXTINF:-1 tvg-id="" tvg-name="[SPO] ELEVEN Sports 5 HD (PT)" tvg-logo="http://smarters.ddns.net:8000/images/851ac643e03efdf1bd1e685f3a67db1d.png" group-title="SUPERIPTV1 SPORTS",[SPO] ELEVEN Sports 5 HD (PT)
+http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/13054
