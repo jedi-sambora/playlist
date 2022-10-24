@@ -147,6 +147,18 @@ http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E7GnyhqWbrAZQKWN60qv1uE
 #EXTINF:-1 xui-id="3334166" tvg-id="AstroSupersport5.my" tvg-name="MY: Astro Supersport 5 50fps" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia/astro-supersport-5-hd-my.png?raw=true" group-title="ASTRO",MY: Astro Supersport 5 50fps
 http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E-g7CSX-p-EhpK0fmrHOwP0 
 
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 " tvg-logo="https://i.imgur.com/dfV5HCf.png" group-title="ASTRO",ASTRO.SUPERSPORTS 1 (P2052)
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/1001265
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 " tvg-logo="ttps://i.imgur.com/EKA1xTZ.png" group-title="ASTRO",ASTRO.SUPERSPORTS 2 (P2052)
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/1001262
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 3 " tvg-logo="https://i.imgur.com/DDFBwJR.png" group-title="ASTRO",ASTRO.SUPERSPORTS 3 (P2052)
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/1001263
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 " tvg-logo="https://i.imgur.com/zwodbF0.png" group-title="ASTRO",ASTRO.SUPERSPORTS 4 (P2052)
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/1001264
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 5 " tvg-logo="https://i.imgur.com/dfV5HCf.png" group-title="ASTRO",ASTRO.SUPERSPORTS 5 (P2052)
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/1003865
+
+
 
 
 
@@ -700,3 +712,80 @@ http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/13052
 http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/13053
 #EXTINF:-1 tvg-id="" tvg-name="[SPO] ELEVEN Sports 5 HD (PT)" tvg-logo="http://smarters.ddns.net:8000/images/851ac643e03efdf1bd1e685f3a67db1d.png" group-title="SUPERIPTV1 SPORTS",[SPO] ELEVEN Sports 5 HD (PT)
 http://superiptv1.com:2082/Raeedtv2020RestreatM200/905367465299/13054
+
+#EXTINF:-1  group-title="P2052 SPORT", PL : ELEVEN SPORTS 1
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/1042881
+#EXTINF:-1  group-title="P2052 SPORT", PL : ELEVEN SPORTS 2
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/1042882
+#EXTINF:-1  group-title="P2052 SPORT", PL : ELEVEN SPORTS 3
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/1042883
+#EXTINF:-1  group-title="P2052 SPORT", PL : ELEVEN SPORTS 4
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/1042884
+#EXTINF:-1  group-title="P2052 SPORT", DSTV: SuperSport PREMIER LEAGE
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/975430
+#EXTINF:-1  group-title="P2052 SPORT", RO:  Digi Sport 1 HD
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/997391
+#EXTINF:-1  group-title="P2052 SPORT", RO: Digi Sport 2
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/997393
+#EXTINF:-1  group-title="P2052 SPORT", RO: Digi Sport 3
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/997394
+#EXTINF:-1  group-title="P2052 SPORT", RO:  Digi Sport 4
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/997396
+#EXTINF:-1  group-title="P2052 SPORT", BEIN SPORTS 1HD
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/191848
+#EXTINF:-1  group-title="P2052 SPORT", BEIN SPORTS 2HD
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/191849
+#EXTINF:-1  group-title="P2052 SPORT", BEIN SPORTS 3HD
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/191850
+#EXTINF:-1  group-title="P2052 SPORT", BEIN SPORTS 4HD
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/191851
+#EXTINF:-1  group-title="P2052 SPORT", BEIN SPORTS 7HD
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/191854
+#EXTINF:-1  group-title="P2052 SPORT", beIN Sports English 1
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/191858
+#EXTINF:-1  group-title="P2052 SPORT", beIN Sports English 2
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/191859
+#EXTINF:-1  group-title="P2052 SPORT", Bein Sports 5HD
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/270029
+#EXTINF:-1  group-title="P2052 SPORT", Bein Sports 6HD
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/270030
+#EXTINF:-1  group-title="P2052 SPORT", Bein Sport NBA
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/270038
+#EXTINF:-1  group-title="P2052 SPORT", UK: Sky Sports Premier Leaugue FHD 50FPS
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/749505
+#EXTINF:-1  group-title="P2052 SPORT", DSTV (AF) SS PREMIER LEAGUE  HD
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/872452
+#EXTINF:-1  group-title="P2052 SPORT", DSTV (AF) SS LALIGA  HD
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/872448
+#EXTINF:-1  group-title="P2052 SPORT", DSTV (AF) SS FOOTBALL  HD
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/872444
+#EXTINF:-1  group-title="P2052 SPORT", DSTV (AF) SS FOOTBALL PLUS HD
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/872445
+#EXTINF:-1  group-title="P2052 SPORT", DSTV (AF) SS Tennis HD
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/872454
+#EXTINF:-1  group-title="P2052 SPORT", 3PM: SuperSport Premier League
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/549796
+#EXTINF:-1  group-title="P2052 SPORT", 3PM: SuperSport Tennis
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/617861
+#EXTINF:-1  group-title="P2052 SPORT", PT: SPORT TV 1 SD
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/997810
+#EXTINF:-1  group-title="P2052 SPORT", PT: SPORT TV 1 HD
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/997811
+#EXTINF:-1  group-title="P2052 SPORT", PT: SPORT TV 1 FHD
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/997812
+#EXTINF:-1  group-title="P2052 SPORT", PT: SPORT TV 2 SD
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/997813
+#EXTINF:-1  group-title="P2052 SPORT", PT: Sport Tv 2 HD
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/997814
+#EXTINF:-1  group-title="P2052 SPORT", PT: SPORT TV 2 FHD
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/997815
+#EXTINF:-1  group-title="P2052 SPORT", PT: SPORT TV 3 SD
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/997816
+#EXTINF:-1  group-title="P2052 SPORT", PT: SPORT TV 3 HD
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/997817
+#EXTINF:-1  group-title="P2052 SPORT", PT: Sport TV 3 FHD
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/997818
+#EXTINF:-1  group-title="P2052 SPORT", PT: Sport TV 4 SD
+http://p2052.securepoint.io:2052/mRdTesTlIn3747489/vKYJWuQuw7Gh/997819
+
+
