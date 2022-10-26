@@ -86,12 +86,12 @@ https://production-drm-vidio-com-ctv-wc-2.akamaized.net/out/v1/816782c75a1b481c9
 https://sport.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 #EXTINF:-1 group-title="indonesia",MNC SPORT 1
 https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-#EXTINF:-1 group-title="indonesia",Denmark open c1
-https://bcovlive-a.akamaihd.net/926df14993e54e4a9de9a001e17e5cd8/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1666360406~exp=9007200921101397~acl=/926df14993e54e4a9de9a001e17e5cd8/*/profile_2/chunklist.m3u8*~hmac=7373abc28c728d54190bd2162c27609e83fe6537e004775010ccede631145950
+#EXTINF:-1 group-title="indonesia",french open c1
+https://bcovlive-a.akamaihd.net/60314b1553614da58b820a19f65ff2d5/ap-southeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1666769509~exp=9007200921510500~acl=/60314b1553614da58b820a19f65ff2d5/*/profile_0/chunklist.m3u8*~hmac=b267c52710d02c854311833c8e7b9c134d1fe84b764e09dd17f6d5b24f6f8490
 #EXTINF:-1 group-title="indonesia",Denmark open c2
-https://bcovlive-a.akamaihd.net/facbf6cdf3f647d48de51fda6e7d2d4b/ap-southeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1666360527~exp=9007200921101518~acl=/facbf6cdf3f647d48de51fda6e7d2d4b/*/profile_2/chunklist.m3u8*~hmac=8fd144ea8ae390349b888ed5869ee3a9636addc30d5a548976915d2f2ae90560
+https://bcovlive-a.akamaihd.net/facbf6cdf3f647d48de51fda6e7d2d4b/ap-southeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1666769597~exp=9007200921510588~acl=/facbf6cdf3f647d48de51fda6e7d2d4b/*/profile_0/chunklist.m3u8*~hmac=a9c28a750d1620bb3522f073cfc3386ea5dccbea11e80281f5ec250f63f0b2f1
 #EXTINF:-1 group-title="indonesia",Denmark open c3
-https://bcovlive-a.akamaihd.net/8dbe9fecaaf3445da9dc68101293d99c/ap-southeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1666163308~exp=9007200920904299~acl=/8dbe9fecaaf3445da9dc68101293d99c/*/profile_0/chunklist.m3u8*~hmac=6f48a5572725fdb7deae9c340319a579f8d95e7ceda9c4a427d4cc38be6eb03a
+
 
 #EXTINF:-1 group-title="PT SPORT",US : ESPN HD
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/9660
@@ -165,6 +165,14 @@ http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/157556
 http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/157557
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="ASTRO",MY: Astro SuperSport 4
 http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/157558
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 " tvg-logo="https://i.imgur.com/dfV5HCf.png" group-title="ASTRO",ASTRO.SUPERSPORTS 1 (qs)
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/146068
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 " tvg-logo="ttps://i.imgur.com/EKA1xTZ.png" group-title="ASTRO",ASTRO.SUPERSPORTS 2 (qs)
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/157556
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 3 " tvg-logo="https://i.imgur.com/DDFBwJR.png" group-title="ASTRO",ASTRO.SUPERSPORTS 3 (qs)
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/157557
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 " tvg-logo="https://i.imgur.com/zwodbF0.png" group-title="ASTRO",ASTRO.SUPERSPORTS (qs)
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/157558
 
 
 
