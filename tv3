@@ -88,9 +88,12 @@ https://sport.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8|Referer=ht
 https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 #EXTINF:-1 group-title="indonesia",french open c1
 https://bcovlive-a.akamaihd.net/60314b1553614da58b820a19f65ff2d5/ap-southeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1666769509~exp=9007200921510500~acl=/60314b1553614da58b820a19f65ff2d5/*/profile_0/chunklist.m3u8*~hmac=b267c52710d02c854311833c8e7b9c134d1fe84b764e09dd17f6d5b24f6f8490
-#EXTINF:-1 group-title="indonesia",Denmark open c2
+#EXTINF:-1 group-title="indonesia",french open c2
 https://bcovlive-a.akamaihd.net/facbf6cdf3f647d48de51fda6e7d2d4b/ap-southeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1666769597~exp=9007200921510588~acl=/facbf6cdf3f647d48de51fda6e7d2d4b/*/profile_0/chunklist.m3u8*~hmac=a9c28a750d1620bb3522f073cfc3386ea5dccbea11e80281f5ec250f63f0b2f1
-#EXTINF:-1 group-title="indonesia",Denmark open c3
+#EXTINF:-1 group-title="indonesia",french open c3
+https://dno-fifajs-native-major-hb.youku.com/fifa_jieshuo/YMQ-INTsignal3HB_sjb480.m3u8?auth_key=1698226142-0-0-3685456386836d2e6468f01175032129
+#EXTINF:-1 group-title="indonesia",french open c4
+https://dno-fifajs-native-major-hb.youku.com/fifa_jieshuo/YMQ-INTsignal4HB_sjb480.m3u8?auth_key=1698236030-0-0-73858445093b53f0f3e0ba6cde619c60
 
 
 #EXTINF:-1 group-title="PT SPORT",US : ESPN HD
