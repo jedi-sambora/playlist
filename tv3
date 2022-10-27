@@ -91,9 +91,9 @@ https://bcovlive-a.akamaihd.net/60314b1553614da58b820a19f65ff2d5/ap-southeast-1/
 #EXTINF:-1 group-title="indonesia",french open c2
 https://bcovlive-a.akamaihd.net/facbf6cdf3f647d48de51fda6e7d2d4b/ap-southeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1666769597~exp=9007200921510588~acl=/facbf6cdf3f647d48de51fda6e7d2d4b/*/profile_0/chunklist.m3u8*~hmac=a9c28a750d1620bb3522f073cfc3386ea5dccbea11e80281f5ec250f63f0b2f1
 #EXTINF:-1 group-title="indonesia",french open c3
-https://global.zkshuye.cn/live/ballbar_20900.m3u8
+https://bcovlive-a.akamaihd.net/8dbe9fecaaf3445da9dc68101293d99c/ap-southeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1666887271~exp=9007200921628262~acl=/8dbe9fecaaf3445da9dc68101293d99c/*/profile_2/chunklist.m3u8*~hmac=00f5b5847f2d6df6ea31630535aa433b86a679bd2a647162c4a5ebaae0e51d33
 #EXTINF:-1 group-title="indonesia",french open c4
-https://global.zkshuye.cn/live/ballbar_20780.m3u8
+https://global.zkshuye.cn/live/ballbar_6770.m3u8
 
 
 #EXTINF:-1 group-title="PT SPORT",US : ESPN HD
