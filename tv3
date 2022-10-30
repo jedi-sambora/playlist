@@ -87,13 +87,9 @@ https://sport.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8|Referer=ht
 #EXTINF:-1 group-title="indonesia",MNC SPORT 1
 https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 #EXTINF:-1 group-title="indonesia",french open c1
-https://bcovlive-a.akamaihd.net/88ed787ac7a249bf9a4135156d9f1781/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1667050482~exp=9007200921791473~acl=/88ed787ac7a249bf9a4135156d9f1781/*/profile_2/chunklist.m3u8*~hmac=76894392cc92ebbe4aa7fe99f464c4d1d7496762bfae0d2a9943fb7daa65dd83
-#EXTINF:-1 group-title="indonesia",french open c2
-https://bcovlive-a.akamaihd.net/facbf6cdf3f647d48de51fda6e7d2d4b/ap-southeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1666769597~exp=9007200921510588~acl=/facbf6cdf3f647d48de51fda6e7d2d4b/*/profile_0/chunklist.m3u8*~hmac=a9c28a750d1620bb3522f073cfc3386ea5dccbea11e80281f5ec250f63f0b2f1
+https://bcovlive-a.akamaihd.net/7376a505249549cc89769a2115f20846/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1667134318~exp=9007200921875309~acl=/7376a505249549cc89769a2115f20846/*/profile_2/chunklist.m3u8*~hmac=e516aac70c7a2862288e58d9c3685c84a52895b436971ae806078e4a47b28eee
 #EXTINF:-1 group-title="indonesia",wjc c1
-https://bcovlive-a.akamaihd.net/d578564561544716bd11b4af8d6ed4ea/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1667050219~exp=9007200921791210~acl=/d578564561544716bd11b4af8d6ed4ea/*/profile_2/chunklist.m3u8*~hmac=329e7786546b07a38ec46f486841270e0d04efc581fad3176c0c360ad4925fa1
-#EXTINF:-1 group-title="indonesia",french open c4
-https://global.zkshuye.cn/live/ballbar_6770.m3u8
+https://bcovlive-a.akamaihd.net/926df14993e54e4a9de9a001e17e5cd8/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1667134256~exp=9007200921875247~acl=/926df14993e54e4a9de9a001e17e5cd8/*/profile_2/chunklist.m3u8*~hmac=a6f4ca9d7f9e867196670fc0ebe6242197d983ef52796bb4572dcfdb450062e4
 
 
 #EXTINF:-1 group-title="PT SPORT",US : ESPN HD
