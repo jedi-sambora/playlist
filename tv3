@@ -1406,6 +1406,51 @@ http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/203864
 http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/204155
 #EXTINF:-1  group-title="Gameplay Sports",  SPORTV HD²
 http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/203867
+
+#EXTINF:-1 tvg-id="" tvg-name="RO:Digi Sport 1" tvg-logo="http://logo.ndasat.com/iptv/images/1155_romania-flag-small.jpg" group-title="DASAT SPORT",RO:Digi Sport 1
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1829
+#EXTINF:-1 tvg-id="" tvg-name="RO:Digi Sport 2" tvg-logo="http://logo.ndasat.com/iptv/images/1155_romania-flag-small.jpg" group-title="DASAT SPORT",RO:Digi Sport 2
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1830
+#EXTINF:-1 tvg-id="" tvg-name="RO:Digi Sport 3" tvg-logo="http://logo.ndasat.com/iptv/images/1155_romania-flag-small.jpg" group-title="DASAT SPORT",RO:Digi Sport 3
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1831
+#EXTINF:-1 tvg-id="" tvg-name="RO:Digi Sport 4" tvg-logo="http://logo.ndasat.com/iptv/images/1155_romania-flag-small.jpg" group-title="DASAT SPORT",RO:Digi Sport 4
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1832
+#EXTINF:-1 tvg-id="" tvg-name="AS:Super Sport1 AL" tvg-logo="http://logo.ndasat.com/iptv/images/11368_supersport1.png" group-title="DASAT SPORT",AS:Super Sport1 AL
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/110
+#EXTINF:-1 tvg-id="" tvg-name="AS:Super Sport2 AL" tvg-logo="http://logo.ndasat.com/iptv/images/86428_supersport2.png" group-title="DASAT SPORT",AS:Super Sport2 AL
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/111
+#EXTINF:-1 tvg-id="" tvg-name="AS:Super Sport3 AL" tvg-logo="http://logo.ndasat.com/iptv/images/60900_supersport3.png" group-title="DASAT SPORT",AS:Super Sport3 AL
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/112
+#EXTINF:-1 tvg-id="" tvg-name="AS:Super Sport4 AL" tvg-logo="http://logo.ndasat.com/iptv/images/62166_supersport4.png" group-title="DASAT SPORT",AS:Super Sport4 AL
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/113
+#EXTINF:-1 tvg-id="C1290.api.telerama.fr" tvg-name="FR:Bein Sport 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="DASAT SPORT",FR:Bein Sport 1 HD
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/7731
+#EXTINF:-1 tvg-id="C1304.api.telerama.fr" tvg-name="FR:Bein Sport 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="DASAT SPORT",FR:Bein Sport 2 HD
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/70
+#EXTINF:-1 tvg-id="C1335.api.telerama.fr" tvg-name="FR:Bein Sport 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="DASAT SPORT",FR:Bein Sport 3 HD
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/71
+#EXTINF:-1 tvg-id="C35.api.telerama.fr" tvg-name="FR:Canal+ Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_sport.png" group-title="DASAT SPORT",FR:Canal+ Sport
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/5190
+#EXTINF:-1 tvg-id="C1336.api.telerama.fr" tvg-name="FR:BEIN SPORT MAX4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-4-qa-fr.png" group-title="DASAT SPORT",FR:BEIN SPORT MAX4
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/978
+#EXTINF:-1 tvg-id="C1337.api.telerama.fr" tvg-name="FR:BEIN SPORT MAX5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_05_hd.png" group-title="DASAT SPORT",FR:BEIN SPORT MAX5
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/979
+#EXTINF:-1 tvg-id="C1338.api.telerama.fr" tvg-name="FR:BEIN SPORT MAX6" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_06_hd.png" group-title="DASAT SPORT",FR:BEIN SPORT MAX6
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/980
+#EXTINF:-1 tvg-id="C1339.api.telerama.fr" tvg-name="FR:BEIN SPORT MAX7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_07_hd.png" group-title="DASAT SPORT",FR:BEIN SPORT MAX7
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/981
+#EXTINF:-1 tvg-id="C1340.api.telerama.fr" tvg-name="FR:BEIN SPORT MAX8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_08_hd.png" group-title="DASAT SPORT",FR:BEIN SPORT MAX8
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/982
+#EXTINF:-1 tvg-id="" tvg-name="US:Tsn1" tvg-logo="http://logo.ndasat.com/iptv/images/88935_tsn1.png" group-title="DASAT SPORT",US:Tsn1
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1653
+#EXTINF:-1 tvg-id="" tvg-name="US:Tsn2" tvg-logo="http://logo.ndasat.com/iptv/images/43296_tsn2.png" group-title="DASAT SPORT",US:Tsn2
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1652
+#EXTINF:-1 tvg-id="" tvg-name="US:tsn3" tvg-logo="http://logo.ndasat.com/iptv/images/916_tsn3.png" group-title="DASAT SPORT",US:tsn3
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1651
+#EXTINF:-1 tvg-id="" tvg-name="US:Tsn4" tvg-logo="http://logo.ndasat.com/iptv/images/61077_tsn4.png" group-title="DASAT SPORT",US:Tsn4
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1650
+#EXTINF:-1 tvg-id="" tvg-name="US:Tsn5" tvg-logo="http://logo.ndasat.com/iptv/images/28682_tsn5.png" group-title="DASAT SPORT",US:Tsn5
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1649
  
 
 
