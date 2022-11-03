@@ -109,6 +109,17 @@ http://tptv.cz/get.php?username=5C4A0CD579DC411&password=E6MeYc5rom&type=m3u
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/46597
 #EXTINF:-1 group-title="PT SPORT",Sportv 2 HD BR
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/46596
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Sooka | SuperSport 1" tvg-logo="" group-title="ASTRO",Astro Sooka | SuperSport 1
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/1003861
+#EXTINF:-1 tvg-id="" tvg-name="Astro Sooka | SuperSport 2" tvg-logo="" group-title="ASTRO",Astro Sooka | SuperSport 2
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/1003862
+#EXTINF:-1 tvg-id="" tvg-name="Astro Sooka | SuperSport 3" tvg-logo="" group-title="ASTRO",Astro Sooka | SuperSport 3
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/1003863
+#EXTINF:-1 tvg-id="" tvg-name="Astro Sooka | SuperSport 4" tvg-logo="" group-title="ASTRO",Astro Sooka | SuperSport 4
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/1003864
+#EXTINF:-1 tvg-id="" tvg-name="Astro Sooka | SuperSport 5" tvg-logo="" group-title="ASTRO",Astro Sooka | SuperSport 5
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/1003865
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="ASTRO",ASTRO.SUPERSPORTS_1 HD TH MY
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115615
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="ASTRO",ASTRO.SUPERSPORTS_2 HD TH MY
@@ -1451,6 +1462,57 @@ http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1651
 http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1650
 #EXTINF:-1 tvg-id="" tvg-name="US:Tsn5" tvg-logo="http://logo.ndasat.com/iptv/images/28682_tsn5.png" group-title="DASAT SPORT",US:Tsn5
 http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1649
+
+#EXTINF:-1 tvg-id="" tvg-name="PL : ELEVEN EXTRA" tvg-logo="" group-title="TEE SPORT",PL : ELEVEN EXTRA
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/1042880
+#EXTINF:-1 tvg-id="" tvg-name="PL : ELEVEN SPORTS 1" tvg-logo="" group-title="TEE SPORT",PL : ELEVEN SPORTS 1
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/1042881
+#EXTINF:-1 tvg-id="" tvg-name="PL : ELEVEN SPORTS 2" tvg-logo="" group-title="TEE SPORT",PL : ELEVEN SPORTS 2
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/1042882
+#EXTINF:-1 tvg-id="" tvg-name="PL : ELEVEN SPORTS 3" tvg-logo="" group-title="TEE SPORT",PL : ELEVEN SPORTS 3
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/1042883
+#EXTINF:-1 tvg-id="" tvg-name="PL : ELEVEN SPORTS 4" tvg-logo="" group-title="TEE SPORT",PL : ELEVEN SPORTS 4
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/1042884
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BEIN SPORTS 1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="TEE SPORT",BEIN SPORTS 1HD
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/191848
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BEIN SPORTS 2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="TEE SPORT",BEIN SPORTS 2HD
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/191849
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="BEIN SPORTS 3HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="TEE SPORT",BEIN SPORTS 3HD
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/191850
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="BEIN SPORTS 4HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="TEE SPORT",BEIN SPORTS 4HD
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/191851
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="BEIN SPORTS 7HD" tvg-logo="https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/27/beIN-MAX7.png" group-title="TEE SPORT",BEIN SPORTS 7HD
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/191854
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="beIN Sports English 1" tvg-logo="https://iptv4free.net/assets/images/channel/channel_featured_1565972989.png" group-title="TEE SPORT",beIN Sports English 1
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/191858
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="beIN Sports English 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/12-HD.png" group-title="TEE SPORT",beIN Sports English 2
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/191859
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="Bein Sports 5HD" tvg-logo="https://cdn.bein.net/ca/wp-content/uploads/2016/05/beIN-Sports-logo-5-1024x389.png" group-title="TEE SPORT",Bein Sports 5HD
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/270029
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="Bein Sports 6HD" tvg-logo="https://4.bp.blogspot.com/-1dPQNlxlceA/WlPXHfNatgI/AAAAAAAAAcg/qi8He1MCorIajq3clE6MYD1oLAy90ig6ACLcBGAs/s1600/6-HD.png" group-title="TEE SPORT",Bein Sports 6HD
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/270030
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport NBA" tvg-logo="" group-title="TEE SPORT",Bein Sport NBA
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/270038
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="3PM: SuperSport Premier League" tvg-logo="https://1.bp.blogspot.com/_Fv90J7eTcis/SxYK-6k1B3I/AAAAAAAAAzE/o_9rlZ9rOg0/w1200-h630-p-k-no-nu/SuperSport+HD_2009_logo.png" group-title="TEE SPORT",3PM: SuperSport Premier League
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/549796
+#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="3PM: SuperSport LaLiga" tvg-logo="https://1.bp.blogspot.com/_Fv90J7eTcis/SxYK-6k1B3I/AAAAAAAAAzE/o_9rlZ9rOg0/w1200-h630-p-k-no-nu/SuperSport+HD_2009_logo.png" group-title="TEE SPORT",3PM: SuperSport LaLiga
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/549785
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="3PM: SuperSport Football" tvg-logo="https://1.bp.blogspot.com/_Fv90J7eTcis/SxYK-6k1B3I/AAAAAAAAAzE/o_9rlZ9rOg0/w1200-h630-p-k-no-nu/SuperSport+HD_2009_logo.png" group-title="TEE SPORT",3PM: SuperSport Football
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/549791
+#EXTINF:-1 tvg-id="supersportfootballplus.za" tvg-name="DSTV: SuperSport Football Plus HD" tvg-logo="" group-title="TEE SPORT",DSTV: SuperSport Football Plus HD
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/872328
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="TEE SPORT",PT: SPORT TV 1 HD
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/997811
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport Tv 2 HD" tvg-logo="" group-title="TEE SPORT",PT: Sport Tv 2 HD
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/997814
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="TEE SPORT",PT: SPORT TV 3 HD
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/997817
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 4 HD" tvg-logo="" group-title="TEE SPORT",PT: Sport TV 4 HD
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/997820
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 5 HD" tvg-logo="" group-title="TEE SPORT",PT: Sport TV 5 HD
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/997823
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport Tv 6 HD" tvg-logo="" group-title="TEE SPORT",PT: Sport Tv 6 HD
+http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/997826
  
 
 
