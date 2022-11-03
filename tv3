@@ -75,11 +75,11 @@ https://sport.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8|Referer=ht
 #EXTINF:-1 group-title="indonesia",MNC SPORT 1
 https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 #EXTINF:-1 group-title="indonesia",Hylo c1
-https://dno-fifajs-native-major-hb.youku.com/fifa_jieshuo/YMQ-INTsignal1HB_sjb480.m3u8?auth_key=1698404078-0-0-c10dd58c5d7024c28e6c88772cba58e1
+https://bcovlive-a.akamaihd.net/60314b1553614da58b820a19f65ff2d5/ap-southeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1667414162~exp=9007200922155153~acl=/60314b1553614da58b820a19f65ff2d5/*/profile_2/chunklist.m3u8*~hmac=18e55efe0f889c18eba24f060921d3046385bcc53bb64971597b4cc2999db3fc
 #EXTINF:-1 group-title="indonesia",Hylo c2
-https://live17-nlxjdhtocy.zhibo.tv/8live/s_2708482_800.m3u8
+https://bcovlive-a.akamaihd.net/facbf6cdf3f647d48de51fda6e7d2d4b/ap-southeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1 group-title="indonesia",Hylo c3
-https://live17-nlxjdhtocy.zhibo.tv/8live/s_2708483_800.m3u8
+https://live17-nlxjdhtocy.zhibo.tv/8live/s_2708483_800.m3u8?k=cf4e1b2dc3f366a3d76e4fabffaea836&t=63624dfc
 #EXTINF:-1 group-title="indonesia",wjc c1
 https://bcovlive-a.akamaihd.net/926df14993e54e4a9de9a001e17e5cd8/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1667134256~exp=9007200921875247~acl=/926df14993e54e4a9de9a001e17e5cd8/*/profile_2/chunklist.m3u8*~hmac=a6f4ca9d7f9e867196670fc0ebe6242197d983ef52796bb4572dcfdb450062e4
 
