@@ -167,6 +167,14 @@ http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/157556
 http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/157557
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="ASTRO",MY: Astro SuperSport 4
 http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/157558
+#EXTINF:-1  group-title="Astro  SPORT", MY: ASTRO SUPERSPORTS 1 FHD (sib)
+ http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/52859.ts
+#EXTINF:-1  group-title="Astro  SPORT",MY: ASTRO SUPERSPORTS 2 FHD (sib)
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/52860.ts
+#EXTINF:-1  group-title="Astro  SPORT",MY: ASTRO SUPERSPORTS 3 FHD (sib)
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/52861.ts
+#EXTINF:-1  group-title="Astro  SPORT", MY: ASTRO SUPERSPORTS 4 FHD (sib)
+ http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/52862.ts
 
 
 
@@ -1687,3 +1695,56 @@ http://iptv-tn.com:8080/STAR10/STAR10/18869
 http://iptv-tn.com:8080/STAR10/STAR10/18870
 #EXTINF:-1  group-title="iptv-tn  SPORT",PT:  SPORT TV 3 
 http://iptv-tn.com:8080/STAR10/STAR10/18871
+
+#EXTINF:-1  group-title="SIP  SPORT",DE: DAZN 2 HD
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/54512.ts
+#EXTINF:-1  group-title="SIP  SPORT",DE: DAZN 1 BAR HD
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/54513.ts
+#EXTINF:-1  group-title="SIP  SPORT",	de: DAZN 1 HD
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/50878.ts
+#EXTINF:-1  group-title="SIP  SPORT",	ES: DAZN 1 HD
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/53387.ts
+#EXTINF:-1  group-title="SIP  SPORT",	ES: DAZN 2 HD
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/53388.ts
+#EXTINF:-1  group-title="SIP  SPORT",	ES: DAZN 3 HD
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/53389.ts
+#EXTINF:-1  group-title="SIP  SPORT",	ES: DAZN 4 HD
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/53390.ts
+#EXTINF:-1  group-title="SIP  SPORT", DIGI SPORT 1 
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/46984.ts
+#EXTINF:-1  group-title="SIP  SPORT", DIGI SPORT 2 
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/46983.ts
+#EXTINF:-1  group-title="SIP  SPORT", DIGI SPORT 3 
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/46982.ts
+#EXTINF:-1  group-title="SIP  SPORT", DIGI SPORT 4 
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/46981.ts
+#EXTINF:-1  group-title="SIP  SPORT", PL: ELEVEN SPORT 1 
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/47456.ts
+#EXTINF:-1  group-title="SIP  SPORT", PL: ELEVEN SPORT 2 
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/47455.ts
+#EXTINF:-1  group-title="SIP  SPORT", PL: ELEVEN SPORT 3 
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/47454.ts
+#EXTINF:-1  group-title="SIP  SPORT", PL: ELEVEN SPORT 4 
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/50293.ts
+#EXTINF:-1  group-title="SIP  SPORT", BR: SporTV 
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/3854.ts
+#EXTINF:-1  group-title="SIP  SPORT", BR: SporTV 2
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/3855.ts
+#EXTINF:-1  group-title="SIP  SPORT", BR: SporTV 3
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/3856.ts
+#EXTINF:-1  group-title="SIP  SPORT", Bein sport Premium 1
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/9.ts
+#EXTINF:-1  group-title="SIP  SPORT", Bein sport Premium 2
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/8.ts
+#EXTINF:-1  group-title="SIP  SPORT", Bein sport Premium 3
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/11.ts
+#EXTINF:-1  group-title="SIP  SPORT", IT : Tennis
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/1439.ts
+#EXTINF:-1  group-title="SIP  SPORT", SkY Sport : Tennis
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/54622.ts
+#EXTINF:-1  group-title="SIP  SPORT", Super Sport : Premier Leage
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/52299.ts
+#EXTINF:-1  group-title="SIP  SPORT", Super Sport : La liga
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/52294.ts
+#EXTINF:-1  group-title="SIP  SPORT",SuperSport Football HD 
+http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/52874.ts
