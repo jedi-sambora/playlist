@@ -941,58 +941,83 @@ http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/997823
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport Tv 6 HD" tvg-logo="" group-title="TEE SPORT",PT: Sport Tv 6 HD
 http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/997826
 
-#EXTINF:-1group-title="31.14  SPORT",RO: DIGI SPORT 1 HD
+#EXTINF:-1 group-title="31.14  SPORT",RO: DIGI SPORT 1 HD
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/39238
-#EXTINF:-1group-title="31.14  SPORT",RO: DIGI SPORT 2 HD
+#EXTINF:-1 group-title="31.14  SPORT",RO: DIGI SPORT 2 HD
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/39240
-#EXTINF:-1group-title="31.14  SPORT",RO: DIGI SPORT 4 HD
+#EXTINF:-1 group-title="31.14  SPORT",RO: DIGI SPORT 4 HD
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/39243
-#EXTINF:-1group-title="31.14  SPORT",RO: DIGI SPORT 3 HD
+#EXTINF:-1 group-title="31.14  SPORT",RO: DIGI SPORT 3 HD
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/38528
-#EXTINF:-1group-title="31.14  SPORT",[DE] DAZN 1 HD
+#EXTINF:-1 group-title="31.14  SPORT",[DE] DAZN 1 HD
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36811
-#EXTINF:-1group-title="31.14  SPORT",[DE] DAZN 2 HD
+#EXTINF:-1 group-title="31.14  SPORT",[DE] DAZN 2 HD
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36812
-#EXTINF:-1group-title="31.14  SPORT",bein Sports USA | HD
+#EXTINF:-1 group-title="31.14  SPORT",bein Sports USA | HD
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/53185
-#EXTINF:-1group-title="31.14  SPORT",US: Bein Sports 2 | (ES)
+#EXTINF:-1 group-title="31.14  SPORT",US: Bein Sports 2 | (ES)
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/53186
-#EXTINF:-1group-title="31.14  SPORT",US: BeIN Sports 4 | HD*
+#EXTINF:-1 group-title="31.14  SPORT",US: BeIN Sports 4 | HD*
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/53188
-#EXTINF:-1group-title="31.14  SPORT",US: BeIN Sports 6 | HD*
+#EXTINF:-1 group-title="31.14  SPORT",US: BeIN Sports 6 | HD*
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/53190
-#EXTINF:-1group-title="31.14  SPORT",US: BeIN Sports 7 | HD*
+#EXTINF:-1 group-title="31.14  SPORT",US: BeIN Sports 7 | HD*
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/53191
-#EXTINF:-1group-title="31.14  SPORT",US: BeIN Sports 8 | HD*
+#EXTINF:-1 group-title="31.14  SPORT",US: BeIN Sports 8 | HD*
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/53192
-#EXTINF:-1group-title="31.14  SPORT",US: BeIN Sports 12| HD*
+#EXTINF:-1 group-title="31.14  SPORT",US: BeIN Sports 12| HD*
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/53196
-#EXTINF:-1group-title="31.14  SPORT",VIP BT SPORT 1 UHD
+#EXTINF:-1 group-title="31.14  SPORT",VIP BT SPORT 1 UHD
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/147254
-#EXTINF:-1group-title="31.14  SPORT",VIP BT SPORT 2 UHD
+#EXTINF:-1 group-title="31.14  SPORT",VIP BT SPORT 2 UHD
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/147255
-#EXTINF:-1group-title="31.14  SPORT",VIP BT SPORT 3 UHD
+#EXTINF:-1 group-title="31.14  SPORT",VIP BT SPORT 3 UHD
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/147256
-#EXTINF:-1group-title="31.14  SPORT",UK : BT Sport 2 SD
+#EXTINF:-1 group-title="31.14  SPORT",UK : BT Sport 2 SD
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/147264
-#EXTINF:-1group-title="31.14  SPORT",UK : BT Sport 3 SD
+#EXTINF:-1 group-title="31.14  SPORT",UK : BT Sport 3 SD
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/147265
-#EXTINF:-1group-title="31.14  SPORT",UK : BT Sport ESPN HD
+#EXTINF:-1 group-title="31.14  SPORT",UK : BT Sport ESPN HD
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/147266
-#EXTINF:-1group-title="31.14  SPORT",UK : BT Sport ESPN SD
+#EXTINF:-1 group-title="31.14  SPORT",UK : BT Sport ESPN SD
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/147267
-#EXTINF:-1group-title="31.14  SPORT",UK : Premier Sports 1 HD
+#EXTINF:-1 group-title="31.14  SPORT",UK : Premier Sports 1 HD
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/147277
-#EXTINF:-1group-title="31.14  SPORT",UK : Premier Sports 2 HD
+#EXTINF:-1 group-title="31.14  SPORT",UK : Premier Sports 2 HD
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/147278
-#EXTINF:-1group-title="31.14  SPORT",TSN 1
+#EXTINF:-1 group-title="31.14  SPORT",TSN 1
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/19933
-#EXTINF:-1group-title="31.14  SPORT",TSN 2
+#EXTINF:-1 group-title="31.14  SPORT",TSN 2
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/19934
-#EXTINF:-1group-title="31.14  SPORT",TSN 3
+#EXTINF:-1 group-title="31.14  SPORT",TSN 3
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/19935
-#EXTINF:-1group-title="31.14  SPORT",TSN 4 
+#EXTINF:-1 group-title="31.14  SPORT",TSN 4 
 http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/19936
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="31.14  SPORT",UK: SKY SPORTS ACTION HD (750 CON)
+http://31.14.41.118:8080/Manwithplan2021/ry928rB8ES/147279
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="31.14  SPORT",UK: SKY SPORTS ARENA HD (750 CON)
+http://31.14.41.118:8080/Manwithplan2021/ry928rB8ES/147280
+#EXTINF:0 tvg-id="SkySpBoxOff.uk" group-title="31.14  SPORT",UK: SKY SPORTS BOX OFFICE (750 CON)
+http://31.14.41.118:8080/Manwithplan2021/ry928rB8ES/147281
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="31.14  SPORT",UK: SKY SPORTS CRICKET FHD (750 CON)
+http://31.14.41.118:8080/Manwithplan2021/ry928rB8ES/147282
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="31.14  SPORT",UK: SKY SPORTS F1 HD (750 CON)
+http://31.14.41.118:8080/Manwithplan2021/ry928rB8ES/147283
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="31.14  SPORT",UK: SKY SPORTS FOOTBALL FHD (750 CON)
+http://31.14.41.118:8080/Manwithplan2021/ry928rB8ES/147284
+#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="31.14  SPORT",UK: SKY SPORTS GOLF HD (750 CON)
+http://31.14.41.118:8080/Manwithplan2021/ry928rB8ES/147285
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="31.14  SPORT",UK: SKY SPORTS MAIN EVENT HD (750 CON)
+http://31.14.41.118:8080/Manwithplan2021/ry928rB8ES/147286
+#EXTINF:0 tvg-id="SkySpMix.uk" group-title="31.14  SPORT",UK: Sky Sports Mix FHD (750 CON)
+http://31.14.41.118:8080/Manwithplan2021/ry928rB8ES/147287
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="31.14  SPORT",UK: SKY SPORTS NEWS HD (750 CON)
+http://31.14.41.118:8080/Manwithplan2021/ry928rB8ES/147288
+#EXTINF:0 tvg-id="ext" group-title="31.14  SPORT",UK: SKY SPORTS PL HD (750 CON)
+http://31.14.41.118:8080/Manwithplan2021/ry928rB8ES/147289
+#EXTINF:0 tvg-id="ext" group-title="31.14  SPORT",UK: SKY SPORTS RACING (750 CON)
+http://31.14.41.118:8080/Manwithplan2021/ry928rB8ES/147290
+
 
 #EXTINF: -1 group-title="Domino  SPORT",FR: BEIN SPORTS 1
 http://dominoiptv.com:2082/Fauconcon/pzAXuZwFdAjy/20831
