@@ -110,26 +110,22 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/46597
 #EXTINF:-1 group-title="PT SPORT",Sportv 2 HD BR
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/46596
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 1" tvg-logo="http://p2086.securepoint.io:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="ASTRO SPORTS",SPORTS : ASTRO SUPERSPORT 1
+#EXTINF:0 tvg-id="ext" group-title="ASTRO",MY: Astro SuperSport 1
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/146068
+#EXTINF:0 tvg-id="ext" group-title="ASTRO",MY: Astro SuperSport 2
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/157556
+#EXTINF:0 tvg-id="ext" group-title="ASTRO",MY: Astro SuperSport 4
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/157558
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 1" tvg-logo="http://p2086.securepoint.io:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="ASTRO",SPORTS : ASTRO SUPERSPORT 1
 http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/104485.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 2" tvg-logo="http://p2086.securepoint.io:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="ASTRO SPORTS",SPORTS : ASTRO SUPERSPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 2" tvg-logo="http://p2086.securepoint.io:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="ASTRO",SPORTS : ASTRO SUPERSPORT 2
 http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/104486.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 3" tvg-logo="http://p2086.securepoint.io:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="ASTRO SPORTS",SPORTS : ASTRO SUPERSPORT 3
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 3" tvg-logo="http://p2086.securepoint.io:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="ASTRO",SPORTS : ASTRO SUPERSPORT 3
 http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/104487.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 4" tvg-logo="http://p2086.securepoint.io:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="ASTRO SPORTS",SPORTS : ASTRO SUPERSPORT 4
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 4" tvg-logo="http://p2086.securepoint.io:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="ASTRO",SPORTS : ASTRO SUPERSPORT 4
 http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/104488.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 5" tvg-logo="http://p2086.securepoint.io:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="ASTRO SPORTS",SPORTS : ASTRO SUPERSPORT 5
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 5" tvg-logo="http://p2086.securepoint.io:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="ASTRO",SPORTS : ASTRO SUPERSPORT 5
 http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/104489.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astro Sooka | SuperSport 1" tvg-logo="" group-title="ASTRO",Astro Sooka | SuperSport 1
-http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/1003861
-#EXTINF:-1 tvg-id="" tvg-name="Astro Sooka | SuperSport 2" tvg-logo="" group-title="ASTRO",Astro Sooka | SuperSport 2
-http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/1003862
-#EXTINF:-1 tvg-id="" tvg-name="Astro Sooka | SuperSport 3" tvg-logo="" group-title="ASTRO",Astro Sooka | SuperSport 3
-http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/1003863
-#EXTINF:-1 tvg-id="" tvg-name="Astro Sooka | SuperSport 4" tvg-logo="" group-title="ASTRO",Astro Sooka | SuperSport 4
-http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/1003864
-#EXTINF:-1 tvg-id="" tvg-name="Astro Sooka | SuperSport 5" tvg-logo="" group-title="ASTRO",Astro Sooka | SuperSport 5
-http://teeveetv.one:2052/jasonevansline/0jyvB88Sj6/1003865
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="ASTRO",ASTRO.SUPERSPORTS_1 HD TH MY
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115615
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="ASTRO",ASTRO.SUPERSPORTS_2 HD TH MY
@@ -1662,3 +1658,144 @@ http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/1884
 http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/1827
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 HD" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="DNSCLIENT  SPORT",ESPN 3 HD
 http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/2103
+
+#EXTINF:0 tvg-id="elevensports1.pt" group-title="Vasprodtv ➾ SPORT",PT: ELEVEN SPORTS 1
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/1499
+#EXTINF:0 tvg-id="elevensports2.pt" group-title="Vasprodtv ➾ SPORT",PT: ELEVEN SPORTS 2
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/1503
+#EXTINF:0 tvg-id="elevensports2.pt" group-title="Vasprodtv ➾ SPORT",PT: ELEVEN SPORTS 3
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/1506
+#EXTINF:0 tvg-id="RMCSport1.fr" group-title="Vasprodtv ➾ SPORT",FR: RMC SPORT 1
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/1937
+#EXTINF:0 tvg-id="RMCSport2.fr" group-title="Vasprodtv ➾ SPORT",FR: RMC SPORT 2
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/1938
+#EXTINF:0 tvg-id="RMCSport3.fr" group-title="Vasprodtv ➾ SPORT",FR: RMC SPORT 3
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/279991
+#EXTINF:0 tvg-id="RMCSport4.fr" group-title="Vasprodtv ➾ SPORT",FR: RMC SPORT 4
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/279752
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ZA: SuperSport Grandstand
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/194353
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ZA: SuperSport LaLiga
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/194358
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ZA: SuperSport Football
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/38575
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ZA: SuperSport Maximo 1
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/38572
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ZA: SuperSport Premier League
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/11642
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ZA: SuperSport Tennis
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/15200
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports 1
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/100
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports 2
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/101
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports 3
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/102
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports 4
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/103
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports 5
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/104
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports 6
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/105
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports 7
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/106
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports English 1
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/110
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports English 2
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/111
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports English 3
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/267769
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports Premium 1
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/109
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports Premium 2
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/280145
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports Premium 3
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/280249
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports Xtra 1
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/290037
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports Xtra 2
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/283294
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Vasprodtv ➾ SPORT"FR: beIN Sports 1
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/144
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Vasprodtv ➾ SPORT"FR: beIN Sports 2
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/145
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="Vasprodtv ➾ SPORT"FR: beIN Sports 3
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/146
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT"FR: CANAL+ Premier League
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/286794
+#EXTINF:0 tvg-id="DigiSport1.ro" group-title="Vasprodtv ➾ SPORT"RO: DIGI SPORT 1
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/71457
+#EXTINF:0 tvg-id="DigiSport2.ro" group-title="Vasprodtv ➾ SPORT"RO: DIGI SPORT 2
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/71459
+#EXTINF:0 tvg-id="DigiSport3.ro" group-title="Vasprodtv ➾ SPORT"RO: DIGI SPORT 3
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/2243
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT"RO: DIGI SPORT 4
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/4219
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ES: DAZN 1
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/64711
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ES: DAZN 2
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/64712
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ES: DAZN 3
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/269912
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ES: DAZN 4
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/269911
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",DE: DAZN 1
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/48355
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",DE: DAZN 2
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/2387
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ES: MOVISTAR LaLiga
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/1141
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ES: MOVISTAR LaLiga 2
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5311
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ES: MOVISTAR LaLiga 3
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/281772
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ES: MOVISTAR LaLiga 5
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/281792
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ES: MOVISTAR LIGA DE CAMPEONES
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/2800
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ES: MOVISTAR LIGA DE CAMPEONES 2
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/81096
+#EXTINF:0 tvg-id="SkySport1.de" group-title="Vasprodtv ➾ SPORT",DE: Sky Sport 1
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/202100
+#EXTINF:0 tvg-id="SkySport2.de" group-title="Vasprodtv ➾ SPORT",DE: Sky Sport 2
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/8215
+#EXTINF:0 tvg-id="SkySport3.de" group-title="Vasprodtv ➾ SPORT",DE: Sky Sport 3
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/72238
+#EXTINF:0 tvg-id="SkySport4.de" group-title="Vasprodtv ➾ SPORT",DE: Sky Sport 4
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/32708
+#EXTINF:0 tvg-id="SkySport5.de" group-title="Vasprodtv ➾ SPORT",DE: Sky Sport 5
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/13497
+#EXTINF:0 tvg-id="SkySport6.de" group-title="Vasprodtv ➾ SPORT",DE: Sky Sport 6
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/31445
+#EXTINF:0 tvg-id="SkySport7.de" group-title="Vasprodtv ➾ SPORT",DE: Sky Sport 7
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/2133
+#EXTINF:0 tvg-id="SkySport8.de" group-title="Vasprodtv ➾ SPORT",DE: Sky Sport 8
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/4489
+#EXTINF:0 tvg-id="SkySport9.de" group-title="Vasprodtv ➾ SPORT",DE: Sky Sport 9
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/147341
+#EXTINF:0 tvg-id="SkySport10.de" group-title="Vasprodtv ➾ SPORT",DE: Sky Sport 10
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/147342
+#EXTINF:0 tvg-id="TennisChannel.us" group-title="Vasprodtv ➾ SPORT",US: Tennis Channel
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/2275
+#EXTINF:0 tvg-id="Espn.br" group-title="Vasprodtv ➾ SPORT"",BR: ESPN
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/8793
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT"",BR: ESPN 2
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/8801
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT"",BR: ESPN 3
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/290657
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT"",BR: ESPN Extra
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/8789
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="Vasprodtv ➾ SPORT"",BR: FOX SPORTS 2
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/8776
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT"",BR: SPORTV
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/4015
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT"",BR: SPORTV 2
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/8783
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT"",BR: SPORTV 3
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/8784
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT"",BR: TNT Sports 3
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/286128
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT"",BR: TNT Sports 4
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/286129
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT"",BR: TNT Sports 5
+http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/286130
