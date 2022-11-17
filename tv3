@@ -24,6 +24,26 @@ http://103.166.102.58:8000/play/a01d
 http://103.166.102.58:8000/play/a00v
 #EXTINF:-1 group-title="Movie" tvg-name="Movie" tvg-logo="http://62.182.85.43/poster/STAR.MOVIES.png",IND ➤ STAR MOVIES SELECTED HD
 http://103.179.246.243:8000/play/a00v
+#EXTINF:-1 group-title="Movie",CineBOX 1
+http://sharkytv.com:2082/woiptv-teleg/X8WKKWmzxYaQ/19434
+#EXTINF:-1 group-title= "Movie",CineBox 2 4K
+http://sharkytv.com:2082/woiptv-teleg/X8WKKWmzxYaQ/27650
+#EXTINF:-1 group-title= "Movie",CineBox 3 4K
+http://sharkytv.com:2082/woiptv-teleg/X8WKKWmzxYaQ/27579
+#EXTINF:-1 group-title= "Movie",CineBox 4 4K
+http://sharkytv.com:2082/woiptv-teleg/X8WKKWmzxYaQ/205685
+#EXTINF:-1 group-title= "Movie",CineBox 5 4K
+http://sharkytv.com:2082/woiptv-teleg/X8WKKWmzxYaQ/205686
+#EXTINF:-1 group-title= "Movie",CineBox 6 4K
+http://sharkytv.com:2082/woiptv-teleg/X8WKKWmzxYaQ/205687
+#EXTINF:-1 group-title= "Movie",CineBox 7 4K
+http://sharkytv.com:2082/woiptv-teleg/X8WKKWmzxYaQ/205688
+#EXTINF:-1 group-title= "Movie",CineBox 8 4K
+http://sharkytv.com:2082/woiptv-teleg/X8WKKWmzxYaQ/205689
+#EXTINF:-1 group-title= "Movie",CineBox 9 4K
+http://sharkytv.com:2082/woiptv-teleg/X8WKKWmzxYaQ/205690
+#EXTINF:-1 group-title= "Movie",CineBox 10 4K
+http://sharkytv.com:2082/woiptv-teleg/X8WKKWmzxYaQ/205691
 
 #EXTINF:-1 group-title="Movie",HBO
 #http://mkcfc.freevar.com/pess/hbo.m3u8
