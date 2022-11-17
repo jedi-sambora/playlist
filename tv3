@@ -2,6 +2,7 @@
 #https://dukuntech.com:443/playlist/TRIAL/TRIAL/m3u_plus
 #http://admin.nf21.net/go/files/1
 #https://raw.githubusercontent.com/ShareExt-Group/ShareExt/main/UpdateFile
+#EXTM3U url-tvg="https://kodi.botallen.com/tv/epg.xml"
 #EXTINF:-1 group-title="Movie",Douyu Movie
 https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
 #EXTINF:-1 group-title="Movie",Movies X
@@ -2276,6 +2277,66 @@ http://quality-restream.com:8080/asiantv/f2ba3832f4/4015
 http://quality-restream.com:8080/asiantv/f2ba3832f4/8783
 #EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/50dc54d140bb68ee92fc1aa01bec5bb5.png" group-title="QR ➾ SPORT",BR: SPORTV 3
 http://quality-restream.com:8080/asiantv/f2ba3832f4/8784
+
+#EXTINF:-1 group-title="restream➾ SPORT",FR -- BEINSPORT 1 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/387
+#EXTINF:-1 group-title="restream➾ SPORT",FR -- BEINSPORT 2 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/388
+#EXTINF:-1 group-title="restream➾ SPORT",FR -- BEINSPORT 3 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/389
+#EXTINF:-1 group-title="restream➾ SPORT",FR -- BEINSPORT MAX 4
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/390
+#EXTINF:-1 group-title="restream➾ SPORT",FR -- BEINSPORT MAX 5
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/391
+#EXTINF:-1 group-title="restream➾ SPORT",FR --. BEINSPORT MAX 6
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/392
+#EXTINF:-1 group-title="restream➾ SPORT",FR -- BEINSPORT MAX 7
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/393
+#EXTINF:-1 group-title="restream➾ SPORT",FR -- BEINSPORT MAX 8
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/394
+#EXTINF:-1 group-title="restream➾ SPORT",FR -- BEINSPORT MAX 9
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/395
+#EXTINF:-1 group-title="restream➾ SPORT",FR -- BEINSPORT MAX 10
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/396
+#EXTINF:-1 group-title="restream➾ SPORT",FR -- RMC SPORT 1 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/402
+#EXTINF:-1 group-title="restream➾ SPORT",FR -- RMC SPORT 2 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/403
+#EXTINF:-1 group-title="restream➾ SPORT",FR -- RMC SPORT 3 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/404
+#EXTINF:-1 group-title="restream➾ SPORT",Sport Klub 6
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/371
+#EXTINF:-1 group-title="restream➾ SPORT",Sport Klub 5
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/372
+#EXTINF:-1 group-title="restream➾ SPORT",Sport Klub 4
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/373
+#EXTINF:-1 group-title="restream➾ SPORT",Sport Klub 3
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/374
+#EXTINF:-1 group-title="restream➾ SPORT",Sport Klub 2
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/375
+#EXTINF:-1 group-title="restream➾ SPORT",Sport Klub 1
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/376
+#EXTINF:-1 group-title="restream➾ SPORT",Arena Sport 5 RS
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/377
+#EXTINF:-1 group-title="restream➾ SPORT",Arena Sport 5 HR
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/378
+#EXTINF:-1 group-title="restream➾ SPORT",Arena Sport 4 RS
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/379
+#EXTINF:-1 group-title="restream➾ SPORT",Arena Sport 4 HR
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/380
+#EXTINF:-1 group-title="restream➾ SPORT",Arena Sport 3 RS
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/381
+#EXTINF:-1 group-title="restream➾ SPORT",Arena Sport 3 HR
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/382
+#EXTINF:-1 group-title="restream➾ SPORT",Arena Sport 2 RS
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/383
+#EXTINF:-1 group-title="restream➾ SPORT",Arena Sport 2 HR
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/384
+#EXTINF:-1 group-title="restream➾ SPORT",Arena Sport 1 RS
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/385
+#EXTINF:-1 group-title="restream➾ SPORT",Arena Sport 1 HR
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/386
+
 
 
 
