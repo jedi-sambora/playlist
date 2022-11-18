@@ -153,6 +153,16 @@ http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/146068
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/157556
 #EXTINF:0 tvg-id="ext" group-title="ASTRO",MY: Astro SuperSport 4
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/157558
+#EXTINF:0 tvg-id="ext" g group-title="ASTRO",Astro Super Sports 1 HD (abc)
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/425438
+#EXTINF:0 tvg-id="ext" g group-title="ASTRO",Astro Super Sports 2 HD (abc)
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/425439
+#EXTINF:0 tvg-id="ext" g group-title="ASTRO",Astro Super Sports 3 HD (abc)
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/425440
+#EXTINF:0 tvg-id="ext" g group-title="ASTRO",Astro Super Sports 4 HD (abc)
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/425441
+#EXTINF:0 tvg-id="ext" g group-title="ASTRO",Astro SuperSport 5
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/425446
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="ASTRO",ASTRO.SUPERSPORTS_1 HD TH MY
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115615
@@ -2114,6 +2124,116 @@ http://cdn.wanaiptv.net:2052/cremtv.com/cremtv.net/252100
 http://cdn.wanaiptv.net:2052/cremtv.com/cremtv.net/252099
 #EXTINF:-1 group-title="cdn 1000 SPORT",Movistar Vamos HD
 http://cdn.wanaiptv.net:2052/cremtv.com/cremtv.net/252098
+
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="ABC SPORT",UK: SKY SPORTS FOOTBALL
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/428292
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="ABC SPORT",UK: SKY SPORTS MAIN EVENT
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/428298
+#EXTINF:0 tvg-id="SkySpMix.uk" group-title="ABC SPORT",UK: SKY SPORTS MIX
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/428300
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="ABC SPORT",UK: SKY SPORTS PREMIER LEAGUE
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/428320
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",SS: SuperSport Action
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/425451
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",SS: SuperSport Blitz HD
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/425452
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",SS: SuperSport Cricket HD
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/425453
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",SS: SuperSport ESPN FHD
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/425454
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",SS: SuperSport ESPN 2 FHD
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/425455
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",SS: SuperSport Football HD
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/425456
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",SS: SuperSport Golf HD
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/425457
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",SS: SuperSport Grandstand HD
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/425458
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",SS: SuperSport LaLiga HD
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/425459
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",SS: SuperSport Maximo HD
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/425460
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",SS: SuperSport Motorsport HD
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/425461
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",SS: SuperSport Play FHD
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/425462
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",SS: SuperSport Premier League  HD
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/425463
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",SS: SuperSport Tennis HD
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/425466
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",Arabic beIN Sports 1 (P)
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/464257
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",Arabic beIN Sports 2 (P)
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/464258
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",Arabic beIN Sports 3 (P)
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/464259
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",Arabic beIN Sports 4 (P)
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/464260
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",Arabic beIN Sports 5 (P)
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/464261
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",Arabic beIN Sports 6 (P)
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/464262
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",Arabic beIN Sports 7 (P)
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/464263
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",Arabic beIN Sports Premium 1 (P)
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/464264
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",Arabic beIN Sports Premium 2 (P)
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/464265
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",Arabic beIN Sports Premium 3 (P)
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/464266
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",Arabic beIN Sports English 1 (P)
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/464267
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",Arabic beIN Sports English 2 (P)
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/464268
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",Arabic beIN Sports English 3 (P)
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/464269
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",PT: SPORT TV1 FHD
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/436050
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",PT: SPORT TV2 FHD
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/436124
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",PT: SPORT TV3 FHD
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/436125
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",PT: SPORT TV4 FHD
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/436127
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",PT: SPORT TV5 FHD
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/436126
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",AR  FOX SPORTS
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/421189
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",AR  Fox Sports
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/421353
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",AR  FOX SPORTS 2
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/421191
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",AR  FOX SPORTS 3
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/421190
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",AR  Fox Sports Premium EN
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/421357
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",PT: Eleven Sports 1 FHD
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/436176
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",PT: Eleven Sports 2 FHD
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/436177
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",PT: Eleven Sports 3 FHD
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/436178
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",PT: Eleven Sports 4 FHD
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/436179
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",PT: Eleven Sports 5 FHD
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/436180
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",PT: Eleven Sports 6 FHD
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/436181
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",ES: DAZN 1 (MS)
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/436406
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",ES: DAZN 2 (MS)
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/436407
+
+#EXTINF:0 tvg-id="TennisChannel.us"  group-title="ABC SPORT",US: TENNIS CHANNEL
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/94128
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",AF UG SuperSport Tennis
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/369746
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",AF ZA SuperSport Tennis
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/369863
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",AF ZW SuperSport Tennis
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/369978
+#EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",NL ZIGGO SPORT TENNIS HD
+http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/378767
 
 
 
