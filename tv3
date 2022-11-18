@@ -153,16 +153,7 @@ http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/146068
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/157556
 #EXTINF:0 tvg-id="ext" group-title="ASTRO",MY: Astro SuperSport 4
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/157558
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 1" tvg-logo="http://p2086.securepoint.io:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="ASTRO",SPORTS : ASTRO SUPERSPORT 1
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/104485.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 2" tvg-logo="http://p2086.securepoint.io:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="ASTRO",SPORTS : ASTRO SUPERSPORT 2
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/104486.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 3" tvg-logo="http://p2086.securepoint.io:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="ASTRO",SPORTS : ASTRO SUPERSPORT 3
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/104487.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 4" tvg-logo="http://p2086.securepoint.io:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="ASTRO",SPORTS : ASTRO SUPERSPORT 4
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/104488.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ASTRO SUPERSPORT 5" tvg-logo="http://p2086.securepoint.io:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="ASTRO",SPORTS : ASTRO SUPERSPORT 5
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/104489.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="ASTRO",ASTRO.SUPERSPORTS_1 HD TH MY
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115615
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="ASTRO",ASTRO.SUPERSPORTS_2 HD TH MY
@@ -1221,7 +1212,7 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159605
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159606
 #EXTINF:-1 group-title="Platin 4k Sport",BR: Sportv HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159607
-#EXTINF:-1 group-title="Platin 4k Sport"PL: Polsat Sport Premium 1 
+#EXTINF:-1 group-title="Platin 4k Sport", PL: Polsat Sport Premium 1 
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/73721
 #EXTINF:-1 group-title="Platin 4k Sport",PL: Polsat Sport Premium 2 
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/73722
@@ -1430,21 +1421,21 @@ http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/280249
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/290037
 #EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports Xtra 2
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/283294
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="Vasprodtv ➾ SPORT"FR: beIN Sports 1
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Vasprodtv ➾ SPORT", FR: beIN Sports 1
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/144
-#EXTINF:0 tvg-id="beINSport2.fr" group-title="Vasprodtv ➾ SPORT"FR: beIN Sports 2
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Vasprodtv ➾ SPORT", FR: beIN Sports 2
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/145
-#EXTINF:0 tvg-id="beINSport3.fr" group-title="Vasprodtv ➾ SPORT"FR: beIN Sports 3
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="Vasprodtv ➾ SPORT", FR: beIN Sports 3
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/146
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT"FR: CANAL+ Premier League
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT", FR: CANAL+ Premier League
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/286794
-#EXTINF:0 tvg-id="DigiSport1.ro" group-title="Vasprodtv ➾ SPORT"RO: DIGI SPORT 1
+#EXTINF:0 tvg-id="DigiSport1.ro" group-title="Vasprodtv ➾ SPORT", RO: DIGI SPORT 1
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/71457
-#EXTINF:0 tvg-id="DigiSport2.ro" group-title="Vasprodtv ➾ SPORT"RO: DIGI SPORT 2
+#EXTINF:0 tvg-id="DigiSport2.ro" group-title="Vasprodtv ➾ SPORT", RO: DIGI SPORT 2
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/71459
-#EXTINF:0 tvg-id="DigiSport3.ro" group-title="Vasprodtv ➾ SPORT"RO: DIGI SPORT 3
+#EXTINF:0 tvg-id="DigiSport3.ro" group-title="Vasprodtv ➾ SPORT", RO: DIGI SPORT 3
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/2243
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT"RO: DIGI SPORT 4
+#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",  RO: DIGI SPORT 4
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/4219
 #EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ES: DAZN 1
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/64711
@@ -1618,67 +1609,6 @@ http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/88975.ts
 #EXTINF:-1 group-title= "MOCHA SPORT",DE: Sky Sport Tennis HD
 http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/125677.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="[SPO*] SuperSport Premier League" tvg-logo="http://superiptv1.com:2082/images/d633e34812cacc3893ee8c7033334a1d.png"  group-title= "SMARTERS SPORT",,[SPO*] SuperSport Premier League
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/26443
-#EXTINF:-1 tvg-id="" tvg-name="[SPO*] SuperSport La Liga" tvg-logo="http://superiptv1.com:2082/images/268dc3447d20d9c6ed2a4ddbe15570c3.png"  group-title= "SMARTERS SPORT",,[SPO*] SuperSport La Liga
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/26445
-#EXTINF:-1 tvg-id="" tvg-name="[SPO*] SuperSport Football " tvg-logo="http://superiptv1.com:2082/images/3914dff46223e736af836af12b144588.png"  group-title= "SMARTERS SPORT",,[SPO*] SuperSport Football 
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/26444
-#EXTINF:-1 tvg-id="" tvg-name="[SPO*] SuperSport Tennis" tvg-logo="http://superiptv1.com:2082/images/1dbc14e5c24de2661dbb7bb45babe124.png"  group-title= "SMARTERS SPORT",,[SPO*] SuperSport Tennis
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/32305
-#EXTINF:-1 tvg-id="" tvg-name="[SPO*] SuperSport Grandstand" tvg-logo="http://superiptv1.com:2082/images/20c032f27f62598d34f2422c64bf70a1.png"  group-title= "SMARTERS SPORT",,[SPO*] SuperSport Grandstand
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/26441
-#EXTINF:-1 tvg-id="DAZN DE" tvg-name="[VIP DE]  DAZN Bar 1" tvg-logo="http://superiptv1.com:2082/images/2a9c9fe413c455fad2bf8de8f81112bd.png"  group-title= "SMARTERS SPORT",,[VIP DE]  DAZN Bar 1
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/45580
-#EXTINF:-1 tvg-id="DE-DAZN 2 Bar HD" tvg-name="[VIP DE]  DAZN Bar 2" tvg-logo="http://superiptv1.com:2082/images/43bf505267ca20340e2d5bb845613b38.png"  group-title= "SMARTERS SPORT",,[VIP DE]  DAZN Bar 2
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/45582
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="[SPO**] Bein Sport English 01" tvg-logo="http://superiptv1.com:2082/images/851ddf5058cf22df63d3344ad89919cf.png"  group-title= "SMARTERS SPORT",,[SPO**] Bein Sport English 01
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/12892
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="[SPO**] Bein Sport English 02" tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png"  group-title= "SMARTERS SPORT",,[SPO**] Bein Sport English 02
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/12894
-
-#EXTINF:-1 tvg-id="beinsports3en.qa" tvg-name="[SPO**] Bein Sport English 03" tvg-logo="http://superiptv1.com:2082/images/851ddf5058cf22df63d3344ad89919cf.png"  group-title= "SMARTERS SPORT",,[SPO**] Bein Sport English 03
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/12896
-#EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="[SPO**] Bein Sport Premium 01" tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png"  group-title= "SMARTERS SPORT",,[SPO**] Bein Sport Premium 01
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/12870
-#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="[SPO**] Bein Sport Premium 02" tvg-logo="http://superiptv1.com:2082/images/851ddf5058cf22df63d3344ad89919cf.png"  group-title= "SMARTERS SPORT",,[SPO**] Bein Sport Premium 02
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/12873
-#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="[SPO**] Bein Sport Premium 03" tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png"  group-title= "SMARTERS SPORT",,[SPO**] Bein Sport Premium 03
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/12876
-#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="[SPO**] Bein Sport 01 (AA)" tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png"  group-title= "SMARTERS SPORT",,[SPO**] Bein Sport 01 (AA)
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/12869
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="[SPO**] BEIN SPORT 01 (BB)" tvg-logo="http://superiptv1.com:2082/images/851ddf5058cf22df63d3344ad89919cf.png"  group-title= "SMARTERS SPORT",,[SPO**] BEIN SPORT 01 (BB)
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/26281
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="[SPO**] Bein Sport 02 (AA)" tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png"  group-title= "SMARTERS SPORT",,[SPO**] Bein Sport 02 (AA)
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/12872
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="[SPO**] Bein Sport 03 (AA)" tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png"  group-title= "SMARTERS SPORT",,[SPO**] Bein Sport 03 (AA)
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/12875
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="[SPO**] Bein Sport 04 (AA)" tvg-logo="http://superiptv1.com:2082/images/851ddf5058cf22df63d3344ad89919cf.png"  group-title= "SMARTERS SPORT",,[SPO**] Bein Sport 04 (AA)
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/12878
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="[SPO**] Bein Sport 05 (AA)" tvg-logo="http://superiptv1.com:2082/images/851ddf5058cf22df63d3344ad89919cf.png"  group-title= "SMARTERS SPORT",,[SPO**] Bein Sport 05 (AA)
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/12880
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="[SPO**] Bein Sport 06 (AA)" tvg-logo="http://superiptv1.com:2082/images/851ddf5058cf22df63d3344ad89919cf.png"  group-title= "SMARTERS SPORT",,[SPO**] Bein Sport 06 (AA)
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/12882
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="[SPO**] Bein Sport 07 (AA)" tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png"  group-title= "SMARTERS SPORT",,[SPO**] Bein Sport 07 (AA)
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/12884
-#EXTINF:-1 tvg-id="ZiggoSportTennis.nl" tvg-name="[NL] Ziggo Sport Tennis" tvg-logo="http://smarters.ddns.net:2082/images/a94556b396ce5ab794b7a52147e56101.png"  group-title= "SMARTERS SPORT",,[NL] Ziggo Sport Tennis
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/25809
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Eleven Sports 1 FHD" tvg-logo="http://superiptv1.com:2082/images/cc1a2b27a6d340d6d45dd31ee27d86ba.png"  group-title= "SMARTERS SPORT",,[PL] Eleven Sports 1 FHD
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/44479
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Eleven Sports 2 FHD" tvg-logo="http://superiptv1.com:2082/images/c9ae8a1e381aaf9af14811d3e5fcb46a.png"  group-title= "SMARTERS SPORT",,[PL] Eleven Sports 2 FHD
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/44481
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Eleven Sports 3 FHD" tvg-logo="http://superiptv1.com:2082/images/a7dfcc0f74d64642b3b9fa9e6f5d6a9b.png"  group-title= "SMARTERS SPORT",,[PL] Eleven Sports 3 FHD
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/44482
-#EXTINF:-1 tvg-id="" tvg-name="[PL] Eleven Sports 4 FHD" tvg-logo="http://superiptv1.com:2082/images/190de08383fcdd1a1a3546f4484c7007.png"  group-title= "SMARTERS SPORT",,[PL] Eleven Sports 4 FHD
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/44483
-#EXTINF:-1 tvg-id="" tvg-name="[RO] Orange Sport 4" tvg-logo="http://smarters.ddns.net:2082/images/5d21d6682116cf0b74ea2f73de0b1414.png"  group-title= "SMARTERS SPORT",,[RO] Orange Sport 4
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/32069
-#EXTINF:-1 tvg-id="" tvg-name="[RO] Orange Sport 3" tvg-logo="http://smarters.ddns.net:2082/images/5d21d6682116cf0b74ea2f73de0b1414.png"  group-title= "SMARTERS SPORT",,[RO] Orange Sport 3
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/32068
-#EXTINF:-1 tvg-id="" tvg-name="[RO] Orange Sport 2" tvg-logo="http://smarters.ddns.net:2082/images/5d21d6682116cf0b74ea2f73de0b1414.png"  group-title= "SMARTERS SPORT",,[RO] Orange Sport 2
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/32067
-#EXTINF:-1 tvg-id="" tvg-name="[RO] Orange Sport 1" tvg-logo="http://smarters.ddns.net:2082/images/5d21d6682116cf0b74ea2f73de0b1414.png"  group-title= "SMARTERS SPORT",,[RO] Orange Sport 1
-http://smarters.ddns.net:2082/3arabiptv-2023/3tA65SFZpsva/32066
 
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="|TR| BeIN Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png"  group-title= "itvdom  SPORT",|TR| BeIN Sports 1 HD
 http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/149526
@@ -1941,7 +1871,7 @@ http://quality-restream.com:8080/asiantv/f2ba3832f4/38575
 http://quality-restream.com:8080/asiantv/f2ba3832f4/15200
 #EXTINF:-1 tvg-id="" tvg-name="US: Tennis Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/590b3e12b150b7db6d5fc81e53da0d82.png" group-title="QR ➾ SPORT",US: Tennis Channel
 http://quality-restream.com:8080/asiantv/f2ba3832f4/2275
-#EXTINF:-1 tvg-id="" tvg-name="IT: Super Tennis" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/bdefcae800980ed5e3bf454b7552b79c.png" group-title="QR ➾ SPORT"IT: Super Tennis
+#EXTINF:-1 tvg-id="" tvg-name="IT: Super Tennis" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/bdefcae800980ed5e3bf454b7552b79c.png" group-title="QR ➾ SPORT", IT: Super Tennis
 http://quality-restream.com:8080/asiantv/f2ba3832f4/285535
 #EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/58f557ffa761091f837f5c289ac13208.png" group-title="QR ➾ SPORT",ARG: ESPN
 http://quality-restream.com:8080/asiantv/f2ba3832f4/61174
