@@ -2270,6 +2270,11 @@ http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218036
 http://123.30.146.172:21585/200/index.m3u8
 #EXTINF:-1 group-title="WCCUP SPORTS",|WC| KBS2            
 http://123.30.146.172:21585/201/index.m3u8
+#EXTINF:-1 group-title="WCCUP SPORTS",|WC| MBC            
+http://123.30.146.172:21585/221/index.m3u8
+#EXTINF:-1 group-title="WCCUP SPORTS",|WC| SBS            
+http://123.30.146.172:21585/202/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="PL : ELEVEN EXTRA" tvg-logo="http://hostengine.live:25461/images/Poland.png" group-title="N2086_8RB  SPORT",PL : ELEVEN EXTRA
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/61868
