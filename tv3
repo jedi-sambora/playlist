@@ -2281,12 +2281,14 @@ http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/369863
 http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/369978
 #EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",NL ZIGGO SPORT TENNIS HD
 http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/378767
-
-
+#EXTINF:-1 group-title="WCCUP SPORTS",|WC| BEIN SPORTS MAX 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216922
 #EXTINF:-1 group-title="WCCUP SPORTS",|WC| BEIN SPORTS MAX 2 HD
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216923
 #EXTINF:-1 group-title="WCCUP SPORTS",|WC| BEIN SPORTS MAX 3 HD
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216924
+#EXTINF:-1 group-title="WCCUP SPORTS",|WC| BEIN SPORTS MAX 3 SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216930
 #EXTINF:-1 group-title="WCCUP SPORTS",|WC| BEIN SPORTS MAX 4 HD
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216925
 #EXTINF:-1 group-title="WCCUP SPORTS",|WC| BEIN SPORTS MAX 5 HD
@@ -2313,18 +2315,14 @@ http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218034
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218035
 #EXTINF:-1 group-title="WCCUP SPORTS",|WC| WORLD CUP 4 REPLAY            
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218036
-#EXTINF:-1 group-title="WCCUP SPORTS",|WC| KBS1            
-http://123.30.146.172:21585/200/index.m3u8
-#EXTINF:-1 group-title="WCCUP SPORTS",|WC| KBS2            
-http://123.30.146.172:21585/201/index.m3u8
-#EXTINF:-1 group-title="WCCUP SPORTS",|WC| MBC            
-http://123.30.146.172:21585/221/index.m3u8
-#EXTINF:-1 group-title="WCCUP SPORTS",|WC| SBS            
-http://123.30.146.172:21585/202/index.m3u8
-#EXTINF:-1 group-title="WCCUP SPORTS", |WC| Alkaz Sports 1
+#EXTINF:-1 group-title="WCCUP SPORTS", |WC| Alkaz Sports 1x
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1053342&extension=ts&play_token=pk7zRQATRG
 #EXTINF:-1 group-title="WCCUP SPORTS", |WC| TRT sport
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1051562&extension=ts&play_token=w75Z03EM6A
+#EXTINF:-1 group-title="WCCUP SPORTS", |WC| Alkaz Sports 1
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218731
+#EXTINF:-1 group-title="WCCUP SPORTS", |WC| Alkaz Sports 2
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218732
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PL : ELEVEN EXTRA" tvg-logo="http://hostengine.live:25461/images/Poland.png" group-title="N2086_8RB  SPORT",PL : ELEVEN EXTRA
