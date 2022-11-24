@@ -16,16 +16,21 @@ http://rmvberantakan.com/dens/uq2663/h/h18/index.m3u8
 #EXTINF:-1 group-title="Movie",&flix
 #http://iptvtree.net:8080/live/iptvromania2020/31e75bff/45506.m3u8
 #http://103.179.246.243:8000/play/a00p
-http://103.166.102.58:8000/play/a00p
+#http://103.166.102.58:8000/play/a00p
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2088.ts
 #EXTINF:-1 group-title="Movie",&Prive
 #http://103.179.246.243:8000/play/a01d
-http://103.166.102.58:8000/play/a01d
+#http://103.166.102.58:8000/play/a01d
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2103.ts
 #EXTINF:-1 group-title="Movie" tvg-name="Movie" tvg-logo="http://62.182.85.43/poster/STAR.MOVIES.png",IND ➤ STAR MOVIES HD
 #http://103.179.246.243:8000/play/a00 
 http://103.166.102.58:8000/play/a00v
 #EXTINF:-1 group-title="Movie" tvg-name="Movie" tvg-logo="http://62.182.85.43/poster/STAR.MOVIES.png",IND ➤ STAR MOVIES SELECTED HD
 http://103.179.246.243:8000/play/a00v
 #EXTINF:-1 tvg-id="" tvg-name="MY: Cinemax" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/723d09a6f3136564ee96557231a747bb.png" group-title="Movie",MY: Cinemax
+
+
+
 http://#EXTINF:-1 group-title="QR ➾ SPORT",ZA2: SuperSport Premier League
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/11642
 #EXTINF:-1 group-title="QR ➾ SPORT",ZA2: SuperSport Football
@@ -2323,6 +2328,11 @@ http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=10515
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218731
 #EXTINF:-1 group-title="WCCUP SPORTS", |WC| Alkaz Sports 2
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218732
+#EXTINF:-1 group-title="WCCUP SPORTS", |WC| FS 1
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2406.ts
+#EXTINF:-1 group-title="WCCUP SPORTS", |WC| Sport 18
+http://watchindia.net:8880/live/dharmend/PTukavDWzh/2405.ts
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PL : ELEVEN EXTRA" tvg-logo="http://hostengine.live:25461/images/Poland.png" group-title="N2086_8RB  SPORT",PL : ELEVEN EXTRA
