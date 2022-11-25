@@ -142,31 +142,6 @@ https://live17-nlxjdhtocy.zhibo.tv/8live/s_2708483_800.m3u8?k=cf4e1b2dc3f366a3d7
 https://bcovlive-a.akamaihd.net/926df14993e54e4a9de9a001e17e5cd8/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1667134256~exp=9007200921875247~acl=/926df14993e54e4a9de9a001e17e5cd8/*/profile_2/chunklist.m3u8*~hmac=a6f4ca9d7f9e867196670fc0ebe6242197d983ef52796bb4572dcfdb450062e4
 
 
-#EXTINF:-1 group-title="PT SPORT",US : ESPN HD
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/9660
-#EXTINF:-1 group-title="PT SPORT",BR : ESPN HD
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/46528
-#EXTINF:-1 group-title="PT SPORT",ESPN 🇦🇷
-http://45.71.185.142:8500/play/a01e
-#EXTINF:-1 group-title="PT SPORT",ESPN 2 🇦🇷
-http://45.71.185.142:8500/play/a015
-#EXTINF:-1 group-title="PT SPORT",ESPN 3 HD 🇦🇷
-http://200.24.132.99:8000/play/a02w
-#EXTINF:-1 group-title="PT SPORT",ESPN 4 🇦🇷
-http://45.71.185.142:8500/play/a021
-#EXTINF:-1 group-title="PT SPORT",Fox Sports 2 🇦🇷
-http://45.71.185.142:8500/play/a01n
-#EXTINF:-1 group-title="PT SPORT",Fox Sports 3 🇦🇷
-http://45.71.185.142:8500/play/a01o
-#EXTINF:-1 group-title="PT SPORT",ESPN Vivo
-http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
-#EXTINF:-1 group-title="PT SPORT",ESPN 1
-http://tptv.cz/get.php?username=5C4A0CD579DC411&password=E6MeYc5rom&type=m3u
-
-#EXTINF:-1  group-title="PT SPORT",Sportv HD BR
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/46597
-#EXTINF:-1 group-title="PT SPORT",Sportv 2 HD BR
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/46596
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="ASTRO",MY: Astro SuperSport 1 (QS)
 http://quality-restream.com:8080/asiantv/f2ba3832f4/146068
@@ -182,16 +157,7 @@ http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/146068
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/157556
 #EXTINF:0 tvg-id="ext" group-title="ASTRO",MY: Astro SuperSport 4
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/157558
-#EXTINF:0 tvg-id="ext" g group-title="ASTRO",Astro Super Sports 1 HD (abc)
-http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/425438
-#EXTINF:0 tvg-id="ext" g group-title="ASTRO",Astro Super Sports 2 HD (abc)
-http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/425439
-#EXTINF:0 tvg-id="ext" g group-title="ASTRO",Astro Super Sports 3 HD (abc)
-http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/425440
-#EXTINF:0 tvg-id="ext" g group-title="ASTRO",Astro Super Sports 4 HD (abc)
-http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/425441
-#EXTINF:0 tvg-id="ext" g group-title="ASTRO",Astro SuperSport 5
-http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/425446
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="ASTRO",ASTRO.SUPERSPORTS_1 HD TH MY
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115615
@@ -737,52 +703,6 @@ http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/8784
 
 
 
-#EXTINF:-1  group-title="Gameplay Sports",  ARG: DIRECTV SPORTS 1
-http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/251424
-#EXTINF:-1  group-title="Gameplay Sports",  ARG: DIRECTV SPORTS 2
-http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/251425
-#EXTINF:-1  group-title="Gameplay Sports",  ARG: DIRECTV SPORTS PLUS
-http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/251426
-#EXTINF:-1  group-title="Gameplay Sports",  ARG: ESPN 1
-http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/251428
-#EXTINF:-1  group-title="Gameplay Sports",  ARG: ESPN 2
-http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/251429
-#EXTINF:-1  group-title="Gameplay Sports",  ARG: ESPN 3
-http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/251430
-#EXTINF:-1  group-title="Gameplay Sports",  ARG: ESPN EXTRA
-http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/251431
-#EXTINF:-1  group-title="Gameplay Sports",  ARG: FOX SPORTS
-http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/251498
-#EXTINF:-1  group-title="Gameplay Sports",  ARG: FOX SPORTS 2
-http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/251499
-#EXTINF:-1  group-title="Gameplay Sports",  ARG: FOX SPORTS 3
-http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/251501
-#EXTINF:-1  group-title="Gameplay Sports",  ARG: FOX SPORTS PREMIUM
-http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/251502
-#EXTINF:-1  group-title="Gameplay Sports",  SPORT TV 01
-http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/250108
-#EXTINF:-1  group-title="Gameplay Sports",  SPORT TV 02
-http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/250109
-#EXTINF:-1  group-title="Gameplay Sports",  SPORT TV 03
-http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/250110
-#EXTINF:-1  group-title="Gameplay Sports",  SPORT TV 04
-http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/250111
-#EXTINF:-1  group-title="Gameplay Sports",  SPORT TV 05
-http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/250112
-#EXTINF:-1  group-title="Gameplay Sports",  SPORT TV 06
-http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/250113
-#EXTINF:-1  group-title="Gameplay Sports",  SPORTV 2 HD
-http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/204288
-#EXTINF:-1  group-title="Gameplay Sports",  SPORTV 2 HD²
-http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/203861
-#EXTINF:-1  group-title="Gameplay Sports",  SPORTV 3 HD
-http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/204372
-#EXTINF:-1  group-title="Gameplay Sports",  SPORTV 3 HD²
-http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/203864
-#EXTINF:-1  group-title="Gameplay Sports",  SPORTV 4 HD
-http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/204155
-#EXTINF:-1  group-title="Gameplay Sports",  SPORTV HD²
-http://gameplay.p2sweb.me:80/backupp2emergencia/0290sa920X/203867
 
 #EXTINF:-1 tvg-id="" tvg-name="RO:Digi Sport 1" tvg-logo="http://logo.ndasat.com/iptv/images/1155_romania-flag-small.jpg" group-title="DASAT SPORT",RO:Digi Sport 1
 http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1829
