@@ -2446,3 +2446,27 @@ http://11121314.org:8000/RQH29rxr8F/fTjzEdp8EF/438656
 #EXTINF:-1 tvg-id="" tvg-name="AF: SuperSport 5 HD" tvg-logo="" group-title="Seribu Sport",AF: SuperSport 5 HD
 http://11121314.org:8000/RQH29rxr8F/fTjzEdp8EF/438657
 
+#EXTINF:-1  group-title="TVXCL SPORTS",bein | beIN SPORTS 1 HD en VIP
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2776
+#EXTINF:-1  group-title="TVXCL SPORTS",bein | beIN SPORTS 3 HD en VIP
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/27406
+#EXTINF:-1  group-title="TVXCL SPORTS",bein | beIN SPORTS 1 HD vip
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2766
+#EXTINF:-1  group-title="TVXCL SPORTS",bein | beIN SPORTS 2 HD vip
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2767
+#EXTINF:-1  group-title="TVXCL SPORTS",bein | beIN SPORTS 3 HD vip
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2768
+#EXTINF:-1  group-title="TVXCL SPORTS",bein | beIN SPORTS 4 HD vip
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2769
+#EXTINF:-1  group-title="TVXCL SPORTS",bein | beIN SPORTS 5 HD vip
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2770
+#EXTINF:-1  group-title="TVXCL SPORTS",bein | beIN SPORTS 6 HD vip
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2771
+#EXTINF:-1  group-title="TVXCL SPORTS",bein | beIN SPORTS 7 HD vip
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2772
+#EXTINF:-1  group-title="TVXCL SPORTS",bein | beIN Sports Premium 1 HD vip
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2773
+#EXTINF:-1  group-title="TVXCL SPORTS",bein | beIN Sports Premium 2 HD vip
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2774
+#EXTINF:-1  group-title="TVXCL SPORTS",bein | beIN Sports Premium 3 HD vip
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2775
