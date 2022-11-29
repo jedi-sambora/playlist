@@ -2051,6 +2051,8 @@ http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/369978
 #EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",NL ZIGGO SPORT TENNIS HD
 http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/378767
 
+#EXTINF:-1group-title="WCCUP SPORTS", AR: ALKASS ONE HD
+http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/30109.ts
 #EXTINF:-1 group-title="WCCUP SPORTS", |WC| Alkaz Sports 1x
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1053342&extension=ts&play_token=pk7zRQATRG
 #EXTINF:-1 group-title="WCCUP SPORTS", |WC| TRT sport
@@ -2067,6 +2069,10 @@ http://iptvtree.net:8080/adastream/8289548ca0/756
 http://iptvtree.net:8080/adastream/8289548ca0/26389
 #EXTINF:-1 group-title="WCCUP SPORTS", CA: TSN 1
 http://iptvtree.net:8080/adastream/8289548ca0/770
+#EXTINF:-1 group-title="WCCUP SPORTS",|CA| TSN 1 | HD
+http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/1565.ts
+#EXTINF:-1 group-title="WCCUP SPORTS",|CA| TSN 2 | HD
+http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/1566.ts
 #EXTINF:-1 group-title="WCCUP SPORTS", RU: Match
 http://iptvtree.net:8080/adastream/8289548ca0/75641
 #EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 HD" tvg-logo="" group-title="WCCUP SPORTS",Bein Max 1 HD
@@ -2077,8 +2083,30 @@ http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43853
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43854
 #EXTINF:-1 tvg-id="" tvg-name="Bein Max 4 HD" tvg-logo="" group-title="WCCUP SPORTS",Bein Max 4 HD
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43855
+#EXTINF:-1 group-title="WCCUP SPORTS", Bein Sport MAX 1  HD
+http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/128225.ts
+#EXTINF:-1 group-title="WCCUP SPORTS",Bein Sport MAX 2  HD
+http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/128228.ts
+#EXTINF:-1group-title="WCCUP SPORTS", BEIN SPORTS MAX 3 (ENG)
+http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/129499.ts
+#EXTINF:-1group-title="WCCUP SPORTS", BEIN SPORTS MAX 4 (ENG)
+http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/129500.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bein Max 4 HD" tvg-logo="" group-title="WCCUP SPORTS",Astro
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/287793
+#EXTINF:-1group-title="WCCUP SPORTS", PT: SPORT TV1 HD
+http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/314.ts
+#EXTINF:-1group-title="WCCUP SPORTS", PT: SPORT TV 2 HD
+http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/315.ts
+#EXTINF:-1group-title="WCCUP SPORTS", BR: SPORTV HD
+http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/20840.ts
+#EXTINF:-1group-title="WCCUP SPORTS", DSTV : SUPERSPORTS PREMIER LEAGUE HD
+http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/518.ts
+#EXTINF:-1group-title="WCCUP SPORTS", DSTV : SuperSport Grandstand HD
+http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/519.ts
+#EXTINF:-1group-title="WCCUP SPORTS", USA: Fox Sport 1 HD (FS1)
+http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/54.ts
+#EXTINF:-1group-title="WCCUP SPORTS", USA: Fox Sport 2 HD (FS2)
+http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/55.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TF1 HD WORLD  CUP 2022" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmMNUwfWasjov27Zk5RDv22vLZPkfXz3dEJmpXEPE7e0p_ZF4BH80TBTbJVov2FnIwSNw&usqp=CAU"group-title="WCCUP SPORTS", ,TF1 HD WORLD  CUP 2022
 http://11121314.org:8000/RQH29rxr8F/fTjzEdp8EF/451153
