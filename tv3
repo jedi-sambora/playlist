@@ -2217,21 +2217,13 @@ http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/369863
 http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/369978
 #EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",NL ZIGGO SPORT TENNIS HD
 http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/378767
-#EXTINF:-1 group-title="WCCUP SPORTS",|WC| BEIN SPORTS MAX 1 HD
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216922
-#EXTINF:-1 group-title="WCCUP SPORTS",|WC| BEIN SPORTS MAX 2 HD
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216923
-#EXTINF:-1 group-title="WCCUP SPORTS",|WC| BEIN SPORTS MAX 3 HD
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216924
-#EXTINF:-1 group-title="WCCUP SPORTS",|WC| BEIN SPORTS MAX 3 SD
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216930
-#EXTINF:-1 group-title="WCCUP SPORTS",|WC| BEIN SPORTS MAX 4 HD
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216925
 
 #EXTINF:-1 group-title="WCCUP SPORTS", |WC| Alkaz Sports 1x
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1053342&extension=ts&play_token=pk7zRQATRG
 #EXTINF:-1 group-title="WCCUP SPORTS", |WC| TRT sport
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1051562&extension=ts&play_token=w75Z03EM6A
+#EXTINF:-1 tvg-id="" tvg-name="[TUR] TRT SPOR HD" tvg-logo="" group-title="WCCUP SPORTS",[TUR] TRT SPOR HD
+http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/707
 #EXTINF:-1 group-title="WCCUP SPORTS", |WC| Alkaz Sports 1
 http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218731
 #EXTINF:-1 group-title="WCCUP SPORTS", |WC| Alkaz Sports 2
@@ -2240,6 +2232,15 @@ http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218732
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/2406.ts
 #EXTINF:-1 group-title="WCCUP SPORTS", |WC| Sport 18
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/2405.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 HD" tvg-logo="" group-title="WCCUP SPORTS",Bein Max 1 HD
+http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 HD" tvg-logo="" group-title="WCCUP SPORTS",Bein Max 2 HD
+http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43853
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3 HD" tvg-logo="" group-title="WCCUP SPORTS",Bein Max 3 HD
+http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43854
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 4 HD" tvg-logo="" group-title="WCCUP SPORTS",Bein Max 4 HD
+http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43855
+
 #EXTINF:-1 tvg-id="" tvg-name="TF1 HD WORLD  CUP 2022" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmMNUwfWasjov27Zk5RDv22vLZPkfXz3dEJmpXEPE7e0p_ZF4BH80TBTbJVov2FnIwSNw&usqp=CAU"group-title="WCCUP SPORTS", ,TF1 HD WORLD  CUP 2022
 http://11121314.org:8000/RQH29rxr8F/fTjzEdp8EF/451153
 #EXTINF:-1 tvg-id="" tvg-name="|UK| ITV 1 HD" tvg-logo="http://11121314.org:8000/images/a4a73e3b96db3c888f3fee1519656ae9.png" group-title="WCCUP SPORTS", ,|UK| ITV 1 HD
