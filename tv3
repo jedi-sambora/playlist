@@ -2057,14 +2057,18 @@ http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=10533
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1051562&extension=ts&play_token=w75Z03EM6A
 #EXTINF:-1 tvg-id="" tvg-name="[TUR] TRT SPOR HD" tvg-logo="" group-title="WCCUP SPORTS",[TUR] TRT SPOR HD
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/707
-#EXTINF:-1 group-title="WCCUP SPORTS", |WC| Alkaz Sports 1
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218731
-#EXTINF:-1 group-title="WCCUP SPORTS", |WC| Alkaz Sports 2
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/218732
 #EXTINF:-1 group-title="WCCUP SPORTS", |WC| FS 1
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/2406.ts
 #EXTINF:-1 group-title="WCCUP SPORTS", |WC| Sport 18
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/2405.ts
+#EXTINF:-1 group-title="WCCUP SPORTS", US: FS1
+http://iptvtree.net:8080/adastream/8289548ca0/756
+#EXTINF:-1 group-title="WCCUP SPORTS", QA: Al Kass One
+http://iptvtree.net:8080/adastream/8289548ca0/26389
+#EXTINF:-1 group-title="WCCUP SPORTS", CA: TSN 1
+http://iptvtree.net:8080/adastream/8289548ca0/770
+#EXTINF:-1 group-title="WCCUP SPORTS", RU: Match
+http://iptvtree.net:8080/adastream/8289548ca0/75641
 #EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 HD" tvg-logo="" group-title="WCCUP SPORTS",Bein Max 1 HD
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852
 #EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 HD" tvg-logo="" group-title="WCCUP SPORTS",Bein Max 2 HD
