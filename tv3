@@ -161,6 +161,14 @@ http://quality-restream.com:8080/asiantv/f2ba3832f4/157556
 http://quality-restream.com:8080/asiantv/f2ba3832f4/157557
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="ASTRO",MY: Astro SuperSport 4 (QS)
 http://quality-restream.com:8080/asiantv/f2ba3832f4/157558
+#EXTINF:-1 group-title="ASTRO",MY: Astro SuperSport 1
+http://iptvtree.net:8080/ace2524d/773dbded1a/146068
+#EXTINF:-1 group-title="ASTRO",MY: Astro SuperSport 2
+http://iptvtree.net:8080/ace2524d/773dbded1a/157556
+#EXTINF:-1 group-title="ASTRO",MY: Astro SuperSport 3
+http://iptvtree.net:8080/ace2524d/773dbded1a/157557
+#EXTINF:-1 group-title="ASTRO",MY: Astro SuperSport 4
+http://iptvtree.net:8080/ace2524d/773dbded1a/157558
 #EXTINF:0 tvg-id="ext" group-title="ASTRO",MY: Astro SuperSport 1
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/146068
 #EXTINF:0 tvg-id="ext" group-title="ASTRO",MY: Astro SuperSport 2
@@ -216,8 +224,12 @@ http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/52861.ts
 http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
 #EXTINF:-1    group-title="SPORT CINA",CCTV_5
 https://live.olelive.com:4443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1    group-title="SPORT CINA",CCTV_5
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
 #EXTINF:-1    group-title="SPORT CINA",CCTV_5Plus
 https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1    group-title="SPORT CINA",CCTV_5Plus
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/2300000/mnf.m3u8
 
 
 
@@ -2051,6 +2063,8 @@ http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/369978
 #EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",NL ZIGGO SPORT TENNIS HD
 http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/378767
 
+#EXTINF:-1    group-title="SWCCUP SPORTS",CCTV_5
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
 #EXTINF:-1group-title="WCCUP SPORTS", AR: ALKASS ONE HD
 http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/30109.ts
 #EXTINF:-1 group-title="WCCUP SPORTS", |WC| Alkaz Sports 1x
@@ -2061,6 +2075,10 @@ http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=10515
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/707
 #EXTINF:-1 group-title="WCCUP SPORTS", |WC| FS 1
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/2406.ts
+#EXTINF:-1 group-title="WCCUP SPORTS", |WC| FS 1 (gun)
+http://gunslingertv.org:8080/Layarpentasasia963/5K5pRrMqg1/9506
+#EXTINF:-1 group-title="WCCUP SPORTS", |WC| FOX
+http://gunslingertv.org:8080/Layarpentasasia963/5K5pRrMqg1/8320
 #EXTINF:-1 group-title="WCCUP SPORTS", |WC| Sport 18
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/2405.ts
 #EXTINF:-1 group-title="WCCUP SPORTS", US: FS1
@@ -2073,8 +2091,16 @@ http://iptvtree.net:8080/adastream/8289548ca0/770
 http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/1565.ts
 #EXTINF:-1 group-title="WCCUP SPORTS",|CA| TSN 2 | HD
 http://humiptv.live:8080/live/FYU76@TIR@YYD@GFD@67@5_53D/FYJ76@TMR@YYD@GFD@67@5_53D/1566.ts
+#EXTINF:-1 group-title="WCCUP SPORTS",CA: TSN 1 iptvree
+http://iptvtree.net:8080/ace2524d/773dbded1a/770
+#EXTINF:-1 group-title="WCCUP SPORTS",CA: TSN 2 iptvree
+http://iptvtree.net:8080/ace2524d/773dbded1a/771
 #EXTINF:-1 group-title="WCCUP SPORTS", RU: Match
 http://iptvtree.net:8080/adastream/8289548ca0/75641
+#EXTINF:-1 group-title="WCCUP SPORTS", RU: Match
+http://iptvtree.net:8080/ace2524d/773dbded1a/75641
+#EXTINF:-1 group-title="WCCUP SPORTS",RU: Match! Futbol 1
+http://iptvtree.net:8080/ace2524d/773dbded1a/12812
 #EXTINF:-1 tvg-id="" tvg-name="Bein Max 1 HD" tvg-logo="" group-title="WCCUP SPORTS",Bein Max 1 HD
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852
 #EXTINF:-1 tvg-id="" tvg-name="Bein Max 2 HD" tvg-logo="" group-title="WCCUP SPORTS",Bein Max 2 HD
