@@ -2146,22 +2146,8 @@ http://11121314.org:8000/RQH29rxr8F/fTjzEdp8EF/8977
 http://11121314.org:8000/RQH29rxr8F/fTjzEdp8EF/73005
 #EXTINF:-1 group-title="WCCUP SPORTS",TYC
 https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-#EXTINF:-1 group-title="WCCUP SPORTS", beIN SPORTS MAX1 (720p)
-https://011011.one:443/live/arenamax/133556/15.ts
-#EXTINF:-1 group-title="WCCUP SPORTS", beIN SPORTS MAX1 (480p)
-https://011011.one:443/live/arenamax/133556/16.ts
-#EXTINF:-1 group-title="WCCUP SPORTS", beIN SPORTS MAX2 (720p)
-https://011011.one:443/live/arenamax/133556/17.ts
-#EXTINF:-1 group-title="WCCUP SPORTS", beIN SPORTS MAX2 (480p)
-https://011011.one:443/live/arenamax/133556/18.ts
-#EXTINF:-1 group-title="WCCUP SPORTS", beIN sport max 3 (720p)
-https://011011.one:443/live/arenamax/133556/19.ts
-#EXTINF:-1 group-title="WCCUP SPORTS", beIN sport max 4 (720p)
-https://011011.one:443/live/arenamax/133556/20.ts
-#EXTINF:-1 group-title="WCCUP SPORTS", beIN sport max 5 (720p)
-https://011011.one:443/live/arenamax/133556/21.ts
-#EXTINF:-1 group-title="WCCUP SPORTS", beIN sport max 6 (720p)
-https://011011.one:443/live/arenamax/133556/22.ts
+#EXTINF:-1 group-title="WCCUP SPORTS",True Sport 2
+http://150.95.25.221:8000/%20World%20Cup1%20HD?u=covid19:p=llLiIlliafIiIl56lI
 
 
 
