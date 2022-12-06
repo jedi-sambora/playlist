@@ -2144,8 +2144,8 @@ http://11121314.org:8000/RQH29rxr8F/fTjzEdp8EF/431898
 http://11121314.org:8000/RQH29rxr8F/fTjzEdp8EF/8977
 #EXTINF:-1 tvg-id="" tvg-name="CA: TSN 1 HD" tvg-logo="http://w.bs-share.com:8000/images/e81774dcb9e7cc16fb7eb134fb35810b.png"group-title="WCCUP SPORTS", ,CA: TSN 1 HD
 http://11121314.org:8000/RQH29rxr8F/fTjzEdp8EF/73005
-#EXTINF:-1 group-title="WCCUP SPORTS",TYC
-https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+#EXTINF:-1 group-title="WCCUP SPORTS",TYC HD
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/56554
 #EXTINF:-1 group-title="WCCUP SPORTS",True Sport 2
 http://150.95.25.221:8000/%20World%20Cup1%20HD?u=covid19:p=llLiIlliafIiIl56lI
 
