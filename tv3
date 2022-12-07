@@ -152,7 +152,16 @@ https://02ip.ru/INDOSIAR?shareext.ts
 https://ezstat.ru/MOJI?shareext.ts
 
 
-
+#EXTINF:-1 group-title="ASTRO",MY : ASTRO SUPERSPORTS 1 HD (esv5)
+http://esv5.net:80/Tcole1/123456789/87302
+#EXTINF:-1 group-title="ASTRO",MY : ASTRO SUPERSPORTS 2 HD (esv5)
+http://esv5.net:80/Tcole1/123456789/87301
+#EXTINF:-1 group-title="ASTRO",MY : ASTRO SUPERSPORTS 3 HD (esv5)
+http://esv5.net:80/Tcole1/123456789/87300
+#EXTINF:-1 group-title="ASTRO",MY : ASTRO SUPERSPORTS 4 HD (esv5)
+http://esv5.net:80/Tcole1/123456789/87299
+#EXTINF:-1 group-title="ASTRO",MY : ASTRO SUPERSPORTS 5 HD (esv5)
+http://esv5.net:80/Tcole1/123456789/87298
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="ASTRO",MY: Astro SuperSport 1 (QS)
 http://quality-restream.com:8080/asiantv/f2ba3832f4/146068
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="ASTRO",MY: Astro SuperSport 2 (QS)
