@@ -2482,3 +2482,38 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/43633
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3118
 #EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="LD - TYC SPORTS HD" tvg-logo="https://pbs.twimg.com/media/D_XydwSW4AAjU6l.jpg" group-title="NOUSI",LD - TYC SPORTS HD
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3759
+
+#EXTINF:-1 tvg-id="" tvg-name="TSN 1 HD (CA)" tvg-logo="" group-title="HPPLAY (8/12)",TSN 1 HD (CA)
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/181851
+#EXTINF:-1 tvg-id="" tvg-name="TSN 2 HD (CA)" tvg-logo="" group-title="HPPLAY (8/12)",TSN 2 HD (CA)
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/181852
+#EXTINF:-1 tvg-id="AR - TyC Sports" tvg-name="TyC Sports  SD (ARG)" tvg-logo="http://hidra.live:80/images/ccb7e786706e39bb3ec404bbe0c7b9ac.png" group-title="HPPLAY (8/12)",TyC Sports  SD (ARG)
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34685
+#EXTINF:-1 tvg-id="AR - TyC Sports" tvg-name="TyC Sports HD (ARG)" tvg-logo="http://hidra.live:80/images/ccb7e786706e39bb3ec404bbe0c7b9ac.png" group-title="HPPLAY (8/12)",TyC Sports HD (ARG)
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34686
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1 HD (US)" tvg-logo="https://img.tvcl.xyz/deportes/foxsports.png" group-title="HPPLAY (8/12)",Fox Sports 1 HD (US)
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34649
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2 HD (US)" tvg-logo="https://img.tvcl.xyz/deportes/foxsports.png" group-title="HPPLAY (8/12)",Fox Sports 2 HD (US)
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34650
+#EXTINF:-1 tvg-id="" tvg-name="BR: SporTV" tvg-logo="https://img.tvcl.xyz/brasil/sportv.png" group-title="HPPLAY (8/12)",BR: SporTV
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/304180
+#EXTINF:-1 tvg-id="" tvg-name="BR: SporTV 2" tvg-logo="https://img.tvcl.xyz/brasil/sportv.png" group-title="HPPLAY (8/12)",BR: SporTV 2
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/304181
+#EXTINF:-1 tvg-id="" tvg-name="BR: SporTV 3" tvg-logo="https://img.tvcl.xyz/brasil/sportv.png" group-title="HPPLAY (8/12)",BR: SporTV 3
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/304182
+#EXTINF:-1 tvg-id="" tvg-name="b31N Sports 1 HQ (AR)" tvg-logo="http://img.tvcl.xyz/deportes/bein.png" group-title="HPPLAY (8/12)",b31N Sports 1 HQ (AR)
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34718
+#EXTINF:-1 tvg-id="" tvg-name="b31N Sports 2 HQ (AR)" tvg-logo="http://img.tvcl.xyz/deportes/bein.png" group-title="HPPLAY (8/12)",b31N Sports 2 HQ (AR)
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34719
+#EXTINF:-1 tvg-id="" tvg-name="b31N Sports 3 HQ (AR)" tvg-logo="http://img.tvcl.xyz/deportes/bein.png" group-title="HPPLAY (8/12)",b31N Sports 3 HQ (AR)
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34720
+#EXTINF:-1 tvg-id="" tvg-name="b31N Sports 4 HQ (AR)" tvg-logo="http://img.tvcl.xyz/deportes/bein.png" group-title="HPPLAY (8/12)",b31N Sports 4 HQ (AR)
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34721
+#EXTINF:-1 tvg-id="" tvg-name="b31N Sports 5 HQ (AR)" tvg-logo="http://img.tvcl.xyz/deportes/bein.png" group-title="HPPLAY (8/12)",b31N Sports 5 HQ (AR)
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34722
+#EXTINF:-1 tvg-id="" tvg-name="b31N Sports 6 HQ (AR)" tvg-logo="http://img.tvcl.xyz/deportes/bein.png" group-title="HPPLAY (8/12)",b31N Sports 6 HQ (AR)
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34723
+#EXTINF:-1 tvg-id="" tvg-name="b31N Sports 7 HQ (AR)" tvg-logo="http://img.tvcl.xyz/deportes/bein.png" group-title="HPPLAY (8/12)",b31N Sports 7 HQ (AR)
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34724
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Tennis HQ (IT)" tvg-logo="http://hidra.live:80/images/cef969dfd13e807c26c71763b3d68d83.png" group-title="HPPLAY (8/12)",Sky Sports Tennis HQ (IT)
+http://hplay.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/34732
