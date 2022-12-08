@@ -32,30 +32,6 @@ http://103.179.246.243:8000/play/a00v
 
 
 
-http://#EXTINF:-1 group-title="QR ➾ SPORT",ZA2: SuperSport Premier League
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/11642
-#EXTINF:-1 group-title="QR ➾ SPORT",ZA2: SuperSport Football
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/38575
-#EXTINF:-1 group-title="QR ➾ SPORT",ZA2: SuperSport Grandstand
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/194353
-#EXTINF:-1 group-title="QR ➾ SPORT",ZA2: SuperSport LaLiga
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/194358
-#EXTINF:-1 group-title="QR ➾ SPORT",ZA2: SuperSport Tennis
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/15200
-#EXTINF:-1 group-title="QR ➾ SPORT",CA2: TSN 1
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/770
-#EXTINF:-1 group-title="QR ➾ SPORT",CA2: TSN 2
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/771
-#EXTINF:-1 group-title="QR ➾ SPORT",US2: FS1
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/756
-#EXTINF:-1 group-title="QR ➾ SPORT",US2: FS2
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/757
-#EXTINF:-1 group-title="QR ➾ SPORT",UK2: itv
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/689
-#EXTINF:-1 group-title="QR ➾ SPORT",UK2: itv 2
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/690
-#EXTINF:-1 group-title="QR ➾ SPORT",UK2: itv 3
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/703lity-restream.com:8080/asiantv/f2ba3832f4/157519
 
 #EXTINF:-1 group-title="Movie",HBO
 #http://mkcfc.freevar.com/pess/hbo.m3u8
@@ -63,7 +39,7 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/703lity-restream.c
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/197972
 #EXTINF:-1 group-title="Movie",HBO Signature
 #http://mkcfc.freevar.com/pess/sig.m3u8
-http://203.77.246.50:5000/udp/239.1.3.74:5000
+
 #EXTINF:-1 group-title="Movie",HBO Hits
 #http://203.77.246.50:5000/udp/239.1.3.82:5000 
 http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/196480
@@ -841,88 +817,6 @@ http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/52294.ts
 #EXTINF:-1  group-title="SIP  SPORT",SuperSport Football HD 
 http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/52874.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : BEIN SPORTS (ESP)" tvg-logo="https://apprecs.org/gp/images/app-icons/300/12/com.beinsports.andcontent.jpg" group-title="MAINSVIP SPORTS", SPORTS : BEIN SPORTS (ESP)
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/66785.m3u8
-#EXTINF:-1 tvg-id="BEIN4HD" tvg-name="SPORTS : BEIN SPORTS 04" tvg-logo="http://p2086.securepoint.io:2086/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="MAINSVIP SPORTS", SPORTS : BEIN SPORTS 04
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/66775.m3u8
-#EXTINF:-1 tvg-id="BEIN5HD" tvg-name="SPORTS : BEIN SPORTS 05" tvg-logo="http://p2086.securepoint.io:2086/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="MAINSVIP SPORTS", SPORTS : BEIN SPORTS 05
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/66776.m3u8
-#EXTINF:-1 tvg-id="BEIN6HD" tvg-name="SPORTS : BEIN SPORTS 06" tvg-logo="http://p2086.securepoint.io:2086/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="MAINSVIP SPORTS",SPORTS : BEIN SPORTS 06
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/66777.m3u8
-#EXTINF:-1 tvg-id="BEIN7HD" tvg-name="SPORTS : BEIN SPORTS 07" tvg-logo="http://p2086.securepoint.io:2086/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="MAINSVIP SPORTS",SPORTS : BEIN SPORTS 07
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/66778.m3u8
-#EXTINF:-1 tvg-id="beINSports8Ar.qa" tvg-name="SPORTS : BEIN SPORTS 08" tvg-logo="http://p2086.securepoint.io:2086/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="MAINSVIP SPORTS",SPORTS : BEIN SPORTS 08
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/66779.m3u8
-#EXTINF:-1 tvg-id="beINSports11En.qa" tvg-name="SPORTS : BEIN SPORTS ENGLISH 01" tvg-logo="http://p2086.securepoint.io:2086/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="MAINSVIP SPORTS",SPORTS : BEIN SPORTS ENGLISH 01
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/66782.m3u8
-#EXTINF:-1 tvg-id="beINSports12En.qa" tvg-name="SPORTS : BEIN SPORTS ENGLISH 02" tvg-logo="http://p2086.securepoint.io:2086/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="MAINSVIP SPORTS",SPORTS : BEIN SPORTS ENGLISH 02
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/66783.m3u8
-#EXTINF:-1 tvg-id="beINSports13En.qa" tvg-name="SPORTS : BEIN SPORTS ENGLISH 03" tvg-logo="http://p2086.securepoint.io:2086/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="MAINSVIP SPORTS",SPORTS : BEIN SPORTS ENGLISH 03
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/66784.m3u8
-#EXTINF:-1 tvg-id="beINSportsLaLiga.us" tvg-name="SPORTS : BEIN SPORTS LA LIGA" tvg-logo="http://p2086.securepoint.io:2086/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="MAINSVIP SPORTS",SPORTS : BEIN SPORTS LA LIGA
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/66786.m3u8
-#EXTINF:-1 tvg-id="BEIN1HD" tvg-name="SPORTS : BEIN SPORTS PREMIUM 01" tvg-logo="http://p2086.securepoint.io:2086/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="MAINSVIP SPORTS",SPORTS : BEIN SPORTS PREMIUM 01
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/66772.m3u8
-#EXTINF:-1 tvg-id="BEIN2HD" tvg-name="SPORTS : BEIN SPORTS PREMIUM 02" tvg-logo="http://p2086.securepoint.io:2086/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="MAINSVIP SPORTS",SPORTS : BEIN SPORTS PREMIUM 02
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/66773.m3u8
-#EXTINF:-1 tvg-id="BEIN3HD" tvg-name="SPORTS : BEIN SPORTS PREMIUM 03" tvg-logo="http://p2086.securepoint.io:2086/images/630259929e6ee07c8c54cfaa282c0cc1.jpg" group-title="MAINSVIP SPORTS",SPORTS : BEIN SPORTS PREMIUM 03
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/66774.m3u8
-#EXTINF:-1 tvg-id="beINSports.us" tvg-name="SPORTS : BEIN SPORTS USA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/BeIN_Sports.png/revision/latest?cb=20160218210123" group-title="MAINSVIP SPORTS",SPORTS : BEIN SPORTS USA
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/66771.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL : ELEVEN EXTRA" tvg-logo="http://cdn.countryflags.com/thumbs/poland/flag-button-round-250.png" group-title="MAINSVIP SPORTS",PL : ELEVEN EXTRA
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/92782.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL : ELEVEN SPORTS 1" tvg-logo="http://cdn.countryflags.com/thumbs/poland/flag-button-round-250.png" group-title="MAINSVIP SPORTS",PL : ELEVEN SPORTS 1
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/92766.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL : ELEVEN SPORTS 2" tvg-logo="http://cdn.countryflags.com/thumbs/poland/flag-button-round-250.png" group-title="MAINSVIP SPORTS",PL : ELEVEN SPORTS 2
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/92777.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL : ELEVEN SPORTS 3" tvg-logo="http://cdn.countryflags.com/thumbs/poland/flag-button-round-250.png" group-title="MAINSVIP SPORTS",PL : ELEVEN SPORTS 3
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/92780.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL : ELEVEN SPORTS 4" tvg-logo="http://cdn.countryflags.com/thumbs/poland/flag-button-round-250.png" group-title="MAINSVIP SPORTS",PL : ELEVEN SPORTS 4
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/92781.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE : DAZN 1" tvg-logo="https://cdn.countryflags.com/thumbs/germany/flag-round-250.png" group-title="MAINSVIP SPORTS",DE : DAZN 1
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/92343.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE : DAZN 2" tvg-logo="https://cdn.countryflags.com/thumbs/germany/flag-round-250.png" group-title="MAINSVIP SPORTS",DE : DAZN 2
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/92344.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT : SPORT TV +" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-800.png" group-title="MAINSVIP SPORTS",PT : SPORT TV +
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/92122.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT : SPORT TV 1" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-800.png" group-title="MAINSVIP SPORTS",PT : SPORT TV 1
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/92132.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT : SPORT TV 2" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-800.png" group-title="MAINSVIP SPORTS",PT : SPORT TV 2
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/92133.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT : SPORT TV 3" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-800.png" group-title="MAINSVIP SPORTS",PT : SPORT TV 3
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/92134.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT : SPORT TV 4" tvg-logo="http://cdn.countryflags.com/thumbs/portugal/flag-800.png" group-title="MAINSVIP SPORTS",PT : SPORT TV 4
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/92135.m3u8
-#EXTINF:-1 tvg-id="EPL.za" tvg-name="AFRICA : SUPERSPORT PREMIER LEAGUE" tvg-logo="http://p2086.securepoint.io:2086/images/f1391761110ead27fc34451934e88211.png" group-title="MAINSVIP SPORTS",AFRICA : SUPERSPORT PREMIER LEAGUE
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/90491.m3u8
-#EXTINF:-1 tvg-id="GRANDSTAND.za" tvg-name="AFRICA : SUPERSPORT GRANDSTAND" tvg-logo="http://p2086.securepoint.io:2086/images/f1391761110ead27fc34451934e88211.png" group-title="MAINSVIP SPORTS",AFRICA : SUPERSPORT GRANDSTAND
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/90493.m3u8
-#EXTINF:-1 tvg-id="LA.LIGA.za" tvg-name="AFRICA : SUPERSPORT LA LIGA" tvg-logo="http://p2086.securepoint.io:2086/images/f1391761110ead27fc34451934e88211.png" group-title="MAINSVIP SPORTS",AFRICA : SUPERSPORT LA LIGA
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/90490.m3u8
-#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-name="AFRICA : SUPERSPORT FOOTBALL" tvg-logo="http://p2086.securepoint.io:2086/images/f1391761110ead27fc34451934e88211.png" group-title="MAINSVIP SPORTS",AFRICA : SUPERSPORT FOOTBALL
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/90489.m3u8
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="AFRICA : SUPERSPORT TENNIS" tvg-logo="http://p2086.securepoint.io:2086/images/f1391761110ead27fc34451934e88211.png" group-title="MAINSVIP SPORTS",AFRICA : SUPERSPORT TENNIS
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/99291.m3u8
-#EXTINF:-1 tvg-id="argentinisima.ar" tvg-name="AR : FOX SPORTS PREMIUM" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png" group-title="MAINSVIP SPORTS",AR : FOX SPORTS PREMIUM
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/67126.m3u8
-#EXTINF:-1 tvg-id="beINSports1.au" tvg-name="SPORTS : AU BEIN SPORTS 1" tvg-logo="http://p2086.securepoint.io:2086/images/650ce3086ae36914197a4dbf3e0c1e48.png" group-title="MAINSVIP SPORTS",SPORTS : AU BEIN SPORTS 1
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/101215.m3u8
-#EXTINF:-1 tvg-id="beINSports2.au" tvg-name="SPORTS : AU BEIN SPORTS 2" tvg-logo="http://p2086.securepoint.io:2086/images/650ce3086ae36914197a4dbf3e0c1e48.png" group-title="MAINSVIP SPORTS",SPORTS : AU BEIN SPORTS 2
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/101216.m3u8
-#EXTINF:-1 tvg-id="beINSports3.au" tvg-name="SPORTS : AU BEIN SPORTS 3" tvg-logo="http://p2086.securepoint.io:2086/images/650ce3086ae36914197a4dbf3e0c1e48.png" group-title="MAINSVIP SPORTS",SPORTS : AU BEIN SPORTS 3
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/101217.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ARENA SPORT 01" tvg-logo="http://p2086.securepoint.io:2086/images/491f9ceffad0e1153214e407c9d2c691.png" group-title="MAINSVIP SPORTS",SPORTS : ARENA SPORT 01
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/115936.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ARENA SPORT 02" tvg-logo="http://p2086.securepoint.io:2086/images/491f9ceffad0e1153214e407c9d2c691.png" group-title="MAINSVIP SPORTS",SPORTS : ARENA SPORT 02
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/115937.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ARENA SPORT 03" tvg-logo="http://p2086.securepoint.io:2086/images/491f9ceffad0e1153214e407c9d2c691.png" group-title="MAINSVIP SPORTS",SPORTS : ARENA SPORT 03
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/115938.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS : ARENA SPORT 04" tvg-logo="http://p2086.securepoint.io:2086/images/491f9ceffad0e1153214e407c9d2c691.png" group-title="MAINSVIP SPORTS",SPORTS : ARENA SPORT 04
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/115939.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT : SUPERTENNIS" tvg-logo="https://cdn.countryflags.com/thumbs/italy/flag-round-250.png" group-title="ITALIAN TV",IT : SUPERTENNIS
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/94124.m3u8
-#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="US : TENNIS CHANNEL" tvg-logo="http://p2086.securepoint.io:2086/images/2568ebd6306508d7fce286137a04ba5f.png" group-title="MAINSVIP SPORTS",US : TENNIS CHANNEL
-http://mains.vip:2086/live/vodpan2log2g4/agd62g3j4lxy3er2fr33f5/327.m3u8
 
 #EXTINF:-1 group-title="Platin 4k Sport",PT: Eleven Sports 1 HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159576
