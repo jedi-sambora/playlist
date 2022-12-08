@@ -2465,3 +2465,20 @@ http://iptvmedia.live:8080/86488e81/a54aaf7b73/11643
 http://iptvmedia.live:8080/86488e81/a54aaf7b73/11639
 #EXTINF:0 tvg-id="ext" group-title="iptvmedia (6/12)",ZA: SuperSport Tennis
 http://iptvmedia.live:8080/86488e81/a54aaf7b73/15200
+
+#EXTINF:-1 tvg-id="" tvg-name="US.SP - TSN SPORT 2 HD" tvg-logo="https://static.telus.com/common/cms/images/tv/satellite/new-channel-logos/TSN2HD.png" group-title="NOUSI",US.SP - TSN SPORT 2 HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3362
+#EXTINF:-1 tvg-id="" tvg-name="US.SP - TSN SPORT 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/Tsn-logo.png" group-title="NOUSI",US.SP - TSN SPORT 1 HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3363
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="US.SP - FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="NOUSI",US.SP - FOX SPORTS 2
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/2044
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="US.SP - FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="NOUSI",US.SP - FOX SPORTS 1
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/2048
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="CHILE - TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TNT_Sports_Chile.svg/2560px-TNT_Sports_Chile.svg.png" group-title="NOUSI",CHILE - TNT SPORTS
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/16138
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="ARG - TYC SPORTS" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102018/untitled-1_0.png" group-title="NOUSI",ARG - TYC SPORTS
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/43633
+#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="ES - BEINS SPORTS LALIGA" tvg-logo="https://2.bp.blogspot.com/-ZGLV-Qlafiw/VtyQp-P8ZSI/AAAAAAAADno/sUXteU6ltnw/s1600/be1.png" group-title="NOUSI",ES - BEINS SPORTS LALIGA
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3118
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="LD - TYC SPORTS HD" tvg-logo="https://pbs.twimg.com/media/D_XydwSW4AAjU6l.jpg" group-title="NOUSI",LD - TYC SPORTS HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3759
