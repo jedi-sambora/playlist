@@ -1,4 +1,18 @@
-#EXTM3U
+#EXTM3U  x-tvg-url="https://mammothtv.wapka.co/epg2,https://mammothtv.wapka.co/epg1,
+https://mammothtv.wapka.co/epg3,https://iptv-org.github.io/epg/guides/id.xml,
+https://iptv-org.github.io/epg/guides/in.xml,https://iptv-org.github.io/epg/guides/my.xml,
+https://iptv-org.github.io/epg/guides/pt.xml,https://iptv-org.github.io/epg/guides/jp.xml,
+https://iptv-org.github.io/epg/guides/kr.xml,https://iptv-org.github.io/epg/guides/ca.xml,
+https://iptv-org.github.io/epg/guides/th.xml,https://iptv-org.github.io/epg/guides/pl.xml,
+https://iptv-org.github.io/epg/guides/nl.xml,https://iptv-org.github.io/epg/guides/hr.xml,
+https://iptv-org.github.io/epg/guides/za.xml,https://iptv-org.github.io/epg/guides/uk.xml,
+https://iptv-org.github.io/epg/guides/us.xml,https://iptv-org.github.io/epg/guides/sg.xml,
+https://iptv-org.github.io/epg/guides/qa.xml,https://iptv-org.github.io/epg/guides/ru.xml,
+https://iptv-org.github.io/epg/guides/ro.xml,https://iptv-org.github.io/epg/guides/rs.xml,
+https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/ua.xml,
+https://iptv-org.github.io/epg/guides/ae.xml,https://iptv-org.github.io/epg/guides/ba.xml,
+https://iptv-org.github.io/epg/guides/br.xml,https://iptv-org.github.io/epg/guides/es.xml,
+https://iptv-org.github.io/epg/guides/de.xml,https://iptv-org.github.io/epg/guides/ie.xml"
 #https://dukuntech.com:443/playlist/TRIAL/TRIAL/m3u_plus
 #http://admin.nf21.net/go/files/1
 #https://raw.githubusercontent.com/ShareExt-Group/ShareExt/main/UpdateFile
