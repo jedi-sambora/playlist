@@ -75,6 +75,7 @@ https://02ip.ru/astroWC2?shareext.ts
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/348094
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",ASTROSPORT.WC.2_UHD
 http://clientsportals.com:2095/f778W3He/yj7FXRjr/348095
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",|WC|Alkaz Sports 1
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1053342&extension=ts&play_token=pk7zRQATRG
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",|WC|TRT sport
@@ -326,16 +327,6 @@ http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E82-pE3T7ZTGq5ibLemeCpw
 http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E7GnyhqWbrAZQKWN60qv1uE
 #EXTINF:-1 xui-id="3334166" tvg-id="AstroSupersport5.my" tvg-name="MY: Astro Supersport 5 50fps" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia/astro-supersport-5-hd-my.png?raw=true" group-title="ASTRO",MY: Astro Supersport 5 50fps
 http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E-g7CSX-p-EhpK0fmrHOwP0 
-
-#EXTINF:-1  group-title="ASTRO", MY: ASTRO SUPERSPORTS 1 FHD (sib)
- http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/52859.ts
-#EXTINF:-1  group-title="ASTRO",MY: ASTRO SUPERSPORTS 2 FHD (sib)
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/52860.ts
-#EXTINF:-1  group-title="ASTRO",MY: ASTRO SUPERSPORTS 3 FHD (sib)
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/52861.ts
-#EXTINF:-1  group-title="ASTRO", MY: ASTRO SUPERSPORTS 4 FHD (sib)
- http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/52862.ts
-
 
 
 
@@ -920,58 +911,6 @@ http://dominoiptv.com:2082/Fauconcon/pzAXuZwFdAjy/31186
 http://dominoiptv.com:2082/Fauconcon/pzAXuZwFdAjy/31187 
 
 
-#EXTINF:-1  group-title="SIP  SPORT",DE: DAZN 2 HD
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/54512.ts
-#EXTINF:-1  group-title="SIP  SPORT",DE: DAZN 1 BAR HD
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/54513.ts
-#EXTINF:-1  group-title="SIP  SPORT",	de: DAZN 1 HD
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/50878.ts
-#EXTINF:-1  group-title="SIP  SPORT",	ES: DAZN 1 HD
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/53387.ts
-#EXTINF:-1  group-title="SIP  SPORT",	ES: DAZN 2 HD
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/53388.ts
-#EXTINF:-1  group-title="SIP  SPORT",	ES: DAZN 3 HD
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/53389.ts
-#EXTINF:-1  group-title="SIP  SPORT",	ES: DAZN 4 HD
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/53390.ts
-#EXTINF:-1  group-title="SIP  SPORT", DIGI SPORT 1 
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/46984.ts
-#EXTINF:-1  group-title="SIP  SPORT", DIGI SPORT 2 
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/46983.ts
-#EXTINF:-1  group-title="SIP  SPORT", DIGI SPORT 3 
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/46982.ts
-#EXTINF:-1  group-title="SIP  SPORT", DIGI SPORT 4 
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/46981.ts
-#EXTINF:-1  group-title="SIP  SPORT", PL: ELEVEN SPORT 1 
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/47456.ts
-#EXTINF:-1  group-title="SIP  SPORT", PL: ELEVEN SPORT 2 
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/47455.ts
-#EXTINF:-1  group-title="SIP  SPORT", PL: ELEVEN SPORT 3 
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/47454.ts
-#EXTINF:-1  group-title="SIP  SPORT", PL: ELEVEN SPORT 4 
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/50293.ts
-#EXTINF:-1  group-title="SIP  SPORT", BR: SporTV 
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/3854.ts
-#EXTINF:-1  group-title="SIP  SPORT", BR: SporTV 2
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/3855.ts
-#EXTINF:-1  group-title="SIP  SPORT", BR: SporTV 3
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/3856.ts
-#EXTINF:-1  group-title="SIP  SPORT", Bein sport Premium 1
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/9.ts
-#EXTINF:-1  group-title="SIP  SPORT", Bein sport Premium 2
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/8.ts
-#EXTINF:-1  group-title="SIP  SPORT", Bein sport Premium 3
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/11.ts
-#EXTINF:-1  group-title="SIP  SPORT", IT : Tennis
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/1439.ts
-#EXTINF:-1  group-title="SIP  SPORT", SkY Sport : Tennis
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/54622.ts
-#EXTINF:-1  group-title="SIP  SPORT", Super Sport : Premier Leage
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/52299.ts
-#EXTINF:-1  group-title="SIP  SPORT", Super Sport : La liga
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/52294.ts
-#EXTINF:-1  group-title="SIP  SPORT",SuperSport Football HD 
-http://server.sibfungold.info:8080/live/naasiptv/gutNC1gKgm/52874.ts
 
 
 #EXTINF:-1 group-title="Platin 4k Sport",PT: Eleven Sports 1 HD
@@ -2046,6 +1985,8 @@ http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/369978
 #EXTINF:0 tvg-id="ext"  group-title="ABC SPORT",NL ZIGGO SPORT TENNIS HD
 http://abc123.digital:8080/R9YN4ecdXe/tieHEWaGSb/378767
 
+#EXTINF:-1    group-title="SWCCUP SPORTS",SBS AU
+https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
 #EXTINF:-1    group-title="SWCCUP SPORTS",CCTV_5
 http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
 #EXTINF:-1group-title="WCCUP SPORTS", AR: ALKASS ONE HD
