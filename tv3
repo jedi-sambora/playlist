@@ -140,12 +140,6 @@ https://v-px.mybtv.net/live/39.m3u8
 https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",DUHOK_SPORTS
 http://local.badinan.xyz:1935/live/DUHSPO/chunklist_w103995118.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",Supersport_football
-http://satline.xyz:8080/live/5641662923740580/8591662923740580/6712.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",Supersport_grandstand
-http://satline.xyz:8080/live/5641662923740580/8591662923740580/6714.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",Supersport_laliga
-http://satline.xyz:8080/live/5641662923740580/8591662923740580/6715.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",CCTV_5
 http://60.10.167.88:808/hls/5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",CCTV_5+
@@ -607,40 +601,6 @@ http://line.365tv.xyz:8060/lucky/jfdnndsfs/118344
 #EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 3 HD" tvg-logo="" group-title="LINE365 SPORTS",FR: BEIN SPORTS 3 HD
 http://line.365tv.xyz:8060/lucky/jfdnndsfs/118345
 
-#EXTINF:-1 group-title="hometv SPORTS",beIN SPORTS Premium 1 FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101931
-#EXTINF:-1 group-title="hometv SPORTS",beIN SPORTS Premium 2 FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101929
-#EXTINF:-1 group-title="hometv SPORTS",beIN Sports Premium 3 FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/117116
-#EXTINF:-1 group-title="hometv SPORTS",beIN SPORT FHD 1
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90154
-#EXTINF:-1 group-title="hometv SPORTS",beIN SPORT FHD 2
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90155
-#EXTINF:-1 group-title="hometv SPORTS",beIN SPORT FHD 3
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90156
-#EXTINF:-1 group-title="hometv SPORTS",beIN SPORT FHD 4
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90157
-#EXTINF:-1 group-title="hometv SPORTS",beIN SPORT FHD 5
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90158
-#EXTINF:-1 group-title="hometv SPORTS",beIN SPORT FHD 6
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90159
-#EXTINF:-1 group-title="hometv SPORTS",beIN SPORT FHD 7
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/90160
-#EXTINF:-1 group-title="hometv SPORTS",beIN SPORTS English 1 HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101944
-#EXTINF:-1 group-title="hometv SPORTS",beIN SPORTS English 2 HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101945
-#EXTINF:-1 group-title="hometv SPORTS",beIN SPORTS English 3 HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101946
-#EXTINF:-1 group-title="hometv SPORTS",beIN SPORTS French 1 HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101947
-#EXTINF:-1 group-title="hometv SPORTS",beIN SPORTS French 2 HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101948
-#EXTINF:-1 group-title="hometv SPORTS",beIN SPORTS French 3 HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101949
-
-
 #EXTINF:-1 tvg-ID="beINSPORTS1.fr" tvg-name="|FR.SPORT| b-eIN SPORTS 1 FHD" tvg-logo="http://storm.sphd.co:8080/images/9381fa75a05f97b3ab9ec17eb8cd5ffd.png"   group-title="STORM  SPORT", |FR.SPORT| b-eIN SPORTS 1 FHD
 http://storm.sphd.co:8080/@FamilyBox/LEyrsp8pj5GU/678
 #EXTINF:-1 tvg-ID="beINSPORTS1.fr" tvg-name="|FR.SPORT| b-eIN SPORTS 1 HD" tvg-logo="http://storm.sphd.co:8080/images/47c575a215f19e74b607800702c8bcdc.png"   group-title="STORM  SPORT", |FR.SPORT| b-eIN SPORTS 1 HD
@@ -668,131 +628,6 @@ http://storm.sphd.co:8080/@FamilyBox/LEyrsp8pj5GU/686
 #EXTINF:-1 tvg-ID="beIN SPORTS MAX 10 FR" tvg-name="|FR.SPORT| belN-SPORT MAX 10 HD" tvg-logo="https://epg.beinsports.com/france_sports/10MAX.svg"   group-title="STORM  SPORT", |FR.SPORT| belN-SPORT MAX 10 HD
 http://storm.sphd.co:8080/@FamilyBox/LEyrsp8pj5GU/10796
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="RO:Digi Sport 1" tvg-logo="http://logo.ndasat.com/iptv/images/1155_romania-flag-small.jpg" group-title="DASAT SPORT",RO:Digi Sport 1
-http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1829
-#EXTINF:-1 tvg-id="" tvg-name="RO:Digi Sport 2" tvg-logo="http://logo.ndasat.com/iptv/images/1155_romania-flag-small.jpg" group-title="DASAT SPORT",RO:Digi Sport 2
-http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1830
-#EXTINF:-1 tvg-id="" tvg-name="RO:Digi Sport 3" tvg-logo="http://logo.ndasat.com/iptv/images/1155_romania-flag-small.jpg" group-title="DASAT SPORT",RO:Digi Sport 3
-http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1831
-#EXTINF:-1 tvg-id="" tvg-name="RO:Digi Sport 4" tvg-logo="http://logo.ndasat.com/iptv/images/1155_romania-flag-small.jpg" group-title="DASAT SPORT",RO:Digi Sport 4
-http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1832
-#EXTINF:-1 tvg-id="" tvg-name="AS:Super Sport1 AL" tvg-logo="http://logo.ndasat.com/iptv/images/11368_supersport1.png" group-title="DASAT SPORT",AS:Super Sport1 AL
-http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/110
-#EXTINF:-1 tvg-id="" tvg-name="AS:Super Sport2 AL" tvg-logo="http://logo.ndasat.com/iptv/images/86428_supersport2.png" group-title="DASAT SPORT",AS:Super Sport2 AL
-http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/111
-#EXTINF:-1 tvg-id="" tvg-name="AS:Super Sport3 AL" tvg-logo="http://logo.ndasat.com/iptv/images/60900_supersport3.png" group-title="DASAT SPORT",AS:Super Sport3 AL
-http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/112
-#EXTINF:-1 tvg-id="" tvg-name="AS:Super Sport4 AL" tvg-logo="http://logo.ndasat.com/iptv/images/62166_supersport4.png" group-title="DASAT SPORT",AS:Super Sport4 AL
-http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/113
-#EXTINF:-1 tvg-id="C1290.api.telerama.fr" tvg-name="FR:Bein Sport 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="DASAT SPORT",FR:Bein Sport 1 HD
-http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/7731
-#EXTINF:-1 tvg-id="C1304.api.telerama.fr" tvg-name="FR:Bein Sport 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="DASAT SPORT",FR:Bein Sport 2 HD
-http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/70
-#EXTINF:-1 tvg-id="C1335.api.telerama.fr" tvg-name="FR:Bein Sport 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="DASAT SPORT",FR:Bein Sport 3 HD
-http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/71
-#EXTINF:-1 tvg-id="C35.api.telerama.fr" tvg-name="FR:Canal+ Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_sport.png" group-title="DASAT SPORT",FR:Canal+ Sport
-http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/5190
-#EXTINF:-1 tvg-id="C1336.api.telerama.fr" tvg-name="FR:BEIN SPORT MAX4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-4-qa-fr.png" group-title="DASAT SPORT",FR:BEIN SPORT MAX4
-http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/978
-#EXTINF:-1 tvg-id="C1337.api.telerama.fr" tvg-name="FR:BEIN SPORT MAX5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_05_hd.png" group-title="DASAT SPORT",FR:BEIN SPORT MAX5
-http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/979
-#EXTINF:-1 tvg-id="C1338.api.telerama.fr" tvg-name="FR:BEIN SPORT MAX6" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_06_hd.png" group-title="DASAT SPORT",FR:BEIN SPORT MAX6
-http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/980
-#EXTINF:-1 tvg-id="C1339.api.telerama.fr" tvg-name="FR:BEIN SPORT MAX7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_07_hd.png" group-title="DASAT SPORT",FR:BEIN SPORT MAX7
-http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/981
-#EXTINF:-1 tvg-id="C1340.api.telerama.fr" tvg-name="FR:BEIN SPORT MAX8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_08_hd.png" group-title="DASAT SPORT",FR:BEIN SPORT MAX8
-http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/982
-#EXTINF:-1 tvg-id="" tvg-name="US:Tsn1" tvg-logo="http://logo.ndasat.com/iptv/images/88935_tsn1.png" group-title="DASAT SPORT",US:Tsn1
-http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1653
-#EXTINF:-1 tvg-id="" tvg-name="US:Tsn2" tvg-logo="http://logo.ndasat.com/iptv/images/43296_tsn2.png" group-title="DASAT SPORT",US:Tsn2
-http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1652
-#EXTINF:-1 tvg-id="" tvg-name="US:tsn3" tvg-logo="http://logo.ndasat.com/iptv/images/916_tsn3.png" group-title="DASAT SPORT",US:tsn3
-http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1651
-#EXTINF:-1 tvg-id="" tvg-name="US:Tsn4" tvg-logo="http://logo.ndasat.com/iptv/images/61077_tsn4.png" group-title="DASAT SPORT",US:Tsn4
-http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1650
-#EXTINF:-1 tvg-id="" tvg-name="US:Tsn5" tvg-logo="http://logo.ndasat.com/iptv/images/28682_tsn5.png" group-title="DASAT SPORT",US:Tsn5
-http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1649
-
-
-#EXTINF:-1 group-title="31.14  SPORT",RO: DIGI SPORT 1 HD
-http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/39238
-#EXTINF:-1 group-title="31.14  SPORT",RO: DIGI SPORT 2 HD
-http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/39240
-#EXTINF:-1 group-title="31.14  SPORT",RO: DIGI SPORT 4 HD
-http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/39243
-#EXTINF:-1 group-title="31.14  SPORT",RO: DIGI SPORT 3 HD
-http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/38528
-#EXTINF:-1 group-title="31.14  SPORT",[DE] DAZN 1 HD
-http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36811
-#EXTINF:-1 group-title="31.14  SPORT",[DE] DAZN 2 HD
-http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36812
-#EXTINF:-1 group-title="31.14  SPORT",bein Sports USA | HD
-http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/53185
-#EXTINF:-1 group-title="31.14  SPORT",US: Bein Sports 2 | (ES)
-http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/53186
-#EXTINF:-1 group-title="31.14  SPORT",US: BeIN Sports 4 | HD*
-http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/53188
-#EXTINF:-1 group-title="31.14  SPORT",US: BeIN Sports 6 | HD*
-http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/53190
-#EXTINF:-1 group-title="31.14  SPORT",US: BeIN Sports 7 | HD*
-http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/53191
-#EXTINF:-1 group-title="31.14  SPORT",US: BeIN Sports 8 | HD*
-http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/53192
-#EXTINF:-1 group-title="31.14  SPORT",US: BeIN Sports 12| HD*
-http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/53196
-#EXTINF:-1 group-title="31.14  SPORT",VIP BT SPORT 1 UHD
-http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/147254
-#EXTINF:-1 group-title="31.14  SPORT",VIP BT SPORT 2 UHD
-http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/147255
-#EXTINF:-1 group-title="31.14  SPORT",VIP BT SPORT 3 UHD
-http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/147256
-#EXTINF:-1 group-title="31.14  SPORT",UK : BT Sport 2 SD
-http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/147264
-#EXTINF:-1 group-title="31.14  SPORT",UK : BT Sport 3 SD
-http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/147265
-#EXTINF:-1 group-title="31.14  SPORT",UK : BT Sport ESPN HD
-http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/147266
-#EXTINF:-1 group-title="31.14  SPORT",UK : BT Sport ESPN SD
-http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/147267
-#EXTINF:-1 group-title="31.14  SPORT",UK : Premier Sports 1 HD
-http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/147277
-#EXTINF:-1 group-title="31.14  SPORT",UK : Premier Sports 2 HD
-http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/147278
-#EXTINF:-1 group-title="31.14  SPORT",TSN 1
-http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/19933
-#EXTINF:-1 group-title="31.14  SPORT",TSN 2
-http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/19934
-#EXTINF:-1 group-title="31.14  SPORT",TSN 3
-http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/19935
-#EXTINF:-1 group-title="31.14  SPORT",TSN 4 
-http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/19936
-#EXTINF:0 tvg-id="SkySpAction.uk" group-title="31.14  SPORT",UK: SKY SPORTS ACTION HD (750 CON)
-http://31.14.41.118:8080/Manwithplan2021/ry928rB8ES/147279
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="31.14  SPORT",UK: SKY SPORTS ARENA HD (750 CON)
-http://31.14.41.118:8080/Manwithplan2021/ry928rB8ES/147280
-#EXTINF:0 tvg-id="SkySpBoxOff.uk" group-title="31.14  SPORT",UK: SKY SPORTS BOX OFFICE (750 CON)
-http://31.14.41.118:8080/Manwithplan2021/ry928rB8ES/147281
-#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="31.14  SPORT",UK: SKY SPORTS CRICKET FHD (750 CON)
-http://31.14.41.118:8080/Manwithplan2021/ry928rB8ES/147282
-#EXTINF:0 tvg-id="SkySpF1.uk" group-title="31.14  SPORT",UK: SKY SPORTS F1 HD (750 CON)
-http://31.14.41.118:8080/Manwithplan2021/ry928rB8ES/147283
-#EXTINF:0 tvg-id="SkySpFball.uk" group-title="31.14  SPORT",UK: SKY SPORTS FOOTBALL FHD (750 CON)
-http://31.14.41.118:8080/Manwithplan2021/ry928rB8ES/147284
-#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="31.14  SPORT",UK: SKY SPORTS GOLF HD (750 CON)
-http://31.14.41.118:8080/Manwithplan2021/ry928rB8ES/147285
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="31.14  SPORT",UK: SKY SPORTS MAIN EVENT HD (750 CON)
-http://31.14.41.118:8080/Manwithplan2021/ry928rB8ES/147286
-#EXTINF:0 tvg-id="SkySpMix.uk" group-title="31.14  SPORT",UK: Sky Sports Mix FHD (750 CON)
-http://31.14.41.118:8080/Manwithplan2021/ry928rB8ES/147287
-#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="31.14  SPORT",UK: SKY SPORTS NEWS HD (750 CON)
-http://31.14.41.118:8080/Manwithplan2021/ry928rB8ES/147288
-#EXTINF:0 tvg-id="ext" group-title="31.14  SPORT",UK: SKY SPORTS PL HD (750 CON)
-http://31.14.41.118:8080/Manwithplan2021/ry928rB8ES/147289
-#EXTINF:0 tvg-id="ext" group-title="31.14  SPORT",UK: SKY SPORTS RACING (750 CON)
-http://31.14.41.118:8080/Manwithplan2021/ry928rB8ES/147290
 
 
 #EXTINF: -1 group-title="Domino  SPORT",FR: BEIN SPORTS 1
@@ -1013,290 +848,10 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/161774
 #EXTINF:-1 group-title="Platin 4k Sport",USA: Tennis Channel
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159549
 
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORT 1 FULLHD*" tvg-logo="" group-title="46.21(500)  SPORT",FR | BEIN SPORT 1 FULLHD*
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/506547
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORT 2 FULLHD*" tvg-logo="" group-title="46.21(500)  SPORT",FR | BEIN SPORT 2 FULLHD*
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/506548
-#EXTINF:-1 tvg-id="" tvg-name="FR | BEIN SPORT 3 FULLHD*" tvg-logo="" group-title="46.21(500)  SPORT",FR | BEIN SPORT 3 FULLHD*
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/506549
-#EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 1 FULLHD*" tvg-logo="" group-title="46.21(500)  SPORT",FR | RMC SPORT 1 FULLHD*
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/506550
-#EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT 2 FULLHD*" tvg-logo="" group-title="46.21(500)  SPORT",FR | RMC SPORT 2 FULLHD*
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/506551
-#EXTINF:-1 tvg-id="" tvg-name="FR | CANAL + SPORT FULLHD*" tvg-logo="" group-title="46.21(500)  SPORT",FR | CANAL + SPORT FULLHD*
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/506552
-#EXTINF:-1 tvg-id="" tvg-name="FR_BeIN.SPORTS.MAX4" tvg-logo="" group-title="46.21(500)  SPORT",FR_BeIN.SPORTS.MAX4
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/506725
-#EXTINF:-1 tvg-id="" tvg-name="FR_BeIN.SPORTS.MAX5" tvg-logo="" group-title="46.21(500)  SPORT",FR_BeIN.SPORTS.MAX5
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/506726
-#EXTINF:-1 tvg-id="" tvg-name="FR_BeIN.SPORTS.MAX6" tvg-logo="" group-title="46.21(500)  SPORT",FR_BeIN.SPORTS.MAX6
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/506727
-#EXTINF:-1 tvg-id="" tvg-name="FR_BeIN.SPORTS.MAX7" tvg-logo="" group-title="46.21(500)  SPORT",FR_BeIN.SPORTS.MAX7
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/506728
-#EXTINF:-1 tvg-id="" tvg-name="FR_BeIN.SPORTS.MAX8" tvg-logo="" group-title="46.21(500)  SPORT",FR_BeIN.SPORTS.MAX8
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/506729
-#EXTINF:-1 tvg-id="" tvg-name="FR_BeIN.SPORTS.MAX9" tvg-logo="" group-title="46.21(500)  SPORT",FR_BeIN.SPORTS.MAX9
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/506730
-#EXTINF:-1 tvg-id="" tvg-name="FR_BeIN.SPORTS.MAX10" tvg-logo="" group-title="46.21(500)  SPORT",FR_BeIN.SPORTS.MAX10
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/506731
-#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports HD" tvg-logo="" group-title="46.21(500)  SPORT",US: beIN Sports HD
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/522478
-#EXTINF:-1 tvg-id="" tvg-name="UK : Sky Sports Premier Leagueⓧ HD" tvg-logo="" group-title="46.21(500)  SPORT",UK : Sky Sports Premier Leagueⓧ HD
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/517164
-#EXTINF:-1 tvg-id="" tvg-name="UK : Sky Sports Main Event ⓧ HD" tvg-logo="" group-title="46.21(500)  SPORT",UK : Sky Sports Main Event ⓧ HD
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/517154
-#EXTINF:-1 tvg-id="" tvg-name="UK : Sky Sports Footballⓧ HD" tvg-logo="" group-title="46.21(500)  SPORT",UK : Sky Sports Footballⓧ HD
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/517149
-#EXTINF:-1 tvg-id="" tvg-name="DE :  sky Sport 1 HD" tvg-logo="" group-title="46.21(500)  SPORT",DE :  sky Sport 1 HD
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/519360
-#EXTINF:-1 tvg-id="" tvg-name="DE :  sky Sport 10 HD" tvg-logo="" group-title="46.21(500)  SPORT",DE :  sky Sport 10 HD
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/519362
-#EXTINF:-1 tvg-id="" tvg-name="DE :  sky Sport 2 HD" tvg-logo="" group-title="46.21(500)  SPORT",DE :  sky Sport 2 HD
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/519365
-#EXTINF:-1 tvg-id="" tvg-name="DE :  sky Sport 3 HD" tvg-logo="" group-title="46.21(500)  SPORT",DE :  sky Sport 3 HD
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/519367
-#EXTINF:-1 tvg-id="" tvg-name="DE :  sky Sport 4 HD" tvg-logo="" group-title="46.21(500)  SPORT",DE :  sky Sport 4 HD
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/519369
-#EXTINF:-1 tvg-id="" tvg-name="DE :  sky Sport 5 HD" tvg-logo="" group-title="46.21(500)  SPORT",DE :  sky Sport 5 HD
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/519371
-#EXTINF:-1 tvg-id="" tvg-name="RO :DIGI Sport 1 HD" tvg-logo="" group-title="46.21(500)  SPORT",RO :DIGI Sport 1 HD
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/516549
-#EXTINF:-1 tvg-id="" tvg-name="RO :Digi Sport 2 HD" tvg-logo="" group-title="46.21(500)  SPORT",RO :Digi Sport 2 HD
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/516551
-#EXTINF:-1 tvg-id="" tvg-name="RO :DIGI Sport 3" tvg-logo="" group-title="46.21(500)  SPORT",RO :DIGI Sport 3
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/516552
-#EXTINF:-1 tvg-id="" tvg-name="RO :DIGI Sport 4" tvg-logo="" group-title="46.21(500)  SPORT",RO :DIGI Sport 4
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/516553
-#EXTINF:-1 tvg-id="" tvg-name="PT :  ELEVEN SPORTS 1 ᶠᴴᴰ HEVC" tvg-logo="" group-title="46.21(500)  SPORT",PT :  ELEVEN SPORTS 1 ᶠᴴᴰ HEVC
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/518707
-#EXTINF:-1 tvg-id="" tvg-name="PT : ELEVEN SPORTS 2 HD HEVC" tvg-logo="" group-title="46.21(500)  SPORT",PT : ELEVEN SPORTS 2 HD HEVC
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/518870
-#EXTINF:-1 tvg-id="" tvg-name="PT :  ELEVEN SPORTS 3 FHD HEVC" tvg-logo="" group-title="46.21(500)  SPORT",PT :  ELEVEN SPORTS 3 FHD HEVC
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/518708
-#EXTINF:-1 tvg-id="" tvg-name="PT :  ELEVEN SPORTS 4 HD HEVC" tvg-logo="" group-title="46.21(500)  SPORT",PT :  ELEVEN SPORTS 4 HD HEVC
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/518709
-#EXTINF:-1 tvg-id="" tvg-name="PT :  ELEVEN SPORTS 6 HD HEVC" tvg-logo="" group-title="46.21(500)  SPORT",PT :  ELEVEN SPORTS 6 HD HEVC
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/518710
-#EXTINF:-1 tvg-id="" tvg-name="PT : SPORT TV 1 UHD HEVC" tvg-logo="" group-title="46.21(500)  SPORT",PT : SPORT TV 1 UHD HEVC
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/519057
-#EXTINF:-1 tvg-id="" tvg-name="PT : SPORT TV 2 HD" tvg-logo="" group-title="46.21(500)  SPORT",PT : SPORT TV 2 HD
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/519063
-#EXTINF:-1 tvg-id="" tvg-name="PT : SPORT TV 3 HD" tvg-logo="" group-title="46.21(500)  SPORT",PT : SPORT TV 3 HD
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/519069
-#EXTINF:-1 tvg-id="" tvg-name="PT : SPORT TV 4 HD" tvg-logo="" group-title="46.21(500)  SPORT",PT : SPORT TV 4 HD
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/519075
-#EXTINF:-1 tvg-id="" tvg-name="PT : SPORT TV 5 HD" tvg-logo="" group-title="46.21(500)  SPORT",PT : SPORT TV 5 HD
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/519081
-#EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport 1ⓧ HD" tvg-logo="" group-title="46.21(500)  SPORT",UK : BT Sport 1ⓧ HD
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/516756
-#EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport 2ⓧ HD" tvg-logo="" group-title="46.21(500)  SPORT",UK : BT Sport 2ⓧ HD
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/516760
-#EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport 3ⓧ HD" tvg-logo="" group-title="46.21(500)  SPORT",UK : BT Sport 3ⓧ HD
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/516764
-#EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport ESPNⓧ HD" tvg-logo="" group-title="46.21(500)  SPORT",UK : BT Sport ESPNⓧ HD
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/516769
-#EXTINF:-1 tvg-id="" tvg-name="NL :   Ziggo Sport Select ᴴᴰ⁺" tvg-logo="" group-title="46.21(500)  SPORT",NL :   Ziggo Sport Select ᴴᴰ⁺
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/520268
-#EXTINF:-1 tvg-id="" tvg-name="NL :   Ziggo Sport Voetbal ᴴᴰ⁺" tvg-logo="" group-title="46.21(500)  SPORT",NL :   Ziggo Sport Voetbal ᴴᴰ⁺
-http://46.21.250.55:8080/alcespedsa12W446W36/bOSiQZF8q9/520270
 
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="DNSCLIENT  SPORT",SporTV HD
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/2038
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="DNSCLIENT  SPORT",SporTV 2 HD
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/2036
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="http://printv.esy.es/server/SporTV%203.png" group-title="DNSCLIENT  SPORT",SporTV 3 HD
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/2037
-#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FoxSports 2 HD" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202%20HD.png" ggroup-title="DNSCLIENT  SPORT",FoxSports 2 HD
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/13082
-#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="Eleven Sports 1 HD" tvg-logo="http://printv.esy.es/server/Eleven%20Sports.png" group-title="DNSCLIENT  SPORT",Eleven Sports 1 HD
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/2375
-#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="Eleven Sports 2 HD" tvg-logo="http://printv.esy.es/server/Eleven%20Sports.png" group-title="DNSCLIENT  SPORT",Eleven Sports 2 HD
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/2382
-#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="Eleven Sports 3 HD" tvg-logo="http://printv.esy.es/server/Eleven%20Sports.png" group-title="DNSCLIENT  SPORT",Eleven Sports 3 HD
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/2390
-#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="Eleven Sports 4 HD" tvg-logo="http://printv.esy.es/server/Eleven%20Sports.png" group-title="DNSCLIENT  SPORT",Eleven Sports 4 HD
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/2396
-#EXTINF:-1 tvg-id="elevensports4FHD" tvg-name="Eleven Sports 4" tvg-logo="http://printv.esy.es/server/Eleven%20Sports.png" group-title="DNSCLIENT  SPORT",Eleven Sports 4
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/2395
-#EXTINF:-1 tvg-id="elevensports5LB" tvg-name="Eleven Sports 5 HD" tvg-logo="http://printv.esy.es/server/Eleven%20Sports.png" group-title="DNSCLIENT  SPORT",Eleven Sports 5 HD
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/2402
-#EXTINF:-1 tvg-id="Eleven Sports 6" tvg-name="Eleven Sports 6 HD" tvg-logo="http://printv.esy.es/server/Eleven%20Sports.png" group-title="DNSCLIENT  SPORT",Eleven Sports 6 HD
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/2409
-#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1 HD" tvg-logo="http://printv.esy.es/server/Sport%20TV%201.png" group-title="DNSCLIENT  SPORT",SPORT TV 1 HD
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/47359
-#EXTINF:-1 tvg-id="SPTV2" tvg-name="SPORT TV 2 HD" tvg-logo="http://printv.esy.es/server/Sport%20TV%202.png" group-title="DNSCLIENT  SPORT",SPORT TV 2 HD
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/47362
-#EXTINF:-1 tvg-id="SPTV3" tvg-name="SPORT TV 3 HD" tvg-logo="http://printv.esy.es/server/Sport%20TV%203.png" group-title="DNSCLIENT  SPORT",SPORT TV 3 HD
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/47365
-#EXTINF:-1 tvg-id="SPTV4" tvg-name="SPORT TV 4 HD" tvg-logo="http://printv.esy.es/server/Sport%20TV%204.png" group-title="DNSCLIENT  SPORT",SPORT TV 4 HD
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/47366
-#EXTINF:-1 tvg-id="SPTV5" tvg-name="SPORT TV 5 HD" tvg-logo="http://printv.esy.es/server/Sport%20TV%205.png" group-title="DNSCLIENT  SPORT",SPORT TV 5 HD
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/47367
-#EXTINF:-1 tvg-id="SportTVNBA" tvg-name="SPORT TV NBA HD" tvg-logo="http://printv.esy.es/server/NBA%20TV.png" group-title="DNSCLIENT  SPORT",SPORT TV NBA HD
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/47368
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="http://printv.esy.es/server/DAZN.png" group-title="DNSCLIENT  SPORT",DAZN 1 HD
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/2303
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD " tvg-logo="http://printv.esy.es/server/DAZN.png" group-title="DNSCLIENT  SPORT",DAZN 2 HD 
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/2304
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="http://printv.esy.es/server/DAZN.png" group-title="DNSCLIENT  SPORT",DAZN 3 HD
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/20617
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD " tvg-logo="http://printv.esy.es/server/DAZN.png" group-title="DNSCLIENT  SPORT",DAZN 4 HD 
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/20618
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 HD " tvg-logo="http://printv.esy.es/server/DAZN.png" group-title="DNSCLIENT  SPORT",DAZN 5 HD 
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/20619
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN Extra FD" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png" group-title="DNSCLIENT  SPORT",ESPN Extra HD
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/2107
-#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="ESPN 4 HD " tvg-logo="http://printv.esy.es/server/ESPN%20HD.png" group-title="DNSCLIENT  SPORT",ESPN 4 HD 
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/2122
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN FHD " tvg-logo="http://printv.esy.es/server/ESPN%20Brasil%20HD.png" group-title="DNSCLIENT  SPORT",ESPN FHD 
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/1883
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 FHD" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="DNSCLIENT  SPORT",ESPN 2 FHD
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/1884
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 FHD" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="DNSCLIENT  SPORT",ESPN 3 FHD
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/1827
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 3 HD" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="DNSCLIENT  SPORT",ESPN 3 HD
-http://dns.clientetv.xyz:8080/Lucas2780@/Lucas9511@/2103
 
-#EXTINF:0 tvg-id="elevensports1.pt" group-title="Vasprodtv ➾ SPORT",PT: ELEVEN SPORTS 1
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/1499
-#EXTINF:0 tvg-id="elevensports2.pt" group-title="Vasprodtv ➾ SPORT",PT: ELEVEN SPORTS 2
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/1503
-#EXTINF:0 tvg-id="elevensports2.pt" group-title="Vasprodtv ➾ SPORT",PT: ELEVEN SPORTS 3
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/1506
-#EXTINF:0 tvg-id="RMCSport1.fr" group-title="Vasprodtv ➾ SPORT",FR: RMC SPORT 1
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/1937
-#EXTINF:0 tvg-id="RMCSport2.fr" group-title="Vasprodtv ➾ SPORT",FR: RMC SPORT 2
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/1938
-#EXTINF:0 tvg-id="RMCSport3.fr" group-title="Vasprodtv ➾ SPORT",FR: RMC SPORT 3
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/279991
-#EXTINF:0 tvg-id="RMCSport4.fr" group-title="Vasprodtv ➾ SPORT",FR: RMC SPORT 4
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/279752
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ZA: SuperSport Grandstand
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/194353
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ZA: SuperSport LaLiga
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/194358
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ZA: SuperSport Football
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/38575
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ZA: SuperSport Maximo 1
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/38572
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ZA: SuperSport Premier League
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/11642
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ZA: SuperSport Tennis
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/15200
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports 1
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/100
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports 2
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/101
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports 3
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/102
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports 4
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/103
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports 5
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/104
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports 6
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/105
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports 7
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/106
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports English 1
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/110
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports English 2
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/111
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports English 3
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/267769
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports Premium 1
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/109
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports Premium 2
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/280145
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports Premium 3
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/280249
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports Xtra 1
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/290037
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",QA: beIN Sports Xtra 2
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/283294
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="Vasprodtv ➾ SPORT", FR: beIN Sports 1
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/144
-#EXTINF:0 tvg-id="beINSport2.fr" group-title="Vasprodtv ➾ SPORT", FR: beIN Sports 2
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/145
-#EXTINF:0 tvg-id="beINSport3.fr" group-title="Vasprodtv ➾ SPORT", FR: beIN Sports 3
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/146
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT", FR: CANAL+ Premier League
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/286794
-#EXTINF:0 tvg-id="DigiSport1.ro" group-title="Vasprodtv ➾ SPORT", RO: DIGI SPORT 1
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/71457
-#EXTINF:0 tvg-id="DigiSport2.ro" group-title="Vasprodtv ➾ SPORT", RO: DIGI SPORT 2
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/71459
-#EXTINF:0 tvg-id="DigiSport3.ro" group-title="Vasprodtv ➾ SPORT", RO: DIGI SPORT 3
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/2243
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",  RO: DIGI SPORT 4
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/4219
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ES: DAZN 1
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/64711
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ES: DAZN 2
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/64712
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ES: DAZN 3
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/269912
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ES: DAZN 4
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/269911
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",DE: DAZN 1
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/48355
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",DE: DAZN 2
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/2387
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ES: MOVISTAR LaLiga
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/1141
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ES: MOVISTAR LaLiga 2
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/5311
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ES: MOVISTAR LaLiga 3
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/281772
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ES: MOVISTAR LaLiga 5
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/281792
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ES: MOVISTAR LIGA DE CAMPEONES
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/2800
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT",ES: MOVISTAR LIGA DE CAMPEONES 2
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/81096
-#EXTINF:0 tvg-id="SkySport1.de" group-title="Vasprodtv ➾ SPORT",DE: Sky Sport 1
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/202100
-#EXTINF:0 tvg-id="SkySport2.de" group-title="Vasprodtv ➾ SPORT",DE: Sky Sport 2
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/8215
-#EXTINF:0 tvg-id="SkySport3.de" group-title="Vasprodtv ➾ SPORT",DE: Sky Sport 3
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/72238
-#EXTINF:0 tvg-id="SkySport4.de" group-title="Vasprodtv ➾ SPORT",DE: Sky Sport 4
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/32708
-#EXTINF:0 tvg-id="SkySport5.de" group-title="Vasprodtv ➾ SPORT",DE: Sky Sport 5
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/13497
-#EXTINF:0 tvg-id="SkySport6.de" group-title="Vasprodtv ➾ SPORT",DE: Sky Sport 6
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/31445
-#EXTINF:0 tvg-id="SkySport7.de" group-title="Vasprodtv ➾ SPORT",DE: Sky Sport 7
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/2133
-#EXTINF:0 tvg-id="SkySport8.de" group-title="Vasprodtv ➾ SPORT",DE: Sky Sport 8
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/4489
-#EXTINF:0 tvg-id="SkySport9.de" group-title="Vasprodtv ➾ SPORT",DE: Sky Sport 9
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/147341
-#EXTINF:0 tvg-id="SkySport10.de" group-title="Vasprodtv ➾ SPORT",DE: Sky Sport 10
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/147342
-#EXTINF:0 tvg-id="TennisChannel.us" group-title="Vasprodtv ➾ SPORT",US: Tennis Channel
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/2275
-#EXTINF:0 tvg-id="Espn.br" group-title="Vasprodtv ➾ SPORT"",BR: ESPN
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/8793
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT"",BR: ESPN 2
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/8801
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT"",BR: ESPN 3
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/290657
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT"",BR: ESPN Extra
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/8789
-#EXTINF:0 tvg-id="Foxsports2.br" group-title="Vasprodtv ➾ SPORT"",BR: FOX SPORTS 2
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/8776
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT"",BR: SPORTV
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/4015
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT"",BR: SPORTV 2
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/8783
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT"",BR: SPORTV 3
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/8784
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT"",BR: TNT Sports 3
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/286128
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT"",BR: TNT Sports 4
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/286129
-#EXTINF:0 tvg-id="ext" group-title="Vasprodtv ➾ SPORT"",BR: TNT Sports 5
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/286130
+
+
 
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="Bein Sports 1 Premium HD" tvg-logo="" group-title= "APPFACT SPORT",Bein Sports 1 Premium HD
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/76
@@ -1333,73 +888,6 @@ http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/325
 #EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="Bein Sport NBA HD" tvg-logo="" group-title= "APPFACT SPORT",Bein Sport NBA HD
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/324
 
-#EXTINF:-1 group-title= "MOCHA SPORT",RO: DIGI Sport 1
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/89007.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",RO: DIGI Sport 2
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/89009.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",RO: Digi Sport 3
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/89011.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",RO: DIGI Sport 4
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/89013.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",AR: BEIN SPORTS 1 FHD
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/88945.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",AR: BEIN SPORTS 2 FHD
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/88946.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",AR: BEIN SPORTS 3 FHD
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/88947.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",AR: BEIN SPORTS 4 FHD
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/88948.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",AR: BEIN SPORTS 5 FHD
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/88949.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",AR: BEIN SPORTS 6 FHD
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/88950.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",AR: BEIN SPORTS 7 FHD
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/88951.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",AR: BEIN SPORTS 8 FHD
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/88952.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",AR: BEIN SPORTS 9 FHD
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/88953.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",AR: BEIN SPORTS 10 FHD
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/88954.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",AR: BEIN SPORTS 11 FHD
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/88955.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",AR: BEIN SPORTS 12 FHD
-#EXTINF:-1 group-title= "MOCHA SPORT",RU: Setanta Sport
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/78492.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",RU: Setanta Sport 2
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/78493.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",Eleven Sports 2 FHD PL
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/24848.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",Eleven Sports 3 FHD PL
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/24849.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",Eleven Sports 4 FHD PL
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/24850.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",BE: ELEVEN PRO LEAGUES 1
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/132281.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",BE: ELEVEN PRO LEAGUES 3
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/132284.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",BE: ELEVEN PRO LEAGUES 2
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/132285.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",PT: Eleven Sports 1 HD
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/89153.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",PT: Eleven Sports 2 HD
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/89155.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",PT: Eleven Sports 3 HD
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/89157.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",PT: Eleven Sports 4 HD
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/89159.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",PT: Eleven Sports 5 HD
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/89161.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",UK: Sky Sports Premier League HD
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/88964.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",UK: BT Sport 1 HD
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/88971.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",UK: BT Sport 2 HD
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/88973.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",UK: BT Sport 3 HD
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/88975.ts
-#EXTINF:-1 group-title= "MOCHA SPORT",DE: Sky Sport Tennis HD
-http://mocha.mochaiptv.xyz:8000/live/full64/5ymevHXST8VK/125677.ts
 
 
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="|TR| BeIN Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png"  group-title= "itvdom  SPORT",|TR| BeIN Sports 1 HD
@@ -2631,3 +2119,54 @@ http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159613
 http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159614
 #EXTINF:-1 tvg-id="" tvg-name="RU: МАТЧ! ИГРА" tvg-logo="https://ntvplus.tv/files/image/01/17/32/i2o.png"  group-title="VIPTV 15/12",RU: МАТЧ! ИГРА
 http://viptv.me:80/Arkadaslar/K6sd2RuKH3wDb/159620
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 HD" tvg-logo="http://nooritv.live:25461/images/36cadef5a03b283551daf14d26dece17.png"   group-title="CARMELI (15/12)",beIN SPORTS 1 HD
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/1.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 HD" tvg-logo="http://nooritv.live:25461/images/d0c914898438e426e32f324d3afb6474.png"   group-title="CARMELI (15/12)",beIN SPORTS 2 HD
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/2.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 HD" tvg-logo="http://nooritv.live:25461/images/4d6955034fbe8debcc14bdafc52e1953.png"   group-title="CARMELI (15/12)",beIN SPORTS 3 HD
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/3.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="http://nooritv.live:25461/images/9390ea3f9a7b718c144dfe48e2fc7382.png"   group-title="CARMELI (15/12)",beIN SPORTS 5 HD
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/5.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 HD" tvg-logo="http://nooritv.live:25461/images/31b5886d8ad47cc870e56a44c5e5c917.png"   group-title="CARMELI (15/12)",beIN SPORTS 4 HD
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/4.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 HD" tvg-logo="http://nooritv.live:25461/images/a47988a55920125bf77b5b7a8a05da1b.png"   group-title="CARMELI (15/12)",beIN SPORTS 6 HD
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/6.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 HD" tvg-logo="http://nooritv.live:25461/images/0811af838005f5210f4567afb9d79a2b.png"   group-title="CARMELI (15/12)",beIN SPORTS 7 HD
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/7.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 Premium HD" tvg-logo="http://nooritv.live:25461/images/ec6ef230f1828039ee794566b9c58adc.png"   group-title="CARMELI (15/12)",beIN SPORTS 1 Premium HD
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/8.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 Premium HD" tvg-logo="http://nooritv.live:25461/images/5534fb7b9964d9f07ba52d2f13b5df8a.png"   group-title="CARMELI (15/12)",beIN SPORTS 2 Premium HD
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/9.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 Premium HD" tvg-logo="http://nooritv.live:25461/images/7bc3ca68769437ce986455407dab2a1f.png"   group-title="CARMELI (15/12)",beIN SPORTS 3 Premium HD
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/10.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 EN HD" tvg-logo="http://nooritv.live:25461/images/fd608911c54c6fa63367a3cce48e7506.png"   group-title="CARMELI (15/12)",beIN SPORTS 1 EN HD
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/31416.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 EN HD" tvg-logo="http://nooritv.live:25461/images/49deae75b7856739c120fa9848a1a010.png"   group-title="CARMELI (15/12)",beIN SPORTS 2 EN HD
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/31417.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 EN HD" tvg-logo="http://nooritv.live:25461/images/7fb67eb57ed02f7c293005c0d687178c.png"   group-title="CARMELI (15/12)",beIN SPORTS 3 EN HD
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/31418.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Max 4 HD" tvg-logo="" group-title="CARMELI (15/12)",beIN SPORTS Max 4 HD
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/51244.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Max 3 HD" tvg-logo="" group-title="CARMELI (15/12)",beIN SPORTS Max 3 HD
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/51245.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Max 2 HD" tvg-logo="" group-title="CARMELI (15/12)",beIN SPORTS Max 2 HD
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/51281.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Max 1 HD" tvg-logo="" group-title="CARMELI (15/12)",beIN SPORTS Max 1 HD
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/51282.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Supersport Premier League" tvg-logo="" group-title="CARMELI (15/12)",US: Supersport Premier League
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/45445.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Supersport Football" tvg-logo="" group-title="CARMELI (15/12)",US: Supersport Football
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/45446.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Supersport LaLiga" tvg-logo="" group-title="CARMELI (15/12)",US: Supersport LaLiga
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/45447.ts
+#EXTINF:-1 tvg-id="" tvg-name="AF | SUPERSPORT TENNIS" tvg-logo="" group-title="CARMELI (15/12)",AF | SUPERSPORT TENNIS
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/38771.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT | SKY SPORT TENNIS HD" tvg-logo="http://nooritv.live:25461/images/755fb3649648c2ab40e655fb814105b7.png" group-title="CARMELI (15/12)",IT | SKY SPORT TENNIS HD
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/37631.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | BeIN SPORTS 1 HD" tvg-logo="http://hfm.tn:5001/image/chn?id=22" group-title="CARMELI (15/12)",FR | BeIN SPORTS 1 HD
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/6620.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | BeIN SPORTS 2 HD" tvg-logo="http://hfm.tn:5001/image/chn?id=23" group-title="CARMELI (15/12)",FR | BeIN SPORTS 2 HD
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/6622.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR | BeIN SPORTS 3 HD" tvg-logo="http://hfm.tn:5001/image/chn?id=24" group-title="CARMELI (15/12)",FR | BeIN SPORTS 3 HD
+http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/6624.ts
