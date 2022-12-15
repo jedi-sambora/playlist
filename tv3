@@ -17,14 +17,12 @@ https://iptv-org.github.io/epg/guides/de.xml,https://iptv-org.github.io/epg/guid
 #http://admin.nf21.net/go/files/1
 #https://raw.githubusercontent.com/ShareExt-Group/ShareExt/main/UpdateFile
 #EXTM3U url-tvg="https://kodi.botallen.com/tv/epg.xml"
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",True3/bein_sports
+http://4digital.ddns.net:11222/ts/0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",TUDN_p
 http://190.61.102.67:31589/play/a08j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",TEN_SPORT_HD
 http://208.86.19.13:81/7111.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",World Cup Toffee Paid 1 
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",World Cup Toffee Paid 1 
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_1000.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",HIMALAYA_PREMIUM
 http://103.41.175.154:8081/livesports/HimPrem/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",TYC_sports_argentina
