@@ -2168,3 +2168,45 @@ http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/6620.ts
 http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/6622.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR | BeIN SPORTS 3 HD" tvg-logo="http://hfm.tn:5001/image/chn?id=24" group-title="CARMELI (15/12)",FR | BeIN SPORTS 3 HD
 http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/6624.ts
+
+#EXTINF:-1 group-title="1112 (16/12)",Bein Premium HD1
+http://11121314.org:8000/Hte/Hgffrui/329310
+#EXTINF:-1 group-title="1112 (16/12)",Bein Premium HD2
+http://11121314.org:8000/Hte/Hgffrui/329311
+#EXTINF:-1 group-title="1112 (16/12)",Bein Premium HD3
+http://11121314.org:8000/Hte/Hgffrui/329312
+#EXTINF:-1 group-title="1112 (16/12)",Bein Sport HD 1
+http://11121314.org:8000/Hte/Hgffrui/393338
+#EXTINF:-1 group-title="1112 (16/12)",Bein Sport HD2
+http://11121314.org:8000/Hte/Hgffrui/329314
+#EXTINF:-1 group-title="1112 (16/12)",Bein Sports HD3
+http://11121314.org:8000/Hte/Hgffrui/329315
+#EXTINF:-1 group-title="1112 (16/12)",Bein Sports HD4
+http://11121314.org:8000/Hte/Hgffrui/329316
+#EXTINF:-1 group-title="1112 (16/12)",Bein Sports HD5
+http://11121314.org:8000/Hte/Hgffrui/329317
+#EXTINF:-1 group-title="1112 (16/12)",Bein Sports HD6
+http://11121314.org:8000/Hte/Hgffrui/329318
+#EXTINF:-1 group-title="1112 (16/12)",Bein Sports HD7
+http://11121314.org:8000/Hte/Hgffrui/329319
+#EXTINF:-1 group-title="1112 (16/12)",beIN SPORTS 1 EXTRA HD
+http://11121314.org:8000/Hte/Hgffrui/422749
+#EXTINF:-1 group-title="1112 (16/12)",beIN SPORTS 2 EXTRA HD
+http://11121314.org:8000/Hte/Hgffrui/422750
+#EXTINF:-1 group-title="1112 (16/12)",Bein Sports English HD1
+http://11121314.org:8000/Hte/Hgffrui/329325
+#EXTINF:-1 group-title="1112 (16/12)",beIN SPORTS 2 ENGLISH HD
+#EXTINF:-1 group-title="1112 (16/12)", beIN SPORTS MAX 1 HD
+http://11121314.org:8000/Hte/Hgffrui/450423
+#EXTINF:-1 group-title="1112 (16/12)",beIN SPORTS MAX 2 HD
+http://11121314.org:8000/Hte/Hgffrui/450425
+#EXTINF:-1 group-title="1112 (16/12)", beIN SPORTS MAX 3 HD
+http://11121314.org:8000/Hte/Hgffrui/450427
+#EXTINF:-1 group-title="1112 (16/12)",beIN SPORTS MAX 4 HD
+http://11121314.org:8000/Hte/Hgffrui/450429
+#EXTINF:-1 group-title="1112 (16/12)",Al Kass Extra One HD
+http://11121314.org:8000/Hte/Hgffrui/451270
+#EXTINF:-1 group-title="1112 (16/12)", Al Kass Extra Two HD
+http://11121314.org:8000/Hte/Hgffrui/451271
+#EXTINF:-1 group-title="1112 (16/12)",TF1 HD WORLD  CUP 2022
+http://11121314.org:8000/Hte/Hgffrui/451153
