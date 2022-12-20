@@ -180,7 +180,7 @@ http://watchindia.net:8880/live/dharmend/PTukavDWzh/2080.ts
 #EXTINF:-1 group-title="Movie" tvg-name="Movie" tvg-logo="http://62.182.85.43/poster/STAR.MOVIES.png",IND ➤ STAR MOVIES SELECTED HD
 http://103.179.246.243:8000/play/a00v
 #EXTINF:-1 tvg-id="" tvg-name="MY: Cinemax" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/723d09a6f3136564ee96557231a747bb.png" group-title="Movie",MY: Cinemax
-
+https://liveaneviadev.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 
 
