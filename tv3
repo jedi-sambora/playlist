@@ -19,141 +19,6 @@ http://cx1.supercloud9.xyz:2095/xmltv.php?username=wKLDF3Lt6j&password=f9K6ZMCik
 #http://admin.nf21.net/go/files/1
 #https://raw.githubusercontent.com/ShareExt-Group/ShareExt/main/UpdateFile
 #EXTM3U url-tvg="https://kodi.botallen.com/tv/epg.xml"
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",True3/bein_sports
-http://4digital.ddns.net:11222/ts/0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",TUDN_p
-http://190.61.102.67:31589/play/a08j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",TEN_SPORT_HD
-http://208.86.19.13:81/7111.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",HIMALAYA_PREMIUM
-http://103.41.175.154:8081/livesports/HimPrem/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",TYC_sports_argentina
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",QAZsport_live
-http://92.46.127.146:8080/qazsport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",T_sport
-https://v-px.mybtv.net/live/39.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",CCTV5_China
-http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",CCTV_16_china
-http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",Direct_Sports
-http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",TELE_VIVO
-http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",Chanal6
-https://59537faa0729a.streamlock.net:443/canal6mdp/canal6mdp/chunklist_w1042600595.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",TUDN
-http://190.61.102.67:31589/play/a08j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",Telemundo
-https://v-ca.mybtv.net/live/140/768x432.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",CanalSport10
-http://138.117.4.70:8075/channel10/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",TraceSport
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",Jsport.1
-http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",TyC.sport
-http://45.189.117.32:7579/play/a01n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",VTV2
-http://171.238.181.52:18080/192.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",ARY_PAK
-http://208.86.19.13:81/627.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",MBC_korea
-http://123.254.72.24:1935/tvlive/livestream2/chunklist_w431937155.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",VTV5_vietnam
-http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",VTV6_vietnam
-http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",SCTV.FHD
-https://02ip.ru/sctvFHD?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",ASTRO_WC.1_LIVE
-https://02ip.ru/astroWC1?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",ASTRO_WC.2_LIVE
-https://02ip.ru/astroWC2?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",ASTROSPORT.WC.1_UHD	
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/348094
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",ASTROSPORT.WC.2_UHD
-http://clientsportals.com:2095/f778W3He/yj7FXRjr/348095
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",|WC|Alkaz Sports 1
-http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1053342&extension=ts&play_token=pk7zRQATRG
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",|WC|TRT sport
-http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1051562&extension=ts&play_token=w75Z03EM6A
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",WC|FS 1
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/2406.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",WC|Sport 18
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/2405.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",T_sports_360p(dec=auto)
-http://cdn01.palki.tv/live/TSports-M/tracks-v2/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",SPORTV_BRAZIL
-http://shareext@ssvrv.xyz:80/live/96790pedr0090/0090pedr96790/179682.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",SPORRTV.1_Portugal
-http://185.236.229.13:4000/play/a040
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",A Sports HD
-http://115.186.148.250:8000/play/a00s
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",Band_Sports HD
-http://23.237.10.66:16082
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",Match!tv
-http://194.143.148.28/MatchHD/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",Turmenistan_Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",MAQ_tv
-http://208.86.19.13:81/517.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",Beinsport_3_england
-http://175.107.244.52:4457/play/a06x/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",FOX_SPORT_1
-http://45.232.210.1:8062/play/a08b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",FOX_SPORT_2
-http://45.232.210.1:8062/play/a094/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",FOX_SPORT_3
-http://45.232.210.1:8062/play/a095/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",RU_futball.1
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/48994
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",TYGON_1
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/52808
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",RTM_TV2
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/54175
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",Astro.Arena
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/54189
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",Astro.Arena_2
-https://02ip.ru/Arena2?shareext.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR_BeIN_SPORTS_1_HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",FR_BeIN_SPORTS_1_FHD
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/73
-#EXTINF:-1 tvg-ID="" tvg-name="FR_BeIN_SPORTS_1_HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",FR_BeIN_SPORTS_6_HD
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/3682
-#EXTINF:-1 tvg-ID="" tvg-name="UK_FOX_SPORTS" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",FOX_SPORTS_1
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/1529
-#EXTINF:-1 tvg-ID="" tvg-name="UK_ITV_1" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",UK_ITV_1
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/256
-#EXTINF:-1 tvg-ID="" tvg-name="UK_BBC_1_HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",UK_BBC_1_HD
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/260
-#EXTINF:-1 tvg-ID="" tvg-name="USA: Fox Soccer Plus" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",USA:FoxSoccer Plus
-http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/50068
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",ChampionTv_1(auto)
-http://xtv.ooo:8080/live/Mohammad/Mohammad123/228341.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",ChampionTv_2(auto)
-http://xtv.ooo:8080/live/Mohammad/Mohammad123/228244.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",T_pt
-https://v-px.mybtv.net/live/39.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",CBCtv8
-https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",DUHOK_SPORTS
-http://local.badinan.xyz:1935/live/DUHSPO/chunklist_w103995118.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",CCTV_5
-http://60.10.167.88:808/hls/5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",CCTV_5+
-http://60.10.167.88:808/hls/17/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",BeinSports Max 1
-http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1049174&extension=ts&play_token=5MVNb8mEjl
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",BeinSports Max 2
-http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1049172&extension=ts&play_token=8bzBXG34rW
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",BeinSports Max 3
-http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1049168&extension=ts&play_token=E9FpTOfUPB
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",Alkaz Sports 1_qtar
-http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1053342&extension=ts&play_token=pk7zRQATRG
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="⚽WORLDCUP2022",Trt Spor_turkey
-http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1051562&extension=ts&play_token=w75Z03EM6A
 #EXTINF:-1 group-title="Movie",Douyu Movie
 https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
 #EXTINF:-1 group-title="Movie",Movies X
@@ -259,6 +124,16 @@ https://02ip.ru/INDOSIAR?shareext.ts
 https://ezstat.ru/MOJI?shareext.ts
 
 
+#EXTINF:-1 group-title="ASTRO",Astro Super Sports 1 HD (griff)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/485564
+#EXTINF:-1 group-title="ASTRO",Astro Super Sports 2 HD (griff)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/485565
+#EXTINF:-1 group-title="ASTRO",Astro Super Sports 3 HD (griff)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/485566
+#EXTINF:-1 group-title="ASTRO",Astro Super Sports 4 HD (griff)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/485567
+#EXTINF:-1 group-title="ASTRO",Astro SuperSport 5 (griff)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/485569
 #EXTINF:-1 group-title="ASTRO",MY : ASTRO SUPERSPORTS 1 HD (esv5)
 http://esv5.net:80/Tcole1/123456789/87302
 #EXTINF:-1 group-title="ASTRO",MY : ASTRO SUPERSPORTS 2 HD (esv5)
@@ -2269,3 +2144,76 @@ http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/1549.ts
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/49946.ts
 #EXTINF:-1 group-title="sibfung (2212) SPORT", TR: beIN Sport 5 HD 
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/54739.ts
+
+#EXTINF:-1 group-title="Griff 1612",HK Now Premier Sports 1
+http://griffsuperstreamz.com:8080/total/donefuckedupd/425332
+#EXTINF:-1 group-title="Griff 1612",PT ELEVEN SPORTS 1 (P)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/360520
+#EXTINF:-1 group-title="Griff 1612",PT ELEVEN SPORTS 2 (P)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/360521
+#EXTINF:-1 group-title="Griff 1612",PT ELEVEN SPORTS 3  (P)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/360522
+#EXTINF:-1 group-title="Griff 1612",PT ELEVEN SPORTS 4 (P)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/360523
+#EXTINF:-1 group-title="Griff 1612",World Bein_Sport_10_Mena  (P)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/214123
+#EXTINF:-1 group-title="Griff 1612",World Bein_Sport_11_Mena  (P)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/214124
+#EXTINF:-1 group-title="Griff 1612",World Bein_Sport_12_Mena  (P)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/214125
+#EXTINF:-1 group-title="Griff 1612",World Bein_Sport_13_Mena
+http://griffsuperstreamz.com:8080/total/donefuckedupd/214126
+#EXTINF:-1 group-title="Griff 1612",World Bein_Sport_1_Mena  (P)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/214114
+#EXTINF:-1 group-title="Griff 1612",World Bein_Sport_2_Mena  (P)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/214115
+#EXTINF:-1 group-title="Griff 1612",World Bein_Sport_3_Mena
+http://griffsuperstreamz.com:8080/total/donefuckedupd/214116
+#EXTINF:-1 group-title="Griff 1612",World Bein_Sport_4_Mena
+http://griffsuperstreamz.com:8080/total/donefuckedupd/214117
+#EXTINF:-1 group-title="Griff 1612",World Bein_Sport_5_Mena  (P)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/214118
+#EXTINF:-1 group-title="Griff 1612",World Bein_Sport_6_Mena
+http://griffsuperstreamz.com:8080/total/donefuckedupd/214119
+#EXTINF:-1 group-title="Griff 1612",World Bein_Sport_7_Mena  (P)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/214120
+#EXTINF:-1 group-title="Griff 1612",World Bein_Sport_8_Mena  (P)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/214121
+#EXTINF:-1 group-title="Griff 1612",World Bein_Sport_9_Mena  (P)
+http://griffsuperstreamz.com:8080/total/donefuckedupd/214122
+#EXTINF:-1 group-title="Griff 1612",AF DSTV: SuperSport Football
+http://griffsuperstreamz.com:8080/total/donefuckedupd/491930
+#EXTINF:-1 group-title="Griff 1612",US: TENNIS CHANNEL
+http://griffsuperstreamz.com:8080/total/donefuckedupd/94128
+#EXTINF:-1 group-title="Griff 1612",NL ZIGGO SPORT TENNIS HD
+http://griffsuperstreamz.com:8080/total/donefuckedupd/378767
+#EXTINF:-1 group-title="Griff 1612",IT Supertennis HD
+http://griffsuperstreamz.com:8080/total/donefuckedupd/378768
+#EXTINF:-1 group-title="Griff 1612",PT: Sport TV NBA
+http://griffsuperstreamz.com:8080/total/donefuckedupd/495276
+#EXTINF:-1 group-title="Griff 1612",PT: SPORT TV1
+http://griffsuperstreamz.com:8080/total/donefuckedupd/495278
+#EXTINF:-1 group-title="Griff 1612",PT: SPORT TV2
+http://griffsuperstreamz.com:8080/total/donefuckedupd/495279
+#EXTINF:-1 group-title="Griff 1612",PT: SPORT TV3
+http://griffsuperstreamz.com:8080/total/donefuckedupd/495280
+#EXTINF:-1 group-title="Griff 1612",PT: SPORT TV4
+http://griffsuperstreamz.com:8080/total/donefuckedupd/495281
+#EXTINF:-1 group-title="Griff 1612",BR: Sportv 1
+http://griffsuperstreamz.com:8080/total/donefuckedupd/495825
+#EXTINF:-1 group-title="Griff 1612",BR: Sportv 2
+http://griffsuperstreamz.com:8080/total/donefuckedupd/495829
+#EXTINF:-1 group-title="Griff 1612",AR: Fox Sports
+http://griffsuperstreamz.com:8080/total/donefuckedupd/495942
+#EXTINF:-1 group-title="Griff 1612",AR: ESPN
+http://griffsuperstreamz.com:8080/total/donefuckedupd/495933
+#EXTINF:-1 group-title="Griff 1612",AR: ESPN Extra
+http://griffsuperstreamz.com:8080/total/donefuckedupd/495935
+#EXTINF:-1 group-title="Griff 1612",AR: ESPN Premium
+http://griffsuperstreamz.com:8080/total/donefuckedupd/495945
+#EXTINF:-1 group-title="Griff 1612",FR: BEIN SPORTS 1
+http://griffsuperstreamz.com:8080/total/donefuckedupd/496577
+#EXTINF:-1 group-title="Griff 1612",FR: BEIN SPORTS 2
+http://griffsuperstreamz.com:8080/total/donefuckedupd/496578
+#EXTINF:-1 group-title="Griff 1612",FR: BEIN SPORTS 3
+http://griffsuperstreamz.com:8080/total/donefuckedupd/496579
