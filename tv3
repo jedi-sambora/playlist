@@ -124,6 +124,16 @@ https://02ip.ru/INDOSIAR?shareext.ts
 https://ezstat.ru/MOJI?shareext.ts
 
 
+#EXTINF:0 tvg-id="ext" group-title="ASTRO",My: Astro SuperSport 1 HD (MYTVHD) 2812
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50917.ts
+#EXTINF:0 tvg-id="ext" group-title="ASTRO",My: Astro SuperSport 2 HD (MYTVHD) 2812
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50918.ts
+#EXTINF:0 tvg-id="ext" group-title="ASTRO",My: Astro SuperSport 3 HD (MYTVHD) 2812
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50919.ts
+#EXTINF:0 tvg-id="ext" group-title="ASTRO",My: Astro SuperSport 4 HD (MYTVHD) 2812
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50920.ts 
+#EXTINF:0 tvg-id="ext" group-title="ASTRO",My: Astro SuperSport 5 HD (MYTVHD) 2812
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50926.ts
 #EXTINF:-1 group-title="ASTRO",Astro Super Sports 1 HD (griff)
 http://griffsuperstreamz.com:8080/total/donefuckedupd/485564
 #EXTINF:-1 group-title="ASTRO",Astro Super Sports 2 HD (griff)
@@ -2328,3 +2338,78 @@ https://av-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNLh67df/20220926-161235.png" group-title="Film" tvg-id="TVNMovies.hk" tvg-name="tvN Movies HD", TVN Movies
 https://av-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#EXTINF:0 tvg-id="DigiSport1.ro" group-title="MYTVHD 2812",RO: DIGI Sport 1 HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/11431.ts
+#EXTINF:0 tvg-id="DigiSport2.ro" group-title="MYTVHD 2812",RO: DIGI Sport 2 HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/11432.ts
+#EXTINF:0 tvg-id="DigiSport2.ro" group-title="MYTVHD 2812",RO: DIGI Sport 2
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/11875.ts
+#EXTINF:0 tvg-id="DigiSport3.ro" group-title="MYTVHD 2812",RO: DIGI Sport 3 HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/11433.ts
+#EXTINF:0 tvg-id="DigiSport3.ro" group-title="MYTVHD 2812",RO: DIGI Sport 3
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/11874.ts
+#EXTINF:0 tvg-id="DigiSport4.ro" group-title="MYTVHD 2812",RO: Digi Sport 4 HD (1080P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/37181.ts
+#EXTINF:0 tvg-id="DigiSport4.ro" group-title="MYTVHD 2812",RO: DIGI Sport 4
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/11434.ts
+#EXTINF:0 tvg-id="DAZN1.de" group-title="MYTVHD 2812",DE: Dazn 1 Bar HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50334.ts
+#EXTINF:0 tvg-id="DAZN2.de" group-title="MYTVHD 2812",DE: Dazn 2 Bar HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/20564.ts
+#EXTINF:0 tvg-id="DAZN1.es" group-title="MYTVHD 2812",ES: M. Dazn 1 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/51106.ts
+#EXTINF:0 tvg-id="DAZN2.es" group-title="MYTVHD 2812",ES: M. Dazn 2 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/51109.ts
+#EXTINF:0 tvg-id="elevensports1.pt" group-title="MYTVHD 2812",PT: ELEVEN SPORTS 1 HD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/53536.ts
+#EXTINF:0 tvg-id="elevensports2.pt" group-title="MYTVHD 2812",PT: ELEVEN SPORTS 2 HD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/53539.ts
+#EXTINF:0 tvg-id="elevensports3.pt" group-title="MYTVHD 2812",PT: ELEVEN SPORTS 3 HD (H.265)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/53542.ts
+#EXTINF:0 tvg-id="ext" group-title="MYTVHD 2812",AR: BeIN Sports Premium 1 HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52824.ts
+#EXTINF:0 tvg-id="ext" group-title="MYTVHD 2812",AR: BeIN Sports Premium 2 HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52827.ts
+#EXTINF:0 tvg-id="ext" group-title="MYTVHD 2812",AR: BeIN Sports Premium 3 HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52831.ts
+#EXTINF:0 tvg-id="no_epg" group-title="MYTVHD 2812",AR: BeIN Sports English 1 HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/5011.ts
+#EXTINF:0 tvg-id="no_epg" group-title="MYTVHD 2812",AR: BeIN Sports English 2 HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/5012.ts
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="MYTVHD 2812",AR: BeIN Sports 1 HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/5004.ts
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="MYTVHD 2812",AR: BeIN Sports 2 HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/5005.ts
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="MYTVHD 2812",AR: BeIN Sports 3 HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/5006.ts
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="MYTVHD 2812",AR: BeIN Sports 4 HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/5007.ts
+#EXTINF:0 tvg-id="ext" group-title="MYTVHD 2812",BR: SporTV HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/57025.ts
+#EXTINF:0 tvg-id="ext" group-title="MYTVHD 2812",BR: SporTV 2 HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/17021.ts
+#EXTINF:0 tvg-id="ext" group-title="MYTVHD 2812",BR: SporTV 3 HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/17019.ts
+#EXTINF:0 tvg-id="SkyBundesliga1.de" group-title="MYTVHD 2812",DE: Sky Sport Bundesliga 1 HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/3033.ts
+#EXTINF:0 tvg-id="SkyBundesliga3.de" group-title="MYTVHD 2812",DE: Sky Sport Bundesliga 3 HD (Match Time)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4575.ts
+#EXTINF:0 tvg-id="SkyBundesliga4.de" group-title="MYTVHD 2812",DE: Sky Sport Bundesliga 4 HD (Match Time)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4573.ts
+#EXTINF:0 tvg-id="SkyBundesliga2.de" group-title="MYTVHD 2812",DE: Sky Sport Bundesliga 2 HD (Match Time)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/4577.ts
+#EXTINF:0 tvg-id="ext" group-title="MYTVHD 2812",ZA: SuperSport Premier League HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52812.ts
+#EXTINF:0 tvg-id="ext" group-title="MYTVHD 2812",ZA: SuperSport LaLiga HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52810.ts
+#EXTINF:0 tvg-id="ext" group-title="MYTVHD 2812",ZA: SuperSport Football HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/52820.ts
+#EXTINF:0 tvg-id="SkySport2.de" group-title="MYTVHD 2812",DE: Sky Sport Tennis HD (720P)
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/2187.ts
+#EXTINF:0 tvg-id="SuperTennis.it" group-title="MYTVHD 2812",|IT| SUPER TENNIS HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/1779.ts
+#EXTINF:0 tvg-id="ext" group-title="MYTVHD 2812",TH: True Tennis HD
+http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/55352.ts
+
+
