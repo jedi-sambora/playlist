@@ -124,6 +124,16 @@ https://02ip.ru/INDOSIAR?shareext.ts
 https://ezstat.ru/MOJI?shareext.ts
 
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="ASTRO", Astro Sport 1 (esv5) 2812
+http://esv5.net/Tcole1/123456789/87302
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="ASTRO", Astro Sport 2 (esv5) 2812
+http://esv5.net/Tcole1/123456789/87301
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png group-title="ASTRO", Astro Sport 3 (esv5) 2812
+http://esv5.net/Tcole1/123456789/87300
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png"  group-title="ASTRO", Astro Sport 4 (esv5) 2812
+http://esv5.net/Tcole1/123456789/87299
+#EXTINF:-1 group-title="ASTRO", Astro Sport 5 (esv5) 2812
+http://esv5.net/Tcole1/123456789/87298
 #EXTINF:0 tvg-id="ext" group-title="ASTRO",My: Astro SuperSport 1 HD (MYTVHD) 2812
 http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50917.ts
 #EXTINF:0 tvg-id="ext" group-title="ASTRO",My: Astro SuperSport 2 HD (MYTVHD) 2812
