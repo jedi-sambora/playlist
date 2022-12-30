@@ -49,26 +49,7 @@ https://liveaneviadev.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 
 
-#EXTINF:-1 group-title="Movie",HBO
-#http://mkcfc.freevar.com/pess/hbo.m3u8
-#http://203.77.246.50:5000/udp/239.1.3.84:5000 
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/197972
-#EXTINF:-1 group-title="Movie",HBO Signature
-#http://mkcfc.freevar.com/pess/sig.m3u8
 
-#EXTINF:-1 group-title="Movie",HBO Hits
-#http://203.77.246.50:5000/udp/239.1.3.82:5000 
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/196480
-#EXTINF:-1 group-title="Movie",Celestial Movie
-http://203.77.246.50:5000/udp/239.1.2.162:5000
-#EXTINF:-1 group-title="Movie",Movie World
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/141884
-#EXTINF:-1 group-title="Movie",TVN Movie
-http://210.210.155.35/dr9445/h/h21/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MOVIE",MY: Cinemax
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/157519
-#EXTINF:0 tvg-id="ext" group-title="MOVIE",MY: TVN Movie
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/157596
 #EXTINF:-1 group-title="Movie",Jet Lie HD 1
 http://txtest-xp2p.p2p.huya.com/src/1524439855-1524439855-6547419321943982080-3049003166-10057-A-0-1.xs
 #EXTINF:-1 group-title="Movie",Jet Lie HD 2
@@ -154,16 +135,7 @@ http://griffsuperstreamz.com:8080/total/donefuckedupd/485566
 http://griffsuperstreamz.com:8080/total/donefuckedupd/485567
 #EXTINF:-1 group-title="ASTRO",Astro SuperSport 5 (griff)
 http://griffsuperstreamz.com:8080/total/donefuckedupd/485569
-#EXTINF:-1 group-title="ASTRO",MY : ASTRO SUPERSPORTS 1 HD (esv5)
-http://esv5.net:80/Tcole1/123456789/87302
-#EXTINF:-1 group-title="ASTRO",MY : ASTRO SUPERSPORTS 2 HD (esv5)
-http://esv5.net:80/Tcole1/123456789/87301
-#EXTINF:-1 group-title="ASTRO",MY : ASTRO SUPERSPORTS 3 HD (esv5)
-http://esv5.net:80/Tcole1/123456789/87300
-#EXTINF:-1 group-title="ASTRO",MY : ASTRO SUPERSPORTS 4 HD (esv5)
-http://esv5.net:80/Tcole1/123456789/87299
-#EXTINF:-1 group-title="ASTRO",MY : ASTRO SUPERSPORTS 5 HD (esv5)
-http://esv5.net:80/Tcole1/123456789/87298
+
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="ASTRO",MY: Astro SuperSport 1 (QS)
 http://quality-restream.com:8080/asiantv/f2ba3832f4/146068
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="ASTRO",MY: Astro SuperSport 2 (QS)
@@ -173,22 +145,7 @@ http://quality-restream.com:8080/asiantv/f2ba3832f4/157557
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="ASTRO",MY: Astro SuperSport 4 (QS)
 http://quality-restream.com:8080/asiantv/f2ba3832f4/157558
 
-#EXTINF:0 tvg-id="ext" group-title="ASTRO",MY: Astro SuperSport 1
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/146068
-#EXTINF:0 tvg-id="ext" group-title="ASTRO",MY: Astro SuperSport 2
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/157556
-#EXTINF:0 tvg-id="ext" group-title="ASTRO",MY: Astro SuperSport 4
-http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/157558
 
-
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="ASTRO",ASTRO.SUPERSPORTS_1 HD TH MY
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115615
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="ASTRO",ASTRO.SUPERSPORTS_2 HD TH MY
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115616
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 3 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="ASTRO",ASTRO.SUPERSPORTS_3 HD TH MY
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115617
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="https://i.postimg.cc/zf7PMN1S/Thailand-Share-Ext-Group.jpg" group-title="ASTRO",ASTRO.SUPERSPORTS_4 HD TH MY
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115618
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.imgur.com/dfV5HCf.png" group-title="ASTRO",ASTRO.SUPERSPORTS 1 (21220)
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115615&extension=ts&play_token
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="ttps://i.imgur.com/EKA1xTZ.png" group-title="ASTRO",ASTRO.SUPERSPORTS 2 (21220)
@@ -197,18 +154,7 @@ http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115616&extension=
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=ts&play_token
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="https://i.imgur.com/zwodbF0.png" group-title="ASTRO",ASTRO.SUPERSPORTS 4 (21220)
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115618&extension=ts&play_token
-#EXTINF:-1 xui-id="3334297" tvg-id="AstroSuperSport.my" tvg-name="MY: Astro Supersport" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia/astro-supersport-hd-my.png?raw=true" group-title="ASTRO",MY: Astro Supersport
-http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E_gBYoqTXHg_4Z-JDGl5ga4 
-#EXTINF:-1 xui-id="3334161" tvg-id="AstroSuperSportUHD1.my" tvg-name="MY: Astro Supersport 1" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia/astro-supersport-hd-my.png?raw=true" group-title="ASTRO",MY: Astro Supersport 1
-http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E-AwLfm1kvQGBCYhkTt3iMQ 
-#EXTINF:-1 xui-id="3334294" tvg-id="AstroSuperSport2.my" tvg-name="MY: Astro Supersport 2" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia/astro-supersport-2-hd-my.png?raw=true" group-title="ASTRO",MY: Astro Supersport 2
-http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E6J8AFt85yygd-VM5_hEO3E 
-#EXTINF:-1 xui-id="3334295" tvg-id="AstroSuperSport3.my" tvg-name="MY: Astro Supersport 3" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia/astro-supersport-3-hd-my.png?raw=true" group-title="ASTRO",MY: Astro Supersport 3
-http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E82-pE3T7ZTGq5ibLemeCpw 
-#EXTINF:-1 xui-id="3334296" tvg-id="AstroSuperSport4.my" tvg-name="MY: Astro Supersport 4" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia/astro-supersport-4-hd-my.png?raw=true" group-title="ASTRO",MY: Astro Supersport 4
-http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E7GnyhqWbrAZQKWN60qv1uE
-#EXTINF:-1 xui-id="3334166" tvg-id="AstroSupersport5.my" tvg-name="MY: Astro Supersport 5 50fps" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/malaysia/astro-supersport-5-hd-my.png?raw=true" group-title="ASTRO",MY: Astro Supersport 5 50fps
-http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E-g7CSX-p-EhpK0fmrHOwP0 
+
 
 
 
@@ -228,12 +174,6 @@ http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/2300000/m
 
 
 
-#EXTINF:-1 group-title= "SPORT CLPORTAL",Sky Sports Football HD UK
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/11659
-#EXTINF:-1 group-title= "SPORT CLPORTAL",Sky Sports Premier League HD UK
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/9807
-#EXTINF:-1 group-title= "SPORT CLPORTAL",Sky Sports Premier League UK
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/127985
 #EXTINF:-1 group-title= "SPORT CLPORTAL",DE - ELEVEN 1 HD
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/46079
 #EXTINF:-1 group-title= "SPORT CLPORTAL",BE - ELEVEN 1 HD
