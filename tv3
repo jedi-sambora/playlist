@@ -324,32 +324,6 @@ http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115618&extension=ts&play_token
 
 
-#EXTINF:-1 group-title="ott", BEIN SPORTS PREMIUM 3 HD (AR)
-http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/10015
-#EXTINF:-1 group-title="ott", BEIN SPORTS PREMIUM 1 HD (AR)
-http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/10001
-#EXTINF:-1 group-title="ott",BEIN SPORTS PREMIUM 2 HD (AR)
-http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/10000
-#EXTINF:-1 group-title="ott", SUPER SPORT 2 HD (AL)
-http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/789
-#EXTINF:-1 group-title="ott", SUPER SPORT 3 HD (AL)
-http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/790
-#EXTINF:-1 group-title="ott", SUPER SPORT 4 HD (AL)
-http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/791
-#EXTINF:-1 group-title="ott", SUPER SPORT 5 HD (AL)
-http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/792
-#EXTINF:-1 group-title="ott", TRING SPORT NEWS HD (AL)
-http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/794
-#EXTINF:-1 group-title="ott", TRING SPORT 1 HD (AL)
-http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/795
-#EXTINF:-1 group-title="ott", TRING SPORT 2 HD (AL)
-http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/796
-#EXTINF:-1 group-title="ott", TRING SPORT 3 HD (AL)
-http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/797
-#EXTINF:-1 group-title="ott", TRING SPORT 4 HD (AL)
-http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/798
-
-
 #EXTINF:-1 group-title="Platin 4k Sport",PT: Eleven Sports 1 HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159576
 #EXTINF:-1 group-title="Platin 4k Sport",PT: Eleven Sports 2 HD
