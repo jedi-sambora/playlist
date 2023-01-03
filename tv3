@@ -57,55 +57,6 @@ http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-27
 
 
 
-#EXTINF:-1 group-title="indonesia",indosiar 
-https://video-weaver.jkt02.hls.live-video.net/v1/playlist/CrcFSKcPsNDFaPUL7uaSd4uYgw8ZFyjALzOdlPS3J8Hvm0giYb957P7pG9AtVRTeU3HIZR2RtRERPp9x3TNjRIOBjD94MLOnv_9q6pNrjoJKy0--RylqFwL7LDor0Fft1nFTjb5VBjUe4ijZL1LiZeGE4jalK5nX2Qr04xAN_Y9mg_SjPklqCxAR-FZUI6OdivDBbe2oqtUQ-F8SRmA0vuwyiBrSdXS73ho_LkSvSm6MgsCZn56OzS6sWg31QV0_csdkEhx1yjyJCutQ7yl7voYyK4ek5bkKLTbfJqP8hYNTOg8gKGnXfO7g2CwnTet6E_HjkT9iwRWtUMA02giKSA6khp0wxEwygfTI58Ga4QbKu-61uYNklKTMjn9jVFTCTctIjUpWOP9JzONCKYmpKvBgx6DRR_DJ2SO5z8UCNEm3Lk8Eh-TlLd6HC5nFJW2O4qC-kzj3iJWLu3OoJ792KH_mo11qYGHbu3m3plar2bhNvKEuVw7CpXmQD8rghimsxSuPoQ13-6LbN8dQR9pYUs2PFL1EpLY8xHzVnMNNjQN_kbRmCky7Rv3UKdw2SSyfYoXqri7fyNll0GxdI8qN_t1VYKHYJN9BRsypOfaOmZXFGYKfqfO-HqDokDoi6y45rU2EuwPmaCFk5Bqv7EyAkxmmueVIabrFOvM9QzC4EVWALLiUFJcWEFz_4txbysTWva0u9leHHkaMhySrQF67nUURxAzkhkW4Jn5tthRRN7kQaW-PYBqqVLn4gJ7-rzfPb1AKVn-G2wCBvsBPJNsPQgalO-yNJJ1rCLiQs25xy6gNhJjZYi_QYJwA7bbGoQowXtB8RXGckSD6MamL97A7MZBzAi6byZbZyh5FN3Tj3VdOifxbWUtU9VGVX2qVM8CXIhI4lfYMMZrN6I60ykEUeEPIcsR2uxg2cbIaDCQGgX5V_RRsmgSc1yABKgl1cy13ZXN0LTIwogQ.m3u8
-#EXTINF:-1 group-title="indonesia",indosiar 2 
-http://210.210.155.35/session/a65458b4-a9df-11ea-a7ae-9e32b3ee9ba0/qwr9ew/s/s04/02.m3u8
-#EXTINF:-1 group-title="indonesia",indosiar vidio 
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
-#EXTINF:-1 group-title="indonesia",suhandinata cup 
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/bmM_XKYJaE4ZQltefUD0K4esO6bLyf3eZIN7SAG_IdK7AvbFPIxmGWILVhhujBT7wOHocquqWLmcLaAlBwR8pw/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 group-title="indonesia",Temp Event02
-https://pull.xinzhongjituan.com/live/sd-1-3782075.m3u8
-#EXTINF:-1 group-title="indonesia",SPOTV
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1656208805~exp=9007200910949796~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=181053f73f2b60c4c09d07fcbee45eeb3603c78d966f9810f190f8b31574cba2
-#EXTINF:-1 group-title="indonesia",SPOTV 2
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
-#EXTINF:-1 group-title="indonesia",TVRI SPORT
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="indonesia",USEE SPORT 1
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/49
-#EXTINF:-1 group-title="indonesia",USEE SPORT 2
-http://bgltv.my.id:8080/live/NewApk/HMTV/199.ts
-#EXTINF:-1 group-title="indonesia",vidio wc 1
-https://production-drm-vidio-com-ctv-wc-1.akamaized.net/out/v1/cabfe9d2e23e4a958fcd390012891d79/index.mpd
-#EXTINF:-1 group-title="indonesia",vidio wc 2
-https://production-drm-vidio-com-ctv-wc-2.akamaized.net/out/v1/816782c75a1b481c93b1c920a3124581/index.mpd
-#EXTINF:-1 group-title="indonesia",True sport 3
-https://sport.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
-#EXTINF:-1 group-title="indonesia",MNC SPORT 1
-https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-#EXTINF:-1 group-title="indonesia",Hylo c1
-https://bcovlive-a.akamaihd.net/60314b1553614da58b820a19f65ff2d5/ap-southeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1667414162~exp=9007200922155153~acl=/60314b1553614da58b820a19f65ff2d5/*/profile_2/chunklist.m3u8*~hmac=18e55efe0f889c18eba24f060921d3046385bcc53bb64971597b4cc2999db3fc
-#EXTINF:-1 group-title="indonesia",Hylo c2
-https://bcovlive-a.akamaihd.net/facbf6cdf3f647d48de51fda6e7d2d4b/ap-southeast-1/6271486521001/playlist.m3u8
-#EXTINF:-1 group-title="indonesia",Hylo c3
-https://live17-nlxjdhtocy.zhibo.tv/8live/s_2708483_800.m3u8?k=cf4e1b2dc3f366a3d76e4fabffaea836&t=63624dfc
-#EXTINF:-1 group-title="indonesia",wjc c1
-https://bcovlive-a.akamaihd.net/926df14993e54e4a9de9a001e17e5cd8/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1667134256~exp=9007200921875247~acl=/926df14993e54e4a9de9a001e17e5cd8/*/profile_2/chunklist.m3u8*~hmac=a6f4ca9d7f9e867196670fc0ebe6242197d983ef52796bb4572dcfdb450062e4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="indonesia",VTV5_vietnam
-http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="indonesia",VTV6_vietnam
-http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="indonesia",SCTV_digital
-https://ezstat.ru/SCTV?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="indonesia",INDOSIAR_digital
-https://02ip.ru/INDOSIAR?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="indonesia",MOJI_digital
-https://ezstat.ru/MOJI?shareext.ts
-
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="ASTRO", Astro Sport 1 (esv5) 2812
 http://esv5.net/Tcole1/123456789/87302
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="ASTRO", Astro Sport 2 (esv5) 2812
 http://esv5.net/Tcole1/123456789/87301
@@ -135,6 +86,79 @@ http://griffsuperstreamz.com:8080/total/donefuckedupd/485566
 http://griffsuperstreamz.com:8080/total/donefuckedupd/485567
 #EXTINF:-1 group-title="ASTRO",Astro SuperSport 5 (griff)
 http://griffsuperstreamz.com:8080/total/donefuckedupd/485569
+
+
+
+#EXTINF:-1 tvg-id="DAZN1Germany.de" tvg-logo="" group-title="SPORT LOCAL",DAZN 1 DE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN2Germany.de" tvg-logo="" group-title="SPORT LOCAL",DAZN 2 DE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
+  
+#EXTINF:-1 tvg-id="DAZN1Spain.es" tvg-logo="" group-title="SPORT LOCAL",DAZN 1 España
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN2Spain.es" tvg-logo="" group-title="SPORT LOCAL",DAZN 2 España
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-logo="" group-title="SPORT LOCAL",DAZN La Liga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZNF1.es" tvg-logo="" group-title="SPORT LOCAL",DAZN F1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="SPOTV.kr" tvg-name="SPOTV" tvg-logo="" group-title="SPORT LOCAL",SPO TV 1
+https://av-live-cdn.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+  
+#EXTINF:-1 tvg-id="SPOTV.kr" tvg-name="SPOTV" tvg-logo="" group-title="SPORT LOCAL",SPO TV 1 HD
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="SPOTV2.kr" tvg-name="SPOTV 2" tvg-logo="" group-title="SPORT LOCAL",SPO TV 2
+https://live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+  
+#EXTINF:-1 tvg-id="SPOTV.kr" tvg-name="SPOTV" tvg-logo="" group-title="SPORT LOCAL",SPO TV 2 HD
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="" group-title="SPORT LOCAL",MNC Sports 1
+https://av-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="MNCSports2.id" tvg-name="MNC Sports 2" tvg-logo="" group-title="SPORT LOCAL",MNC Sports 2
+https://av-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="MNCSports3.id" tvg-name="MNC Sports 3" tvg-logo="" group-title="SPORT LOCAL",MNC Sports 3
+https://av-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="" group-title="SPORT LOCAL",TVRI Sport
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-logo="" group-title="SPORT LOCAL" tvg-id="beINSports1Indonesia.id", Bein Sports ID 1
+https://av-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-logo="" group-title="SPORT LOCAL" tvg-id="beINSports3Indonesia.id", Bein Sports ID 3
+https://av-live-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="ASTRO",MY: Astro SuperSport 1 (QS)
 http://quality-restream.com:8080/asiantv/f2ba3832f4/146068
