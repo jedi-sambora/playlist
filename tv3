@@ -2409,3 +2409,74 @@ http://skupi.club:8080/IpTV_TrEE/MBWm4AGrEZ/17951
 http://skupi.club:8080/IpTV_TrEE/MBWm4AGrEZ/8613
 #EXTINF:-1 group-title="SKUPI 0301",DE: DAZN 2 HD
 http://skupi.club:8080/IpTV_TrEE/MBWm4AGrEZ/8614
+
+#EXTINF:-1 tvg-id="" tvg-name="|HU| DIGI SPORT 1 HD" tvg-logo="" group-title="FIREOTT 0401",|HU| DIGI SPORT 1 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/148114
+#EXTINF:-1 tvg-id="" tvg-name="|HU| DIGI SPORT 2 HD" tvg-logo="" group-title="FIREOTT 0401",|HU| DIGI SPORT 2 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/148115
+#EXTINF:-1 tvg-id="" tvg-name="|HU| DIGI SPORT 3 HD" tvg-logo="" group-title="FIREOTT 0401",|HU| DIGI SPORT 3 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/148116
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 1 HD" tvg-logo="" group-title="FIREOTT 0401",|PT| ELEVEN SPORTS 1 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/146781
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 2 HD" tvg-logo="" group-title="FIREOTT 0401",|PT| ELEVEN SPORTS 2 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/146783
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 3 HD" tvg-logo="" group-title="FIREOTT 0401",|PT| ELEVEN SPORTS 3 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/146785
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 4 HD" tvg-logo="" group-title="FIREOTT 0401",|PT| ELEVEN SPORTS 4 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/146787
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| SPORT TV 1 HD" tvg-logo="" group-title="FIREOTT 0401",|PT|HEVC| SPORT TV 1 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/146773
+#EXTINF:-1 tvg-id="" tvg-name="|PT|HEVC| SPORT TV 2 HD" tvg-logo="" group-title="FIREOTT 0401",|PT|HEVC| SPORT TV 2 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/146775
+#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 3 HD" tvg-logo="" group-title="FIREOTT 0401",|PT| SPORT TV 3 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/146777
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1 HD" tvg-logo="http://nettvgo.in:2052/images/c50d118e1fa88ac01d06342e36579d41.png" group-title="FIREOTT 0401",ES: DAZN 1 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/151403
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 2 HD" tvg-logo="http://nettvgo.in:2052/images/5383ed912ed499703d6de204bda353a8.png" group-title="FIREOTT 0401",ES: DAZN 2 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/151406
+#EXTINF:-1 tvg-id="" tvg-name="BEIN PREMUIM 1 HD" tvg-logo="http://fireott.biz:2052/images/c7f0ab35a2e13b3631c6e5df19f019d8.png" group-title="FIREOTT 0401",BEIN PREMUIM 1 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/523
+#EXTINF:-1 tvg-id="" tvg-name="BEIN PREMUIM 2 HD" tvg-logo="http://fireott.biz:2052/images/de5db570dc9a71dd9f3e0068bec83540.png" group-title="FIREOTT 0401",BEIN PREMUIM 2 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/525
+#EXTINF:-1 tvg-id="" tvg-name="BEIN PREMUIM 3 HD" tvg-logo="http://fireott.biz:2052/images/12d04ae759ebacdb3bd28e8f7f813cad.png" group-title="FIREOTT 0401",BEIN PREMUIM 3 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/527
+#EXTINF:-1 tvg-id="shemaroo.in" tvg-name="BEINSPORT 1 HD" tvg-logo="http://fireott.biz:2052/images/de5db570dc9a71dd9f3e0068bec83540.png" group-title="FIREOTT 0401",BEINSPORT 1 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/509
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 2 HD" tvg-logo="http://fireott.biz:2052/images/de5db570dc9a71dd9f3e0068bec83540.png" group-title="FIREOTT 0401",BEINSPORT 2 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/56216
+#EXTINF:-1 tvg-id="shemaroo.in" tvg-name="BEINSPORT 3 HD" tvg-logo="http://max.fireott.biz:2052/images/12d04ae759ebacdb3bd28e8f7f813cad.png" group-title="FIREOTT 0401",BEINSPORT 3 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/513
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 4 HD" tvg-logo="http://fireott.biz:2052/images/3e616dc685f6508343c45eeef0712ea1.png" group-title="FIREOTT 0401",BEINSPORT 4 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/515
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 5 HD" tvg-logo="http://max.fireott.biz:2052/images/50283ef0d2a46af7670aa60bd655b297.png" group-title="FIREOTT 0401",BEINSPORT 5 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/517
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 6 HD" tvg-logo="http://max.fireott.biz:2052/images/60d7e046ad09b6a6f5b0895960492816.png" group-title="FIREOTT 0401",BEINSPORT 6 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/519
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 7 HD" tvg-logo="http://max.fireott.biz:2052/images/3f72185f82a2f88dbe5f7bd6d64e000e.png" group-title="FIREOTT 0401",BEINSPORT 7 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/521
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS EXTRA 1 HD" tvg-logo="http://fireott.biz:2052/images/c7f0ab35a2e13b3631c6e5df19f019d8.png" group-title="FIREOTT 0401",BEIN SPORTS EXTRA 1 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/38145
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS EXTRA 2 HD" tvg-logo="http://fireott.biz:2052/images/1350af49f426a6e163ac271648a87715.png" group-title="FIREOTT 0401",BEIN SPORTS EXTRA 2 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/55583
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENGLISH 1 HD" tvg-logo="http://nettvgo.in:2052/images/c7f0ab35a2e13b3631c6e5df19f019d8.png" group-title="FIREOTT 0401",BEIN SPORTS ENGLISH 1 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/38146
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENGLISH 2 HD" tvg-logo="http://nettvgo.in:2052/images/de5db570dc9a71dd9f3e0068bec83540.png" group-title="FIREOTT 0401",BEIN SPORTS ENGLISH 2 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/38147
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENGLISH 3 HD" tvg-logo="http://nettvgo.in:2052/images/12d04ae759ebacdb3bd28e8f7f813cad.png" group-title="FIREOTT 0401",BEIN SPORTS ENGLISH 3 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/38148
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FRENSH 1 HD" tvg-logo="http://nettvgo.in:2052/images/c7f0ab35a2e13b3631c6e5df19f019d8.png" group-title="FIREOTT 0401",BEIN SPORTS FRENSH 1 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/38149
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FRENSH 2 HD" tvg-logo="http://nettvgo.in:2052/images/de5db570dc9a71dd9f3e0068bec83540.png" group-title="FIREOTT 0401",BEIN SPORTS FRENSH 2 HD
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/38150
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1" tvg-logo="" group-title="FIREOTT 0401",CANAL+ SPORT 1
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/149428
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 2" tvg-logo="" group-title="FIREOTT 0401",CANAL+ SPORT 2
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/149429
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 3" tvg-logo="" group-title="FIREOTT 0401",CANAL+ SPORT 3
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/149430
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 4" tvg-logo="" group-title="FIREOTT 0401",CANAL+ SPORT 4
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/149431
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 5" tvg-logo="" group-title="FIREOTT 0401",CANAL+ SPORT 5
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/149432
+
+
