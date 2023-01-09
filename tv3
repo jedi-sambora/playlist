@@ -2746,3 +2746,46 @@ http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/858
 http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/859
 #EXTINF:-1 group-title="LIVE-TV 0901",Super Sport 5 HD
 http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/860
+
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 1" tvg-logo="http://myserveriptv.com:2082/images/2ccfb0925903b34d1fbd9f6011947ce7.png" group-title="SHARKYTV 0901",RO: Digi Sport 1
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/126059
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 2" tvg-logo="http://myserveriptv.com:2082/images/f4b405bb782b9c646719d6725e37402d.png" group-title="SHARKYTV 0901",RO: Digi Sport 2
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/126060
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 3" tvg-logo="http://myserveriptv.com:2082/images/db64626b59dda130e571097f93f4f136.png" group-title="SHARKYTV 0901",RO: Digi Sport 3
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/126082
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 4" tvg-logo="http://myserveriptv.com:2082/images/5acf144c3939d71c8d81ef26c5ca8e41.png" group-title="SHARKYTV 0901",RO: Digi Sport 4
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/126083
+#EXTINF:-1 tvg-id="" tvg-name="IT: Super Tennis" tvg-logo="http://myserveriptv.com:2082/images/6fe4ff3a5df48be85bbbf95bde34035a.png" group-title="SHARKYTV 0901",IT: Super Tennis
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14757
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League" tvg-logo="http://myserveriptv.com:2082/images/9876cd80765b911dc337f5899567d35e.png" group-title="SHARKYTV 0901",UK: Sky Sports Premier League
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16209
+#EXTINF:-1 tvg-id="" tvg-name="RU: Match! TV" tvg-logo="http://myserveriptv.com:2082/images/8701c8ba1a358f74530846af274f403f.png" group-title="SHARKYTV 0901",RU: Match! TV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/224207
+#EXTINF:-1 tvg-id="" tvg-name="RU: Match! Premiere" tvg-logo="http://myserveriptv.com:2082/images/8701c8ba1a358f74530846af274f403f.png" group-title="SHARKYTV 0901",RU: Match! Premiere
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/224208
+#EXTINF:-1 tvg-id="" tvg-name="RU: Match! Our Sports" tvg-logo="http://myserveriptv.com:2082/images/8701c8ba1a358f74530846af274f403f.png" group-title="SHARKYTV 0901",RU: Match! Our Sports
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/224210
+#EXTINF:-1 tvg-id="" tvg-name="RU: Match! Futbol 1" tvg-logo="http://myserveriptv.com:2082/images/78662e32d6efbbda162e325be4619659.png" group-title="SHARKYTV 0901",RU: Match! Futbol 1
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/224211
+#EXTINF:-1 tvg-id="" tvg-name="RU: Match! Futbol 2" tvg-logo="http://myserveriptv.com:2082/images/46b258c597d4900ef63e142f9ec63be4.png" group-title="SHARKYTV 0901",RU: Match! Futbol 2
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/224212
+#EXTINF:-1 tvg-id="" tvg-name="RU: Match! Futbol 3" tvg-logo="http://myserveriptv.com:2082/images/43d690c61e7b33837fcd066450c56f7a.png" group-title="SHARKYTV 0901",RU: Match! Futbol 3
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/224213
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Bar 1 HD" tvg-logo="http://myserveriptv.com:2082/images/70174c0a783eae8342f989252f0c82e8.png" group-title="SHARKYTV 0901",DE: DAZN Bar 1 HD
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14001
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Bar 2 HD" tvg-logo="http://myserveriptv.com:2082/images/70174c0a783eae8342f989252f0c82e8.png" group-title="SHARKYTV 0901",DE: DAZN Bar 2 HD
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/14002
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 1 HD" tvg-logo="http://myserveriptv.com:2082/images/44bef1c48a58884b45dab65db4396f54.png" group-title="SHARKYTV 0901",DE: Sky Bundesliga 1 HD
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/142480
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 2 (Event Only)" tvg-logo="http://myserveriptv.com:2082/images/1846720395d1b22eeb55a5396e6e899e.png" group-title="SHARKYTV 0901",DE: Sky Bundesliga 2 (Event Only)
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/146239
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 3 (Live Events)" tvg-logo="http://myserveriptv.com:2082/images/53d107f73ff0e9ab393913ea6f9cb21f.png" group-title="SHARKYTV 0901",DE: Sky Bundesliga 3 (Live Events)
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/146240
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Tennis" tvg-logo="http://myserveriptv.com:2082/images/285ae8926e5d6298d5b45bd85da741ae.png" group-title="SHARKYTV 0901",DE: Sky Sport Tennis
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/13930
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Soccer Plus" tvg-logo="http://myserveriptv.com:2082/images/cb2cc38ba6506b7b1c750fd7f6b98ff0.png"group-title="SHARKYTV 0901",US: Fox Sports Soccer Plus
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32272
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports 1 HD" tvg-logo="http://myserveriptv.com:2082/images/5505842bde3d2f43c9a448eef20d0588.png"group-title="SHARKYTV 0901",US: Fox Sports 1 HD
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32304
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports 2 HD" tvg-logo="http://myserveriptv.com:2082/images/5505842bde3d2f43c9a448eef20d0588.png"group-title="SHARKYTV 0901",US: Fox Sports 2 HD
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32305
