@@ -162,6 +162,10 @@ https://av-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="" group-title="SPORT LOCAL" tvg-id="beINSports3Indonesia.id", Bein Sports ID 3
 https://av-live-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+#EXTINF:-1 tvg-logo="" group-title="SPORT LOCAL" tvg-id="beINSports3Indonesia.id", Usee SPORT 1
+https://maper.info/UseeSport1-Shareext
+#EXTINF:-1 tvg-logo="" group-title="SPORT LOCAL" tvg-id="beINSports3Indonesia.id", Usee SPORT 2
+https://maper.info/UseeSport2-Shareext
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="ASTRO",MY: Astro SuperSport 1 (QS)
 http://quality-restream.com:8080/asiantv/f2ba3832f4/146068
