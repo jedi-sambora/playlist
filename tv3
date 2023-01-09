@@ -2694,3 +2694,51 @@ http://g5g.best:8080/simo.tanger/lv2STtVGPSRl/16856
 #EXTINF:-1 tvg-id="" tvg-name="|PT/DC| SPORT TV 4 HEVC" tvg-logo="" group-title="g5g 0801 ",|PT/DC| SPORT TV 4 HEVC
 http://g5g.best:8080/simo.tanger/lv2STtVGPSRl/16855
 
+#EXTINF:-1 group-title="LIVE-TV 0901",Sky Sport Bundesliga HD +
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/15771
+#EXTINF:-1 group-title="LIVE-TV 0901",Sky Sport Premier League HD
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/15768
+#EXTINF:-1 group-title="LIVE-TV 0901",Arena Sport 1 HD sr
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/445
+#EXTINF:-1 group-title="LIVE-TV 0901",Arena Sport 2 HD sr
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/446
+#EXTINF:-1 group-title="LIVE-TV 0901",Arena Sport 3 HD sr
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/447
+#EXTINF:-1 group-title="LIVE-TV 0901",Arena Sport 4 HD sr
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/448
+#EXTINF:-1 group-title="LIVE-TV 0901",BT Sport 1 HD UK
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/8560
+#EXTINF:-1 group-title="LIVE-TV 0901",BT Sport 2 HD UK
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/8561
+#EXTINF:-1 group-title="LIVE-TV 0901",BT Sport 3 HD UK
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/8562
+#EXTINF:-1 group-title="LIVE-TV 0901",BT Sport Extra 3 [Match Time] UK
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/11820
+#EXTINF:-1 group-title="LIVE-TV 0901",BT Sport Extra 4 UK
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/11819
+#EXTINF:-1 group-title="LIVE-TV 0901",BT Sport ESPN HD UK
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/11854
+#EXTINF:-1 group-title="LIVE-TV 0901",PL: Canal+ Sport HD
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/889
+#EXTINF:-1 group-title="LIVE-TV 0901",PL: Canal+ Sport 2 HD
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/890
+#EXTINF:-1 group-title="LIVE-TV 0901",PL: Eleven Sports 1 HD
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/891
+#EXTINF:-1 group-title="LIVE-TV 0901",PL: Eleven Sports 2 HD
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/892
+#EXTINF:-1 group-title="LIVE-TV 0901",PL: Eleven Sports 3 HD
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/893
+#EXTINF:-1 group-title="LIVE-TV 0901",beIN SPORTS 1 HD FR
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/8616
+#EXTINF:-1 group-title="LIVE-TV 0901",beIN SPORTS 2 FR
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/8617
+#EXTINF:-1 group-title="LIVE-TV 0901",beIN SPORTS 3 HD FR
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/8618
+#EXTINF:-1 group-title="LIVE-TV 0901",Super Sport 2 HD
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/857
+#EXTINF:-1 group-title="LIVE-TV 0901",Super Sport 3 HD
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/858
+#EXTINF:-1 group-title="LIVE-TV 0901",Super Sport 4 HD
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/859
+#EXTINF:-1 group-title="LIVE-TV 0901",Super Sport 5 HD
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/860
