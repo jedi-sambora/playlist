@@ -2807,3 +2807,19 @@ http://iptvmedia.live:8080/LeCyGodF/de198ad6/157556
 http://iptvmedia.live:8080/LeCyGodF/de198ad6/157557
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="IPTVMED 1101",MY: Astro SuperSport 4
 http://iptvmedia.live:8080/LeCyGodF/de198ad6/157558
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8dab62dd2c2faa3d66261a2a5afa6260.png" group-title="IPTVMED 1101",ZA: SuperSport Football
+http://iptvmedia.live:8080/LeCyGodF/de198ad6/38575
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Golf" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a20c92d13ce602ec324ff03b209ed0c2.png" group-title="South Africa ➾ Sports",ZA: SuperSport Golf
+http://iptvmedia.live:8080/LeCyGodF/de198ad6/11641
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Grandstand" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a8f0bee8d482364f261394bf7678fa0e.png" group-title="South Africa ➾ Sports",ZA: SuperSport Grandstand
+http://iptvmedia.live:8080/LeCyGodF/de198ad6/194353
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport LaLiga" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="South Africa ➾ Sports",ZA: SuperSport LaLiga
+http://iptvmedia.live:8080/LeCyGodF/de198ad6/194358
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Maximo 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/488fd8d34ea146bfaf82c12331f4223e.png" group-title="IPTVMED 1101",ZA: SuperSport Maximo 1
+http://iptvmedia.live:8080/LeCyGodF/de198ad6/38572
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Motorsport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="South Africa ➾ Sports",ZA: SuperSport Motorsport
+http://iptvmedia.live:8080/LeCyGodF/de198ad6/11638
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2f8f23e2a35d5a4e9ea336d7b51fd98f.png" group-title="IPTVMED 1101",ZA: SuperSport Premier League
+http://iptvmedia.live:8080/LeCyGodF/de198ad6/11642
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Tennis" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b51cde8be3defead0ca307c5be0c9453.png" group-title="South Africa ➾ Sports",ZA: SuperSport Tennis
+http://iptvmedia.live:8080/LeCyGodF/de198ad6/15200
