@@ -95,7 +95,10 @@ http://griffsuperstreamz.com:8080/total/donefuckedupd/485567
 http://griffsuperstreamz.com:8080/total/donefuckedupd/485569
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 hr" tvg-logo="" group-title="SPORT LOCAL",Eurosport 1 hr
+http://live-tv.uk:8080/Zejko_Skype/qrkVMDQWaR/2631
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 hr" tvg-logo="" group-title="SPORT LOCAL",Eurosport 2 hr
+http://live-tv.uk:8080/Zejko_Skype/qrkVMDQWaR/2632
 #EXTINF:-1 tvg-id="DAZN1Germany.de" tvg-logo="" group-title="SPORT LOCAL",DAZN 1 DE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
