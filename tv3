@@ -1316,61 +1316,6 @@ http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/71
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="Bein Sports HD" tvg-logo="" group-title="appfact(2911) SPORT",Bein Sports HD
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/572
 
-#EXTINF:-1 group-title="iptvtree(2911) SPORT",FR: beIN Sports 1
-http://iptvtree.net:8080/ace2524d/773dbded1a/144
-#EXTINF:-1 group-title="iptvtree(2911) SPORT",FR: beIN Sports 2
-http://iptvtree.net:8080/ace2524d/773dbded1a/145
-#EXTINF:-1 group-title="iptvtree(2911) SPORT",FR: beIN Sports 3
-http://iptvtree.net:8080/ace2524d/773dbded1a/146
-#EXTINF:-1 group-title="iptvtree(2911) SPORT",FR: beIN Sports Max 4
-http://iptvtree.net:8080/ace2524d/773dbded1a/3599
-#EXTINF:-1 group-title="iptvtree(2911) SPORT",FR: beIN Sports Max 5
-http://iptvtree.net:8080/ace2524d/773dbded1a/6083
-#EXTINF:-1 group-title="iptvtree(2911) SPORT",FR: beIN Sports Max 6
-http://iptvtree.net:8080/ace2524d/773dbded1a/4368
-#EXTINF:-1 group-title="iptvtree(2911) SPORT",FR: beIN Sports Max 7
-http://iptvtree.net:8080/ace2524d/773dbded1a/4369
-#EXTINF:-1 group-title="iptvtree(2911) SPORT",FR: beIN Sports Max 8
-http://iptvtree.net:8080/ace2524d/773dbded1a/4370
-#EXTINF:-1 group-title="iptvtree(2911) SPORT",FR: beIN Sports Max 9
-http://iptvtree.net:8080/ace2524d/773dbded1a/4371
-#EXTINF:-1 group-title="iptvtree(2911) SPORT",FR: beIN Sports Max 10
-http://iptvtree.net:8080/ace2524d/773dbded1a/6088
-#EXTINF:-1 group-title="iptvtree(2911) SPORT",QA: beIN Sports 1
-http://iptvtree.net:8080/ace2524d/773dbded1a/100
-#EXTINF:-1 group-title="iptvtree(2911) SPORT",QA: beIN Sports 2
-http://iptvtree.net:8080/ace2524d/773dbded1a/101
-#EXTINF:-1 group-title="iptvtree(2911) SPORT",QA: beIN Sports 3
-http://iptvtree.net:8080/ace2524d/773dbded1a/102
-#EXTINF:-1 group-title="iptvtree(2911) SPORT",QA: beIN Sports 4
-http://iptvtree.net:8080/ace2524d/773dbded1a/103
-#EXTINF:-1 group-title="iptvtree(2911) SPORT",QA: beIN Sports 5
-http://iptvtree.net:8080/ace2524d/773dbded1a/104
-#EXTINF:-1 group-title="iptvtree(2911) SPORT",QA: beIN Sports 6
-http://iptvtree.net:8080/ace2524d/773dbded1a/105
-#EXTINF:-1 group-title="iptvtree(2911) SPORT",QA: beIN Sports 7
-http://iptvtree.net:8080/ace2524d/773dbded1a/106
-#EXTINF:-1 group-title="iptvtree(2911) SPORT",QA: beIN Sports English 1
-http://iptvtree.net:8080/ace2524d/773dbded1a/110
-#EXTINF:-1 group-title="iptvtree(2911) SPORT",QA: beIN Sports English 2
-http://iptvtree.net:8080/ace2524d/773dbded1a/111
-#EXTINF:-1 group-title="iptvtree(2911) SPORT",QA: beIN Sports English 3
-http://iptvtree.net:8080/ace2524d/773dbded1a/267769
-#EXTINF:-1 group-title="iptvtree(2911) SPORT",QA: beIN Sports Max 1
-http://iptvtree.net:8080/ace2524d/773dbded1a/296991
-#EXTINF:-1 group-title="iptvtree(2911) SPORT",QA: beIN Sports Max 2
-http://iptvtree.net:8080/ace2524d/773dbded1a/199001
-#EXTINF:-1 group-title="iptvtree(2911) SPORT",QA: beIN Sports Max 3
-http://iptvtree.net:8080/ace2524d/773dbded1a/296992
-#EXTINF:-1 group-title="iptvtree(2911) SPORT",QA: beIN Sports Max 4
-http://iptvtree.net:8080/ace2524d/773dbded1a/13813
-#EXTINF:-1 group-title="iptvtree(2911) SPORT",QA: beIN Sports Premium 1
-http://iptvtree.net:8080/ace2524d/773dbded1a/109
-#EXTINF:-1 group-title="iptvtree(2911) SPORT",QA: beIN Sports Premium 2
-http://iptvtree.net:8080/ace2524d/773dbded1a/280145
-#EXTINF:-1 group-title="iptvtree(2911) SPORT",QA: beIN Sports Premium 3
-http://iptvtree.net:8080/ace2524d/773dbded1a/280249
-
 
 #EXTINF:-1 tvg-id="" tvg-name="US.SP - TSN SPORT 2 HD" tvg-logo="https://static.telus.com/common/cms/images/tv/satellite/new-channel-logos/TSN2HD.png" group-title="NOUSI",US.SP - TSN SPORT 2 HD
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3362
@@ -2470,3 +2415,87 @@ http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/170839
 http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/170840
 #EXTINF:0 tvg-id="ext" group-title="SPAINLINE 1901",AR: BEIN SPORTS PREMIUM 03
 http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/170841
+
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",ZA: SuperSport Football
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/38575
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",ZA: SuperSport Golf
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/11641
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",ZA: SuperSport Grandstand
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/194353
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",ZA: SuperSport LaLiga
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/194358
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",ZA: SuperSport Maximo 1
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/38572
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",ZA: SuperSport Motorsport
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/11638
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",ZA: SuperSport Premier League
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/11642
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",ZA: SuperSport PSL
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/11643
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",ZA: SuperSport Rugby
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/11639
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",ZA: SuperSport Tennis
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/15200
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",RO: DIGI SPORT 1
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/71457
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",RO: DIGI SPORT 2
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/71459
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",RO: DIGI SPORT 3
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/2243
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",RO: DIGI SPORT 4
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/4219
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",FR: beIN Sports 1
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/144
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",FR: beIN Sports 2
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/145
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",FR: beIN Sports 3
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/146
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",FR: beIN Sports Max 4
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/3599
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",FR: beIN Sports Max 5
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/6083
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",FR: beIN Sports Max 6
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/4368
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",FR: beIN Sports Max 7
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/4369
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",FR: beIN Sports Max 8
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/4370
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",FR: beIN Sports Max 9
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/4371
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",FR: beIN Sports Max 10
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/6088
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",QA: beIN Sports 1
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/100
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",QA: beIN Sports 2
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/101
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",QA: beIN Sports 3
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/102
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",QA: beIN Sports 4
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/103
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",QA: beIN Sports 5
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/104
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",QA: beIN Sports 6
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/105
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",QA: beIN Sports 7
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/106
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",QA: beIN Sports English 1
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/110
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",QA: beIN Sports English 2
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/111
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",QA: beIN Sports English 3
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/267769
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",QA: beIN Sports Max 1
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/296991
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",QA: beIN Sports Max 2
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/199001
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",QA: beIN Sports Max 3
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/296992
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",QA: beIN Sports Max 4
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/13813
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",QA: beIN Sports Premium 1
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/109
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",QA: beIN Sports Premium 2
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/280145
+#EXTINF:-1 group-title="iptvtree(1901) SPORT",QA: beIN Sports Premium 3
+http://iptvtree.net:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/280249
+
