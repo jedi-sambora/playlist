@@ -73,26 +73,7 @@ http://esv5.net/Tcole1/123456789/87300
 http://esv5.net/Tcole1/123456789/87299
 #EXTINF:-1 group-title="ASTRO", Astro Sport 5 (esv5) 2812
 http://esv5.net/Tcole1/123456789/87298
-#EXTINF:0 tvg-id="ext" group-title="ASTRO",My: Astro SuperSport 1 HD (MYTVHD) 2812
-http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50917.ts
-#EXTINF:0 tvg-id="ext" group-title="ASTRO",My: Astro SuperSport 2 HD (MYTVHD) 2812
-http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50918.ts
-#EXTINF:0 tvg-id="ext" group-title="ASTRO",My: Astro SuperSport 3 HD (MYTVHD) 2812
-http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50919.ts
-#EXTINF:0 tvg-id="ext" group-title="ASTRO",My: Astro SuperSport 4 HD (MYTVHD) 2812
-http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50920.ts 
-#EXTINF:0 tvg-id="ext" group-title="ASTRO",My: Astro SuperSport 5 HD (MYTVHD) 2812
-http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/50926.ts
-#EXTINF:-1 group-title="ASTRO",Astro Super Sports 1 HD (griff)
-http://griffsuperstreamz.com:8080/total/donefuckedupd/485564
-#EXTINF:-1 group-title="ASTRO",Astro Super Sports 2 HD (griff)
-http://griffsuperstreamz.com:8080/total/donefuckedupd/485565
-#EXTINF:-1 group-title="ASTRO",Astro Super Sports 3 HD (griff)
-http://griffsuperstreamz.com:8080/total/donefuckedupd/485566
-#EXTINF:-1 group-title="ASTRO",Astro Super Sports 4 HD (griff)
-http://griffsuperstreamz.com:8080/total/donefuckedupd/485567
-#EXTINF:-1 group-title="ASTRO",Astro SuperSport 5 (griff)
-http://griffsuperstreamz.com:8080/total/donefuckedupd/485569
+
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 hr" tvg-logo="" group-title="SPORT TEMP",iNDIA OPEN C1
 https://dno-fifajs-native-major-hb.youku.com/fifa_jieshuo/YMQ-INTsignal1HB_sjb480.m3u8?auth_key=1705108302-0-0-d91abadf6acbd95697728024bd1fc1d4&title=8146668&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=hlDtG7wDhA8CAbYCJ3gwiyHn&ccode=live05020201&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-INTsignal1HB&rid=20000000C3973DD09D7EE3355C09ACED6CDF904300000000
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 hr" tvg-logo="" group-title="SPORT TEMP",iNDIA OPEN C2
