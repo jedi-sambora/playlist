@@ -95,6 +95,10 @@ http://griffsuperstreamz.com:8080/total/donefuckedupd/485567
 http://griffsuperstreamz.com:8080/total/donefuckedupd/485569
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 hr" tvg-logo="" group-title="SPORT TEMP",iNDIA OPEN C1
 https://dno-fifajs-native-major-hb.youku.com/fifa_jieshuo/YMQ-INTsignal1HB_sjb480.m3u8?auth_key=1705108302-0-0-d91abadf6acbd95697728024bd1fc1d4&title=8146668&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=hlDtG7wDhA8CAbYCJ3gwiyHn&ccode=live05020201&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-INTsignal1HB&rid=20000000C3973DD09D7EE3355C09ACED6CDF904300000000
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 hr" tvg-logo="" group-title="SPORT TEMP",iNDIA OPEN C2
+https://dno-fifajs-native-major-hb.youku.com/fifa_jieshuo/YMQ-INTsignal2HB_sjb480.m3u8?auth_key=1705474979-0-0-a3964b0b9fc2c56cf067dbf4e2c4df82&title=8147003&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=hlDtG7wDhA8CAbYCJ3gwiyHn&ccode=live05020201&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-INTsignal2HB&rid=20000000EA4BFA28EDC9B2FEEDD3CD15018C3B6400000000
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 hr" tvg-logo="" group-title="SPORT TEMP",iNDIA OPEN C3
+https://dno-fifajs-native-major-hb.youku.com/fifa_jieshuo/YMQ-INTsignal3HB_sjb480.m3u8?auth_key=1705467085-0-0-fa68b4acd85cc676b891b78b3f35894c&title=8147004&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=c7ZDHGxgPGICAbT706DKzMb1&ccode=live05030101&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-INTsignal3HB&rid=20000000ED23D80CEE9819A8CA845CE5A9EDF17600000000
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 hr" tvg-logo="" group-title="SPORT LOCAL",Eurosport 1 hr
 http://live-tv.uk:8080/Zejko_Skype/qrkVMDQWaR/2631
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 hr" tvg-logo="" group-title="SPORT LOCAL",Eurosport 2 hr
