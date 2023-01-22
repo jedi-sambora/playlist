@@ -2429,3 +2429,65 @@ http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/328961.ts
 #EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 2 FHD" tvg-logo="" group-title="GOODTV ",DE: SKY SPORT BUNDESLIGA 2 FHD
 http://goodtv.nicesjb.xyz:80/play/goldsiptv-EX/ghEt5892@kor890/353881.ts
 
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="QA: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png" group-title="iptvtree 2201 ",QA: beIN Sports 1
+http://iptvtree.net:8080/985999aa/8598626229/100
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="QA: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/31f6dbe34a61abb6cadc5a13d54d8b4d.png" group-title="iptvtree 2201 ",QA: beIN Sports 2
+http://iptvtree.net:8080/985999aa/8598626229/101
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="QA: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/e44c1ec620401a2f6238c2c24ccd6c58.png" group-title="iptvtree 2201 ",QA: beIN Sports 3
+http://iptvtree.net:8080/985999aa/8598626229/102
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="QA: beIN Sports 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/0dea19dc983ea75ced697dfaa4c47d85.png" group-title="iptvtree 2201 ",QA: beIN Sports 4
+http://iptvtree.net:8080/985999aa/8598626229/103
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="QA: beIN Sports 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b6c7110b7a880c716cb68073a5df5d90.png" group-title="iptvtree 2201 ",QA: beIN Sports 5
+http://iptvtree.net:8080/985999aa/8598626229/104
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="QA: beIN Sports 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/3ad0c2b25e878d21a2e3820b0c43a447.png" group-title="iptvtree 2201 ",QA: beIN Sports 6
+http://iptvtree.net:8080/985999aa/8598626229/105
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="QA: beIN Sports 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f823bec52bbeb99de40933222aed1f4f.png" group-title="iptvtree 2201 ",QA: beIN Sports 7
+http://iptvtree.net:8080/985999aa/8598626229/106
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="QA: beIN Sports English 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/076e8935ff1715e7ebc42f5f23b9b152.png" group-title="iptvtree 2201 ",QA: beIN Sports English 1
+http://iptvtree.net:8080/985999aa/8598626229/110
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="QA: beIN Sports English 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/33be90fdfdbfbf011c3e65d621196ec8.png" group-title="iptvtree 2201 ",QA: beIN Sports English 2
+http://iptvtree.net:8080/985999aa/8598626229/111
+#EXTINF:-1 tvg-id="beinsports3en.qa" tvg-name="QA: beIN Sports English 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/724539660042a9755e6c7d5dafef0a55.png" group-title="iptvtree 2201 ",QA: beIN Sports English 3
+http://iptvtree.net:8080/985999aa/8598626229/267769
+#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="QA: beIN Sports NBA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/9cfea567e2dd21638264fe3a6f0a2275.png" group-title="iptvtree 2201 ",QA: beIN Sports NBA
+http://iptvtree.net:8080/985999aa/8598626229/15962
+#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="QA: beIN Sports Premium 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f8dc1d4d49006fbed81fb539bc89cde9.png" group-title="iptvtree 2201 ",QA: beIN Sports Premium 1
+http://iptvtree.net:8080/985999aa/8598626229/109
+#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="QA: beIN Sports Premium 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/4d9551cacc9433108171ed793131df12.png" group-title="iptvtree 2201 ",QA: beIN Sports Premium 2
+http://iptvtree.net:8080/985999aa/8598626229/280145
+#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="QA: beIN Sports Premium 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/f1f5358024c749247618e2fcf2892eb5.jpg" group-title="iptvtree 2201 ",QA: beIN Sports Premium 3
+http://iptvtree.net:8080/985999aa/8598626229/280249
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d40f4a64bc712ca477fcb4e7412b5ccc.png" group-title="iptvtree 2201 ",FR: beIN Sports 1
+http://iptvtree.net:8080/985999aa/8598626229/144
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0546311aed22a274b1e87d23c33dd475.png" group-title="iptvtree 2201 ",FR: beIN Sports 2
+http://iptvtree.net:8080/985999aa/8598626229/145
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e36554e2468737a5a1e4a41112d673a5.png" group-title="iptvtree 2201 ",FR: beIN Sports 3
+http://iptvtree.net:8080/985999aa/8598626229/146
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8dab62dd2c2faa3d66261a2a5afa6260.png" group-title="iptvtree 2201 ",ZA: SuperSport Football
+http://iptvtree.net:8080/985999aa/8598626229/38575
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Golf" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a20c92d13ce602ec324ff03b209ed0c2.png" group-title="South Africa ➾ Sports",ZA: SuperSport Golf
+http://iptvtree.net:8080/985999aa/8598626229/11641
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Grandstand" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a8f0bee8d482364f261394bf7678fa0e.png" group-title="South Africa ➾ Sports",ZA: SuperSport Grandstand
+http://iptvtree.net:8080/985999aa/8598626229/194353
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport LaLiga" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="South Africa ➾ Sports",ZA: SuperSport LaLiga
+http://iptvtree.net:8080/985999aa/8598626229/194358
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Motorsport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="South Africa ➾ Sports",ZA: SuperSport Motorsport
+http://iptvtree.net:8080/985999aa/8598626229/11638
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2f8f23e2a35d5a4e9ea336d7b51fd98f.png" group-title="iptvtree 2201 ",ZA: SuperSport Premier League
+http://iptvtree.net:8080/985999aa/8598626229/11642
+#EXTINF:-1 tvg-id="" tvg-name="RU: Match" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dc02ccae62d7096d76f9598180c4db5b.png" group-title="iptvtree 2201 ",RU: Match
+http://iptvtree.net:8080/985999aa/8598626229/75641
+#EXTINF:-1 tvg-id="" tvg-name="RU: Match Arena" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bb54cd0f9f68aa1d1c84fe93b9d10764.png" group-title="iptvtree 2201 ",RU: Match Arena
+http://iptvtree.net:8080/985999aa/8598626229/55801
+#EXTINF:-1 tvg-id="" tvg-name="RU: Match Futbol 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b0cea95d70385f91747b4d49b92e79a1.png" group-title="iptvtree 2201 ",RU: Match Futbol 2
+http://iptvtree.net:8080/985999aa/8598626229/55800
+#EXTINF:-1 tvg-id="" tvg-name="RU: Match Futbol 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4a6696a9ea5c1cdedcad98fff840dd2f.png" group-title="iptvtree 2201 ",RU: Match Futbol 3
+http://iptvtree.net:8080/985999aa/8598626229/55802
+#EXTINF:-1 tvg-id="" tvg-name="RU: Match Premier" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e36787364fd1ff331eadaea2996e7bc4.png" group-title="iptvtree 2201 ",RU: Match Premier
+http://iptvtree.net:8080/985999aa/8598626229/60499
+#EXTINF:-1 tvg-id="" tvg-name="RU: Match Strana" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d169a7e7823fd38cee22c10784ed8b6c.png" group-title="iptvtree 2201 ",RU: Match Strana
+http://iptvtree.net:8080/985999aa/8598626229/148347
+#EXTINF:-1 tvg-id="" tvg-name="RU: Match! Futbol 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f2d1e7b99a662db16b7b660e38b8dd8d.png" group-title="iptvtree 2201 ",RU: Match! Futbol 1
+http://iptvtree.net:8080/985999aa/8598626229/12812
+
+
