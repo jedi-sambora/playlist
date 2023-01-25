@@ -77,7 +77,7 @@ http://esv5.net/Tcole1/123456789/87298
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 hr" tvg-logo="" group-title="SPORT TEMP",iND master C1
 https://dno-fifajs-native-major-hb.youku.com/fifa_jieshuo/YMQ-INTsignal1HB_sjb480.m3u8?auth_key=1706058029-0-0-4cbb770e4b4b8dd25fd8c72a077f952a&title=8147164&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=hlDtG7wDhA8CAbYCJ3gwiyHn&ccode=live05020201&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-INTsignal1HB&rid=20000000C3973DD09D7EE3355C09ACED6CDF904300000000
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 hr" tvg-logo="" group-title="SPORT TEMP",iND master C2
-https://invidious.namazso.eu/api/manifest/hls_playlist/expire/1674630826/ei/SYLQY9a6PM6hgAehrJLYDg/ip/23.88.113.147/id/qj7j8KOZFs4.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr4---sn-4g5ednsl.c.youtube.com/playlist_duration/30/manifest_duration/30/gcr/de/spc/H3gIhpXIryAGS-VTCNWqznrWCvmKrP4/vprv/1/playlist_type/DVR/initcwndbps/421250/mh/x9/mm/32/mn/sn-4g5ednsl/ms/su/mv/m/mvi/4/pl/25/sc/yes/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1674619014/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AOq0QJ8wRAIffnMmtyAQ6LX6-6Be3ETQkHqEh7PGTrX6r9Mupe8c-gIhAIwHVtja-9GBLd1edKfCrXFOA2zbIRRboafox3xfEOs7/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl,sc/lsig/AG3C_xAwRQIgLOO4dmYPCxeGb002AugSg5vkvUJ-bOzCaVlur9i6VWwCIQCjvWssCELLvLCu_K9fnwl66rA-94_5tbtwBQaAT1l9qA%3D%3D/playlist/index.m3u8?local=true
+https://liveaneviadev.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 hr" tvg-logo="" group-title="SPORT TEMP",iND master C3
 https://dno-fifajs-native-major-hb.youku.com/fifa_jieshuo/YMQ-INTsignal3HB_sjb480.m3u8?auth_key=1706153563-0-0-ab3633fc987f11d9714f7e126eac51cb
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="" group-title="Olahraga",TSN 1
@@ -156,6 +156,8 @@ https://av-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchanne
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="" group-title="SPORT LOCAL",MNC Sports 1
 https://av-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#EXTINF:0 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="" group-title="SPORT LOCAL",MNC Sports 
+https://liveaneviadev.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="MNCSports2.id" tvg-name="MNC Sports 2" tvg-logo="" group-title="SPORT LOCAL",MNC Sports 2
