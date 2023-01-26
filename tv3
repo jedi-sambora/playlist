@@ -2549,3 +2549,77 @@ http://localiptv.site:85/K1IptvNowDiscord/nvmzcObwe3/29071
 http://localiptv.site:85/K1IptvNowDiscord/nvmzcObwe3/29072
 #EXTINF:-1 group-title="localiptv 2201",SPORT: ArenaSport 4 HR HD
 http://localiptv.site:85/K1IptvNowDiscord/nvmzcObwe3/29073
+
+#EXTINF:-1 tvg-id="Eurosport1UK.uk" tvg-name="UK: Eurosport 1 ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/british_eurosport_1.png" group-title="ZYNIPTV 1901",UK: Eurosport 1 ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/260
+#EXTINF:-1 tvg-id="Eurosport2UK.uk" tvg-name="UK: EuroSport 2 ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/british_eurosport_2.png" group-title="ZYNIPTV 1901",UK: EuroSport 2 ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/261
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="UK: BT Sport 1 ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-1-uk.png" group-title="ZYNIPTV 1901",UK: BT Sport 1 ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/250
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK: BT Sport 2 ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-2-uk.png" group-title="ZYNIPTV 1901",UK: BT Sport 2 ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/251
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="UK: BT Sport 3 ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-3-uk.png" group-title="ZYNIPTV 1901",UK: BT Sport 3 ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/252
+#EXTINF:-1 tvg-id="40Plus.uk" tvg-name="UK: BT Sport ESPN ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-espn-uk.png" group-title="ZYNIPTV 1901",UK: BT Sport ESPN ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/253
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 3 ᴴᴰ" tvg-logo="" group-title="ZYNIPTV 1901",PT: ELEVEN SPORT 3 ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/107133
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 4 ᴴᴰ" tvg-logo="" group-title="ZYNIPTV 1901",PT: ELEVEN SPORT 4 ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/107134
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 5 ᴴᴰ" tvg-logo="" group-title="ZYNIPTV 1901",PT: ELEVEN SPORT 5 ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/107135
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 6" tvg-logo="" group-title="ZYNIPTV 1901",PT: ELEVEN SPORT 6
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/107136
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="" group-title="ZYNIPTV 1901",PT: ELEVEN SPORTS 1
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/107137
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="" group-title="ZYNIPTV 1901",PT: ELEVEN SPORTS 2
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/107138
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="ZYNIPTV 1901",PT: SPORT TV 1
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/107170
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="ZYNIPTV 1901",PT: SPORT TV 2
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/107171
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="ZYNIPTV 1901",PT: SPORT TV 3
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/107172
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="ZYNIPTV 1901",PT: SPORT TV 4
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/107173
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 1 ᴴᴰ" tvg-logo="https://etvuhd.com/icons/beinall/bein1.png" group-title="ZYNIPTV 1901",AR: beIN Sports 1 ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/282
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 2 ᴴᴰ" tvg-logo="https://etvuhd.com/icons/beinall/bein2.png" group-title="ZYNIPTV 1901",AR: beIN Sports 2 ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/283
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 3 ᴴᴰ" tvg-logo="https://etvuhd.com/icons/beinall/bein3.png" group-title="ZYNIPTV 1901",AR: beIN Sports 3 ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/281
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 4 ᴴᴰ" tvg-logo="https://etvuhd.com/icons/beinall/bein4.png" group-title="ZYNIPTV 1901",AR: beIN Sports 4 ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/280
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 5 ᴴᴰ" tvg-logo="https://etvuhd.com/icons/beinall/bein5.png" group-title="ZYNIPTV 1901",AR: beIN Sports 5 ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/279
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 6 ᴴᴰ" tvg-logo="https://etvuhd.com/icons/beinall/bein6.png" group-title="ZYNIPTV 1901",AR: beIN Sports 6 ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/287
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 7 ᴴᴰ" tvg-logo="https://etvuhd.com/icons/beinall/bein7.png" group-title="ZYNIPTV 1901",AR: beIN Sports 7 ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/286
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 1 EN ᴴᴰ" tvg-logo="https://etvuhd.com/icons/beinall/beineng1.png" group-title="ZYNIPTV 1901",AR: beIN Sports 1 EN ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/132297
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 2 EN ᴴᴰ" tvg-logo="https://etvuhd.com/icons/beinall/beineng2.png" group-title="ZYNIPTV 1901",AR: beIN Sports 2 EN ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/132298
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 3 EN ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-english-3-qa.png" group-title="ZYNIPTV 1901",AR: beIN Sports 3 EN ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/132299
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports NBA ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-nba-qa.png" group-title="ZYNIPTV 1901",AR: beIN Sports NBA ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/132296
+#EXTINF:-1 tvg-id="" tvg-name="BE: beIN Sports 1 Premium ᴴᴰ" tvg-logo="https://etvuhd.com/icons/beinall/beinpremium1.png" group-title="ZYNIPTV 1901",BE: beIN Sports 1 Premium ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/132479
+#EXTINF:-1 tvg-id="" tvg-name="BE: beIN Sports 2 Premium ᴴᴰ" tvg-logo="https://etvuhd.com/icons/beinall/beinpremium2.png" group-title="ZYNIPTV 1901",BE: beIN Sports 2 Premium ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/132480
+#EXTINF:-1 tvg-id="" tvg-name="BE: beIN Sports 3 Premium ᴴᴰ" tvg-logo="https://etvuhd.com/icons/beinall/beinpremium3.png" group-title="ZYNIPTV 1901",BE: beIN Sports 3 Premium ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/132481
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeIN Sports 1 ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="ZYNIPTV 1901",TR: BeIN Sports 1 ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/107195
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeIn Sports 2 ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="ZYNIPTV 1901",TR: BeIn Sports 2 ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/107196
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeIn Sports 3 ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="ZYNIPTV 1901",TR: BeIn Sports 3 ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/107197
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeIn Sports 4 ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_tr_sports_04_hd.png" group-title="ZYNIPTV 1901",TR: BeIn Sports 4 ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/107198
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeIn Sports Max 1 ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-1-qa-tr.png" group-title="ZYNIPTV 1901",TR: BeIn Sports Max 1 ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/107204
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeIn Sports Max 2 ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="ZYNIPTV 1901",TR: BeIn Sports Max 2 ᴴᴰ
+http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/107205
+
