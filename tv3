@@ -55,6 +55,14 @@ http://txtest-xp2p.p2p.huya.com/src/1524439855-1524439855-6547419321943982080-30
 #EXTINF:-1 group-title="Movie",Jet Lie HD 2
 http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
 
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="ASTRO",MY: Astro SuperSport 1 (EPG.PW 1901)
+https://epg.pw/stream/c3db1965d3b5258e4831522055c5e377d4d1eb6c251e6e87d04ff6d053d4832b.ctv
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="ASTRO", Astro Sport 2 (EPG.PW 1901)
+https://epg.pw/stream/01738f11e9aa6bdd71c5f01c85120c0de00491bcdf8a4686444426afe0faba5d.ctv
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png group-title="ASTRO", Astro Sport 3 (EPG.PW 1901)
+https://epg.pw/stream/462b797148fcccde8e000d6bf8d43344905bc9e07bca34267cb78ab703afeb50.ctv
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png"  group-title="ASTRO", Astro Sport 4 (EPG.PW 1901)
+https://epg.pw/stream/b3b736bdbd3e5d2c0b31c524c4aa1b04a5e6292214ee52d5eb60de39c7fe4b90.ctv
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="ASTRO",MY: Astro SuperSport 1 (IPTVMED)
 http://iptvmedia.live:8080/LeCyGodF/de198ad6/146068
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="ASTRO",MY: Astro SuperSport 2 (IPTVMED)
