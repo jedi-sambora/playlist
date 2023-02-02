@@ -1991,3 +1991,123 @@ http://obshd.tv:25461/sallabosV1/5FnySQJkM2V1/1557
 http://obshd.tv:25461/sallabosV1/5FnySQJkM2V1/1558
 #EXTINF:-1 tvg-id="" tvg-name="||DE|| SKY BUNDESLIGA 1 HD" tvg-logo="" group-title="OBSHD 0102",||DE|| SKY BUNDESLIGA 1 HD
 http://obshd.tv:25461/sallabosV1/5FnySQJkM2V1/1559
+
+#EXTINF:-1 tvg-id="" tvg-name="SP-MY: Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="31.42 0202",SP-MY: Astro SuperSport 1
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5631
+#EXTINF:-1 tvg-id="" tvg-name="SP-MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="31.42 0202",SP-MY: Astro SuperSport 2
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5632
+#EXTINF:-1 tvg-id="" tvg-name="SP-MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="31.42 0202",SP-MY: Astro SuperSport 3
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5633
+#EXTINF:-1 tvg-id="" tvg-name="SP-MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="31.42 0202",SP-MY: Astro SuperSport 4
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5634
+#EXTINF:-1 tvg-id="" tvg-name="SP-MY: Astro Cricket" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png" group-title="31.42 0202",SP-MY: Astro Cricket
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5635
+#EXTINF:-1 tvg-id="" tvg-name="SP-MY: Astro Arena" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png" group-title="31.42 0202",SP-MY: Astro Arena
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5636
+#EXTINF:-1 tvg-id="" tvg-name="SP-MY: Astro Arena 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/7806170b5ef2464530dcaedcbe3e9a42.jpg" group-title="31.42 0202",SP-MY: Astro Arena 2
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5637
+#EXTINF:-1 tvg-id="" tvg-name="SP-QA: beIN Sports English 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/076e8935ff1715e7ebc42f5f23b9b152.png" group-title="31.42 0202",SP-QA: beIN Sports English 1
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5730
+#EXTINF:-1 tvg-id="" tvg-name="SP-QA: beIN Sports English 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/33be90fdfdbfbf011c3e65d621196ec8.png" group-title="31.42 0202",SP-QA: beIN Sports English 2
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5731
+#EXTINF:-1 tvg-id="" tvg-name="SP-QA: beIN Sports English 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/724539660042a9755e6c7d5dafef0a55.png" group-title="31.42 0202",SP-QA: beIN Sports English 3
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5732
+#EXTINF:-1 tvg-id="" tvg-name="SP-QA: beIN Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/8aff9f98a00e5859162fd8e3f8e13ff3.jpg" group-title="31.42 0202",SP-QA: beIN Sports
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5733
+#EXTINF:-1 tvg-id="" tvg-name="SP-QA: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png" group-title="31.42 0202",SP-QA: beIN Sports 1
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5734
+#EXTINF:-1 tvg-id="" tvg-name="SP-QA: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/31f6dbe34a61abb6cadc5a13d54d8b4d.png" group-title="31.42 0202",SP-QA: beIN Sports 2
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5735
+#EXTINF:-1 tvg-id="" tvg-name="SP-QA: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/e44c1ec620401a2f6238c2c24ccd6c58.png" group-title="31.42 0202",SP-QA: beIN Sports 3
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5736
+#EXTINF:-1 tvg-id="" tvg-name="SP-QA: beIN Sports 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/0dea19dc983ea75ced697dfaa4c47d85.png" group-title="31.42 0202",SP-QA: beIN Sports 4
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5737
+#EXTINF:-1 tvg-id="" tvg-name="SP-QA: beIN Sports 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b6c7110b7a880c716cb68073a5df5d90.png" group-title="31.42 0202",SP-QA: beIN Sports 5
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5738
+#EXTINF:-1 tvg-id="" tvg-name="SP-QA: beIN Sports 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/3ad0c2b25e878d21a2e3820b0c43a447.png" group-title="31.42 0202",SP-QA: beIN Sports 6
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5739
+#EXTINF:-1 tvg-id="" tvg-name="SP-QA: beIN Sports 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f823bec52bbeb99de40933222aed1f4f.png" group-title="31.42 0202",SP-QA: beIN Sports 7
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5740
+#EXTINF:-1 tvg-id="" tvg-name="SP-QA: beIN Sports AFC" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/5a43b04dad6fc10852b84369bf4226c3.png" group-title="31.42 0202",SP-QA: beIN Sports AFC
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5741
+#EXTINF:-1 tvg-id="" tvg-name="SP-QA: beIN Sports AFC 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/e410b11d90b6505801e2564c3bb62593.png" group-title="31.42 0202",SP-QA: beIN Sports AFC 1
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5742
+#EXTINF:-1 tvg-id="" tvg-name="SP-QA: beIN Sports AFC 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/a6b48b1b17ffce6736fa804d10ab5015.png" group-title="31.42 0202",SP-QA: beIN Sports AFC 2
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5743
+#EXTINF:-1 tvg-id="" tvg-name="SP-QA: beIN Sports AFC 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/dd2dfdddf7a246cecc4752a917da0a9a.png" group-title="31.42 0202",SP-QA: beIN Sports AFC 3
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5744
+#EXTINF:-1 tvg-id="" tvg-name="SP-QA: beIN Sports NBA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/9cfea567e2dd21638264fe3a6f0a2275.png" group-title="31.42 0202",SP-QA: beIN Sports NBA
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5745
+#EXTINF:-1 tvg-id="" tvg-name="SP-QA: beIN Sports News" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/d63c52c264be612fb3cfb58e2b1f6090.png" group-title="31.42 0202",SP-QA: beIN Sports News
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5746
+#EXTINF:-1 tvg-id="" tvg-name="SP-QA: beIN Sports Premium 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f8dc1d4d49006fbed81fb539bc89cde9.png" group-title="31.42 0202",SP-QA: beIN Sports Premium 1
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5747
+#EXTINF:-1 tvg-id="" tvg-name="SP-QA: beIN Sports Premium 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/4d9551cacc9433108171ed793131df12.png" group-title="31.42 0202",SP-QA: beIN Sports Premium 2
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5748
+#EXTINF:-1 tvg-id="" tvg-name="SP-QA: beIN Sports Premium 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/f1f5358024c749247618e2fcf2892eb5.jpg" group-title="31.42 0202",SP-QA: beIN Sports Premium 3
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5749
+#EXTINF:-1 tvg-id="" tvg-name="SP-DE: Sky Sport Bundesliga 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbe531ca1d3128a5ea1d826026c1c967.png" group-title="31.42 0202",SP-DE: Sky Sport Bundesliga 1
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5783
+#EXTINF:-1 tvg-id="" tvg-name="SP-DE: Sky Sport Bundesliga 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/fb2eaf329b2b21db2465a65b6561f37a.png" group-title="31.42 0202",SP-DE: Sky Sport Bundesliga 2
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5784
+#EXTINF:-1 tvg-id="" tvg-name="SP-DE: Sky Sport Bundesliga 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a7de132a1213bb481524dd15b684e0b3.png" group-title="31.42 0202",SP-DE: Sky Sport Bundesliga 3
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5785
+#EXTINF:-1 tvg-id="" tvg-name="SP-DE: Sky Sport Bundesliga 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c685e1115586d117d8bd52211fb175ec.png" group-title="31.42 0202",SP-DE: Sky Sport Bundesliga 4
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5786
+#EXTINF:-1 tvg-id="" tvg-name="SP-DE: Sky Sport Bundesliga 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ae1ff23f60068f326deb088d3751a607.png" group-title="31.42 0202",SP-DE: Sky Sport Bundesliga 5
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5787
+#EXTINF:-1 tvg-id="" tvg-name="SP-FR: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d40f4a64bc712ca477fcb4e7412b5ccc.png" group-title="31.42 0202",SP-FR: beIN Sports 1
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5838
+#EXTINF:-1 tvg-id="" tvg-name="SP-FR: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0546311aed22a274b1e87d23c33dd475.png" group-title="31.42 0202",SP-FR: beIN Sports 2
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5839
+#EXTINF:-1 tvg-id="" tvg-name="SP-FR: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e36554e2468737a5a1e4a41112d673a5.png" group-title="31.42 0202",SP-FR: beIN Sports 3
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5840
+#EXTINF:-1 tvg-id="" tvg-name="SP-RO: DIGI SPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/93053f4167ff4534d5c36ceb918f1615.png" group-title="31.42 0202",SP-RO: DIGI SPORT 1
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5893
+#EXTINF:-1 tvg-id="" tvg-name="SP-RO: DIGI SPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/df1803b73d696e77aa97ce6405a102b9.png" group-title="31.42 0202",SP-RO: DIGI SPORT 2
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5894
+#EXTINF:-1 tvg-id="" tvg-name="SP-RO: DIGI SPORT 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/bd83399052d1011af53a79b4f9b78952.png" group-title="31.42 0202",SP-RO: DIGI SPORT 3
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5895
+#EXTINF:-1 tvg-id="" tvg-name="SP-RO: DIGI SPORT 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d4ab4ae9f452f94a08fb0260dbfcd765.png" group-title="31.42 0202",SP-RO: DIGI SPORT 4
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5896
+#EXTINF:-1 tvg-id="" tvg-name="SP-PT: SPORT TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="31.42 0202",SP-PT: SPORT TV 1
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5943
+#EXTINF:-1 tvg-id="" tvg-name="SP-PT: SPORT TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="31.42 0202",SP-PT: SPORT TV 2
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5944
+#EXTINF:-1 tvg-id="" tvg-name="SP-PT: SPORT TV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="31.42 0202",SP-PT: SPORT TV 3
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5945
+#EXTINF:-1 tvg-id="" tvg-name="SP-PT: SPORT TV 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="31.42 0202",SP-PT: SPORT TV 4
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5946
+#EXTINF:-1 tvg-id="" tvg-name="SP-UK: BT Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fcd9da9870d36ec51c1232e395e37c2e.png" group-title="31.42 0202",SP-UK: BT Sport 1
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5589
+#EXTINF:-1 tvg-id="" tvg-name="SP-UK: BT Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c50393867c2322666f3bab470cee3c28.png" group-title="31.42 0202",SP-UK: BT Sport 2
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5590
+#EXTINF:-1 tvg-id="" tvg-name="SP-UK: BT Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7490f8804522a1146efbf31a624c2fae.png" group-title="31.42 0202",SP-UK: BT Sport 3
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5591
+#EXTINF:-1 tvg-id="" tvg-name="SP-UK: BT Sport ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d1e7fd559255ab038f34122b16170e4f.png" group-title="31.42 0202",SP-UK: BT Sport ESPN
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5592
+#EXTINF:-1 tvg-id="" tvg-name="SP-ZA: SuperSport Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8dab62dd2c2faa3d66261a2a5afa6260.png" group-title="31.42 0202",SP-ZA: SuperSport Football
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5616
+#EXTINF:-1 tvg-id="" tvg-name="SP-ZA: SuperSport Golf" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a20c92d13ce602ec324ff03b209ed0c2.png" group-title="31.42 0202",SP-ZA: SuperSport Golf
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5617
+#EXTINF:-1 tvg-id="" tvg-name="SP-ZA: SuperSport Grandstand" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a8f0bee8d482364f261394bf7678fa0e.png" group-title="31.42 0202",SP-ZA: SuperSport Grandstand
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5618
+#EXTINF:-1 tvg-id="" tvg-name="SP-ZA: SuperSport LaLiga" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="31.42 0202",SP-ZA: SuperSport LaLiga
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5619
+#EXTINF:-1 tvg-id="" tvg-name="SP-ZA: SuperSport Maximo 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/488fd8d34ea146bfaf82c12331f4223e.png" group-title="31.42 0202",SP-ZA: SuperSport Maximo 1
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5620
+#EXTINF:-1 tvg-id="" tvg-name="SP-ZA: SuperSport Motorsport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="31.42 0202",SP-ZA: SuperSport Motorsport
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5621
+#EXTINF:-1 tvg-id="" tvg-name="SP-ZA: SuperSport Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2f8f23e2a35d5a4e9ea336d7b51fd98f.png" group-title="31.42 0202",SP-ZA: SuperSport Premier League
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5622
+#EXTINF:-1 tvg-id="" tvg-name="SP-ZA: SuperSport PSL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/b113905d39622090910a766c75af759d.png" group-title="31.42 0202",SP-ZA: SuperSport PSL
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5623
+#EXTINF:-1 tvg-id="" tvg-name="SP-ZA: SuperSport Rugby" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/55a7ac3c8cdd7718d94d29b8ebc99f2e.png" group-title="31.42 0202",SP-ZA: SuperSport Rugby
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5624
+#EXTINF:-1 tvg-id="" tvg-name="SP-ZA: SuperSport Tennis" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b51cde8be3defead0ca307c5be0c9453.png" group-title="31.42 0202",SP-ZA: SuperSport Tennis
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5625
+
+
+
+
+
