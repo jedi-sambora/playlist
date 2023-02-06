@@ -2090,4 +2090,82 @@ http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115542&
 #EXTINF:-1 group-title="CLIENPORTAL (0602)",TrueSport.7
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115799&extension=ts&play_token=AB1RNoAhBm
 
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS PREMIUM 1 HD" tvg-logo="" group-title="ALI DESI 0602",AR: BEIN SPORTS PREMIUM 1 HD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/960
+#EXTINF:-1 tvg-ID="" tvg-name="QA: beIN Sports Premium 1 HD" tvg-logo="" group-title="ALI DESI 0602",QA: beIN Sports Premium 1 HD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/1257
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS PREMIUM 2 HD" tvg-logo="" group-title="ALI DESI 0602",AR: BEIN SPORTS PREMIUM 2 HD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/4994
+#EXTINF:-1 tvg-ID="" tvg-name="QA: beIN Sports English 1 HD" tvg-logo="" group-title="ALI DESI 0602",QA: beIN Sports English 1 HD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/958
+#EXTINF:-1 tvg-ID="" tvg-name="QA: beIN Sports English 2 FHD" tvg-logo="" group-title="ALI DESI 0602",QA: beIN Sports English 2 FHD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/959
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS 13 HD" tvg-logo="" group-title="ALI DESI 0602",AR: beIN Sports English 3 HD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/4996
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS 1 HD" tvg-logo="" group-title="ALI DESI 0602",AR: BEIN SPORTS 1 HD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/956
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEINSPORT HD 2" tvg-logo="" group-title="ALI DESI 0602",AR: BEINSPORT HD 2
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/955
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS 3 HD" tvg-logo="" group-title="ALI DESI 0602",AR: BEIN SPORTS 3 HD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/954
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS 4 HD" tvg-logo="" group-title="ALI DESI 0602",AR: BEIN SPORTS 4 HD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/953
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS 5 HD" tvg-logo="" group-title="ALI DESI 0602",AR: BEIN SPORTS 5 HD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/222
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS 6 HD" tvg-logo="" group-title="ALI DESI 0602",AR: BEIN SPORTS 6 HD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/1254
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS 6 HD" tvg-logo="" group-title="ALI DESI 0602",AR: BEIN SPORTS 6 HD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/957
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORTS 7 HD" tvg-logo="" group-title="ALI DESI 0602",AR: BEIN SPORTS 7 HD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/1255
+#EXTINF:-1 tvg-ID="" tvg-name="AR: BEIN SPORT 10 HD" tvg-logo="" group-title="ALI DESI 0602",AR: BEIN SPORT 10 HD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/1258
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEINSPORT HD 1" tvg-logo="" group-title="ALI DESI 0602",FR: BEINSPORT HD 1
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/204
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORTS 2 HD" tvg-logo="" group-title="ALI DESI 0602",FR: BEIN SPORTS 2 HD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/214
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN SPORT 3 HD" tvg-logo="" group-title="ALI DESI 0602",FR: BEIN SPORT 3 HD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/215
+#EXTINF:-1 tvg-ID="" tvg-name="RO: DIGI SPORT 1 FHD" tvg-logo="" group-title="ALI DESI 0602",RO: DIGI SPORT 1 FHD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/2299
+#EXTINF:-1 tvg-ID="" tvg-name="RO: DIGI SPORT 2 HD" tvg-logo="" group-title="ALI DESI 0602",RO: DIGI SPORT 2 HD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/2298
+#EXTINF:-1 tvg-ID="" tvg-name="RO: DIGI SPORT 3 FHD" tvg-logo="" group-title="ALI DESI 0602",RO: DIGI SPORT 3 FHD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/2297
+#EXTINF:-1 tvg-ID="" tvg-name="RO: DIGI SPORT 4 HD" tvg-logo="" group-title="ALI DESI 0602",RO: DIGI SPORT 4 HD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/2296
+#EXTINF:-1 tvg-ID="13Ulica.pl" tvg-name="PT: ELEVEN SPORT1 HD" tvg-logo="http://img.alidesi.org:8080/images/blank.png" group-title="ALI DESI 0602",PT: ELEVEN SPORT1 HD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/2734
+#EXTINF:-1 tvg-ID="2250" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="" group-title="ALI DESI 0602",PT: ELEVEN SPORTS 2 FHD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/57953
+#EXTINF:-1 tvg-ID="2251" tvg-name="PT: ELEVEN SPORTS 3 FHD" tvg-logo="" group-title="ALI DESI 0602",PT: ELEVEN SPORTS 3 FHD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/57954
+#EXTINF:-1 tvg-ID="SkyBundesliga3.de" tvg-name="DE: SKY BUNDESLIGA 3 FHD" tvg-logo="http://img.alidesi.org:8080/images/skysportbundesliga3.png"group-title="ALI DESI 0602",DE: SKY BUNDESLIGA 3 FHD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/35616
+#EXTINF:-1 tvg-ID="SkyBundesliga4.de" tvg-name="DE: SKY BUNDESLIGA 4 FHD" tvg-logo="http://img.alidesi.org:8080/images/skysportbundesliga4.png"group-title="ALI DESI 0602",DE: SKY BUNDESLIGA 4 FHD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/35617
+#EXTINF:-1 tvg-ID="SkyBundesliga1.de" tvg-name="DE: SKY BUNDESLIGA 1 HD" tvg-logo="http://img.alidesi.org:8080/images/skysportbundesliga1.png"group-title="ALI DESI 0602",DE: SKY BUNDESLIGA 1 HD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/35620
+#EXTINF:-1 tvg-ID="SkyBundesliga5.de" tvg-name="DE: SKY BUNDESLIGA 5 HD" tvg-logo="http://img.alidesi.org:8080/images/skysportbundesliga5.png"group-title="ALI DESI 0602",DE: SKY BUNDESLIGA 5 HD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/36226
+#EXTINF:-1 tvg-ID="SkyBundesliga2.de" tvg-name="DE: SKY BUNDESLIGA 2 HD" tvg-logo="http://img.alidesi.org:8080/images/skysportbundesliga2.png"group-title="ALI DESI 0602",DE: SKY BUNDESLIGA 2 HD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/36227
+#EXTINF:-1 tvg-ID="SkyBundesliga4.de" tvg-name="DE: SKY BUNDESLIGA 4 HD" tvg-logo="http://img.alidesi.org:8080/images/skysportbundesliga4.png"group-title="ALI DESI 0602",DE: SKY BUNDESLIGA 4 HD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/36229
+#EXTINF:-1 tvg-ID="SkyBundesliga6.de" tvg-name="DE: SKY BUNDESLIGA 6 HD" tvg-logo="http://img.alidesi.org:8080/images/skysportbundesliga6.png"group-title="ALI DESI 0602",DE: SKY BUNDESLIGA 6 HD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/36230
+#EXTINF:-1 tvg-ID="SkyBundesliga7.de" tvg-name="DE: SKY BUNDESLIGA 7 FHD" tvg-logo="http://img.alidesi.org:8080/images/skysportbundesliga7.png"group-title="ALI DESI 0602",DE: SKY BUNDESLIGA 7 FHD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/44313
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport ESPN FHD" tvg-logo="http://img.alidesi.org:8080/images/blank.png" group-title="ALI DESI 0602",UK: BT Sport ESPN FHD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/40505
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport 3 FHD" tvg-logo="http://img.alidesi.org:8080/images/blank.png" group-title="ALI DESI 0602",UK: BT Sport 3 FHD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/40506
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport 2 FHD" tvg-logo="http://img.alidesi.org:8080/images/blank.png" group-title="ALI DESI 0602",UK: BT Sport 2 FHD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/40507
+#EXTINF:-1 tvg-ID="" tvg-name="UK: BT Sport 1 FHD" tvg-logo="http://img.alidesi.org:8080/images/blank.png" group-title="ALI DESI 0602",UK: BT Sport 1 FHD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/40508
+#EXTINF:-1 tvg-ID="DAZN1.de" tvg-name="DE: DAZN BAR 1 FHD" tvg-logo="http://img.alidesi.org:8080/images/dazn.png" group-title="ALI DESI 0602",DE: DAZN BAR 1 FHD
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/36109
+#EXTINF:-1 tvg-ID="DAZN2.de" tvg-name="DE: DAZN BAR 2 HD*" tvg-logo="http://img.alidesi.org:8080/images/dazn.png" group-title="ALI DESI 0602",DE: DAZN BAR 2 HD*
+http://one.alidesi.org:2082/maxfb150maxcimo/xfnqgx53tDJW/35945
 
