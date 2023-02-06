@@ -1068,57 +1068,6 @@ https://av-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNLh67df/20220926-161235.png" group-title="Film" tvg-id="TVNMovies.hk" tvg-name="tvN Movies HD", TVN Movies
 https://av-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
-#EXTINF:-1 group-title="KUCINI 2812", QA: beIN Sports English 1
-http://kuchini.site:8080/LeCyGodF/de198ad6/110
-#EXTINF:-1 group-title="KUCINI 2812", QA: beIN Sports English 2
-http://kuchini.site:8080/LeCyGodF/de198ad6/111
-#EXTINF:-1 group-title="KUCINI 2812", QA: beIN Sports English 3
-http://kuchini.site:8080/LeCyGodF/de198ad6/267769
-#EXTINF:-1 group-title="KUCINI 2812", QA: beIN Sports NBA
-http://kuchini.site:8080/LeCyGodF/de198ad6/15962
-#EXTINF:-1 group-title="KUCINI 2812", QA: beIN Sports Premium 1
-http://kuchini.site:8080/LeCyGodF/de198ad6/109
-#EXTINF:-1 group-title="KUCINI 2812", QA: beIN Sports Premium 2
-http://kuchini.site:8080/LeCyGodF/de198ad6/280145
-#EXTINF:-1 group-title="KUCINI 2812", QA: beIN Sports Premium 3
-http://kuchini.site:8080/LeCyGodF/de198ad6/280249
-#EXTINF:-1 group-title="KUCINI 2812", QA: beIN Sports 1
-http://kuchini.site:8080/LeCyGodF/de198ad6/100
-#EXTINF:-1 group-title="KUCINI 2812", QA: beIN Sports 2
-http://kuchini.site:8080/LeCyGodF/de198ad6/101
-#EXTINF:-1 group-title="KUCINI 2812", QA: beIN Sports 3
-http://kuchini.site:8080/LeCyGodF/de198ad6/102
-#EXTINF:-1 group-title="KUCINI 2812", QA: beIN Sports 4
-http://kuchini.site:8080/LeCyGodF/de198ad6/103
-#EXTINF:-1 group-title="KUCINI 2812", QA: beIN Sports 5
-http://kuchini.site:8080/LeCyGodF/de198ad6/104
-#EXTINF:-1 group-title="KUCINI 2812", QA: beIN Sports 6
-http://kuchini.site:8080/LeCyGodF/de198ad6/105
-#EXTINF:-1 group-title="KUCINI 2812", QA: beIN Sports 7
-http://kuchini.site:8080/LeCyGodF/de198ad6/106
-#EXTINF:-1 group-title="KUCINI 2812", ZA: SuperSport Football
-http://kuchini.site:8080/LeCyGodF/de198ad6/38575
-#EXTINF:-1 group-title="KUCINI 2812", ZA: SuperSport Grandstand
-http://kuchini.site:8080/LeCyGodF/de198ad6/194353
-#EXTINF:-1 group-title="KUCINI 2812", ZA: SuperSport LaLiga
-http://kuchini.site:8080/LeCyGodF/de198ad6/194358
-#EXTINF:-1 group-title="KUCINI 2812", ZA: SuperSport Premier League
-http://kuchini.site:8080/LeCyGodF/de198ad6/11642
-#EXTINF:-1 group-title="KUCINI 2812", ZA: SuperSport Tennis
-http://kuchini.site:8080/LeCyGodF/de198ad6/15200
-#EXTINF:-1 group-title="KUCINI 2812", RO: DIGI SPORT 1
-http://kuchini.site:8080/LeCyGodF/de198ad6/71457
-#EXTINF:-1 group-title="KUCINI 2812", RO: DIGI SPORT 2
-http://kuchini.site:8080/LeCyGodF/de198ad6/71459
-#EXTINF:-1 group-title="KUCINI 2812", RO: DIGI SPORT 3
-http://kuchini.site:8080/LeCyGodF/de198ad6/2243
-#EXTINF:-1 group-title="KUCINI 2812", RO: DIGI SPORT 4
-http://kuchini.site:8080/LeCyGodF/de198ad6/4219
-#EXTINF:-1 group-title="KUCINI 2812", BE: ELEVEN SPORTS 1
-http://kuchini.site:8080/LeCyGodF/de198ad6/36420
-#EXTINF:-1 group-title="KUCINI 2812", BE: ELEVEN SPORTS 3
-http://kuchini.site:8080/LeCyGodF/de198ad6/290476
-
 
 
 #EXTINF:-1 group-title="viptv (3012)",RO: Digi Sport 1 HD
@@ -2108,6 +2057,37 @@ http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5624
 http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5625
 
 
-
+#EXTINF:-1 group-title="CLIENPORTAL (0602)",ASTRO SUPERSPORT 1
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115615&extension=ts&play_token=kgKJ5bkM20
+#EXTINF:-1 group-title="CLIENPORTAL (0602)",ASTRO SUPERSPORT 2
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115616&extension=ts&play_token=kgKJ5bkM20
+#EXTINF:-1 group-title="CLIENPORTAL (0602)",ASTRO SUPERSPORT 3
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115617&extension=ts&play_token=kgKJ5bkM20
+#EXTINF:-1 group-title="CLIENPORTAL (0602)",ASTRO SUPERSPORT 4
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115618&extension=ts&play_token=kgKJ5bkM20
+#EXTINF:-1 group-title="CLIENPORTAL (0602)",TRUE SPOTV
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115427&extension=ts&play_token=kgKJ5bkM20
+#EXTINF:-1 group-title="CLIENPORTAL (0602)",TruePL.1
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115757&extension=ts&play_token=h3Jb2BBUAL
+#EXTINF:-1 group-title="CLIENPORTAL (0602)",TruePL.2
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115762&extension=ts&play_token=h3Jb2BBUAL
+#EXTINF:-1 group-title="CLIENPORTAL (0602)",TruePL.3
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115510&extension=ts&play_token=h3Jb2BBUAL
+#EXTINF:-1 group-title="CLIENPORTAL (0602)",TruePL.4
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115513&extension=ts&play_token=h3Jb2BBUAL
+#EXTINF:-1 group-title="CLIENPORTAL (0602)",TruePL.5
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115515&extension=ts&play_token=h3Jb2BBUAL
+#EXTINF:-1 group-title="CLIENPORTAL (0602)",TrueSport.1
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115532&extension=ts&play_token=AB1RNoAhBm
+#EXTINF:-1 group-title="CLIENPORTAL (0602)",TrueSport.2
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115533&extension=ts&play_token=AB1RNoAhBm
+#EXTINF:-1 group-title="CLIENPORTAL (0602)",TrueSport.3
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115537&extension=ts&play_token=AB1RNoAhBm
+#EXTINF:-1 group-title="CLIENPORTAL (0602)",TrueSport.5
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115541&extension=ts&play_token=AB1RNoAhBm
+#EXTINF:-1 group-title="CLIENPORTAL (0602)",TrueSport.6
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115542&extension=ts&play_token=AB1RNoAhBm
+#EXTINF:-1 group-title="CLIENPORTAL (0602)",TrueSport.7
+http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=115799&extension=ts&play_token=AB1RNoAhBm
 
 
