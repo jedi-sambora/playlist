@@ -56,14 +56,7 @@ http://txtest-xp2p.p2p.huya.com/src/1524439855-1524439855-6547419321943982080-30
 #EXTINF:-1 group-title="Movie",Jet Lie HD 2
 http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
 
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="ASTRO",MY: Astro SuperSport 1 (EPG.PW 1901)
-https://epg.pw/stream/c3db1965d3b5258e4831522055c5e377d4d1eb6c251e6e87d04ff6d053d4832b.ctv
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="ASTRO", Astro Sport 2 (EPG.PW 1901)
-https://epg.pw/stream/01738f11e9aa6bdd71c5f01c85120c0de00491bcdf8a4686444426afe0faba5d.ctv
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png group-title="ASTRO", Astro Sport 3 (EPG.PW 1901)
-https://epg.pw/stream/462b797148fcccde8e000d6bf8d43344905bc9e07bca34267cb78ab703afeb50.ctv
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png"  group-title="ASTRO", Astro Sport 4 (EPG.PW 1901)
-https://epg.pw/stream/b3b736bdbd3e5d2c0b31c524c4aa1b04a5e6292214ee52d5eb60de39c7fe4b90.ctv
+
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="ASTRO",MY: Astro SuperSport 1 (IPTVMED)
 http://iptvmedia.live:8080/1eae94e3/e22181ebb2/146068
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="ASTRO",MY: Astro SuperSport 2 (IPTVMED)
@@ -73,15 +66,6 @@ http://iptvmedia.live:8080/1eae94e3/e22181ebb2/157557
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="ASTRO",MY: Astro SuperSport 4 (IPTVMED)
 http://iptvmedia.live:8080/1eae94e3/e22181ebb2/157558
 
-http://esv5.net/Tcole1/123456789/87302
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="ASTRO", Astro Sport 2 (esv5) 2812
-http://esv5.net/Tcole1/123456789/87301
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png group-title="ASTRO", Astro Sport 3 (esv5) 2812
-http://esv5.net/Tcole1/123456789/87300
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png"  group-title="ASTRO", Astro Sport 4 (esv5) 2812
-http://esv5.net/Tcole1/123456789/87299
-#EXTINF:-1 group-title="ASTRO", Astro Sport 5 (esv5) 2812
-http://esv5.net/Tcole1/123456789/87298
 
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 hr" tvg-logo="" group-title="SPORT TEMP",iND master C1
 https://dno-fifajs-native-major-hb.youku.com/fifa_jieshuo/YMQ-INTsignal1HB_sjb480.m3u8?auth_key=1706058029-0-0-4cbb770e4b4b8dd25fd8c72a077f952a&title=8147164&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=hlDtG7wDhA8CAbYCJ3gwiyHn&ccode=live05020201&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-INTsignal1HB&rid=20000000C3973DD09D7EE3355C09ACED6CDF904300000000
@@ -93,26 +77,8 @@ https://dno-fifajs-native-major-hb.youku.com/fifa_jieshuo/YMQ-INTsignal3HB_sjb48
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium111/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="" group-title="SPORT TEMP",TSN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://newtest.webtv1.lol/lb/premium112/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="" group-title="SPORT TEMP",TSN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://newtest.webtv1.lol/lb/premium113/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="" group-title="SPORT TEMP",TSN 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://newtest.webtv1.lol/lb/premium114/index.m3u8|referer=https://widevine.licenses4.me/
-
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="" group-title="SPORT TEMP",TSN 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://newtest.webtv1.lol/lb/premium115/index.m3u8|referer=https://widevine.licenses4.me/
-
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 hr" tvg-logo="" group-title="SPORT LOCAL",Eurosport 1 hr
-http://live-tv.uk:8080/Zejko_Skype/qrkVMDQWaR/2631
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 hr" tvg-logo="" group-title="SPORT LOCAL",Eurosport 2 hr
-http://live-tv.uk:8080/Zejko_Skype/qrkVMDQWaR/2632
 #EXTINF:-1 tvg-id="DAZN1Germany.de" tvg-logo="" group-title="SPORT LOCAL",DAZN 1 DE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
@@ -201,26 +167,6 @@ http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115616&extension=
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=ts&play_token
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="https://i.imgur.com/zwodbF0.png" group-title="ASTRO",ASTRO.SUPERSPORTS 4 (21220)
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115618&extension=ts&play_token
-
-
-
-
-
-
-#EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.3.png" group-title="SPORT CINA",CCTV 5-3
-http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
-#EXTINF:-1    group-title="SPORT CINA",CCTV_5
-https://live.olelive.com:4443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1    group-title="SPORT CINA",CCTV_5
-http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
-#EXTINF:-1    group-title="SPORT CINA",CCTV_5Plus
-https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1    group-title="SPORT CINA",CCTV_5Plus
-http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/2300000/mnf.m3u8
-
-
-
-
 
 
 
@@ -330,144 +276,11 @@ http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115618&extension=ts&play_token
 
 
-#EXTINF:-1 group-title="Platin 4k Sport",PT: Eleven Sports 1 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159576
-#EXTINF:-1 group-title="Platin 4k Sport",PT: Eleven Sports 2 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159577
-#EXTINF:-1 group-title="Platin 4k Sport",PT: Eleven Sports 3 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159578
-#EXTINF:-1 group-title="Platin 4k Sport",PT: Eleven Sports 4 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159579
-#EXTINF:-1 group-title="Platin 4k Sport",PT: Eleven Sports 5 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159580
-#EXTINF:-1 group-title="Platin 4k Sport",PT: Eleven Sports 6 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159581
-#EXTINF:-1 group-title="Platin 4k Sport",PT: Sport Tv HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159582
-#EXTINF:-1 group-title="Platin 4k Sport",PT: Sport Tv 2 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159583
-#EXTINF:-1 group-title="Platin 4k Sport",PT: Sport Tv 3 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159584
-#EXTINF:-1 group-title="Platin 4k Sport",PT: Sport Tv 4
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159585
-#EXTINF:-1 group-title="Platin 4k Sport",PT: Sport Tv 5
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159586
-#EXTINF:-1 group-title="Platin 4k Sport",FR: RMC Sport 2
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/63176
-#EXTINF:-1 group-title="Platin 4k Sport",FR: Bein Sports 1
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/63179
-#EXTINF:-1 group-title="Platin 4k Sport",FR: Bein Sports 2
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/63180
-#EXTINF:-1 group-title="Platin 4k Sport",FR: Bein Sports 3
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/63181
-#EXTINF:-1 group-title="Platin 4k Sport",FR: Bein Sports 4 Max
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/63182
-#EXTINF:-1 group-title="Platin 4k Sport",FR: Bein Sports 5 Max
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/63183
-#EXTINF:-1 group-title="Platin 4k Sport",FR: Bein Sports 6 Max
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/63184
-#EXTINF:-1 group-title="Platin 4k Sport",FR: Bein Sports 7 Max
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/63185
-#EXTINF:-1 group-title="Platin 4k Sport",FR: Bein Sports 8 Max
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/63186
-#EXTINF:-1 group-title="Platin 4k Sport",FR: Bein Sports 9 Max
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/63187
-#EXTINF:-1 group-title="Platin 4k Sport",FR: Bein Sports 10 Max
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/63188
-#EXTINF:-1 group-title="Platin 4k Sport",FR: RMC Sport 4
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/161949
-#EXTINF:-1 group-title="Platin 4k Sport",FR: RMC Sport 3
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/161950
-#EXTINF:-1 group-title="Platin 4k Sport",FR: RMC Sport 1
-#EXTINF:-1 group-title="Platin 4k Sport",RO: Digi Sport 1 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/70943
-#EXTINF:-1 group-title="Platin 4k Sport",RO: Digi Sport 2 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/70944
-#EXTINF:-1 group-title="Platin 4k Sport",RO: Digi Sport 4 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/70947
-#EXTINF:-1 group-title="Platin 4k Sport",DE: Dazn Sport
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13863
-#EXTINF:-1 group-title="Platin 4k Sport",DE: Dazn Sport HD+
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/95382
-#EXTINF:-1 group-title="Platin 4k Sport",DE: Dazn Sport 2
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13864
-#EXTINF:-1 group-title="Platin 4k Sport",DE: Dazn Sport 2 HD+
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/95383
-#EXTINF:-1 group-title="Platin 4k Sport",DE: Dazn Sport Event HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/161877
-#EXTINF:-1 group-title="Platin 4k Sport",DE: Dazn Sport 3
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/161939
-#EXTINF:-1 group-title="Platin 4k Sport",DE: Dazn Sport 4
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/161940
-#EXTINF:-1 group-title="Platin 4k Sport",DE: Dazn Sport 5
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/161942
-#EXTINF:-1 group-title="Platin 4k Sport",IT: Super Tennis
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159574
-#EXTINF:-1 group-title="Platin 4k Sport",BR: Band Sports
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159597
-#EXTINF:-1 group-title="Platin 4k Sport",BR: ESPN 2 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159598
-#EXTINF:-1 group-title="Platin 4k Sport",BR: ESPN 3 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159599
-#EXTINF:-1 group-title="Platin 4k Sport",BR: ESPN Extra HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159600
-#EXTINF:-1 group-title="Platin 4k Sport",BR: Espn HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159601
-#EXTINF:-1 group-title="Platin 4k Sport",BR: Fox Sports 2 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159602
-#EXTINF:-1 group-title="Platin 4k Sport",BR: Sportv 2 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159605
-#EXTINF:-1 group-title="Platin 4k Sport",BR: Sportv  3 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159606
-#EXTINF:-1 group-title="Platin 4k Sport",BR: Sportv HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159607
-#EXTINF:-1 group-title="Platin 4k Sport", PL: Polsat Sport Premium 1 
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/73721
-#EXTINF:-1 group-title="Platin 4k Sport",PL: Polsat Sport Premium 2 
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/73722
-#EXTINF:-1 group-title="Platin 4k Sport",DE:  Sky Sport Tennis
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/161774
-#EXTINF:-1 group-title="Platin 4k Sport",USA: Tennis Channel
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159549
 
 
 
 
 
-
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="Bein Sports 1 Premium HD" tvg-logo="" group-title= "APPFACT SPORT",Bein Sports 1 Premium HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/76
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 Premium HD" tvg-logo="" group-title= "APPFACT SPORT",Bein Sports 2 Premium HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/75
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 Premium HD" tvg-logo="" group-title= "APPFACT SPORT",Bein Sports 3 Premium HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/74
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="Bein Sport HD 1" tvg-logo="" group-title= "APPFACT SPORT",Bein Sport HD 1
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/322
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="Bein Sport HD 2" tvg-logo="" group-title= "APPFACT SPORT",Bein Sport HD 2
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/320
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="Bein Sport HD 3" tvg-logo="" group-title= "APPFACT SPORT",Bein Sport HD 3
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/319
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="Bein Sport HD 4" tvg-logo="" group-title= "APPFACT SPORT",Bein Sport HD 4
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/318
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="Bein Sport HD 5" tvg-logo="" group-title= "APPFACT SPORT",Bein Sport HD 5
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/317
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="Bein Sport HD 6" tvg-logo="" group-title= "APPFACT SPORT",Bein Sport HD 6
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/316
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="Bein Sport HD 7" tvg-logo="" group-title= "APPFACT SPORT",Bein Sport HD 7
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/315
-#EXTINF:-1 tvg-id="beinsports11.qa" tvg-name="Bein Sport HD11 EN" tvg-logo="" group-title= "APPFACT SPORT",Bein Sport HD11 EN
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/330
-#EXTINF:-1 tvg-id="beinsports12.qa" tvg-name="Bein Sport HD12 EN" tvg-logo="" group-title= "APPFACT SPORT",Bein Sport HD12 EN
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/329
-#EXTINF:-1 tvg-id="beinsports13.qa" tvg-name="Bein Sport HD13" tvg-logo="" group-title= "APPFACT SPORT",Bein Sport HD13
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/328
-#EXTINF:-1 tvg-id="beinsports14.qa" tvg-name="Bein Sport HD14" tvg-logo="" group-title= "APPFACT SPORT",Bein Sport HD14
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/327
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport HD15" tvg-logo="" group-title= "APPFACT SPORT",Bein Sport HD15
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/326
-#EXTINF:-1 tvg-id="beinsports16.qa" tvg-name="Bein Sport HD16" tvg-logo="" group-title= "APPFACT SPORT",Bein Sport HD16
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/325
-#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="Bein Sport NBA HD" tvg-logo="" group-title= "APPFACT SPORT",Bein Sport NBA HD
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/324
 
 
@@ -521,81 +334,6 @@ http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/70501
 #EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="|.DE.| SKY BUNDESLIGA 4 HD" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga4.de.png" group-title= "itvdom  SPORT",|.DE.| SKY BUNDESLIGA 4 HD
 http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/70503
 
-#EXTINF:-1 group-title= "PLUGTV SPORT",US: beIN Sports 1 | HD*
-http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/53184
-#EXTINF:-1 group-title= "PLUGTV SPORT",bein Sports USA | HD
-http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/53185
-#EXTINF:-1 group-title= "PLUGTV SPORT",US: Bein Sports 2 | (ES)
-http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/53186
-#EXTINF:-1 group-title= "PLUGTV SPORT",US: BeIN Sports 4 | HD*
-http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/53188
-#EXTINF:-1 group-title= "PLUGTV SPORT",US: BeIN Sports 6 | HD*
-http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/53190
-#EXTINF:-1 group-title= "PLUGTV SPORT",US: BeIN Sports 7 | HD*
-http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/53191
-#EXTINF:-1 group-title= "PLUGTV SPORT",US: BeIN Sports 8 | HD*
-http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/53192
-#EXTINF:-1 group-title= "PLUGTV SPORT",US: BeIN Sports 12| HD*
-http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/53196
-#EXTINF:-1 group-title= "PLUGTV SPORT",RO: DIGI SPORT 1 HD
-http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/39238
-#EXTINF:-1 group-title= "PLUGTV SPORT",RO: DIGI SPORT 2 HD
-http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/39240
-#EXTINF:-1 group-title= "PLUGTV SPORT",RO: DIGI SPORT 4 FHD
-http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/39242
-#EXTINF:-1 group-title= "PLUGTV SPORT",RO: DIGI SPORT 4 HD
-http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/39243
-#EXTINF:-1 group-title= "PLUGTV SPORT",UK: SKY SPORTS PL HD
-http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/147289
-#EXTINF:-1 group-title= "PLUGTV SPORT",UK: SKY SPORTS FOOTBALL FHD
-http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/147284
-#EXTINF:-1 group-title= "PLUGTV SPORT",UK: SKY SPORTS MAIN EVENT HD
-http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/147286
-#EXTINF:-1 group-title= "PLUGTV SPORT",US: TENNIS CHANNEL | HD*
-http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/52701
-#EXTINF:-1 group-title= "PLUGTV SPORT",[DE] DAZN 1 HD
-http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36811
-#EXTINF:-1 group-title= "PLUGTV SPORT",[DE] DAZN 2 HD
-http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36812
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS PREMIUM 1 HD  Local" tvg-logo="http://logo.panel.cx/logo/BEIN/BeinSports/bein-sports1.png"   group-title="sniper(2811) SPORTS",,BEIN SPORTS PREMIUM 1 HD  Local
-http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/51
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS PREMIUM 2 HD  Local" tvg-logo="http://logo.panel.cx/logo/BEIN/BeinSports/bein-sports2.png"   group-title="sniper(2811) SPORTS",,BEIN SPORTS PREMIUM 2 HD  Local
-http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/52
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS PREMIUM 3 HD  Local" tvg-logo="http://logo.panel.cx/logo/BEIN/BeinSports/bein-sports3.png"   group-title="sniper(2811) SPORTS",,BEIN SPORTS PREMIUM 3 HD  Local
-http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/53
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD Local" tvg-logo="http://logo.panel.cx/logo/BEIN/BeinSports/bein-sports4.png"   group-title="sniper(2811) SPORTS",,BEIN SPORTS 1 HD Local
-http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/54
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD Local" tvg-logo="http://logo.panel.cx/logo/BEIN/BeinSports/bein-sports5.png"   group-title="sniper(2811) SPORTS",,BEIN SPORTS 2 HD Local
-http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/55
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD Local" tvg-logo="http://logo.panel.cx/logo/BEIN/BeinSports/bein-sports6.png"   group-title="sniper(2811) SPORTS",,BEIN SPORTS 3 HD Local
-http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/56
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 HD Local" tvg-logo="http://logo.panel.cx/logo/BEIN/BeinSports/bein-sports7.png"   group-title="sniper(2811) SPORTS",,BEIN SPORTS 4 HD Local
-http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/57
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 HD Local" tvg-logo="http://logo.panel.cx/logo/BEIN/BeinSports/bein-sports8.png"   group-title="sniper(2811) SPORTS",,BEIN SPORTS 5 HD Local
-http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/58
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 HD LOCAL" tvg-logo="http://logo.panel.cx/logo/BEIN/BeinSports/bein-sports9.png"   group-title="sniper(2811) SPORTS",,BEIN SPORTS 6 HD LOCAL
-http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/59
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 HD LOCAL" tvg-logo="http://logo.panel.cx/logo/BEIN/BeinSports/bein-sports10.png"   group-title="sniper(2811) SPORTS",,BEIN SPORTS 7 HD LOCAL
-http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/60
-#EXTINF:-1 tvg-id="" tvg-name="MY LOCAL beIN SPORTS MAX 1 HD" tvg-logo=""   group-title="sniper(2811) SPORTS",,MY LOCAL beIN SPORTS MAX 1 HD
-http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/124409
-#EXTINF:-1 tvg-id="" tvg-name="MY LOCAL beIN SPORTS MAX 2 HD" tvg-logo=""   group-title="sniper(2811) SPORTS",,MY LOCAL beIN SPORTS MAX 2 HD
-http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/124410
-#EXTINF:-1 tvg-id="" tvg-name="MY LOCAL beIN SPORTS MAX 3 HD" tvg-logo=""   group-title="sniper(2811) SPORTS",,MY LOCAL beIN SPORTS MAX 3 HD
-http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/124411
-#EXTINF:-1 tvg-id="" tvg-name="MY LOCAL beIN SPORTS MAX 4 HD" tvg-logo=""   group-title="sniper(2811) SPORTS",,MY LOCAL beIN SPORTS MAX 4 HD
-http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/124412
-#EXTINF:-1 tvg-id="" tvg-name="MY LOCAL beIN SPORTS 5 MAX HD" tvg-logo=""   group-title="sniper(2811) SPORTS",,MY LOCAL beIN SPORTS 5 MAX HD
-http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/124413
-#EXTINF:-1 tvg-id="" tvg-name="MY LOCAL beIN SPORTS 6 MAX HD" tvg-logo=""   group-title="sniper(2811) SPORTS",,MY LOCAL beIN SPORTS 6 MAX HD
-http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/124414
-#EXTINF:-1 tvg-id="" tvg-name="ON Time Sports  1 HD" tvg-logo="" group-title="Arabic Sports",ON Time Sports  1 HD
-http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/123571
-#EXTINF:-1 tvg-id="" tvg-name="ON Time Sports 2 HD" tvg-logo="" group-title="Arabic Sports",ON Time Sports 2 HD
-http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/123573
-#EXTINF:-1 tvg-id="" tvg-name="ON Time Sports  3 HD" tvg-logo="" group-title="Arabic Sports",ON Time Sports  3 HD
-http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/123575
 
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="Bein Sport HD 1" tvg-logo="" group-title="appfact(2911) SPORT",Bein Sport HD 1
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/322
@@ -2181,3 +1919,54 @@ http://iptvmedia.live:8080/1eae94e3/e22181ebb2/11638
 http://iptvmedia.live:8080/1eae94e3/e22181ebb2/11642
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Tennis" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b51cde8be3defead0ca307c5be0c9453.png" group-title="South Africa ➾ Sports",ZA: SuperSport Tennis
 http://iptvmedia.live:8080/1eae94e3/e22181ebb2/15200
+
+#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 1 UHD
+http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/13
+#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 2 UHD Premium
+http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/14
+#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 3 UHD Premium
+http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/15
+#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 4 UHD
+http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/16
+#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 5 UHD
+http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/17
+#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 6 UHD
+http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/18
+#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 7 UHD
+http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/19
+#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 2 UHD
+http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/20
+#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 1 UHD Premium
+http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/21
+#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 3 UHD
+http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/22
+#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 1 UHD
+http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/24
+#EXTINF:-1 group-title="SNIPER 0802",BeIN Sports Extra 1 FHD
+http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/36
+#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 1 ENGLISH FHD 
+http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/34023
+#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 2 ENGLISH FHD
+http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/34024
+#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 3 ENGLISH FHD
+http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/34025
+#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 1 FRENCH FHD
+http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/34026
+#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 2 FRENCH FHD
+http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/34027
+#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS NBA FHD
+http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/34028
+#EXTINF:-1 group-title="SNIPER 0802",BeIN Sports Extra 2 FHD
+http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/35685
+#EXTINF:-1 group-title="SNIPER 0802",PT: SPORT TV 1 HD
+http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/2633
+#EXTINF:-1 group-title="SNIPER 0802",PT: SPORT TV 2 HD
+http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/2636
+#EXTINF:-1 group-title="SNIPER 0802",PT: SPORT TV 3 HD
+http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/2639
+#EXTINF:-1 group-title="SNIPER 0802",PT: SPORT TV 4 HD
+http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/2641
+#EXTINF:-1 group-title="SNIPER 0802",PT: SPORT TV 5 HD
+http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/2643
+#EXTINF:-1 group-title="SNIPER 0802",PT: SPORT TV NBA
+http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/2644
