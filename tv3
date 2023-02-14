@@ -805,6 +805,10 @@ https://av-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNLh67df/20220926-161235.png" group-title="Film" tvg-id="TVNMovies.hk" tvg-name="tvN Movies HD", TVN Movies
 https://av-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+#EXTINF:-1  group-title="Film" tvg-id="TVNMovies.hk" tvg-name="tvN Movies HD", Star Movie HD
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/11511
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",& Prive HD
+http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/49557
 
 
 
@@ -864,93 +868,85 @@ http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/63181
 http://viptv.me:80/kLbWNZDHm3/CGcttIYsyXE/63182
 
 #EXTINF:-1 group-title="37.49 (3012)",PL: ELEVEN SPORTS 1
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/347
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/347
 #EXTINF:-1 group-title="37.49 (3012)",PL: ELEVEN SPORTS 2
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/3643
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/3643
 #EXTINF:-1 group-title="37.49 (3012)",PL: ELEVEN SPORTS 3
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/3644
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/3644
 #EXTINF:-1 group-title="37.49 (3012)",PL: ELEVEN SPORTS 4
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/3645
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/3645
 #EXTINF:-1 group-title="37.49 (3012)",PT: ELEVEN SPORTS 1
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1499
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/1499
 #EXTINF:-1 group-title="37.49 (3012)",PT: ELEVEN SPORTS 2
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1503
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/1503
 #EXTINF:-1 group-title="37.49 (3012)",PT: ELEVEN SPORTS 3
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1506
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/1506
 #EXTINF:-1 group-title="37.49 (3012)",PT: ELEVEN SPORTS 4
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1509
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/1509
 #EXTINF:-1 group-title="37.49 (3012)",RO: DIGI SPORT 1
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/71457
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/71457
 #EXTINF:-1 group-title="37.49 (3012)",RO: DIGI SPORT 2
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/71459
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/71459
 #EXTINF:-1 group-title="37.49 (3012)",RO: DIGI SPORT 3
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/2243
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/2243
 #EXTINF:-1 group-title="37.49 (3012)",RO: DIGI SPORT 4
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/4219
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/4219
 #EXTINF:-1 group-title="37.49 (3012)",ES: DAZN 1
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/64711
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/64711
 #EXTINF:-1 group-title="37.49 (3012)",ES: DAZN 2
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/64712
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/64712
 #EXTINF:-1 group-title="37.49 (3012)",ES: DAZN 3
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/269912
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/269912
 #EXTINF:-1 group-title="37.49 (3012)",ES: DAZN 4
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/269911
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/269911
 #EXTINF:-1 group-title="37.49 (3012)",DE: DAZN 1
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/48355
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/48355
 #EXTINF:-1 group-title="37.49 (3012)",DE: DAZN 2
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/2387
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/2387
 #EXTINF:-1 group-title="37.49 (3012)",PT: SPORT TV 1
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1483
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/1483
 #EXTINF:-1 group-title="37.49 (3012)",PT: SPORT TV 2
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1486
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/1486
 #EXTINF:-1 group-title="37.49 (3012)",PT: SPORT TV 3
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1489
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/1489
 #EXTINF:-1 group-title="37.49 (3012)",PT: SPORT TV 4
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1492
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/1492
 #EXTINF:-1 group-title="37.49 (3012)",RU: Match
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/75641
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/75641
 #EXTINF:-1 group-title="37.49 (3012)",RU: Match Futbol 2
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/55800
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/55800
 #EXTINF:-1 group-title="37.49 (3012)",RU: Match Futbol 3
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/55802
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/55802
 #EXTINF:-1 group-title="37.49 (3012)",RU: Match! Futbol 1
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/12812
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/12812
 #EXTINF:-1 group-title="37.49 (3012)",BR: SPORTV
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/4015
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/4015
 #EXTINF:-1 group-title="37.49 (3012)",BR: SPORTV 2
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/8783
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/8783
 #EXTINF:-1 group-title="37.49 (3012)",BR: SPORTV 3
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/8784
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/8784
 #EXTINF:-1 group-title="37.49 (3012)",ARG: ESPN
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/61174
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/61174
 #EXTINF:-1 group-title="37.49 (3012)",ARG: ESPN 2
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/70752
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/70752
 #EXTINF:-1 group-title="37.49 (3012)",ZA: SuperSport Football
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/38575
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/38575
 #EXTINF:-1 group-title="37.49 (3012)",ZA: SuperSport LaLiga
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/194358
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/194358
 #EXTINF:-1 group-title="37.49 (3012)",ZA: SuperSport Motorsport
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/11638
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/11638
 #EXTINF:-1 group-title="37.49 (3012)",ZA: SuperSport Premier League
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/11642
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/11642
 #EXTINF:-1 group-title="37.49 (3012)",ZA: SuperSport Tennis
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/15200
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/15200
 #EXTINF:-1 group-title="37.49 (3012)",MY: Astro SuperSport 1
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/146068
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/146068
 #EXTINF:-1 group-title="37.49 (3012)",MY: Astro SuperSport 2
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/157556
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/157556
 #EXTINF:-1 group-title="37.49 (3012)",MY: Astro SuperSport 3
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/157557
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/157557
 #EXTINF:-1 group-title="37.49 (3012)",MY: Astro SuperSport 4
-http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/157558
-
-
-
-
-
-
-
-
+http://37.49.230.48:8080/kfaucontv/RETORVY0fvyp5RPX/157558
 
 #EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 1" tvg-logo="http://myserveriptv.com:2082/images/2ccfb0925903b34d1fbd9f6011947ce7.png" group-title="SHARKYTV 0901",RO: Digi Sport 1
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/126059
@@ -995,66 +991,6 @@ http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32304
 #EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports 2 HD" tvg-logo="http://myserveriptv.com:2082/images/5505842bde3d2f43c9a448eef20d0588.png"group-title="SHARKYTV 0901",US: Fox Sports 2 HD
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32305
 
-
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="SPAINLINE 1901",FR: BeIN Sports 1 HD
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/28897
-#EXTINF:0 tvg-id="beINSport2.fr" group-title="SPAINLINE 1901",FR: BeIN Sports 2 HD
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/28899
-#EXTINF:0 tvg-id="beINSport3.fr" group-title="SPAINLINE 1901",FR: BeIN Sports 3 HD
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/28901
-#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="SPAINLINE 1901",FR: BeIN Sports Max 4 HD
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/28903
-#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="SPAINLINE 1901",FR: BeIN Sports Max 5 HD
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/28905
-#EXTINF:0 tvg-id="Eurosport1.uk" group-title="SPAINLINE 1901",|UK| EUROSPORT 1
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/30948
-#EXTINF:0 tvg-id="Eurosport2.uk" group-title="SPAINLINE 1901",|UK| EUROSPORT 2
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/30949
-#EXTINF:0 tvg-id="DigiSport1.ro"group-title="SPAINLINE 1901",RO: DIGI SPORT 1
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/132588
-#EXTINF:0 tvg-id="DigiSport2.ro"group-title="SPAINLINE 1901",RO: DIGI SPORT 2
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/132589
-#EXTINF:0 tvg-id="DigiSport3.ro"group-title="SPAINLINE 1901",RO: DIGI SPORT 3
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/132590
-#EXTINF:0 tvg-id="ext"group-title="SPAINLINE 1901",RO: DIGI SPORT 4
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/132591
-#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: ELEVEN SPORTS 2 HD
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/18241
-#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: ELEVEN SPORTS 4 HD
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/18242
-#EXTINF:0 tvg-id="ext" group-title="POLONIA",PL: ELEVEN SPORTS 1 HD
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/18243
-#EXTINF:0 tvg-id="ext"group-title="SPAINLINE 1901",[BR] SPORTV 2 HD
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/33342
-#EXTINF:0 tvg-id="ext"group-title="SPAINLINE 1901",[BR] SPORTV 3 HD
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/33344
-#EXTINF:0 tvg-id="ext"group-title="SPAINLINE 1901",[BR] SPORTV HD
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/33346
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/66068
-#EXTINF:0 tvg-id="ext"group-title="SPAINLINE 1901",ES: MOVISTAR DAZN 1 HD
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/66069
-#EXTINF:0 tvg-id="ext"group-title="SPAINLINE 1901",ES: MOVISTAR DAZN 2 HD
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/66072
-#EXTINF:0 tvg-id="ext"group-title="SPAINLINE 1901",ARG: DIRECTV SPORTS HD
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/157632
-#EXTINF:0 tvg-id="ext"group-title="SPAINLINE 1901",ARG: ESPN 1
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/157633
-#EXTINF:0 tvg-id="ESPN2.ar"group-title="SPAINLINE 1901",ARG: ESPN 2
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/157634
-#EXTINF:0 tvg-id="ESPN3SD.ar"group-title="SPAINLINE 1901",ARG: ESPN 3
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/157635
-#EXTINF:0 tvg-id="ext"group-title="SPAINLINE 1901",ARG: FOX SPORT 1
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/157636
-#EXTINF:0 tvg-id="ext"group-title="SPAINLINE 1901",ARG: FOX SPORTS PREMIUM
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/157637
-#EXTINF:0 tvg-id="ext"group-title="SPAINLINE 1901",ARG: TNT SPORTS
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/157638
-#EXTINF:0 tvg-id="ext" group-title="SPAINLINE 1901",AR: BEIN SPORTS PREMIUM 01
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/170839
-#EXTINF:0 tvg-id="ext" group-title="SPAINLINE 1901",AR: BEIN SPORTS PREMIUM 02
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/170840
-#EXTINF:0 tvg-id="ext" group-title="SPAINLINE 1901",AR: BEIN SPORTS PREMIUM 03
-http://spainline.xyz:8000/webdeeptv/rasFPxbUMgek/170841
 
 
 
