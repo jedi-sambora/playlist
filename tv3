@@ -144,6 +144,8 @@ https://av-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 #EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="" group-title="SPORT LOCAL",TVRI Sport
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="" group-title="SPORT LOCAL",TVRI Nas
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -2162,3 +2164,14 @@ http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/327999
 http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/328001
 #EXTINF:-1 group-title="worldclasstv 1602" PT | SPORT TV 3 FHD
 http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/328075
+
+#EXTINF:-1 group-title="54.37 1602", ASSP 1
+http://54.37.82.205:8081/liveorigin/my-asp1hd_720/playlist.m3u8
+#EXTINF:-1 group-title="54.37 1602", ASSP 2
+http://54.37.82.205:8081/liveorigin/my-asp2hd_720/playlist.m3u8
+#EXTINF:-1 group-title="54.37 1602", ASSP 3
+http://54.37.82.205:8081/liveorigin/my-asp3hd_720/playlist.m3u8
+#EXTINF:-1 group-title="54.37 1602", ASSP 4
+http://54.37.82.205:8081/liveorigin/my-asp4hd_720/playlist.m3u8
+#EXTINF:-1 group-title="54.37 1602", ASSP 5
+http://54.37.82.205:8081/liveorigin/my-asp5hd_720/playlist.m3u8
