@@ -2112,3 +2112,34 @@ http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/273
 http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/271
 #EXTINF:-1 group-title="KUCHINI 2002",UK: BT Sport ESPN
 http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/1124
+
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD ¹" tvg-logo="http://ccdntp.xyz:80/images/bea99f2c35beab30bdbc493660e3fe11.png"  group-title="CCDNTP 2002",SPORTV HD ¹
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149839
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD¹" tvg-logo="http://ccdntp.xyz:80/images/d6986f29d060a91ee435d3c8c8f14af1.png"  group-title="CCDNTP 2002",SPORTV 2 HD¹
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149844
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD¹" tvg-logo="http://ccdntp.xyz:80/images/8c2f9b9c8ee02d98628b181d5fee1212.png"  group-title="CCDNTP 2002",SPORTV 3 HD¹
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149848
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 HD¹" tvg-logo="http://ccdntp.xyz:80/images/b113263a0805e2eadf72c413161fb4c1.png"  group-title="CCDNTP 2002",FOX SPORTS 2 HD¹
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149587
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="http://ccdntp.xyz:80/images/5f7f86e00e1d4b281a2aae69a61715a6.png"  group-title="CCDNTP 2002",PT: SPORT TV 1
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/270714
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="http://ccdntp.xyz:80/images/5f7f86e00e1d4b281a2aae69a61715a6.png"  group-title="CCDNTP 2002",PT: SPORT TV 2
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/270715
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="http://ccdntp.xyz:80/images/5f7f86e00e1d4b281a2aae69a61715a6.png"  group-title="CCDNTP 2002",PT: SPORT TV 3
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/270717
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="http://ccdntp.xyz:80/images/5f7f86e00e1d4b281a2aae69a61715a6.png"  group-title="CCDNTP 2002",PT: SPORT TV 4
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/270718
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="http://ccdntp.xyz:80/images/07d3b600209a23c343002bac3fcf3346.png"  group-title="CCDNTP 2002",PT: ELEVEN SPORTS 1 HD
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/270736
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="http://ccdntp.xyz:80/images/07d3b600209a23c343002bac3fcf3346.png"  group-title="CCDNTP 2002",PT: ELEVEN SPORTS 2 HD
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/270739
+#EXTINF:-1 tvg-id="band.sports.br" tvg-name="BAND SPORTS HD¹" tvg-logo="http://ccdntp.xyz:80/images/61df563650b3e12cb7d022d1ce4c0c14.png"  group-title="CCDNTP 2002",BAND SPORTS HD¹
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149392
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="TNT SPORTS 1" tvg-logo="http://ccdntp.xyz:80/images/480f0d945dd21fd31bd30160f72874ff.png"  group-title="CCDNTP 2002",TNT SPORTS 1
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149888
+#EXTINF:-1 tvg-id="TNTSports.br" tvg-name="TNT SPORTS 2" tvg-logo="http://ccdntp.xyz:80/images/480f0d945dd21fd31bd30160f72874ff.png"  group-title="CCDNTP 2002",TNT SPORTS 2
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149889
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3" tvg-logo="http://ccdntp.xyz:80/images/480f0d945dd21fd31bd30160f72874ff.png"  group-title="CCDNTP 2002",TNT SPORTS 3
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149890
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4" tvg-logo="http://ccdntp.xyz:80/images/480f0d945dd21fd31bd30160f72874ff.png"  group-title="CCDNTP 2002",TNT SPORTS 4
+http://ccdntp.xyz:80/VitorParceiro/9GzYjuDWFKv4/149891
