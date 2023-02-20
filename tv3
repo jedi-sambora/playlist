@@ -1858,56 +1858,6 @@ http://iptvmedia.live:8080/1eae94e3/e22181ebb2/11642
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Tennis" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b51cde8be3defead0ca307c5be0c9453.png" group-title="South Africa ➾ Sports",ZA: SuperSport Tennis
 http://iptvmedia.live:8080/1eae94e3/e22181ebb2/15200
 
-#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 1 UHD
-http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/13
-#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 2 UHD Premium
-http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/14
-#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 3 UHD Premium
-http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/15
-#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 4 UHD
-http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/16
-#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 5 UHD
-http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/17
-#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 6 UHD
-http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/18
-#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 7 UHD
-http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/19
-#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 2 UHD
-http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/20
-#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 1 UHD Premium
-http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/21
-#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 3 UHD
-http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/22
-#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 1 UHD
-http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/24
-#EXTINF:-1 group-title="SNIPER 0802",BeIN Sports Extra 1 FHD
-http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/36
-#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 1 ENGLISH FHD 
-http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/34023
-#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 2 ENGLISH FHD
-http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/34024
-#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 3 ENGLISH FHD
-http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/34025
-#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 1 FRENCH FHD
-http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/34026
-#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS 2 FRENCH FHD
-http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/34027
-#EXTINF:-1 group-title="SNIPER 0802",BEIN SPORTS NBA FHD
-http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/34028
-#EXTINF:-1 group-title="SNIPER 0802",BeIN Sports Extra 2 FHD
-http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/35685
-#EXTINF:-1 group-title="SNIPER 0802",PT: SPORT TV 1 HD
-http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/2633
-#EXTINF:-1 group-title="SNIPER 0802",PT: SPORT TV 2 HD
-http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/2636
-#EXTINF:-1 group-title="SNIPER 0802",PT: SPORT TV 3 HD
-http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/2639
-#EXTINF:-1 group-title="SNIPER 0802",PT: SPORT TV 4 HD
-http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/2641
-#EXTINF:-1 group-title="SNIPER 0802",PT: SPORT TV 5 HD
-http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/2643
-#EXTINF:-1 group-title="SNIPER 0802",PT: SPORT TV NBA
-http://sniperstv.vip:8080/Androidtv75-4326Sy/ejvZcp7qZtFn/2644
 
 #EXTINF:-1 group-title="DOMINO TV 1402"PT: Sport TV 1 HD
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224080
@@ -2049,121 +1999,6 @@ http://mo3ad.xyz:25461/mo3ad555p/mo3ad555p/192
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORT ESPN HD (UK)" tvg-logo="" group-title="MO3AD 1602",BT SPORT ESPN HD (UK)
 http://mo3ad.xyz:25461/mo3ad555p/mo3ad555p/160
 
-#EXTINF:-1 group-title="worldclasstv 1602" UK: beIN SPORTS 1
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/183597
-#EXTINF:-1 group-title="worldclasstv 1602" UK: beIN SPORTS 2
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/183598
-#EXTINF:-1 group-title="worldclasstv 1602" UK: beIN SPORTS 3
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/183599
-#EXTINF:-1 group-title="worldclasstv 1602" UK: BT Sport 1
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/209557
-#EXTINF:-1 group-title="worldclasstv 1602" UK: BT Sport 2
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/209558
-#EXTINF:-1 group-title="worldclasstv 1602" UK: BT Sport 3
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/209559
-#EXTINF:-1 group-title="worldclasstv 1602" UK: BT Sport ESPN
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/209560
-EXTINF:-1 group-title="worldclasstv 1602" AR: b**N SP0RTS 1 HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/198699
-#EXTINF:-1 group-title="worldclasstv 1602" AR: b**N SP0RTS 2 HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/198700
-#EXTINF:-1 group-title="worldclasstv 1602" AR: b**N SP0RTS 3 HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/198701
-#EXTINF:-1 group-title="worldclasstv 1602" AR: b**N SP0RTS 4 HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/198702
-#EXTINF:-1 group-title="worldclasstv 1602" AR: b**N SP0RTS 5 HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/198703
-#EXTINF:-1 group-title="worldclasstv 1602" AR: b**N SP0RTS 6 HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/198704
-#EXTINF:-1 group-title="worldclasstv 1602" AR: b**N SP0RTS 7 HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/198705
-#EXTINF:-1 group-title="worldclasstv 1602" AR: b**N SP0RTS PREMIUM 1 HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/198706
-#EXTINF:-1 group-title="worldclasstv 1602" AR: b**N SP0RTS PREMIUM 2 HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/198707
-#EXTINF:-1 group-title="worldclasstv 1602" AR: b**N SP0RTS PREMIUM 3 HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/198708
-#EXTINF:-1 group-title="worldclasstv 1602" AR: b**N SP0RTS M*X 1 HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/198709
-#EXTINF:-1 group-title="worldclasstv 1602" AR: b**N SP0RTS M*X 2 HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/198710
-#EXTINF:-1 group-title="worldclasstv 1602" AR: b**N SP0RTS M*X 3 HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/198711
-#EXTINF:-1 group-title="worldclasstv 1602" AR: b**N SP0RTS M*X 4 HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/198712
-#EXTINF:-1 group-title="worldclasstv 1602" AR: b**N SP0RTS M*X 5 HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/198713
-#EXTINF:-1 group-title="worldclasstv 1602" AR: b**N SP0RTS MAX 6 HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/198714
-#EXTINF:-1 group-title="worldclasstv 1602" AR: b**N SP0RTS 1 EN HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/198715
-#EXTINF:-1 group-title="worldclasstv 1602" AR: b**N SP0RTS NBA HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/198716
-#EXTINF:-1 group-title="worldclasstv 1602" RU: Viasat Sport HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/325733
-#EXTINF:-1 group-title="worldclasstv 1602" RU: МАТЧ!
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/325739
-#EXTINF:-1 group-title="worldclasstv 1602" RU: МАТЧ! Футбол 1 HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/325740
-#EXTINF:-1 group-title="worldclasstv 1602" RU: МАТЧ! Футбол 2 HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/325741
-#EXTINF:-1 group-title="worldclasstv 1602" RU: МАТЧ! Футбол 3 HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/325742
-#EXTINF:-1 group-title="worldclasstv 1602" RU: VIASAT SPORT HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/329726
-#EXTINF:-1 group-title="worldclasstv 1602" RU: VIASAT SPORT HD +
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/329727
-#EXTINF:-1 group-title="worldclasstv 1602" NO: V Sport Premier League
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/198153
-#EXTINF:-1 group-title="worldclasstv 1602" NO: V Sport Premier League 1
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/198154
-#EXTINF:-1 group-title="worldclasstv 1602" NO: V Sport Premier League 2
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/198155
-#EXTINF:-1 group-title="worldclasstv 1602" NO: V Sport Premier League 3
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/198156
-#EXTINF:-1 group-title="worldclasstv 1602" NO: V Sport Premier League 4
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/198157
-#EXTINF:-1 group-title="worldclasstv 1602" SW: V Sport Premium
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/198047
-#EXTINF:-1 group-title="worldclasstv 1602" SW: V Sport Football
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/198042
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/178128
-#EXTINF:-1 group-title="worldclasstv 1602" VIP SPORT: ELEVEN SPORT 1 (PL)
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/178080
-#EXTINF:-1 group-title="worldclasstv 1602" VIP SPORT: ELEVEN SPORT 1 (PT)
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/178066
-#EXTINF:-1 group-title="worldclasstv 1602" VIP SPORT: ELEVEN SPORT 2 (PL)
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/178081
-#EXTINF:-1 group-title="worldclasstv 1602" VIP SPORT: ELEVEN SPORT 2 (PT)
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/178067
-#EXTINF:-1 group-title="worldclasstv 1602" VIP SPORT: ELEVEN SPORT 3 (PL)
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/178082
-#EXTINF:-1 group-title="worldclasstv 1602" VIP SPORT: ESPN 1 HD (NL)
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/178076
-#EXTINF:-1 group-title="worldclasstv 1602" VIP SPORT: ESPN 2 HD (NL)
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/178077
-#EXTINF:-1 group-title="worldclasstv 1602" VIP SPORT: SKY SPORT PREMIER LEAGUE (UK)
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/178047
-#EXTINF:-1 group-title="worldclasstv 1602" VIP SPORT: SKY SPORTS FOOTBALL (UK)
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/178048
-#EXTINF:-1 group-title="worldclasstv 1602" VIP SPORT: SKY SPORTS MAIN EVENT (UK)
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/178053
-#EXTINF:-1 group-title="worldclasstv 1602" DE: DAZN SPORT 1 FHD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/176104
-#EXTINF:-1 group-title="worldclasstv 1602" DE: DAZN SPORT 2 FHD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/176106
-#EXTINF:-1 group-title="worldclasstv 1602" DE: Sky Sport Tennis HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/175600
-#EXTINF:-1 group-title="worldclasstv 1602" US: TENNIS CHANNEL HD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/345986
-#EXTINF:-1 group-title="worldclasstv 1602" US: TENNIS CHANNEL FHD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/345988
-#EXTINF:-1 group-title="worldclasstv 1602" PT | Sport TV 1 FHD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/327999
-#EXTINF:-1 group-title="worldclasstv 1602" PT | Sport TV 2 FHD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/328001
-#EXTINF:-1 group-title="worldclasstv 1602" PT | SPORT TV 3 FHD
-http://worldclasstv.at:80/MichelTV-WS23/cmEEh5hEuty7/328075
 
 #EXTINF:-1 group-title="54.37 1602", ASSP 1
 http://54.37.82.205:8081/liveorigin/my-asp1hd_720/playlist.m3u8
@@ -2175,3 +2010,105 @@ http://54.37.82.205:8081/liveorigin/my-asp3hd_720/playlist.m3u8
 http://54.37.82.205:8081/liveorigin/my-asp4hd_720/playlist.m3u8
 #EXTINF:-1 group-title="54.37 1602", ASSP 5
 http://54.37.82.205:8081/liveorigin/my-asp5hd_720/playlist.m3u8
+
+#EXTINF:-1 group-title="KUCHINI 2002",FR: beIN Sports 1
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/144
+#EXTINF:-1 group-title="KUCHINI 2002",FR: beIN Sports 2
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/145
+#EXTINF:-1 group-title="KUCHINI 2002",FR: beIN Sports 3
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/146
+#EXTINF:-1 group-title="KUCHINI 2002",FR: beIN Sports Max 4
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/3599
+#EXTINF:-1 group-title="KUCHINI 2002",US: beIN Sports
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/284530
+#EXTINF:-1 group-title="KUCHINI 2002",US: beIN Sports 1
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/2272
+#EXTINF:-1 group-title="KUCHINI 2002",US: beIN Sports 4
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/151024
+#EXTINF:-1 group-title="KUCHINI 2002",US: beIN Sports 5
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/151026
+#EXTINF:-1 group-title="KUCHINI 2002",US: beIN Sports 6
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/151030
+#EXTINF:-1 group-title="KUCHINI 2002",US: beIN Sports 7
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/151028
+#EXTINF:-1 group-title="KUCHINI 2002",US: beIN Sports 8
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/151032
+#EXTINF:-1 group-title="KUCHINI 2002",US: beIN Sports n
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/296690
+#EXTINF:-1 group-title="KUCHINI 2002",RO: DIGI SPORT 1
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/71457
+#EXTINF:-1 group-title="KUCHINI 2002",RO: DIGI SPORT 2
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/71459
+#EXTINF:-1 group-title="KUCHINI 2002",RO: DIGI SPORT 3
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/2243
+#EXTINF:-1 group-title="KUCHINI 2002",RO: DIGI SPORT 4
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/4219
+#EXTINF:-1 group-title="KUCHINI 2002",UK: Sky Sports Premier League
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/263
+#EXTINF:-1 group-title="KUCHINI 2002",MY: Astro SuperSport
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/146068
+#EXTINF:-1 group-title="KUCHINI 2002",MY: Astro SuperSport 2
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/157556
+#EXTINF:-1 group-title="KUCHINI 2002",MY: Astro SuperSport 3
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/157557
+#EXTINF:-1 group-title="KUCHINI 2002",MY: Astro SuperSport 4
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/157558
+#EXTINF:-1 group-title="KUCHINI 2002",MY: Astro SuperSport 5
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/287792
+#EXTINF:-1 group-title="KUCHINI 2002",PL: ELEVEN SPORTS 1
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/347
+#EXTINF:-1 group-title="KUCHINI 2002",PL: ELEVEN SPORTS 2
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/3643
+#EXTINF:-1 group-title="KUCHINI 2002",PL: ELEVEN SPORTS 3
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/3644
+#EXTINF:-1 group-title="KUCHINI 2002",PL: ELEVEN SPORTS 4
+#EXTINF:-1 group-title="KUCHINI 2002",PT: SPORT TV 1
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/1483
+#EXTINF:-1 group-title="KUCHINI 2002",PT: SPORT TV 2
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/1486
+#EXTINF:-1 group-title="KUCHINI 2002",PT: SPORT TV 3
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/1489
+#EXTINF:-1 group-title="KUCHINI 2002",PT: SPORT TV 4
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/1492
+#EXTINF:-1 group-title="KUCHINI 2002",BR: SPORTV
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/4015
+#EXTINF:-1 group-title="KUCHINI 2002",BR: SPORTV 2
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/8783
+#EXTINF:-1 group-title="KUCHINI 2002",BR: SPORTV 3
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/8784
+#EXTINF:-1 group-title="KUCHINI 2002",ZA: SuperSport Football
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/38575
+#EXTINF:-1 group-title="KUCHINI 2002",ZA: SuperSport Grandstand
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/194353
+#EXTINF:-1 group-title="KUCHINI 2002",ZA: SuperSport LaLiga
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/194358
+#EXTINF:-1 group-title="KUCHINI 2002",ZA: SuperSport Premier League
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/11642
+#EXTINF:-1 group-title="KUCHINI 2002",ZA: SuperSport Tennis
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/15200
+#EXTINF:-1 group-title="KUCHINI 2002",QA: beIN Sports English 1
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/110
+#EXTINF:-1 group-title="KUCHINI 2002",QA: beIN Sports English 2
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/111
+#EXTINF:-1 group-title="KUCHINI 2002",QA: beIN Sports English 3
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/267769
+#EXTINF:-1 group-title="KUCHINI 2002",ARG: FOX SPORTS
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/280370
+#EXTINF:-1 group-title="KUCHINI 2002",ARG: FOX SPORTS 2
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/3187
+#EXTINF:-1 group-title="KUCHINI 2002",ARG: FOX SPORTS 3
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/10921
+#EXTINF:-1 group-title="KUCHINI 2002",DE: Sky Sport Bundesliga 1
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/2431
+#EXTINF:-1 group-title="KUCHINI 2002",DE: Sky Sport Bundesliga 2
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/4493
+#EXTINF:-1 group-title="KUCHINI 2002",DE: Sky Sport Bundesliga 3
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/2135
+#EXTINF:-1 group-title="KUCHINI 2002",UK: BT Sport 1
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/270
+#EXTINF:-1 group-title="KUCHINI 2002",UK: BT Sport 2
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/273
+#EXTINF:-1 group-title="KUCHINI 2002",UK: BT Sport 3
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/271
+#EXTINF:-1 group-title="KUCHINI 2002",UK: BT Sport ESPN
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/1124
