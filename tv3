@@ -2230,3 +2230,60 @@ http://xtra.fireottplus.com:2052/802465991953933/802465991953980/151410
 http://xtra.fireottplus.com:2052/802465991953933/802465991953980/248843
 #EXTINF:-1 group-title="XTRA 2102",DE | DAZN 2 BAR HD
 http://xtra.fireottplus.com:2052/802465991953933/802465991953980/248844
+
+#EXTINF:-1 tvg-id="SkySpPL.uk" tvg-name="Sky Sports Premier League HD (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/skysportsplhd.png"  group-title="X-MEDIA 2102",Sky Sports Premier League HD (UK)
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/26
+#EXTINF:-1 tvg-id="Hi-ImpactTV.uk" tvg-name="BT Sport 1 HD (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/bt-sport-1-uk.png"  group-title="X-MEDIA 2102",BT Sport 1 HD (UK)
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/29
+#EXTINF:-1 tvg-id="MadeinLiverpool.uk" tvg-name="BT Sport 2 HD (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/btsport2.png"  group-title="X-MEDIA 2102",BT Sport 2 HD (UK)
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/30
+#EXTINF:-1 tvg-id="BTSportEur.uk" tvg-name="BT Sport europe HD (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/bt-sport-3-uk.png"  group-title="X-MEDIA 2102",BT Sport europe HD (UK)
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/31
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="Eurosport 1 HD (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/eurosport1hd.png"  group-title="X-MEDIA 2102",Eurosport 1 HD (UK)
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/1926
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="Eurosport 2 HD (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/eurosport2hd.png"  group-title="X-MEDIA 2102",Eurosport 2 HD (UK)
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/1913
+#EXTINF:-1 tvg-id="" tvg-name="US: SportsNet One HD" tvg-logo=""  group-title="X-MEDIA 2102",US: SportsNet One HD
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/2065
+#EXTINF:-1 tvg-id="" tvg-name="US: Bein Sports USA HD" tvg-logo=""  group-title="X-MEDIA 2102",US: Bein Sports USA HD
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/1066
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX Sport 1" tvg-logo=""  group-title="X-MEDIA 2102",US: FOX Sport 1
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/1050
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX Sport 2" tvg-logo=""  group-title="X-MEDIA 2102",US: FOX Sport 2
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/1051
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN" tvg-logo=""  group-title="X-MEDIA 2102",US: ESPN
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/1053
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN2" tvg-logo=""  group-title="X-MEDIA 2102",US: ESPN2
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/1052
+#EXTINF:-1 tvg-id="" tvg-name="US: NBA TV" tvg-logo=""  group-title="X-MEDIA 2102",US: NBA TV
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/1047
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 1 HD" tvg-logo=""  group-title="X-MEDIA 2102",FR: RMC SPORT 1 HD
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/2662
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 2 HD" tvg-logo=""  group-title="X-MEDIA 2102",FR: RMC SPORT 2 HD
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/2663
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 3 HD" tvg-logo=""  group-title="X-MEDIA 2102",FR: RMC SPORT 3 HD
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/2664
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 4 HD" tvg-logo=""  group-title="X-MEDIA 2102",FR: RMC SPORT 4 HD
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/2665
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN HD 1" tvg-logo="30865_{59322f78-c2f2-4dec-91f7-576ec0fcc7f7}-Bein Sport 1 SD.png"  group-title="X-MEDIA 2102",FR: BeIN HD 1
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/275
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN HD 2" tvg-logo="3399_{2e55a953-c69f-4d1e-9c06-2733476c30cc}-Bein Sport 2 SD.png"  group-title="X-MEDIA 2102",FR: BeIN HD 2
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/276
+#EXTINF:-1 tvg-id="" tvg-name="FR: BeIN HD 3" tvg-logo="97541_{31c8ed55-936a-452a-9a6d-b8aefce6ea5d}-Bein Sport2.png"  group-title="X-MEDIA 2102",FR: BeIN HD 3
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/277
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX4" tvg-logo=""  group-title="X-MEDIA 2102",FR: BEIN SPORT MAX4
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/2666
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV1 HD" tvg-logo=""  group-title="X-MEDIA 2102",PT: SPORT TV1 HD
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/430
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV2" tvg-logo=""  group-title="X-MEDIA 2102",PT: SPORT TV2
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/431
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo=""  group-title="X-MEDIA 2102",PT: SPORT TV 3 HD
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/432
+#EXTINF:-1 tvg-id="" tvg-name="HU: Digi Sport 1 HD" tvg-logo=""  group-title="X-MEDIA 2102",HU: Digi Sport 1 HD
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/2674
+#EXTINF:-1 tvg-id="" tvg-name="HU: Digi Sport 2 HD" tvg-logo=""  group-title="X-MEDIA 2102",HU: Digi Sport 2 HD
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/2675
+#EXTINF:-1 tvg-id="" tvg-name="HU: Digi Sport 3 HD" tvg-logo=""  group-title="X-MEDIA 2102",HU: Digi Sport 3 HD
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/2676
+#EXTINF:-1 tvg-id="" tvg-name="US: Tennis Channel HD" tvg-logo="85191_nickelodeon.png"  group-title="X-MEDIA 2102",US: Tennis Channel HD
+http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/1105
