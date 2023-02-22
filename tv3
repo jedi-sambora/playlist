@@ -2287,3 +2287,12 @@ http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/2675
 http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/2676
 #EXTINF:-1 tvg-id="" tvg-name="US: Tennis Channel HD" tvg-logo="85191_nickelodeon.png"  group-title="X-MEDIA 2102",US: Tennis Channel HD
 http://x-media.tv:8880/pacha-man1/j1TZ2f2TTV/1105
+
+#EXTINF:-1 tvg-id=""   group-title="DAZN 2202",DAZN 2
+http://212.224.84.217:2200/NL/dazn1hd-esp/tracks-v1a1/mono.m3u8?token=RED_NDU5ZUlZYP4YL1zyvtx1zA==,1655893751.3265758464|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id=""   group-title="DAZN 2202",DAZN 2
+http://212.224.84.217:2200/NL/dazn2hd-esp/tracks-v1a1/mono.m3u8?token=RED_NDU5ZUlZYP4YL1zyvtx1zA==,1655893751.3265758464|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id=""   group-title="DAZN 2202",DAZN 3
+http://212.224.84.217:2200/NL/dazn3hd-esp/tracks-v1a1/mono.m3u8?token=RED_NDU5ZUlZYP4YL1zyvtx1zA==,1655893751.3265758464|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id=""   group-title="DAZN 2202",DAZN 4
+http://212.224.84.217:2200/NL/dazn4hd-esp/tracks-v1a1/mono.m3u8?token=RED_NDU5ZUlZYP4YL1zyvtx1zA==,1655893751.3265758464|User-agent=REDLINECLIENT
