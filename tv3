@@ -67,16 +67,6 @@ http://iptvmedia.live:8080/1eae94e3/e22181ebb2/157557
 http://iptvmedia.live:8080/1eae94e3/e22181ebb2/157558
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 hr" tvg-logo="" group-title="SPORT TEMP",iND master C1
-https://dno-fifajs-native-major-hb.youku.com/fifa_jieshuo/YMQ-INTsignal1HB_sjb480.m3u8?auth_key=1706058029-0-0-4cbb770e4b4b8dd25fd8c72a077f952a&title=8147164&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=hlDtG7wDhA8CAbYCJ3gwiyHn&ccode=live05020201&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-INTsignal1HB&rid=20000000C3973DD09D7EE3355C09ACED6CDF904300000000
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 hr" tvg-logo="" group-title="SPORT TEMP",iND master C2
-https://liveaneviadev.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 hr" tvg-logo="" group-title="SPORT TEMP",iND master C3
-https://dno-fifajs-native-major-hb.youku.com/fifa_jieshuo/YMQ-INTsignal3HB_sjb480.m3u8?auth_key=1706153563-0-0-ab3633fc987f11d9714f7e126eac51cb
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="" group-title="Olahraga",TSN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://newtest.webtv1.lol/lb/premium111/index.m3u8|referer=https://widevine.licenses4.me/
-
 
 
 #EXTINF:-1 tvg-id="DAZN1Germany.de" tvg-logo="" group-title="SPORT LOCAL",DAZN 1 DE
@@ -160,6 +150,14 @@ https://av-live-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 https://maper.info/UseeSport1-Shareext
 #EXTINF:-1 tvg-logo="" group-title="SPORT LOCAL" tvg-id="beINSports3Indonesia.id", Usee SPORT 2
 https://maper.info/UseeSport2-Shareext
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.jpg",MNC Sports 1 my
+https://av-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.imgur.com/dfV5HCf.png" group-title="ASTRO",ASTRO.SUPERSPORTS 1 (21220)
 http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115615&extension=ts&play_token
