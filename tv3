@@ -57,14 +57,7 @@ http://txtest-xp2p.p2p.huya.com/src/1524439855-1524439855-6547419321943982080-30
 http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="ASTRO",MY: Astro SuperSport 1 (IPTVMED)
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/146068
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="ASTRO",MY: Astro SuperSport 2 (IPTVMED)
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/157556
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="ASTRO",MY: Astro SuperSport 3 (IPTVMED)
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/157557
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="ASTRO",MY: Astro SuperSport 4 (IPTVMED)
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/157558
+
 
 
 
@@ -1444,100 +1437,110 @@ http://onntv.online:25461/live/30A612037A90/8754467/211.ts
 http://onntv.online:25461/live/30A612037A90/8754467/212.ts
 #EXTINF:-1 tvg-id="" tvg-name="BT Sport 3 HD" tvg-logo="" group-title="ONNTV 0702",BT Sport 3 HD
 http://onntv.online:25461/live/30A612037A90/8754467/213.ts
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="QA: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png" group-title="IPTVMED 0702",QA: beIN Sports 1
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/100
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="QA: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/31f6dbe34a61abb6cadc5a13d54d8b4d.png" group-title="IPTVMED 0702",QA: beIN Sports 2
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/101
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="QA: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/e44c1ec620401a2f6238c2c24ccd6c58.png" group-title="IPTVMED 0702",QA: beIN Sports 3
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/102
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="QA: beIN Sports 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/0dea19dc983ea75ced697dfaa4c47d85.png" group-title="IPTVMED 0702",QA: beIN Sports 4
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/103
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="QA: beIN Sports 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b6c7110b7a880c716cb68073a5df5d90.png" group-title="IPTVMED 0702",QA: beIN Sports 5
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/104
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="QA: beIN Sports 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/3ad0c2b25e878d21a2e3820b0c43a447.png" group-title="IPTVMED 0702",QA: beIN Sports 6
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/105
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="QA: beIN Sports 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f823bec52bbeb99de40933222aed1f4f.png" group-title="IPTVMED 0702",QA: beIN Sports 7
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/106
-ports English 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/076e8935ff1715e7ebc42f5f23b9b152.png" group-title="IPTVMED 0702",QA: beIN Sports English 1
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/110
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="QA: beIN Sports English 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/33be90fdfdbfbf011c3e65d621196ec8.png" group-title="IPTVMED 0702",QA: beIN Sports English 2
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/111
-#EXTINF:-1 tvg-id="beinsports3en.qa" tvg-name="QA: beIN Sports English 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/724539660042a9755e6c7d5dafef0a55.png" group-title="IPTVMED 0702",QA: beIN Sports English 3
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/267769
-#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="QA: beIN Sports Premium 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f8dc1d4d49006fbed81fb539bc89cde9.png" group-title="IPTVMED 0702",QA: beIN Sports Premium 1
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/109
-#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="QA: beIN Sports Premium 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/4d9551cacc9433108171ed793131df12.png" group-title="IPTVMED 0702",QA: beIN Sports Premium 2
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/280145
-#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="QA: beIN Sports Premium 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/f1f5358024c749247618e2fcf2892eb5.jpg" group-title="IPTVMED 0702",QA: beIN Sports Premium 3
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/280249
-#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="QA: beIN Sports Xtra 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fb2314ef37b5afab01fff884f691f101.jpg" group-title="IPTVMED 0702",QA: beIN Sports Xtra 1
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/290037
-#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="QA: beIN Sports Xtra 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1c82a29d4cd31c80c4afe5693af065f8.jpg" group-title="IPTVMED 0702",QA: beIN Sports Xtra 2
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/283294
-#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d40f4a64bc712ca477fcb4e7412b5ccc.png" group-title="IPTVMED 0702",FR: beIN Sports 1
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/144
-#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0546311aed22a274b1e87d23c33dd475.png" group-title="IPTVMED 0702",FR: beIN Sports 2
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/145
-#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e36554e2468737a5a1e4a41112d673a5.png" group-title="IPTVMED 0702",FR: beIN Sports 3
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/146
-#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="FR: beIN Sports Max 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d1e2a161fa7650f78d827bb7e8cd3c21.png" group-title="IPTVMED 0702",FR: beIN Sports Max 4
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/3599
-#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="FR: beIN Sports Max 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c8cadfdb308ce51abcaac8220528833e.png" group-title="IPTVMED 0702",FR: beIN Sports Max 5
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/6083
-#EXTINF:-1 tvg-id="beinsports.us" tvg-name="US: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6129fe72ded1a946884fed4f021411fa.png" group-title="IPTVMED 0702",US: beIN Sports 1
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/2272
-#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="RO: DIGI SPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/93053f4167ff4534d5c36ceb918f1615.png" group-title="IPTVMED 0702",RO: DIGI SPORT 1
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/71457
-#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="RO: DIGI SPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/df1803b73d696e77aa97ce6405a102b9.png" group-title="IPTVMED 0702",RO: DIGI SPORT 2
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/71459
-#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="RO: DIGI SPORT 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/bd83399052d1011af53a79b4f9b78952.png" group-title="IPTVMED 0702",RO: DIGI SPORT 3
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/2243
-#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d4ab4ae9f452f94a08fb0260dbfcd765.png" group-title="IPTVMED 0702",RO: DIGI SPORT 4
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/4219
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="IPTVMED 0702"PT: ELEVEN SPORTS 1
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/1499
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title="IPTVMED 0702"PT: ELEVEN SPORTS 2
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/1503
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title="IPTVMED 0702"PT: ELEVEN SPORTS 3
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/1506
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title="IPTVMED 0702"PT: ELEVEN SPORTS 4
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/1509
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png" group-title="IPTVMED 0702"PT: ELEVEN SPORTS 5
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/1512
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/089df823b4a66ca080d161cdd412ff1b.png" group-title="IPTVMED 0702"PT: ELEVEN SPORTS 6
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/1515
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/484784419a9faf9cbeac602c51174f16.png" group-title="IPTVMED 0702",ES: DAZN 1
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/64711
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7b025261b7fc8b187dddf757424b01db.png" group-title="IPTVMED 0702",ES: DAZN 2
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/64712
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d36d4196d1e853c52f5a606b640d9b1.png" group-title="IPTVMED 0702",ES: DAZN 3
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/269912
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7b834941508cb1ab7d5787042c10bc7b.png" group-title="IPTVMED 0702",ES: DAZN 4
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/269911
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="IPTVMED 0702",MY: Astro SuperSport 1
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/146068
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="IPTVMED 0702",MY: Astro SuperSport 2
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/157556
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="IPTVMED 0702",MY: Astro SuperSport 3
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/157557
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="IPTVMED 0702",MY: Astro SuperSport 4
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/157558
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8dab62dd2c2faa3d66261a2a5afa6260.png" group-title="IPTVMED 0702",ZA: SuperSport Football
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/38575
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="ASTRO",MY: Astro SuperSport 1 (IPTVMED)
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/146068
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="ASTRO",MY: Astro SuperSport 2 (IPTVMED)
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/157556
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="ASTRO",MY: Astro SuperSport 3 (IPTVMED)
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/157557
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="ASTRO",MY: Astro SuperSport 4 (IPTVMED)
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/157558
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="QA: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png" group-title="IPTVMED 0603",QA: beIN Sports 1
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/100
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="QA: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/31f6dbe34a61abb6cadc5a13d54d8b4d.png" group-title="IPTVMED 0603",QA: beIN Sports 2
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/101
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="QA: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/e44c1ec620401a2f6238c2c24ccd6c58.png" group-title="IPTVMED 0603",QA: beIN Sports 3
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/102
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="QA: beIN Sports 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/0dea19dc983ea75ced697dfaa4c47d85.png" group-title="IPTVMED 0603",QA: beIN Sports 4
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/103
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="QA: beIN Sports 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b6c7110b7a880c716cb68073a5df5d90.png" group-title="IPTVMED 0603",QA: beIN Sports 5
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/104
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="QA: beIN Sports 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/3ad0c2b25e878d21a2e3820b0c43a447.png" group-title="IPTVMED 0603",QA: beIN Sports 6
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/105
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="QA: beIN Sports 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f823bec52bbeb99de40933222aed1f4f.png" group-title="IPTVMED 0603",QA: beIN Sports 7
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/106
+ports English 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/076e8935ff1715e7ebc42f5f23b9b152.png" group-title="IPTVMED 0603",QA: beIN Sports English 1
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/110
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="QA: beIN Sports English 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/33be90fdfdbfbf011c3e65d621196ec8.png" group-title="IPTVMED 0603",QA: beIN Sports English 2
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/111
+#EXTINF:-1 tvg-id="beinsports3en.qa" tvg-name="QA: beIN Sports English 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/724539660042a9755e6c7d5dafef0a55.png" group-title="IPTVMED 0603",QA: beIN Sports English 3
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/267769
+#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="QA: beIN Sports Premium 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f8dc1d4d49006fbed81fb539bc89cde9.png" group-title="IPTVMED 0603",QA: beIN Sports Premium 1
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/109
+#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="QA: beIN Sports Premium 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/4d9551cacc9433108171ed793131df12.png" group-title="IPTVMED 0603",QA: beIN Sports Premium 2
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/280145
+#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="QA: beIN Sports Premium 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/f1f5358024c749247618e2fcf2892eb5.jpg" group-title="IPTVMED 0603",QA: beIN Sports Premium 3
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/280249
+#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="QA: beIN Sports Xtra 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fb2314ef37b5afab01fff884f691f101.jpg" group-title="IPTVMED 0603",QA: beIN Sports Xtra 1
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/290037
+#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="QA: beIN Sports Xtra 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1c82a29d4cd31c80c4afe5693af065f8.jpg" group-title="IPTVMED 0603",QA: beIN Sports Xtra 2
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/283294
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d40f4a64bc712ca477fcb4e7412b5ccc.png" group-title="IPTVMED 0603",FR: beIN Sports 1
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/144
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0546311aed22a274b1e87d23c33dd475.png" group-title="IPTVMED 0603",FR: beIN Sports 2
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/145
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e36554e2468737a5a1e4a41112d673a5.png" group-title="IPTVMED 0603",FR: beIN Sports 3
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/146
+#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="FR: beIN Sports Max 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d1e2a161fa7650f78d827bb7e8cd3c21.png" group-title="IPTVMED 0603",FR: beIN Sports Max 4
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/3599
+#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="FR: beIN Sports Max 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c8cadfdb308ce51abcaac8220528833e.png" group-title="IPTVMED 0603",FR: beIN Sports Max 5
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/6083
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="US: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6129fe72ded1a946884fed4f021411fa.png" group-title="IPTVMED 0603",US: beIN Sports 1
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/2272
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="RO: DIGI SPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/93053f4167ff4534d5c36ceb918f1615.png" group-title="IPTVMED 0603",RO: DIGI SPORT 1
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/71457
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="RO: DIGI SPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/df1803b73d696e77aa97ce6405a102b9.png" group-title="IPTVMED 0603",RO: DIGI SPORT 2
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/71459
+#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="RO: DIGI SPORT 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/bd83399052d1011af53a79b4f9b78952.png" group-title="IPTVMED 0603",RO: DIGI SPORT 3
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/2243
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d4ab4ae9f452f94a08fb0260dbfcd765.png" group-title="IPTVMED 0603",RO: DIGI SPORT 4
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/4219
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="IPTVMED 0603"PT: ELEVEN SPORTS 1
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/1499
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title="IPTVMED 0603"PT: ELEVEN SPORTS 2
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/1503
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title="IPTVMED 0603"PT: ELEVEN SPORTS 3
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/1506
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title="IPTVMED 0603"PT: ELEVEN SPORTS 4
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/1509
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png" group-title="IPTVMED 0603"PT: ELEVEN SPORTS 5
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/1512
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/089df823b4a66ca080d161cdd412ff1b.png" group-title="IPTVMED 0603"PT: ELEVEN SPORTS 6
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/1515
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/484784419a9faf9cbeac602c51174f16.png" group-title="IPTVMED 0603",ES: DAZN 1
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/64711
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7b025261b7fc8b187dddf757424b01db.png" group-title="IPTVMED 0603",ES: DAZN 2
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/64712
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d36d4196d1e853c52f5a606b640d9b1.png" group-title="IPTVMED 0603",ES: DAZN 3
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/269912
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7b834941508cb1ab7d5787042c10bc7b.png" group-title="IPTVMED 0603",ES: DAZN 4
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/269911
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="IPTVMED 0603",MY: Astro SuperSport 1
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/146068
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="IPTVMED 0603",MY: Astro SuperSport 2
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/157556
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="IPTVMED 0603",MY: Astro SuperSport 3
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/157557
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="IPTVMED 0603",MY: Astro SuperSport 4
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/157558
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8dab62dd2c2faa3d66261a2a5afa6260.png" group-title="IPTVMED 0603",ZA: SuperSport Football
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/38575
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Golf" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a20c92d13ce602ec324ff03b209ed0c2.png" group-title="South Africa ➾ Sports",ZA: SuperSport Golf
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/11641
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/11641
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Grandstand" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a8f0bee8d482364f261394bf7678fa0e.png" group-title="South Africa ➾ Sports",ZA: SuperSport Grandstand
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/194353
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/194353
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport LaLiga" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="South Africa ➾ Sports",ZA: SuperSport LaLiga
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/194358
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Maximo 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/488fd8d34ea146bfaf82c12331f4223e.png" group-title="IPTVMED 0702",ZA: SuperSport Maximo 1
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/38572
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/194358
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Maximo 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/488fd8d34ea146bfaf82c12331f4223e.png" group-title="IPTVMED 0603",ZA: SuperSport Maximo 1
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/38572
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Motorsport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="South Africa ➾ Sports",ZA: SuperSport Motorsport
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/11638
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2f8f23e2a35d5a4e9ea336d7b51fd98f.png" group-title="IPTVMED 0702",ZA: SuperSport Premier League
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/11642
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/11638
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2f8f23e2a35d5a4e9ea336d7b51fd98f.png" group-title="IPTVMED 0603",ZA: SuperSport Premier League
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/11642
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Tennis" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b51cde8be3defead0ca307c5be0c9453.png" group-title="South Africa ➾ Sports",ZA: SuperSport Tennis
-http://iptvmedia.live:8080/1eae94e3/e22181ebb2/15200
+http://iptvmedia.live:8080/bubullea83/092df5a7953b/15200
+
 
 
 #EXTINF:-1 group-title="DOMINO TV 1402"PT: Sport TV 1 HD
