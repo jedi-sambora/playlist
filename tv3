@@ -705,3 +705,50 @@ http://adamtvonline.com:8080/111111111111/222222222222/358880
 http://adamtvonline.com:8080/111111111111/222222222222/358883
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg"group-title="SHARE",SPOTV.🇮🇩
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683117&extension=ts&play_token=1kEm8DbZmS
+
+#EXTINF:-1 group-title="NOUSITV 2903",LD - ELEVEN SPORTS 1
+http://tv.nousiptv.com:8080/detodotvplay/BFBFT7kwL5/1147316
+#EXTINF:-1 group-title="NOUSITV 2903",LD - ELEVEN SPORTS 2
+http://tv.nousiptv.com:8080/detodotvplay/BFBFT7kwL5/1147317
+#EXTINF:-1 group-title="NOUSITV 2903",LD - ELEVEN SPORTS 3
+http://tv.nousiptv.com:8080/detodotvplay/BFBFT7kwL5/1147318
+#EXTINF:-1 group-title="NOUSITV 2903",LD - ELEVEN SPORTS 4
+http://tv.nousiptv.com:8080/detodotvplay/BFBFT7kwL5/1147319
+#EXTINF:-1 group-title="NOUSITV 2903",LD - ELEVEN SPORTS 5
+http://tv.nousiptv.com:8080/detodotvplay/BFBFT7kwL5/1147320
+#EXTINF:-1 group-title="NOUSITV 2903",LD - ELEVEN SPORTS 6
+http://tv.nousiptv.com:8080/detodotvplay/BFBFT7kwL5/1147321
+#EXTINF:-1 group-title="NOUSITV 2903",ARG - TYC SPORTS HD
+http://tv.nousiptv.com:8080/detodotvplay/BFBFT7kwL5/1155819
+#EXTINF:-1 group-title="NOUSITV 2903",LD - DIRECTV SPORTS HD
+http://tv.nousiptv.com:8080/detodotvplay/BFBFT7kwL5/7863
+#EXTINF:-1 group-title="NOUSITV 2903",LD - DIRECTV SPORTS 2 HD
+http://tv.nousiptv.com:8080/detodotvplay/BFBFT7kwL5/32882
+#EXTINF:-1 group-title="NOUSITV 2903",LD - DIRECTV SPORTS PLUS HD
+http://tv.nousiptv.com:8080/detodotvplay/BFBFT7kwL5/27879
+#EXTINF:-1 group-title="NOUSITV 2903",BRA - SPORTV
+http://tv.nousiptv.com:8080/detodotvplay/BFBFT7kwL5/7791
+#EXTINF:-1 group-title="NOUSITV 2903",BRA - SPORTV 2
+http://tv.nousiptv.com:8080/detodotvplay/BFBFT7kwL5/7792
+#EXTINF:-1 group-title="NOUSITV 2903",ESP D  - BEIN SPORTS LA LIGA
+http://tv.nousiptv.com:8080/detodotvplay/BFBFT7kwL5/1156047
+#EXTINF:-1 group-title="NOUSITV 2903",LD - BEIN SPORTS Ñ HD 
+http://tv.nousiptv.com:8080/detodotvplay/BFBFT7kwL5/1155904
+#EXTINF:-1 group-title="NOUSITV 2903",ARG - ESPN PREMIUM ᴴᴰ
+http://tv.nousiptv.com:8080/detodotvplay/BFBFT7kwL5/8330
+#EXTINF:-1 group-title="NOUSITV 2903",ARG - ESPN 2 ᴴᴰ
+http://tv.nousiptv.com:8080/detodotvplay/BFBFT7kwL5/1089695
+#EXTINF:-1 group-title="NOUSITV 2903",ARG - ESPN 1 ᴴᴰ
+http://tv.nousiptv.com:8080/detodotvplay/BFBFT7kwL5/1090736
+#EXTINF:-1 group-title="NOUSITV 2903",ARG - FOX SPORTS 1 ᴴᴰ
+http://tv.nousiptv.com:8080/detodotvplay/BFBFT7kwL5/1090738
+#EXTINF:-1 group-title="NOUSITV 2903",ARG - FOX SPORTS 2 ᴴᴰ
+http://tv.nousiptv.com:8080/detodotvplay/BFBFT7kwL5/1090740
+#EXTINF:-1 group-title="NOUSITV 2903",CA - TSN 1
+http://tv.nousiptv.com:8080/detodotvplay/BFBFT7kwL5/1092265
+#EXTINF:-1 group-title="NOUSITV 2903",CA - TSN 2
+http://tv.nousiptv.com:8080/detodotvplay/BFBFT7kwL5/1092266
+#EXTINF:-1 group-title="NOUSITV 2903",CA - TSN 3
+http://tv.nousiptv.com:8080/detodotvplay/BFBFT7kwL5/1092267
+#EXTINF:-1 group-title="NOUSITV 2903",CA - TSN 4
+http://tv.nousiptv.com:8080/detodotvplay/BFBFT7kwL5/1092268
