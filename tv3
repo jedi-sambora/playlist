@@ -60,28 +60,46 @@ https://liveaneviadev.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #EXTINF:-1 tvg-id="DAZN1Germany.de" tvg-logo="" group-title="SPORT LOCAL",DAZN 1 DE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
 
 #EXTINF:-1 tvg-id="DAZN2Germany.de" tvg-logo="" group-title="SPORT LOCAL",DAZN 2 DE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
   
 #EXTINF:-1 tvg-id="DAZN1Spain.es" tvg-logo="" group-title="SPORT LOCAL",DAZN 1 España
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
 
 #EXTINF:-1 tvg-id="DAZN2Spain.es" tvg-logo="" group-title="SPORT LOCAL",DAZN 2 España
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
 
 #EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-logo="" group-title="SPORT LOCAL",DAZN La Liga
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
+
+#EXTINF:-1 group-title="3. SPORTS" tvg-logo="https://s.id/1EtRB",BEIN SPORTS 1 DZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
+
+#EXTINF:-1 group-title="3. SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkdtDpCFP54s-zsr6Us2mx3EjpQpxNYQqgag&usqp=CAU",BEIN SPORTS 2 DZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
+
+#EXTINF:-1 group-title="3. SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQUMU1fhQzoAr2Hm6jR4JZWtaY5452ap2AzA&usqp=CAU",BEIN SPORTS 3 DZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
 
 #EXTINF:-1 tvg-id="DAZNF1.es" tvg-logo="" group-title="SPORT LOCAL",DAZN F1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
