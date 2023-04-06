@@ -857,3 +857,56 @@ https://live.eagleeye.capital:443/razkorazko/razkorazko/11024.ts
 https://live.eagleeye.capital:443/razkorazko/razkorazko/11025.ts
 #EXTINF:-1group-title="live.eagleeye 0604",SP: KSA SSC 5
 https://live.eagleeye.capital:443/razkorazko/razkorazko/11026.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="NO: Viasat Sport Premium" tvg-logo="http://myserveriptv.com:2082/images/a9ae8a61388e616ca19441f1ee536842.png" group-title="SHARKYTV 0604",,NO: Viasat Sport Premium
+http://sharkytv.com:2082/gJQeCDEUMQ/7D6gdW2sN076Ms/142456
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Arena Sport Premium 1 RS" tvg-logo="" group-title="SHARKYTV 0604",,SPORT: Arena Sport Premium 1 RS
+http://sharkytv.com:2082/gJQeCDEUMQ/7D6gdW2sN076Ms/214448
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Arena Sport Premium 2 RS" tvg-logo="" group-title="SHARKYTV 0604",,SPORT: Arena Sport Premium 2 RS
+http://sharkytv.com:2082/gJQeCDEUMQ/7D6gdW2sN076Ms/214449
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Arena Sport Premium 3 RS" tvg-logo="" group-title="SHARKYTV 0604",,SPORT: Arena Sport Premium 3 RS
+http://sharkytv.com:2082/gJQeCDEUMQ/7D6gdW2sN076Ms/214450
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Arena Sport 1 CRO" tvg-logo="" group-title="SHARKYTV 0604",,SPORT: Arena Sport 1 CRO
+http://sharkytv.com:2082/gJQeCDEUMQ/7D6gdW2sN076Ms/214434
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Arena Sport 2 CRO" tvg-logo="" group-title="SHARKYTV 0604",,SPORT: Arena Sport 2 CRO
+http://sharkytv.com:2082/gJQeCDEUMQ/7D6gdW2sN076Ms/214435
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Arena Sport 3 CRO" tvg-logo="" group-title="SHARKYTV 0604",,SPORT: Arena Sport 3 CRO
+http://sharkytv.com:2082/gJQeCDEUMQ/7D6gdW2sN076Ms/214436
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport" tvg-logo="http://myserveriptv.com:2082/images/da90e373084d4a38ba8952a1cd159b02.png" group-title="SHARKYTV 0604",,PL: Polsat Sport
+http://sharkytv.com:2082/gJQeCDEUMQ/7D6gdW2sN076Ms/138326
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Premium 1" tvg-logo="http://myserveriptv.com:2082/images/fc005858b734218d763fd429a3797718.png" group-title="SHARKYTV 0604",,PL: Polsat Sport Premium 1
+http://sharkytv.com:2082/gJQeCDEUMQ/7D6gdW2sN076Ms/138330
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Premium 2" tvg-logo="http://myserveriptv.com:2082/images/1fc10eef0299e08eb5de7002dcd1ebdf.png" group-title="SHARKYTV 0604",,PL: Polsat Sport Premium 2
+http://sharkytv.com:2082/gJQeCDEUMQ/7D6gdW2sN076Ms/138331
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 Poland" tvg-logo="http://myserveriptv.com:2082/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="SHARKYTV 0604",,Eleven Sports 1 Poland
+http://sharkytv.com:2082/gJQeCDEUMQ/7D6gdW2sN076Ms/138349
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 Poland" tvg-logo="http://myserveriptv.com:2082/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="SHARKYTV 0604",,Eleven Sports 2 Poland
+http://sharkytv.com:2082/gJQeCDEUMQ/7D6gdW2sN076Ms/138350
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 1 HD" tvg-logo="http://myserveriptv.com:2082/images/99170287fc89aa2ce5c6c6d79ddb246f.png" group-title="SHARKYTV 0604",,PT: Sport TV 1 HD
+http://sharkytv.com:2082/gJQeCDEUMQ/7D6gdW2sN076Ms/224080
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2 HD" tvg-logo="http://myserveriptv.com:2082/images/99170287fc89aa2ce5c6c6d79ddb246f.png" group-title="SHARKYTV 0604",,PT: Sport TV 2 HD
+http://sharkytv.com:2082/gJQeCDEUMQ/7D6gdW2sN076Ms/224082
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3 HD" tvg-logo="http://myserveriptv.com:2082/images/99170287fc89aa2ce5c6c6d79ddb246f.png" group-title="SHARKYTV 0604",,PT: Sport TV 3 HD
+http://sharkytv.com:2082/gJQeCDEUMQ/7D6gdW2sN076Ms/224084
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 4 HD" tvg-logo="http://myserveriptv.com:2082/images/99170287fc89aa2ce5c6c6d79ddb246f.png" group-title="SHARKYTV 0604",,PT: Sport TV 4 HD
+http://sharkytv.com:2082/gJQeCDEUMQ/7D6gdW2sN076Ms/224086
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 5 HD" tvg-logo="http://myserveriptv.com:2082/images/99170287fc89aa2ce5c6c6d79ddb246f.png" group-title="SHARKYTV 0604",,PT: Sport TV 5 HD
+http://sharkytv.com:2082/gJQeCDEUMQ/7D6gdW2sN076Ms/224088
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 6 HD" tvg-logo="http://myserveriptv.com:2082/images/99170287fc89aa2ce5c6c6d79ddb246f.png" group-title="SHARKYTV 0604",,PT: Sport TV 6 HD
+http://sharkytv.com:2082/gJQeCDEUMQ/7D6gdW2sN076Ms/224090
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 Portugal" tvg-logo="http://myserveriptv.com:2082/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="SHARKYTV 0604",,Eleven Sports 1 Portugal
+http://sharkytv.com:2082/gJQeCDEUMQ/7D6gdW2sN076Ms/224093
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 Portugal" tvg-logo="http://myserveriptv.com:2082/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="SHARKYTV 0604",,Eleven Sports 2 Portugal
+http://sharkytv.com:2082/gJQeCDEUMQ/7D6gdW2sN076Ms/224095
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3 Portugal" tvg-logo="http://myserveriptv.com:2082/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="SHARKYTV 0604",,Eleven Sports 3 Portugal
+http://sharkytv.com:2082/gJQeCDEUMQ/7D6gdW2sN076Ms/224097
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 4 HD" tvg-logo="http://myserveriptv.com:2082/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="SHARKYTV 0604",,PT: Eleven Sports 4 HD
+http://sharkytv.com:2082/gJQeCDEUMQ/7D6gdW2sN076Ms/224099
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports  5 HD" tvg-logo="http://myserveriptv.com:2082/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="SHARKYTV 0604",,PT: Eleven Sports  5 HD
+http://sharkytv.com:2082/gJQeCDEUMQ/7D6gdW2sN076Ms/224101
+#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN HD" tvg-logo="http://myserveriptv.com:2082/images/7025e20916eff9f0dcb6fb42cb053639.png" group-title="SHARKYTV 0604",,NL: ESPN HD
+http://sharkytv.com:2082/gJQeCDEUMQ/7D6gdW2sN076Ms/76357
+#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 2 HD" tvg-logo="http://myserveriptv.com:2082/images/b0dd6923e295d0bf2c61149f2d8f5b04.png" group-title="SHARKYTV 0604",,NL: ESPN 2 HD
+http://sharkytv.com:2082/gJQeCDEUMQ/7D6gdW2sN076Ms/76358
+#EXTINF:-1 tvg-id="" tvg-name="NL: ESPN 3 HD" tvg-logo="http://myserveriptv.com:2082/images/072e821010c59936992557e9552b26f0.png" group-title="SHARKYTV 0604",,NL: ESPN 3 HD
+http://sharkytv.com:2082/gJQeCDEUMQ/7D6gdW2sN076Ms/76359
