@@ -137,14 +137,6 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 1 HD TH MY" tvg-logo="https://i.imgur.com/dfV5HCf.png" group-title="ASTRO",ASTRO.SUPERSPORTS 1 (21220)
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115615&extension=ts&play_token
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 2 HD TH MY" tvg-logo="ttps://i.imgur.com/EKA1xTZ.png" group-title="ASTRO",ASTRO.SUPERSPORTS 2 (21220)
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115616&extension=ts&play_token
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 3 HD TH MY" tvg-logo="https://i.imgur.com/DDFBwJR.png" group-title="ASTRO",ASTRO.SUPERSPORTS 3 (21220)
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=ts&play_token
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SUPERSPORTS 4 HD TH MY" tvg-logo="https://i.imgur.com/zwodbF0.png" group-title="ASTRO",ASTRO.SUPERSPORTS 4 (21220)
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115618&extension=ts&play_token
 
 
 
@@ -817,3 +809,51 @@ http://iptvtree.net:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/1503
 http://iptvtree.net:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/1506
 #EXTINF:-1group-title="IPTVTREE  0604",PT: ELEVEN SPORTS 4
 http://iptvtree.net:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/1509
+
+#EXTINF:-1group-title="live.eagleeye 0604",HD- BEIN SPORT MAX 5
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11309.ts
+#EXTINF:-1group-title="live.eagleeye 0604",HD-BEIN SPORT MAX 4
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11310.ts
+#EXTINF:-1group-title="live.eagleeye 0604",HD-BEIN SPORTS 3
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11311.ts
+#EXTINF:-1group-title="live.eagleeye 0604",CSAT - BEIN SPORTS 3
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11312.ts
+#EXTINF:-1group-title="live.eagleeye 0604",HD-BEIN SPORTS  HD2
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11313.ts
+#EXTINF:-1group-title="live.eagleeye 0604",HD-BEIN SPORTS  HD1
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11314.ts
+#EXTINF:-1group-title="live.eagleeye 0604",HD-RMC SPORT 4
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11300.ts
+#EXTINF:-1group-title="live.eagleeye 0604",HD-RMC SPORT 2
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11301.ts
+#EXTINF:-1group-title="live.eagleeye 0604",HD-RMC SPORT 1
+#EXTINF:-1group-title="live.eagleeye 0604",beIN Sports Premium 1 HD
+https://live.eagleeye.capital:443/razkorazko/razkorazko/10937.ts
+#EXTINF:-1group-title="live.eagleeye 0604",beIN Sports Premium 2 HD
+https://live.eagleeye.capital:443/razkorazko/razkorazko/10938.ts
+#EXTINF:-1group-title="live.eagleeye 0604",beIN SPORTS Premium 3 HD
+https://live.eagleeye.capital:443/razkorazko/razkorazko/10939.ts
+#EXTINF:-1group-title="live.eagleeye 0604",beIN SPORTS HD 1
+https://live.eagleeye.capital:443/razkorazko/razkorazko/10940.ts
+#EXTINF:-1group-title="live.eagleeye 0604",beIN SPORTS HD 2
+https://live.eagleeye.capital:443/razkorazko/razkorazko/10941.ts
+#EXTINF:-1group-title="live.eagleeye 0604",beIN SPORT HD 4
+https://live.eagleeye.capital:443/razkorazko/razkorazko/10942.ts
+#EXTINF:-1group-title="live.eagleeye 0604",beIN SPORT HD 3
+https://live.eagleeye.capital:443/razkorazko/razkorazko/10943.ts
+#EXTINF:-1group-title="live.eagleeye 0604",beIN SPORT HD 5
+https://live.eagleeye.capital:443/razkorazko/razkorazko/10944.ts
+#EXTINF:-1group-title="live.eagleeye 0604",beIN SPORT HD 6
+https://live.eagleeye.capital:443/razkorazko/razkorazko/10945.ts
+#EXTINF:-1group-title="live.eagleeye 0604",beIN SPORT HD 7
+https://live.eagleeye.capital:443/razkorazko/razkorazko/10946.ts
+#EXTINF:-1group-title="live.eagleeye 0604",SP: KSA SSC 1 HD
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11022.ts
+#EXTINF:-1group-title="live.eagleeye 0604",SP: KSA SSC 2 HD
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11023.ts
+#EXTINF:-1group-title="live.eagleeye 0604",SP: KSA SSC 3 HD
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11024.ts
+#EXTINF:-1group-title="live.eagleeye 0604",SP: KSA SSC 4
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11025.ts
+#EXTINF:-1group-title="live.eagleeye 0604",SP: KSA SSC 5
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11026.ts
