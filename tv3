@@ -47,6 +47,8 @@ http://103.141.2.37:25461/web/web/563
 http://103.179.246.243:8000/play/a00v
 #EXTINF:-1 group-title="Movie" ,Movies NOW
 http://103.141.2.37:25461/web/web/562
+#EXTINF:-1 group-title="Movie" ,SCM
+https://epg.pw/stream/07e2065945ba9d28161428a122471a50b320abf352ba178cc150c2c9ba902c65.ctv
 
 
 
