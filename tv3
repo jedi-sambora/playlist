@@ -15,6 +15,13 @@ https://iptv-org.github.io/epg/guides/br.xml,https://iptv-org.github.io/epg/guid
 https://iptv-org.github.io/epg/guides/de.xml,https://iptv-org.github.io/epg/guides/ie.xml,
 https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,
 http://cx1.supercloud9.xyz:2095/xmltv.php?username=wKLDF3Lt6j&password=f9K6ZMCikh
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml"
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/unifitv.xml"
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/mytv.xml"
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml" #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" #EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
+
 "
 #https://dukuntech.com:443/playlist/TRIAL/TRIAL/m3u_plus
 #http://admin.nf21.net/go/files/1
@@ -52,6 +59,45 @@ https://epg.pw/stream/07e2065945ba9d28161428a122471a50b320abf352ba178cc150c2c9ba
 
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/linearjitp.astro.com.my/sooker/as4
+#EXTINF:-1 group-logo="https://linear-poster.astro.com.my/prod/poster/AstroArenaBola04_IVP_LAND_171x96.jpg" tvg-id="AstroArenaBola4"  group-title="ASTRO SPORT", tvg-logo="https://telegra.ph/file/25b325b3bca1ac40f9191.png", Astro Arena Bola 4
+https://linear07-playback.sooka.my/CH3/masterCH3.mpd
+
+#EXTINF:-1 tvg-id="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png"  group-title="ASTRO SPORT",,Astro SuperSport (B)
+https://epg.pw/stream/9728a55716c43a9a92fd97bfeccb4d4df360bf91d12fd7b2cde6571d85f483d4.ctv
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601/
+#EXTINF:-1 tvg-id="AstroSupersport"  group-title="ASTRO SPORT", group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="811" tvg-logo="https://aqfadtv.xyz/logos/AstroSuperSport.png",811 Astro SuperSport (B)
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default.mpd
+
+#EXTINF:-1 tvg-id="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png"  group-title="ASTRO SPORT",,Astro SuperSport 2 (A)
+http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115616&extension=ts&play_token=JriqBmW8MR
+
+#EXTINF:-1 tvg-id="AstroSupersport2"  group-title="ASTRO SPORT", group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="812" tvg-logo="https://aqfadtv.xyz/logos/AstroSuperSport2.png",812 Astro SuperSport 2 (B)
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://streamservicehd.click&referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=43&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium124/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",  group-title="ASTRO SPORT",, Astro SuperSport 3 (A)
+http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115617&extension=ts&play_token=JriqBmW8MR
+
+#EXTINF:-1 tvg-id="AstroSupersport3"  group-title="ASTRO SPORT", group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="813" tvg-logo="https://aqfadtv.xyz/logos/AstroSuperSport3.png",813 Astro SuperSport 3 (B)
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://streamservicehd.click&referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=43&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium125/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/linearjitp.astro.com.my/AstroGo/index/2506
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",  group-title="ASTRO SPORT",, Astro SuperSport 4 HD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my#EXTVLCOPT:http-user-agent=astrogo
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
+
+#EXTINF: -1 tvg-id="AstroSupersport5"  group-title="ASTRO SPORT", group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="815" tvg-logo="https://aqfadtv.xyz/logos/AstroSuperSport5.png",815 Astro SuperSport 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
 
 
 
