@@ -100,11 +100,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="DAZN1Germany.de" tvg-logo="" group-title="SPORT LOCAL",DAZN 1 DE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
@@ -184,7 +179,14 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 
-
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ASTRO SPORT",ASSP|鈥�1
+http://shareext@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115615&extension=ts&play_token=Shareext@.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ASTRO SPORT",ASSP|鈥�2
+http://shareext@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115616&extension=ts&play_token=Shareext@.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ASTRO SPORT",ASSP|鈥�3
+http://shareext@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115617&extension=ts&play_token=Shareext@.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg" group-title="ASTRO SPORT",ASSP|鈥�4
+http://shareext@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115618&extension=ts&play_token=Shareext@.m3u8
 
 
 
