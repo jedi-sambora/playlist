@@ -1158,3 +1158,80 @@ http://109.202.99.203:8080/OmYrjohQCe/PaemWJL9gE/72
 http://109.202.99.203:8080/OmYrjohQCe/PaemWJL9gE/71
 #EXTINF:-1 group-title="203 0804",Bein Sports HD
 http://109.202.99.203:8080/OmYrjohQCe/PaemWJL9gE/572
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS PREMIER LEAGUE HD" tvg-logo="" group-title="XTREMETV 1104",UK: SKY SPORTS PREMIER LEAGUE HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/76510
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS FOOTBALL HD" tvg-logo="" group-title="XTREMETV 1104",UK: SKY SPORTS FOOTBALL HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/76512
+#EXTINF:-1 tvg-id="" tvg-name="DK: BEIN SPORTS ENGLISH HD" tvg-logo="" group-title="XTREMETV 1104",DK: BEIN SPORTS ENGLISH HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/78152
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 1 HD" tvg-logo="" group-title="XTREMETV 1104",UK: BT SPORT 1 HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/76431
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 2 HD" tvg-logo="" group-title="XTREMETV 1104",UK: BT SPORT 2 HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/76432
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 3 HD" tvg-logo="" group-title="XTREMETV 1104",UK: BT SPORT 3 HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/76433
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT ESPN HD" tvg-logo="" group-title="XTREMETV 1104",UK: BT SPORT ESPN HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/76434
+#EXTINF:-1 tvg-id="" tvg-name="UK: PREMIER SPORTS 1 HD" tvg-logo="" group-title="XTREMETV 1104",UK: PREMIER SPORTS 1 HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/76492
+#EXTINF:-1 tvg-id="" tvg-name="UK: PREMIER SPORTS 2 HD" tvg-logo="" group-title="XTREMETV 1104",UK: PREMIER SPORTS 2 HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/76564
+#EXTINF:-1 tvg-id="" tvg-name="PL:  ELEVEN SPORTS 1 hd" tvg-logo="" group-title="XTREMETV 1104",PL:  ELEVEN SPORTS 1 hd
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/76615
+#EXTINF:-1 tvg-id="" tvg-name="PL:  ELEVEN SPORTS 2 hd" tvg-logo="" group-title="XTREMETV 1104",PL:  ELEVEN SPORTS 2 hd
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/76616
+#EXTINF:-1 tvg-id="" tvg-name="PL:  ELEVEN SPORTS 3 hd" tvg-logo="" group-title="XTREMETV 1104",PL:  ELEVEN SPORTS 3 hd
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/76617
+#EXTINF:-1 tvg-id="" tvg-name="PL:  ELEVEN SPORTS 4 hd" tvg-logo="" group-title="XTREMETV 1104",PL:  ELEVEN SPORTS 4 hd
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/76618
+#EXTINF:-1 tvg-id="" tvg-name="PL:  EUROSPORT 1 hd" tvg-logo="" group-title="XTREMETV 1104",PL:  EUROSPORT 1 hd
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/76619
+#EXTINF:-1 tvg-id="" tvg-name="PL:  EUROSPORT 2 hd" tvg-logo="" group-title="XTREMETV 1104",PL:  EUROSPORT 2 hd
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/76620
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="XTREMETV 1104",PT: SPORT TV 1 HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/77330
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="XTREMETV 1104",PT: SPORT TV 2 HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/77336
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="XTREMETV 1104",PT: SPORT TV 3 HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/77340
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="" group-title="XTREMETV 1104",PT: ELEVEN SPORTS 1 HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/77352
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="XTREMETV 1104",PT: ELEVEN SPORTS 2 HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/77355
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="XTREMETV 1104",PT: ELEVEN SPORTS 3 HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/77358
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="XTREMETV 1104",PT: ELEVEN SPORTS 4 HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/77361
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="XTREMETV 1104",PT: ELEVEN SPORTS 5 HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/77364
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 1" tvg-logo="https://xplanetiptv.com/Logotv/countries//digisport1.png" group-title="XTREMETV 1104",RO: DIGI SPORT 1
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/81019
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 2" tvg-logo="https://xplanetiptv.com/Logotv/countries//digisport2.png" group-title="XTREMETV 1104",RO: DIGI SPORT 2
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/81020
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 3" tvg-logo="https://xplanetiptv.com/Logotv/countries//digisport3.png" group-title="XTREMETV 1104",RO: DIGI SPORT 3
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/81021
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 4" tvg-logo="https://xplanetiptv.com/Logotv/countries//digisport4.png" group-title="XTREMETV 1104",RO: DIGI SPORT 4
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/81022
+#EXTINF:-1 tvg-id="" tvg-name="SR: ARENA SPORT 1 HD" tvg-logo="" group-title="XTREMETV 1104",SR: ARENA SPORT 1 HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/81528
+#EXTINF:-1 tvg-id="" tvg-name="SR: ARENA SPORT 2 HD" tvg-logo="" group-title="XTREMETV 1104",SR: ARENA SPORT 2 HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/81529
+#EXTINF:-1 tvg-id="" tvg-name="SR: ARENA SPORT 3 FHD" tvg-logo="" group-title="XTREMETV 1104",SR: ARENA SPORT 3 FHD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/81530
+#EXTINF:-1 tvg-id="" tvg-name="SR: ARENA SPORT 4 FHD" tvg-logo="" group-title="XTREMETV 1104",SR: ARENA SPORT 4 FHD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/81531
+#EXTINF:-1 tvg-id="" tvg-name="SR: ARENA SPORT 5 FHD" tvg-logo="" group-title="XTREMETV 1104",SR: ARENA SPORT 5 FHD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/81532
+#EXTINF:-1 tvg-id="" tvg-name="SR: AENA SPORT 6 FHD" tvg-logo="" group-title="XTREMETV 1104",SR: AENA SPORT 6 FHD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/81533
+#EXTINF:-1 tvg-id="" tvg-name="SR: ARENA SPORT 7 FHD" tvg-logo="" group-title="XTREMETV 1104",SR: ARENA SPORT 7 FHD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/81534
+#EXTINF:-1 tvg-id="" tvg-name="SR: ARENA SPORT 8 FHD" tvg-logo="" group-title="XTREMETV 1104",SR: ARENA SPORT 8 FHD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/81535
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA PREMIUM 1 FHD" tvg-logo="" group-title="XTREMETV 1104",EX-YU: ARENA PREMIUM 1 FHD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/81537
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA PREMIUM 2 FHD" tvg-logo="" group-title="XTREMETV 1104",EX-YU: ARENA PREMIUM 2 FHD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/81538
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: ARENA PREMIUM 3 FHD" tvg-logo="" group-title="XTREMETV 1104",EX-YU: ARENA PREMIUM 3 FHD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/81539
