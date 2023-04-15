@@ -219,61 +219,6 @@ http://shareext@tvt3.xyz/play/live.php?mac=00:1A:79:00:04:02&stream=115618&exten
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="|TR| BeIN Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png"  group-title= "itvdom  SPORT",|TR| BeIN Sports 1 HD
-http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/149526
-#EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="|TR| BeIN Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png"  group-title= "itvdom  SPORT",|TR| BeIN Sports 2 HD
-http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/149529
-#EXTINF:-1 tvg-id="beINSports3.tr" tvg-name="|TR| BeIN Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png"  group-title= "itvdom  SPORT",|TR| BeIN Sports 3 HD
-http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/149531
-#EXTINF:-1 tvg-id="beINSports4.tr" tvg-name="|TR| BeIN Sports 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png"  group-title= "itvdom  SPORT",|TR| BeIN Sports 4 HD
-http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/149533
-#EXTINF:-1 tvg-id="beINSportsMax1.tr" tvg-name="|TR| BeIN Sports Max 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png"  group-title= "itvdom  SPORT",|TR| BeIN Sports Max 1 HD
-http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/149535
-#EXTINF:-1 tvg-id="beINSportsMax2.tr" tvg-name="|TR| BeIN Sports Max 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_bein_sports_max_2.png/1200px-Logo_bein_sports_max_2.png"  group-title= "itvdom  SPORT",,|TR| BeIN Sports Max 2 HD
-http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/149536
-#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="|.PT.S.| ELEVEN SPORTS 1 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports1.pt.png"  group-title= "itvdom  SPORT",|.PT.S.| ELEVEN SPORTS 1 HD
-http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/58888
-#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="|.PT.S.| ELEVEN SPORTS 2 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports2.pt.png"  group-title= "itvdom  SPORT",|.PT.S.| ELEVEN SPORTS 2 HD
-http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/58889
-#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="|.PT.S.| ELEVEN SPORTS 3 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports3.pt.png"  group-title= "itvdom  SPORT",|.PT.S.| ELEVEN SPORTS 3 HD
-http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/58890
-#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="|.PT.S.| ELEVEN SPORTS 4 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports4.pt.png"  group-title= "itvdom  SPORT",|.PT.S.| ELEVEN SPORTS 4 HD
-http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/58891
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.PT.S.| SPORT TV 1 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV1.pt.png"  group-title= "itvdom  SPORT",|.PT.S.| SPORT TV 1 HD
-http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/31368
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="|.PT.S.| SPORT TV 2 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV2.pt.png"  group-title= "itvdom  SPORT",|.PT.S.| SPORT TV 2 HD
-http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/58880
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="|.PT.S.| SPORT TV 3 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV3.pt.png"  group-title= "itvdom  SPORT",|.PT.S.| SPORT TV 3 HD
-http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/58882
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY SPORTS PREMIER LEAGUE HD" tvg-logo="http://one-iptv.com/imageslogo/SkySportsPremiereLeague.uk.png" group-title= "itvdom  SPORT",|.UK.| SKY SPORTS PREMIER LEAGUE HD
-http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/30943
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY SPORTS FOOTBALL HD" tvg-logo="http://one-iptv.com/imageslogo/SkySportsFootball.uk.png" group-title= "itvdom  SPORT",|.UK.| SKY SPORTS FOOTBALL HD
-http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/30997
-#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="|.ES.D.| DAZN 1 " tvg-logo=" http://one-iptv.com/imageslogo/DAZN.de.png"  group-title= "itvdom  SPORT",|.ES.D.| DAZN 1 
-http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/66046
-#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="|.ES.D.| DAZN 2 " tvg-logo=" http://one-iptv.com/imageslogo/DAZN.de.png"  group-title= "itvdom  SPORT",|.ES.D.| DAZN 2 
-http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/66047
-#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="|SP-M+| DAZN LALIGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1200px-DAZN_LaLiga_logo.svg.png"  group-title= "itvdom  SPORT",|SP-M+| DAZN LALIGA HD
-http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/139267
-#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="|SP-M+| DAZN LALIGA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1200px-DAZN_LaLiga_logo.svg.png"  group-title= "itvdom  SPORT",|SP-M+| DAZN LALIGA 1 HD
-http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/139268
-#EXTINF:-1 tvg-id="" tvg-name="|SP-M+| DAZN LALIGA 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1200px-DAZN_LaLiga_logo.svg.png"  group-title= "itvdom  SPORT",|SP-M+| DAZN LALIGA 2 HD
-http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/139269
-#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="|.DE.| SKY BUNDESLIGA 1 HD" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga1.de.png" group-title= "itvdom  SPORT",|.DE.| SKY BUNDESLIGA 1 HD
-http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/70497
-#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="|.DE.| SKY BUNDESLIGA 2 HD" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga2.de.png" group-title= "itvdom  SPORT",|.DE.| SKY BUNDESLIGA 2 HD
-http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/70499
-#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="|.DE.| SKY BUNDESLIGA 3 HD" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga3.de.png" group-title= "itvdom  SPORT",|.DE.| SKY BUNDESLIGA 3 HD
-http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/70501
-#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="|.DE.| SKY BUNDESLIGA 4 HD" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga4.de.png" group-title= "itvdom  SPORT",|.DE.| SKY BUNDESLIGA 4 HD
-http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/70503
-
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvDt18Mc/hbo.png" group-title="Film",HBO Asia
