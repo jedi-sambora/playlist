@@ -1316,3 +1316,11 @@ http://iptvtree.net:8080/protoniumtv2020/y76jnexquwGsEZsw/1503
 http://iptvtree.net:8080/protoniumtv2020/y76jnexquwGsEZsw/1506
 #EXTINF:-1 group-title="IPTVTREE  1604",PT: ELEVEN SPORTS 4
 http://iptvtree.net:8080/protoniumtv2020/y76jnexquwGsEZsw/1509
+#EXTINF:-1 tvg-id="espn.nl" tvg-name="NL: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fba7aa6abb3a938d6d2da99a29f57a8c.png" #EXTINF:-1 group-title="IPTVTREE  1604",NL: ESPN
+http://iptvtree.net:8080/protoniumtv2020/y76jnexquwGsEZsw/267209
+#EXTINF:-1 tvg-id="espn2.nl" tvg-name="NL: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8d4dbda121c0cfc982516038b068e70.png" #EXTINF:-1 group-title="IPTVTREE  1604",NL: ESPN 2
+http://iptvtree.net:8080/protoniumtv2020/y76jnexquwGsEZsw/272119
+#EXTINF:-1 tvg-id="espn3.nl" tvg-name="NL: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/60f126e910a86dc97e8c75e0e799fad0.png" #EXTINF:-1 group-title="IPTVTREE  1604",NL: ESPN 3
+http://iptvtree.net:8080/protoniumtv2020/y76jnexquwGsEZsw/272120
+#EXTINF:-1 tvg-id="espn4.nl" tvg-name="NL: ESPN 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/25459a2e8dd1ae1419024458ee7d4418.png" #EXTINF:-1 group-title="IPTVTREE  1604",NL: ESPN 4
+http://iptvtree.net:8080/protoniumtv2020/y76jnexquwGsEZsw/272121
