@@ -345,54 +345,7 @@ http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/49557
 
 
 
-#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="|.PT.S.| ELEVEN SPORTS 1 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports1.pt.png" group-title="V-IPTV 3101",|.PT.S.| ELEVEN SPORTS 1 HD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/58888.ts
-#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="|.PT.S.| ELEVEN SPORTS 2 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports2.pt.png" group-title="V-IPTV 3101",|.PT.S.| ELEVEN SPORTS 2 HD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/58889.ts
-#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="|.PT.S.| ELEVEN SPORTS 3 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports3.pt.png" group-title="V-IPTV 3101",|.PT.S.| ELEVEN SPORTS 3 HD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/58890.ts
-#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="|.PT.S.| ELEVEN SPORTS 4 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports4.pt.png" group-title="V-IPTV 3101",|.PT.S.| ELEVEN SPORTS 4 HD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/58891.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.PT.S.| SPORT TV 1 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV1.pt.png" group-title="V-IPTV 3101",|.PT.S.| SPORT TV 1 HD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/31368.ts
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="|.PT.S.| SPORT TV 2 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV2.pt.png" group-title="V-IPTV 3101",|.PT.S.| SPORT TV 2 HD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/58880.ts
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="|.PT.S.| SPORT TV 3 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV3.pt.png" group-title="V-IPTV 3101",|.PT.S.| SPORT TV 3 HD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/58882.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY SPORTS PREMIER LEAGUE HD" tvg-logo="http://one-iptv.com/imageslogo/SkySportsPremiereLeague.uk.png" group-title="V-IPTV 3101",|.UK.| SKY SPORTS PREMIER LEAGUE HD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30943.ts
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="|.UK.| BT SPORT 1 HD" tvg-logo="http://one-iptv.com/imageslogo/BTSport1.uk.png" group-title="V-IPTV 3101",|.UK.| BT SPORT 1 HD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30989.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| BT SPORT 2 HD" tvg-logo=" http://one-iptv.com/imageslogo/BTSport2.uk.png " group-title="V-IPTV 3101",|.UK.| BT SPORT 2 HD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30905.ts
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| BT SPORT 3 HD" tvg-logo="http://one-iptv.com/imageslogo/BTSport3.uk.png" group-title="V-IPTV 3101",|.UK.| BT SPORT 3 HD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/31000.ts
-#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="|.UK.| BT SPORT ESPN HD" tvg-logo="http://one-iptv.com/imageslogo/BTSportESPN.uk.png" group-title="V-IPTV 3101",|.UK.| BT SPORT ESPN HD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30906.ts
-#EXTINF:-1 tvg-id="ElevenProLeague1fr.be" tvg-name="|.BE.| ELEVEN PRO LEAGUE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8d/Eleven_Pro_League.png" group-title="V-IPTV 3101",|.BE.| ELEVEN PRO LEAGUE FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/114935.ts
-#EXTINF:-1 tvg-id="ElevenProLeague1fr.be" tvg-name="|.BE.| ELEVEN PRO LEAGUE 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8d/Eleven_Pro_League.png" group-title="V-IPTV 3101",|.BE.| ELEVEN PRO LEAGUE 1 HD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/115027.ts
-#EXTINF:-1 tvg-id="ElevenProLeague2fr.be" tvg-name="|.BE.| ELEVEN PRO LEAGUE 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8d/Eleven_Pro_League.png" group-title="V-IPTV 3101",|.BE.| ELEVEN PRO LEAGUE 2 HD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/115026.ts
-#EXTINF:-1 tvg-id="" tvg-name="|US| TSN 1" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn1-2018.png" group-title="V-IPTV 3101",|US| TSN 1
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/141687.ts
-#EXTINF:-1 tvg-id="" tvg-name="|US| TSN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/2560px-TSN2_New_Logo.svg.png" group-title="V-IPTV 3101",|US| TSN 2
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/141688.ts
-#EXTINF:-1 tvg-id="" tvg-name="|US| TSN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/2560px-TSN3.svg.png" group-title="V-IPTV 3101",|US| TSN 3
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/141689.ts
-#EXTINF:-1 tvg-id="" tvg-name="|US| TSN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/2560px-TSN4.svg.png" group-title="V-IPTV 3101",|US| TSN 4
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/141690.ts
-#EXTINF:-1 tvg-id="" tvg-name="|US| TSN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1280px-TSN5.svg.png" group-title="V-IPTV 3101",|US| TSN 5
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/141691.ts
-#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="|.ES.D.| DAZN 1 " tvg-logo=" http://one-iptv.com/imageslogo/DAZN.de.png" group-title="V-IPTV 3101",|.ES.D.| DAZN 1 
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/66046.ts
-#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="|.ES.D.| DAZN 2 " tvg-logo=" http://one-iptv.com/imageslogo/DAZN.de.png" group-title="V-IPTV 3101",|.ES.D.| DAZN 2 
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/66047.ts
-#EXTINF:-1 tvg-id="" tvg-name="|.ES.D.| DAZN 3 " tvg-logo=" http://one-iptv.com/imageslogo/DAZN.de.png" group-title="V-IPTV 3101",|.ES.D.| DAZN 3 
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/66048.ts
-#EXTINF:-1 tvg-id="" tvg-name="|.ES.D.| DAZN 4 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/DAZN_4.svg/revision/latest/scale-to-width-down/250?cb=20220119162341" group-title="V-IPTV 3101",|.ES.D.| DAZN 4 
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/66049.ts
+
 
 
 
