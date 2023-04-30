@@ -1106,3 +1106,36 @@ http://mosmce.com:8000/iptvtree2023/skype9876/99952.ts
 http://mosmce.com:8000/iptvtree2023/skype9876/99953.ts
 #EXTINF:-1 group-title="MOSMCE 3004", [NETHERLAND]ESPN 3
 http://mosmce.com:8000/iptvtree2023/skype9876/99954.ts
+
+#EXTINF:-1 group-title="LINE365 3004", beIN Sports Premium 1 HD
+http://line.365tv.xyz:8060/live/yAZRS6jGpUXM/ttNenwLRd7Pb/101926.ts
+#EXTINF:-1 group-title="LINE365 3004", beIN Sports Premium 2 HD
+http://line.365tv.xyz:8060/live/yAZRS6jGpUXM/ttNenwLRd7Pb/101925.ts
+#EXTINF:-1 group-title="LINE365 3004", beIN SPORTS Premium 3 HD
+http://line.365tv.xyz:8060/live/yAZRS6jGpUXM/ttNenwLRd7Pb/101932.ts
+#EXTINF:-1 group-title="LINE365 3004", beIN SPORTS HD 1
+http://line.365tv.xyz:8060/live/yAZRS6jGpUXM/ttNenwLRd7Pb/90164.ts
+#EXTINF:-1 group-title="LINE365 3004", beIN SPORTS HD 2
+http://line.365tv.xyz:8060/live/yAZRS6jGpUXM/ttNenwLRd7Pb/90165.ts
+#EXTINF:-1 group-title="LINE365 3004", beIN SPORT HD 4
+http://line.365tv.xyz:8060/live/yAZRS6jGpUXM/ttNenwLRd7Pb/90167.ts
+#EXTINF:-1 group-title="LINE365 3004", beIN SPORT HD 3
+http://line.365tv.xyz:8060/live/yAZRS6jGpUXM/ttNenwLRd7Pb/90166.ts
+#EXTINF:-1 group-title="LINE365 3004", beIN SPORT HD 5
+http://line.365tv.xyz:8060/live/yAZRS6jGpUXM/ttNenwLRd7Pb/90168.ts
+#EXTINF:-1 group-title="LINE365 3004", beIN SPORT HD 6
+http://line.365tv.xyz:8060/live/yAZRS6jGpUXM/ttNenwLRd7Pb/90169.ts
+#EXTINF:-1 group-title="LINE365 3004", beIN SPORT HD 7
+http://line.365tv.xyz:8060/live/yAZRS6jGpUXM/ttNenwLRd7Pb/90170.ts
+#EXTINF:-1 group-title="LINE365 3004", beIN SPORTS English 1 HD
+http://line.365tv.xyz:8060/live/yAZRS6jGpUXM/ttNenwLRd7Pb/101944.ts
+#EXTINF:-1 group-title="LINE365 3004", beIN SPORTS English 2 HD
+http://line.365tv.xyz:8060/live/yAZRS6jGpUXM/ttNenwLRd7Pb/101945.ts
+#EXTINF:-1 group-title="LINE365 3004", beIN SPORTS English 3 HD
+http://line.365tv.xyz:8060/live/yAZRS6jGpUXM/ttNenwLRd7Pb/101946.ts
+#EXTINF:-1 group-title="LINE365 3004", beIN SPORTS French 1 HD
+http://line.365tv.xyz:8060/live/yAZRS6jGpUXM/ttNenwLRd7Pb/101947.ts
+#EXTINF:-1 group-title="LINE365 3004", beIN SPORTS French 2 HD
+http://line.365tv.xyz:8060/live/yAZRS6jGpUXM/ttNenwLRd7Pb/101948.ts
+#EXTINF:-1 group-title="LINE365 3004", beIN SPORTS French 3 HD
+http://line.365tv.xyz:8060/live/yAZRS6jGpUXM/ttNenwLRd7Pb/101949.ts
