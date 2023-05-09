@@ -1252,73 +1252,129 @@ http://www.premiumiptvmk.com:8080/dooby1312/b244f7ab/271
 #EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK: BT Sport ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d1e7fd559255ab038f34122b16170e4f.png" group-title="PREMIUMIPTV 0304",UK: BT Sport ESPN
 http://www.premiumiptvmk.com:8080/dooby1312/b244f7ab/1124
 
-#EXTINF:-1group-title="IPTVCH 0805", SPORT: Arena Sport Premium 1 RS
+#EXTINF:-1 group-title="IPTVCH 0805", SPORT: Arena Sport Premium 1 RS
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/214448
-#EXTINF:-1group-title="IPTVCH 0805", SPORT: Arena Sport Premium 2 RS
+#EXTINF:-1 group-title="IPTVCH 0805", SPORT: Arena Sport Premium 2 RS
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/214449
-#EXTINF:-1group-title="IPTVCH 0805", SPORT: Arena Sport Premium 3 RS
+#EXTINF:-1 group-title="IPTVCH 0805", SPORT: Arena Sport Premium 3 RS
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/214450
-#EXTINF:-1group-title="IPTVCH 0805", SPORT: EuroSport 1 RS
+#EXTINF:-1 group-title="IPTVCH 0805", SPORT: EuroSport 1 RS
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/214451
-#EXTINF:-1group-title="IPTVCH 0805", SPORT: EuroSport 2 RS
+#EXTINF:-1 group-title="IPTVCH 0805", SPORT: EuroSport 2 RS
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/214452
-#EXTINF:-1group-title="IPTVCH 0805", SPORT: Arena Sport 1 RS
+#EXTINF:-1 group-title="IPTVCH 0805", SPORT: Arena Sport 1 RS
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/214453
-#EXTINF:-1group-title="IPTVCH 0805", SPORT: Arena Sport 2 RS
+#EXTINF:-1 group-title="IPTVCH 0805", SPORT: Arena Sport 2 RS
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/214454
-#EXTINF:-1group-title="IPTVCH 0805", SPORT: Arena Sport 3 RS
+#EXTINF:-1 group-title="IPTVCH 0805", SPORT: Arena Sport 3 RS
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/214455
-#EXTINF:-1group-title="IPTVCH 0805", SPORT: Arena Sport 4 RS
+#EXTINF:-1 group-title="IPTVCH 0805", SPORT: Arena Sport 4 RS
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/214456
-#EXTINF:-1group-title="IPTVCH 0805", RS: Sport Klub 1
+#EXTINF:-1 group-title="IPTVCH 0805", RS: Sport Klub 1
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/39772
-#EXTINF:-1group-title="IPTVCH 0805", RS: Sport Klub 2
+#EXTINF:-1 group-title="IPTVCH 0805", RS: Sport Klub 2
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/39771
-#EXTINF:-1group-title="IPTVCH 0805", RS: Sport Klub 3
+#EXTINF:-1 group-title="IPTVCH 0805", RS: Sport Klub 3
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/39770
-#EXTINF:-1group-title="IPTVCH 0805", RS: Sport Klub 4
+#EXTINF:-1 group-title="IPTVCH 0805", RS: Sport Klub 4
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/39769
-#EXTINF:-1group-title="IPTVCH 0805", PT: Sport TV 1 HD
+#EXTINF:-1 group-title="IPTVCH 0805", PT: Sport TV 1 HD
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/224080
-#EXTINF:-1group-title="IPTVCH 0805", PT: Sport TV 2 HD
+#EXTINF:-1 group-title="IPTVCH 0805", PT: Sport TV 2 HD
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/224082
-#EXTINF:-1group-title="IPTVCH 0805", PT: Sport TV 3 HD
+#EXTINF:-1 group-title="IPTVCH 0805", PT: Sport TV 3 HD
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/224084
-#EXTINF:-1group-title="IPTVCH 0805", PT: Sport TV 4 HD
+#EXTINF:-1 group-title="IPTVCH 0805", PT: Sport TV 4 HD
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/224086
-#EXTINF:-1group-title="IPTVCH 0805", Eleven Sports 1 Portugal
+#EXTINF:-1 group-title="IPTVCH 0805", Eleven Sports 1 Portugal
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/224093
-#EXTINF:-1group-title="IPTVCH 0805", Eleven Sports 2 Portugal
+#EXTINF:-1 group-title="IPTVCH 0805", Eleven Sports 2 Portugal
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/224095
-#EXTINF:-1group-title="IPTVCH 0805", Eleven Sports 3 Portugal
+#EXTINF:-1 group-title="IPTVCH 0805", Eleven Sports 3 Portugal
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/224097
-#EXTINF:-1group-title="IPTVCH 0805", PT: Eleven Sports 4 HD
+#EXTINF:-1 group-title="IPTVCH 0805", PT: Eleven Sports 4 HD
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/224099
-#EXTINF:-1group-title="IPTVCH 0805", PT: Eleven Sports 5 HD
+#EXTINF:-1 group-title="IPTVCH 0805", PT: Eleven Sports 5 HD
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/224101
-#EXTINF:-1group-title="IPTVCH 0805", PT: Eleven Sports 6 HD
+#EXTINF:-1 group-title="IPTVCH 0805", PT: Eleven Sports 6 HD
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/224103
-#EXTINF:-1group-title="IPTVCH 0805", PL: Polsat Sport
+#EXTINF:-1 group-title="IPTVCH 0805", PL: Polsat Sport
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/138326
-#EXTINF:-1group-title="IPTVCH 0805", PL: Polsat Sport Premium 1
+#EXTINF:-1 group-title="IPTVCH 0805", PL: Polsat Sport Premium 1
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/138330
-#EXTINF:-1group-title="IPTVCH 0805", PL: Polsat Sport Premium 2
+#EXTINF:-1 group-title="IPTVCH 0805", PL: Polsat Sport Premium 2
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/138331
-#EXTINF:-1group-title="IPTVCH 0805", RO: Telekom Sport 1
+#EXTINF:-1 group-title="IPTVCH 0805", RO: Telekom Sport 1
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/31184
-#EXTINF:-1group-title="IPTVCH 0805", RO: Telekom Sport 2
+#EXTINF:-1 group-title="IPTVCH 0805", RO: Telekom Sport 2
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/31185
-#EXTINF:-1group-title="IPTVCH 0805", RO: Telekom Sport 3
+#EXTINF:-1 group-title="IPTVCH 0805", RO: Telekom Sport 3
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/31186
-#EXTINF:-1group-title="IPTVCH 0805", IT: Super Tennis
+#EXTINF:-1 group-title="IPTVCH 0805", IT: Super Tennis
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/14757
-#EXTINF:-1group-title="IPTVCH 0805", NL: Ziggo Sport Tennis HD
+#EXTINF:-1 group-title="IPTVCH 0805", NL: Ziggo Sport Tennis HD
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/76354
-#EXTINF:-1group-title="IPTVCH 0805", NL: ESPN HD
+#EXTINF:-1 group-title="IPTVCH 0805", NL: ESPN HD
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/76357
-#EXTINF:-1group-title="IPTVCH 0805", NL: ESPN 2 HD
+#EXTINF:-1 group-title="IPTVCH 0805", NL: ESPN 2 HD
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/76358
-#EXTINF:-1group-title="IPTVCH 0805", NL: ESPN 3 HD
+#EXTINF:-1 group-title="IPTVCH 0805", NL: ESPN 3 HD
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/76359
-#EXTINF:-1group-title="IPTVCH 0805", NL: ESPN 4 HD
+#EXTINF:-1 group-title="IPTVCH 0805", NL: ESPN 4 HD
 http://iptvch.com:2082/Hmontasser/yvKh6q2zveuj/76360
+
+#EXTINF:-1 group-title="TBS TV 0905",Sport Klub 1 HD HR
+http://tbs-tv.com:8080/dark/kittylinetv/10236
+#EXTINF:-1 group-title="TBS TV 0905",Sport Klub 2 HD HR
+http://tbs-tv.com:8080/dark/kittylinetv/10237
+#EXTINF:-1 group-title="TBS TV 0905",Sport Klub 3 HD HR
+http://tbs-tv.com:8080/dark/kittylinetv/10238
+#EXTINF:-1 group-title="TBS TV 0905",Sport Klub 4 HD HR
+http://tbs-tv.com:8080/dark/kittylinetv/10239
+#EXTINF:-1 group-title="TBS TV 0905",France (HEVC)- - beIN SPORT 1 Full HD
+http://tbs-tv.com:8080/dark/kittylinetv/72926
+#EXTINF:-1 group-title="TBS TV 0905",France (HEVC)- - beIN SPORT 3 Full HD
+http://tbs-tv.com:8080/dark/kittylinetv/72925
+#EXTINF:-1 group-title="TBS TV 0905",France (HEVC)- - beIN SPORT 2 Full HD
+http://tbs-tv.com:8080/dark/kittylinetv/72924
+#EXTINF:-1 group-title="TBS TV 0905",Astro Sooka | beIN Sports 1
+http://tbs-tv.com:8080/dark/kittylinetv/76929
+#EXTINF:-1 group-title="TBS TV 0905",Astro Sooka | beIN Sports 2
+http://tbs-tv.com:8080/dark/kittylinetv/76928
+#EXTINF:-1 group-title="TBS TV 0905",Astro Sooka | beIN Sports 3
+http://tbs-tv.com:8080/dark/kittylinetv/76927
+#EXTINF:-1 group-title="TBS TV 0905",ZA: SUPERSPORT Premier league
+http://tbs-tv.com:8080/dark/kittylinetv/2631
+#EXTINF:-1 group-title="TBS TV 0905",ZA: SUPERSPORT LaLiga
+http://tbs-tv.com:8080/dark/kittylinetv/2632
+#EXTINF:-1 group-title="TBS TV 0905",ZA: SUPERSPORT Football
+http://tbs-tv.com:8080/dark/kittylinetv/2633
+#EXTINF:-1 group-title="TBS TV 0905",Brazil- SPORTV HD
+http://tbs-tv.com:8080/dark/kittylinetv/4840
+#EXTINF:-1 group-title="TBS TV 0905",Brazil- SPORTV 3 HD
+http://tbs-tv.com:8080/dark/kittylinetv/4841
+#EXTINF:-1 group-title="TBS TV 0905",Brazil- SPORTV 2 HD
+http://tbs-tv.com:8080/dark/kittylinetv/4843
+#EXTINF:-1 group-title="TBS TV 0905",Astro Sooka | SuperSport 1
+http://tbs-tv.com:8080/dark/kittylinetv/76934
+#EXTINF:-1 group-title="TBS TV 0905",Astro Sooka | SuperSport 2
+http://tbs-tv.com:8080/dark/kittylinetv/76933
+#EXTINF:-1 group-title="TBS TV 0905",Astro Sooka | SuperSport 3
+http://tbs-tv.com:8080/dark/kittylinetv/76932
+#EXTINF:-1 group-title="TBS TV 0905",Astro Sooka | SuperSport 4
+http://tbs-tv.com:8080/dark/kittylinetv/76931
+#EXTINF:-1 group-title="TBS TV 0905",Astro Sooka | SuperSport 5
+http://tbs-tv.com:8080/dark/kittylinetv/76930
+#EXTINF:-1 group-title="TBS TV 0905",Germany- Sky Sport Tennis DE
+http://tbs-tv.com:8080/dark/kittylinetv/76853
+#EXTINF:-1 group-title="TBS TV 0905",USA- TENNIS HD
+http://tbs-tv.com:8080/dark/kittylinetv/2849
+#EXTINF:-1 group-title="TBS TV 0905",Italian- SuperTennisFHD
+http://tbs-tv.com:8080/dark/kittylinetv/3091
+#EXTINF:-1 group-title="TBS TV 0905",Arena Sport 1 FHD HR
+http://tbs-tv.com:8080/dark/kittylinetv/10246
+#EXTINF:-1 group-title="TBS TV 0905",Arena Sport 2 FHD HR
+http://tbs-tv.com:8080/dark/kittylinetv/10247
+#EXTINF:-1 group-title="TBS TV 0905",Arena Sport 3 FHD HR
+http://tbs-tv.com:8080/dark/kittylinetv/10248
+
