@@ -407,7 +407,7 @@ https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.salamus1.lol/lb/premium423/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/MrK0nt/J4x/main/bl.jpg" group-title="OLAHRAGA",9. LIGA BELANDA - Eredivisie Belanda  (Server 1) 
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/MrK0nt/J4x/main/bl.jpg" group-title="OLAHRAGA",9. Sport Digital Fussball 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
