@@ -950,12 +950,26 @@ http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/85645
 #EXTINF:-1 group-title= "XPLAYMEDIA 2705",RO | DIGI Sport 4ⓧ FHD
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/85648
 
-#EXTINF:-1 tvg-id="" tvg-name="HU: Digi Sport 1 HD" tvg-logo=""  group-title= "BOX 2705",,HU: Digi Sport 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="HU: Digi Sport 1 HD" tvg-logo=""  group-title= "BOX 2705", HU: Digi Sport 1 HD
 http://box.slweb.tv:8880/pacha-man1/VnozvptUkP6p3Ed/2674
-#EXTINF:-1 tvg-id="" tvg-name="HU: Digi Sport 2 HD" tvg-logo=""  group-title= "BOX 2705",,HU: Digi Sport 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="HU: Digi Sport 2 HD" tvg-logo=""  group-title= "BOX 2705", HU: Digi Sport 2 HD
 http://box.slweb.tv:8880/pacha-man1/VnozvptUkP6p3Ed/2675
-#EXTINF:-1 tvg-id="" tvg-name="HU: Digi Sport 3 HD" tvg-logo=""  group-title= "BOX 2705",,HU: Digi Sport 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="HU: Digi Sport 3 HD" tvg-logo=""  group-title= "BOX 2705", HU: Digi Sport 3 HD
 http://box.slweb.tv:8880/pacha-man1/VnozvptUkP6p3Ed/2676
+
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.postimg.cc/Bbd13gLD/20230518-220005.png" group-title="2. NASIONAL",Indosiar
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+      
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.postimg.cc/Bbd13gLD/20230518-220005.png" group-title="2. NASIONAL",Indosiar
+http://210.210.155.37/qwr9ew/s/s04/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.postimg.cc/Bbd13gLD/20230518-220005.png" group-title="2. NASIONAL",Indosiar*  
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.m3u8
 
 
 
