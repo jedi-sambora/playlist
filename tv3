@@ -240,7 +240,15 @@ http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941625&e
 
 
 
+#EXTINF:-1 tvg-id="DAZN1Spain.es" tvg-logo="" group-title="SPORT LOCAL",DAZN EuroSport 1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-031/stream.mpd
 
+#EXTINF:-1 tvg-id="DAZN1Spain.es" tvg-logo="" group-title="SPORT LOCAL",DAZN EuroSport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-032/stream.mpd
 
 #EXTINF:-1 tvg-id="DAZN1Germany.de" tvg-logo="" group-title="SPORT LOCAL",DAZN 1 DE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
