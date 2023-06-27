@@ -759,10 +759,6 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manif
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="Soccer Channel" tvg-logo="https://www.lyngsat.com/logo/tv/ss/soccer-channel-id.png" group-title="MPD SPORTS",Soccer Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
-https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -822,6 +818,44 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"014e7cf40d9e490a812964f4aa72449e":"014e7cf40d9e490a812964f4aa72449e","e2c88c1cec785475ab6b05a1c4d15a78":" 01b8caafb230eb2a07cc965d54ef4441","9d042fa273964e24a9109e23f4e313cc":"540e3601e1b82192c76c7411ad9c8c8e","801d9e39d41a49418615f7cee4b6e031":"84b9bec014f0509ee2a4296e5877cf40"}
 https://opl-n02.cdn-ncplus.pl/live/store01/11Sports1/hd2-dashdrm02/11Sports1.mpd
+
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjbqxC-o6IvLQMrp8H6kep8qYuyZzbThVErQ&usqp=CAU" group-title="MPD SPORTS",Eleven 2 HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"014e7cf40d9e490a812964f4aa72449e":"014e7cf40d9e490a812964f4aa72449e","e2c88c1cec785475ab6b05a1c4d15a78":" 01b8caafb230eb2a07cc965d54ef4441","9d042fa273964e24a9109e23f4e313cc":"540e3601e1b82192c76c7411ad9c8c8e","801d9e39d41a49418615f7cee4b6e031":"84b9bec014f0509ee2a4296e5877cf40"}
+https://opl-n02.cdn-ncplus.pl/live/store01/11Sports2/hd2-dashdrm02/11Sports2.mpd
+
+#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjbqxC-o6IvLQMrp8H6kep8qYuyZzbThVErQ&usqp=CAU" group-title="MPD SPORTS",Eleven 3 HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"014e7cf40d9e490a812964f4aa72449e":"014e7cf40d9e490a812964f4aa72449e","e2c88c1cec785475ab6b05a1c4d15a78":" 01b8caafb230eb2a07cc965d54ef4441","9d042fa273964e24a9109e23f4e313cc":"540e3601e1b82192c76c7411ad9c8c8e","801d9e39d41a49418615f7cee4b6e031":"84b9bec014f0509ee2a4296e5877cf40"}
+https://opl-n02.cdn-ncplus.pl/live/store01/11Sports2/hd2-dashdrm02/11Sports3.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CxvHvhvc/20220927-063909.png" group-title="MPD SPORT",ESPN 2 HD
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CxvHvhvc/20220927-063909.png" group-title="MPD SPORT",ESPN 1 HD
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/dash/default.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CxvHvhvc/20220927-063909.png" group-title="MPD SPORT",ESPN 3 HD
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-3-HD/dash/default.mpd
 
 
 
@@ -937,224 +971,6 @@ http://kuchini.site:8080/F22230/6e9e8ce0/272119
 http://kuchini.site:8080/F22230/6e9e8ce0/272120
 #EXTINF:-1 group-title="KUCHINI",NL: ESPN 4
 http://kuchini.site:8080/F22230/6e9e8ce0/272121
-
-
-
-#EXTINF:-1 group-title="ARGTV 0106", TNT SPORTS HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/262
-#EXTINF:-1 group-title="ARGTV 0106", TNT Sports 2
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/1
-#EXTINF:-1 group-title="ARGTV 0106", TNT Sports 3
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/151
-#EXTINF:-1 group-title="ARGTV 0106", Fox Sports 1
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/152
-#EXTINF:-1 group-title="ARGTV 0106", Fox Sports 2
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/153
-#EXTINF:-1 group-title="ARGTV 0106", TYC Sports
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/196
-#EXTINF:-1 group-title="ARGTV 0106", ESPN 2 HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/227
-#EXTINF:-1 group-title="ARGTV 0106", ESPN 3 HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/228
-#EXTINF:-1 group-title="ARGTV 0106", ESPN EXTRA HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/229
-#EXTINF:-1 group-title="ARGTV 0106", ESPN HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/230
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Over Sport 1" tvg-logo="" group-title="Best Channel-Albania",Over Sport 1
-http://greasel.tech:2095/ermali/koplik/91
-#EXTINF:-1 tvg-id="" tvg-name="Over Sport 2" tvg-logo="" group-title="Best Channel-Albania",Over Sport 2
-http://greasel.tech:2095/ermali/koplik/92
-#EXTINF:-1 tvg-id="" tvg-name="Over Sport 3" tvg-logo="" group-title="Best Channel-Albania",Over Sport 3
-http://greasel.tech:2095/ermali/koplik/93
-#EXTINF:-1 tvg-id="" tvg-name="Over Sport 4" tvg-logo="" group-title="Best Channel-Albania",Over Sport 4
-http://greasel.tech:2095/ermali/koplik/148
-#EXTINF:-1 tvg-id="" tvg-name="Over Sport 5" tvg-logo="" group-title="Best Channel-Albania",Over Sport 5
-http://greasel.tech:2095/ermali/koplik/11895
-#EXTINF:-1 tvg-id="" tvg-name="Over Sport 6" tvg-logo="" group-title="Best Channel-Albania",Over Sport 6
-http://greasel.tech:2095/ermali/koplik/11896
-#EXTINF:-1 tvg-id="ABC_News" tvg-name="Tring Sport News" tvg-logo="" group-title="Best Channel-Albania",Tring Sport News
-http://greasel.tech:2095/ermali/koplik/154
-#EXTINF:-1 tvg-id="ABC_News" tvg-name="Tring Sport 1" tvg-logo="" group-title="Best Channel-Albania",Tring Sport 1
-http://greasel.tech:2095/ermali/koplik/90
-#EXTINF:-1 tvg-id="ABC_News" tvg-name="Super Sport 1" tvg-logo="" group-title="Best Channel-Albania",Super Sport 1
-http://greasel.tech:2095/ermali/koplik/97
-#EXTINF:-1 tvg-id="ABC_News" tvg-name="Super Sport 2" tvg-logo="" group-title="Best Channel-Albania",Super Sport 2
-http://greasel.tech:2095/ermali/koplik/89
-#EXTINF:-1 tvg-id="ABC_News" tvg-name="Super Sport 3" tvg-logo="" group-title="Best Channel-Albania",Super Sport 3
-http://greasel.tech:2095/ermali/koplik/99
-#EXTINF:-1 tvg-id="ABC_News" tvg-name="Super Sport 4" tvg-logo="" group-title="Best Channel-Albania",Super Sport 4
-http://greasel.tech:2095/ermali/koplik/113
-#EXTINF:-1 tvg-id="ABC_News" tvg-name="Super Sport 5" tvg-logo="" group-title="Best Channel-Albania",Super Sport 5
-http://greasel.tech:2095/ermali/koplik/10011
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="" group-title="Best Channel-Albania",Eurosport 1
-http://greasel.tech:2095/ermali/koplik/12
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 HD" tvg-logo="" group-title="Best Channel-Albania",Arena Sport 1 HD
-http://greasel.tech:2095/ermali/koplik/180
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 HD" tvg-logo="" group-title="Best Channel-Albania",Arena Sport 2 HD
-http://greasel.tech:2095/ermali/koplik/181
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 HD" tvg-logo="" group-title="Best Channel-Albania",Arena Sport 3 HD
-http://greasel.tech:2095/ermali/koplik/182
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 HD" tvg-logo="" group-title="Best Channel-Albania",Arena Sport 4 HD
-http://greasel.tech:2095/ermali/koplik/183
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5 HD" tvg-logo="" group-title="Best Channel-Albania",Arena Sport 5 HD
-http://greasel.tech:2095/ermali/koplik/184
-#EXTINF:-1 tvg-id="ABC_News" tvg-name="Eleven HD1" tvg-logo="" group-title="Best Channel-Albania",Eleven HD1
-http://greasel.tech:2095/ermali/koplik/185
-#EXTINF:-1 tvg-id="ABC_News" tvg-name="Eleven HD2" tvg-logo="" group-title="Best Channel-Albania",Eleven HD2
-http://greasel.tech:2095/ermali/koplik/186
-#EXTINF:-1 tvg-id="" tvg-name="Eleven HD3" tvg-logo="" group-title="Best Channel-Albania",Eleven HD3
-http://greasel.tech:2095/ermali/koplik/187
-#EXTINF:-1 tvg-id="ABC_News" tvg-name="Eleven HD4" tvg-logo="" group-title="Best Channel-Albania",Eleven HD4
-http://greasel.tech:2095/ermali/koplik/188
-#EXTINF:-1 tvg-id="" tvg-name="Eleven HD5" tvg-logo="" group-title="Best Channel-Albania",Eleven HD5
-http://greasel.tech:2095/ermali/koplik/11143
-#EXTINF:-1 tvg-id="" tvg-name="Eleven HD6" tvg-logo="" group-title="Best Channel-Albania",Eleven HD6
-http://greasel.tech:2095/ermali/koplik/11144
-
-#EXTINF:-1 tvg-id="Studio_Crime.fr" tvg-name="[AR]_beIN SPORTS ENGLISH 1" tvg-logo="http://live.maxcimo.com:8000/images/3aff257a92d8aec877a0f5471b365e45.png" group-title="MAXCIMO 1006",[AR]_beIN SPORTS ENGLISH 1
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/28
-#EXTINF:-1 tvg-id="Studio_Crime.fr" tvg-name="[AR]_beIN SPORTS ENGLISH 2" tvg-logo="http://live.maxcimo.com:8000/images/a733f8868555620556c53ff670fcb934.png" group-title="MAXCIMO 1006",[AR]_beIN SPORTS ENGLISH 2
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/29
-#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="[AR]_beIN SPORTS PREMIUM 1 HEVC VIP" tvg-logo="http://live.maxcimo.com:8000/images/664e959174fde9763f371b9988aa84e0.png" group-title="MAXCIMO 1006",[AR]_beIN SPORTS PREMIUM 1 HEVC VIP
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/4346
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="[AR]_beIN SPORTS PREMIUM 2 HEVC VIP" tvg-logo="http://live.maxcimo.com:8000/images/9e0a9e589178c0b2f8bdfe1fccf515ae.png" group-title="MAXCIMO 1006",[AR]_beIN SPORTS PREMIUM 2 HEVC VIP
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/4347
-#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="[AR]_beIN SPORTS PREMIUM 3 HEVC VIP" tvg-logo="http://live.maxcimo.com:8000/images/f53b6f0fc4152edfd40cbb095438f73d.png" group-title="MAXCIMO 1006",[AR]_beIN SPORTS PREMIUM 3 HEVC VIP
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/4348
-#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="[AR]_beIN SPORTS 1 HEVC VIP" tvg-logo="http://live.maxcimo.com:8000/images/27cb32fe67691f6d913545795b767a28.png" group-title="MAXCIMO 1006",[AR]_beIN SPORTS 1 HEVC VIP
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/262
-#EXTINF:-1 tvg-id="beINSports5En.qa" tvg-name="[AR]_beIN SPORTS 2 HEVC VIP" tvg-logo="http://live.maxcimo.com:8000/images/6e9e1151c4b1b80b513850509a84d73a.png" group-title="MAXCIMO 1006",[AR]_beIN SPORTS 2 HEVC VIP
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/261
-#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="[AR]_beIN SPORTS 3 HEVC VIP" tvg-logo="http://live.maxcimo.com:8000/images/0940b7d404bbd2b66820615102b9bf34.png" group-title="MAXCIMO 1006",[AR]_beIN SPORTS 3 HEVC VIP
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/6505
-#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="[AR]_beIN SPORTS 4 HEVC VIP" tvg-logo="http://live.maxcimo.com:8000/images/9209863f5031badd668c134c468bff98.png" group-title="MAXCIMO 1006",[AR]_beIN SPORTS 4 HEVC VIP
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/6506
-#EXTINF:-1 tvg-id="Studio_Crime.fr" tvg-name="[AR]_beIN SPORTS 5 HEVC VIP" tvg-logo="http://live.maxcimo.com:8000/images/46cfc27d0fc2aea81ea48bf174381542.png" group-title="MAXCIMO 1006",[AR]_beIN SPORTS 5 HEVC VIP
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/6507
-#EXTINF:-1 tvg-id="Studio_Crime.fr" tvg-name="[AR]_beIN SPORTS 6 HEVC VIP" tvg-logo="http://live.maxcimo.com:8000/images/1d2c6e6d8d24c0744011b1496dbb7217.png" group-title="MAXCIMO 1006",[AR]_beIN SPORTS 6 HEVC VIP
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/6508
-#EXTINF:-1 tvg-id="Studio_Crime.fr" tvg-name="[AR]_beIN SPORTS 7 HEVC VIP" tvg-logo="http://live.maxcimo.com:8000/images/ddb7f6a3dd0bacbad276dc0fef236c00.png" group-title="MAXCIMO 1006",[AR]_beIN SPORTS 7 HEVC VIP
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/6509
-#EXTINF:-1 tvg-id="C1290.api.telerama.fr" tvg-name="[FR]_beIN SPORTS 1 HD" tvg-logo="http://live.maxcimo.com:8000/images/27cb32fe67691f6d913545795b767a28.png" group-title="MAXCIMO 1006",[FR]_beIN SPORTS 1 HD
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/75
-#EXTINF:-1 tvg-id="C1290.api.telerama.fr" tvg-name="[FR]_beIN SPORTS 1 FHD" tvg-logo="http://live.maxcimo.com:8000/images/27cb32fe67691f6d913545795b767a28.png" group-title="MAXCIMO 1006",[FR]_beIN SPORTS 2 HD
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/214
-#EXTINF:-1 tvg-id="C1304.api.telerama.fr" tvg-name="[FR]_beIN SPORTS 2 FHD" tvg-logo="http://live.maxcimo.com:8000/images/6e9e1151c4b1b80b513850509a84d73a.png" group-title="MAXCIMO 1006",[FR]_beIN SPORTS 3 HD
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/215
-#EXTINF:-1 tvg-id="C1335.api.telerama.fr" tvg-name="[FR]_beIN SPORTS 3 FHD" tvg-logo="http://live.maxcimo.com:8000/images/0940b7d404bbd2b66820615102b9bf34.png" group-group-title="MAXCIMO 1006",[FR]_BeIN SPORTS MAX 4 HD
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/693
-#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="[UK]_SKY SPORTS PREMIER LEAGUE HD" tvg-logo="http://live.maxcimo.com:8000/images/2465aeac7a542ac9f1f6d460c687d471.png" group-title="UK TV",[UK]_SKY SPORTS PREMIER LEAGUE HD
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/128
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="[UK]_SKY SPORTS FOOTBALL" tvg-logo="http://live.maxcimo.com:8000/images/bc9e93eccc1ab4b36433fbbaea9b3fd2.png" group-title="UK TV",[UK]_SKY SPORTS FOOTBALL
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/2499
-#EXTINF:-1 tvg-id="HD7" tvg-name="[SPORT]_SUPERSPORT GRANDSTAND HD" tvg-logo="http://live.maxcimo.com:8000/images/0ba7be51cbfcab5e2b87515aa7557181.png" group-title="MAXCIMO 1006",[SPORT]_SUPERSPORT GRANDSTAND HD
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/3390
-#EXTINF:-1 tvg-id="MSH" tvg-name="[SPORT]_SUPERSPORT TENNIS HD" tvg-logo="http://live.maxcimo.com:8000/images/0c493d20a11930e4980725d94b0203ec.png" group-title="MAXCIMO 1006",[SPORT]_SUPERSPORT TENNIS HD
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/3389
-#EXTINF:-1 tvg-id="TS2" tvg-name="[SPORT]_SUPERSPORT LA LIGA HD" tvg-logo="http://live.maxcimo.com:8000/images/578f1207d909c6bce293dbd632a5494b.png" group-title="MAXCIMO 1006",[SPORT]_SUPERSPORT LA LIGA HD
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/3394
-#EXTINF:-1 tvg-id="SH4" tvg-name="[SPORT]_SUPERSPORT FOOTBALL HD" tvg-logo="http://live.maxcimo.com:8000/images/c173cda32c2572ae9466ee7f13206636.png" group-title="MAXCIMO 1006",[SPORT]_SUPERSPORT FOOTBALL HD
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/3393
-#EXTINF:-1 tvg-id="sportklub-hr" tvg-name="[SPORT]_SPORT KLUB 1 HD" tvg-logo="http://fullboxiptv.com/img/sportklub1.jpg" group-title="MAXCIMO 1006",[SPORT]_SPORT KLUB 1 HD
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/429
-#EXTINF:-1 tvg-id="" tvg-name="[SPORT]_SPORT KLUB 2 HD" tvg-logo="http://live.maxcimo.com:8000/images/f0b92c39fcd43f481cdf47e3a3b8432c.png" group-title="MAXCIMO 1006",[SPORT]_SPORT KLUB 2 HD
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/430
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="[PT]_SPORT TV 1 HD" tvg-logo="http://live.maxcimo.com:8000/images/5455f4c3847d506a0be7afb78eb0e618.png" group-title="MAXCIMO 1006",[PT]_SPORT TV 1 HD
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/460
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="[PT]_SPORT TV 2 HD" tvg-logo="http://live.maxcimo.com:8000/images/d0106448fb33a956561ce98ea4394b08.png" group-title="MAXCIMO 1006",[PT]_SPORT TV 2 HD
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/462
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="[PT]_SPORT TV 3 HD" tvg-logo="http://live.maxcimo.com:8000/images/817762db3c3de2706b1591b5b69f4fda.png" group-title="MAXCIMO 1006",[PT]_SPORT TV 3 HD
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/464
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="[PT]_SPORT TV 4 HD" tvg-logo="http://live.maxcimo.com:8000/images/3fb9964052a1176ed0c762914ca89354.png" group-title="MAXCIMO 1006",[PT]_SPORT TV 4 HD
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/466
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="[PT]_ELEVEN SPORTS 1 HD" tvg-logo="http://live.maxcimo.com:8000/images/0cbd0fda3d38d0726600f71fc27a579e.png" group-title="MAXCIMO 1006",[PT]_ELEVEN SPORTS 1 HD
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/6502
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="[PT]_ELEVEN SPORTS 2 HD" tvg-logo="http://live.maxcimo.com:8000/images/7ad6ffada96ec68918e38228c66d1f65.png" group-title="MAXCIMO 1006",[PT]_ELEVEN SPORTS 2 HD
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/6503
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="[PT]_ELEVEN SPORTS 3 HD" tvg-logo="http://live.maxcimo.com:8000/images/731d4a70530650c79bf61d34d13fad96.png" group-title="MAXCIMO 1006",[PT]_ELEVEN SPORTS 3 HD
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/6504
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="[PT]_ELEVEN SPORTS 4 HD" tvg-logo="http://live.maxcimo.com:8000/images/34eff7d98c8c2413f6381494ac7f065a.png" group-title="MAXCIMO 1006",[PT]_ELEVEN SPORTS 4 HD
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/7031
-#EXTINF:-1 tvg-id="2969" tvg-name="[USA]_BEIN SPORTS 1 HD" tvg-logo="http://live.maxcimo.com:8000/images/27cb32fe67691f6d913545795b767a28.png" group-title="MAXCIMO 1006",[USA]_BEIN SPORTS 1 HD
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/33627
-#EXTINF:-1 tvg-id="3195" tvg-name="[USA]_BEIN SPORTS 2 HD" tvg-logo="http://live.maxcimo.com:8000/images/6e9e1151c4b1b80b513850509a84d73a.png" group-title="MAXCIMO 1006",[USA]_BEIN SPORTS 2 HD
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/33628
-#EXTINF:-1 tvg-id="3196" tvg-name="[USA]_BEIN SPORTS 3 HD" tvg-logo="http://live.maxcimo.com:8000/images/0940b7d404bbd2b66820615102b9bf34.png" group-title="MAXCIMO 1006",[USA]_BEIN SPORTS 3 HD
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/33629
-#EXTINF:-1 tvg-id="3197" tvg-name="[USA]_BEIN SPORTS 4 HD" tvg-logo="http://live.maxcimo.com:8000/images/9209863f5031badd668c134c468bff98.png" group-title="MAXCIMO 1006",[USA]_BEIN SPORTS 4 HD
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/33630
-#EXTINF:-1 tvg-id="3198" tvg-name="[USA]_BEIN SPORTS 5 HD" tvg-logo="http://live.maxcimo.com:8000/images/46cfc27d0fc2aea81ea48bf174381542.png" group-title="MAXCIMO 1006",[USA]_BEIN SPORTS 5 HD
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/33631
-#EXTINF:-1 tvg-id="ArenaPremium2.rs" tvg-name="[AL]_ARENA SPORT 2 PREMIUM" tvg-logo="http://live.maxcimo.com:8000/images/703aca16847d64235028c3bc98a8b91a.png" group-title="MAXCIMO 1006",[AL]_ARENA SPORT 2 PREMIUM
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/31313
-#EXTINF:-1 tvg-id="" tvg-name="[AL]_ARENA SPORT 1 PREMIUM" tvg-logo="http://live.maxcimo.com:8000/images/5f8cd8365203bf882fb8a85731834157.png" group-title="MAXCIMO 1006",[AL]_ARENA SPORT 1 PREMIUM
-http://live.maxcimo.com:8000/ovhsat8269265/5985h93fi6deI6g/31315
-
-
-#EXTINF:-1 group-title="METAIP 1106",Bein Sport Premium1 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5544
-#EXTINF:-1 group-title="METAIP 1106",Bein Sport Premium2 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5545
-#EXTINF:-1 group-title="METAIP 1106",Bein Sport Premium3 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5546
-#EXTINF:-1 group-title="METAIP 1106",Bein Sport HD1 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5547
-#EXTINF:-1 group-title="METAIP 1106",Bein Sport HD2 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5548
-#EXTINF:-1 group-title="METAIP 1106",Bein Sport HD3 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5549
-#EXTINF:-1 group-title="METAIP 1106",Bein Sport HD4 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5550
-#EXTINF:-1 group-title="METAIP 1106",Bein Sport HD5 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5551
-#EXTINF:-1 group-title="METAIP 1106",Bein Sport HD6 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5552
-#EXTINF:-1 group-title="METAIP 1106",Bein Sport HD7 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5553
-#EXTINF:-1 group-title="METAIP 1106",Bein Sport English HD1 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5554
-#EXTINF:-1 group-title="METAIP 1106",Bein Sport English HD2 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5555
-#EXTINF:-1 group-title="METAIP 1106",Bein Sport English HD3 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5556
-#EXTINF:-1 group-title="METAIP 1106",Bein Sport French HD1 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5557
-#EXTINF:-1 group-title="METAIP 1106",Bein Sport French HD2 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5558
-#EXTINF:-1 group-title="METAIP 1106",Bein Sport French HD3 720
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5559
-#EXTINF:-1 group-title="METAIP 1106",beIN SPORTS XTRA 2 HD
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5497
-#EXTINF:-1 group-title="METAIP 1106",Bein Sports English HD3
-http://metaip.tv:80/rezastar7/ucCIshvpYj/5501
-#EXTINF:-1 group-title="METAIP 1106",PL | Polsat Sport HD
-http://metaip.tv:80/rezastar7/ucCIshvpYj/2170
-#EXTINF:-1 group-title="METAIP 1106",PL | Polsat Sport Premium 1
-http://metaip.tv:80/rezastar7/ucCIshvpYj/2172
-#EXTINF:-1 group-title="METAIP 1106",PL | Polsat Sport Premium 2
-http://metaip.tv:80/rezastar7/ucCIshvpYj/2173
-#EXTINF:-1 group-title="METAIP 1106",PL | Eleven Sports 1 HD
-http://metaip.tv:80/rezastar7/ucCIshvpYj/2108
-#EXTINF:-1 group-title="METAIP 1106",PL | Eleven Sports 2 HD
-http://metaip.tv:80/rezastar7/ucCIshvpYj/2109
-#EXTINF:-1 group-title="METAIP 1106",PL | Eleven Sports 3 HD
-http://metaip.tv:80/rezastar7/ucCIshvpYj/2110
-#EXTINF:-1 group-title="METAIP 1106",DE | Sky Sport Tennis HD
-http://metaip.tv:80/rezastar7/ucCIshvpYj/6065
-#EXTINF:-1 group-title="METAIP 1106",DE | Sky Sport Premier League HD
-http://metaip.tv:80/rezastar7/ucCIshvpYj/6068
-#EXTINF:-1 group-title="METAIP 1106",NL : ZIGGO TENNIS ᴴᴰ
-http://metaip.tv:80/rezastar7/ucCIshvpYj/3260
-#EXTINF:-1 group-title="METAIP 1106",NL | ESPN 1 ᴴᴰ
-http://metaip.tv:80/rezastar7/ucCIshvpYj/3261
-#EXTINF:-1 group-title="METAIP 1106",NL | ESPN 2 ᴴᴰ
-http://metaip.tv:80/rezastar7/ucCIshvpYj/3262
-#EXTINF:-1 group-title="METAIP 1106",NL | ESPN 3 ᴴᴰ
-http://metaip.tv:80/rezastar7/ucCIshvpYj/3263
 
 #EXTINF:-1  group-title="PREMIUMIPTV  1106",ID: beIN Sports 1
 http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/165105
