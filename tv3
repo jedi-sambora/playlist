@@ -1127,7 +1127,7 @@ http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/280249
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165105
 #EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="SUPERMEDIA  2706",ID: beIN Sports 3
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298506
-EXTINF:-1 tvg-id="" tvg-name="RS: Sport Klub" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d2c5dc85785e9c070002066c2c7865ec.png" group-title="SUPERMEDIA  2706",RS: Sport Klub
+#EXTINF:-1 tvg-id="" tvg-name="RS: Sport Klub" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d2c5dc85785e9c070002066c2c7865ec.png" group-title="SUPERMEDIA  2706",RS: Sport Klub
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3466
 #EXTINF:-1 tvg-id="" tvg-name="RS: Sport Klub 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d1fe0f9118f2c6c8d1ae0c9f704701c8.png" group-title="SUPERMEDIA  2706",RS: Sport Klub 2
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3468
