@@ -1498,3 +1498,129 @@ http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/26271.ts
 http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/1222.ts
 #EXTINF:-1 group-title="FORMULE 1807", ||USA|| TENNIS CHANNEL HD
 http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/2075.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8dab62dd2c2faa3d66261a2a5afa6260.png"  group-title="AANAX 1807", ZA: SuperSport Football
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/38575
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Grandstand" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a8f0bee8d482364f261394bf7678fa0e.png"  group-title="AANAX 1807",ZA: SuperSport Grandstand
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/194353
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport LaLiga" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png"  group-title="AANAX 1807",ZA: SuperSport LaLiga
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/194358
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2f8f23e2a35d5a4e9ea336d7b51fd98f.png"  group-title="AANAX 1807", ,ZA: SuperSport Premier League
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/11642
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png"  group-title="AANAX 1807",MY: Astro SuperSport
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/146068
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png"  group-title="AANAX 1807",MY: Astro SuperSport 2
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/157556
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png"  group-title="AANAX 1807",MY: Astro SuperSport 3
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/157557
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png"  group-title="AANAX 1807",MY: Astro SuperSport 4
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/157558
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png"  group-title="AANAX 1807",MY: Astro SuperSport 5
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/287792
+#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png"  group-title="AANAX 1807",ID: beIN Sports 1
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/165105
+#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png"  group-title="AANAX 1807",ID: beIN Sports 3
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/298506
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="QA: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png"  group-title="AANAX 1807",QA: beIN Sports 1
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/100
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="QA: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/31f6dbe34a61abb6cadc5a13d54d8b4d.png"  group-title="AANAX 1807",QA: beIN Sports 2
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/101
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="QA: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/e44c1ec620401a2f6238c2c24ccd6c58.png"  group-title="AANAX 1807",QA: beIN Sports 3
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/102
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="QA: beIN Sports 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/0dea19dc983ea75ced697dfaa4c47d85.png"  group-title="AANAX 1807",QA: beIN Sports 4
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/103
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="QA: beIN Sports 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b6c7110b7a880c716cb68073a5df5d90.png"  group-title="AANAX 1807",QA: beIN Sports 5
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/104
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="QA: beIN Sports 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/3ad0c2b25e878d21a2e3820b0c43a447.png"  group-title="AANAX 1807",QA: beIN Sports 6
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/105
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="QA: beIN Sports 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f823bec52bbeb99de40933222aed1f4f.png"  group-title="AANAX 1807",QA: beIN Sports 7
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/106
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="QA: beIN Sports English 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/076e8935ff1715e7ebc42f5f23b9b152.png"  group-title="AANAX 1807",QA: beIN Sports English 1
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/110
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="QA: beIN Sports English 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/33be90fdfdbfbf011c3e65d621196ec8.png"  group-title="AANAX 1807",QA: beIN Sports English 2
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/111
+#EXTINF:-1 tvg-id="beinsports3en.qa" tvg-name="QA: beIN Sports English 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/724539660042a9755e6c7d5dafef0a55.png"  group-title="AANAX 1807",QA: beIN Sports English 3
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/267769
+#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="QA: beIN Sports NBA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/9cfea567e2dd21638264fe3a6f0a2275.png"  group-title="AANAX 1807",QA: beIN Sports NBA
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/15962
+#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="QA: beIN Sports Premium 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f8dc1d4d49006fbed81fb539bc89cde9.png"  group-title="AANAX 1807",QA: beIN Sports Premium 1
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/109
+#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="QA: beIN Sports Premium 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/4d9551cacc9433108171ed793131df12.png"  group-title="AANAX 1807",QA: beIN Sports Premium 2
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/280145
+#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="QA: beIN Sports Premium 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/f1f5358024c749247618e2fcf2892eb5.jpg"  group-title="AANAX 1807",QA: beIN Sports Premium 3
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/280249
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d40f4a64bc712ca477fcb4e7412b5ccc.png"  group-title="AANAX 1807",FR: beIN Sports 1
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/144
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0546311aed22a274b1e87d23c33dd475.png"  group-title="AANAX 1807",FR: beIN Sports 2
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/145
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e36554e2468737a5a1e4a41112d673a5.png"  group-title="AANAX 1807",FR: beIN Sports 3
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/146
+#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="FR: beIN Sports Max 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d1e2a161fa7650f78d827bb7e8cd3c21.png"  group-title="AANAX 1807",FR: beIN Sports Max 4
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/3599
+#EXTINF:-1 tvg-id="" tvg-name="RS: Sport Klub" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d2c5dc85785e9c070002066c2c7865ec.png"  group-title="AANAX 1807",RS: Sport Klub
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/3466
+#EXTINF:-1 tvg-id="" tvg-name="RS: Sport Klub 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d1fe0f9118f2c6c8d1ae0c9f704701c8.png"  group-title="AANAX 1807",RS: Sport Klub 2
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/3468
+#EXTINF:-1 tvg-id="" tvg-name="RS: Sport Klub 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4c1330777185e47ef3f0ee3ea69aa0fc.png"  group-title="AANAX 1807",RS: Sport Klub 3
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/3469
+#EXTINF:-1 tvg-id="" tvg-name="RS: Sport Klub 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/133fc2e99d0909d750bd414d1c22a7be.jpg"  group-title="AANAX 1807",RS: Sport Klub 4
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/5563
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/6eafe5012b43973f31c5ee0b648e0594.png"  group-title="AANAX 1807",BR: SPORTV
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/4015
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2f163193ab2de12c120e02e264bc16a7.png"  group-title="AANAX 1807",BR: SPORTV 2
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/8783
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/50dc54d140bb68ee92fc1aa01bec5bb5.png"  group-title="AANAX 1807",BR: SPORTV 3
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/8784
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/58f557ffa761091f837f5c289ac13208.png"  group-title="AANAX 1807",ARG: ESPN
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/61174
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/826ab86530a6d609f3c9e0a5108ae8d1.png"  group-title="AANAX 1807",ARG: ESPN 2
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/70752
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/985c0340dda83edcaa89659e2740eb50.png"  group-title="AANAX 1807",ARG: ESPN 3
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/61170
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/746819f44951f27e240c8fdaf3ea5384.png"  group-title="AANAX 1807",ARG: ESPN 4
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/295627
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN Extra" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f066512b6451650645ed53b790f2db72.png"  group-title="AANAX 1807",ARG: ESPN Extra
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/66298
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/32cd381cddd366224dff2fae29c3a2cd.svg"  group-title="AANAX 1807",ARG: ESPN Premium
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/298158
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b6fb0039905434d2842bc80cc0c4db30.png"  group-title="AANAX 1807",ARG: FOX SPORTS
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/280370
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/f3e732b27ff9cbfc4c52b5e56c4f66d5.png"  group-title="AANAX 1807",ARG: FOX SPORTS 2
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/3187
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/cf9e3efa58e179ce0bc51a1bdb47efe0.png"  group-title="AANAX 1807",ARG: FOX SPORTS 3
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/10921
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Tennis" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b51cde8be3defead0ca307c5be0c9453.png"  group-title="AANAX 1807",ZA: SuperSport Tennis
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/15200
+#EXTINF:-1 tvg-id="" tvg-name="IT: Super Tennis" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/bdefcae800980ed5e3bf454b7552b79c.png"  group-title="AANAX 1807",IT: Super Tennis
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/285535
+#EXTINF:-1 tvg-id="" tvg-name="US: Tennis Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/590b3e12b150b7db6d5fc81e53da0d82.png"  group-title="AANAX 1807",US: Tennis Channel
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/2275
+#EXTINF:-1 tvg-id="espn.nl" tvg-name="NL: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fba7aa6abb3a938d6d2da99a29f57a8c.png"  group-title="AANAX 1807",NL: ESPN
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/267209
+#EXTINF:-1 tvg-id="espn2.nl" tvg-name="NL: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8d4dbda121c0cfc982516038b068e70.png"  group-title="AANAX 1807",NL: ESPN 2
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/272119
+#EXTINF:-1 tvg-id="espn3.nl" tvg-name="NL: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/60f126e910a86dc97e8c75e0e799fad0.png"  group-title="AANAX 1807",NL: ESPN 3
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/272120
+#EXTINF:-1 tvg-id="espn4.nl" tvg-name="NL: ESPN 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/25459a2e8dd1ae1419024458ee7d4418.png"  group-title="AANAX 1807",NL: ESPN 4
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/272121
+#EXTINF:-1 tvg-id="eurosport1.nl" tvg-name="NL: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d5e361ea894402e5f0a3d02825e0c1c6.png"  group-title="AANAX 1807",NL: EUROSPORT 1
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/5074
+#EXTINF:-1 tvg-id="eurosport2.nl" tvg-name="NL: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7bea1ec666c4776b520707139174f0c6.png"  group-title="AANAX 1807",NL: EUROSPORT 2
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/5331
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png"  group-title="AANAX 1807",PT: SPORT TV 1
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1483
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png"  group-title="AANAX 1807",PT: SPORT TV 2
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1486
+#EXTINF:-1 tvg-id="polsatsport.pl" tvg-name="PL: Polsat Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f3f3f2765b30bb460c9f2c07a2303b90.png"  group-title="AANAX 1807",PL: Polsat Sport
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/356
+#EXTINF:-1 tvg-id="polsatsportpremium1.pl" tvg-name="PL: Polsat Sport Premium 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/36b09d18656255ec922fb2c5d324f58c.png"  group-title="AANAX 1807",PL: Polsat Sport Premium 1
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/23199
+#EXTINF:-1 tvg-id="polsatsportpremium2.pl" tvg-name="PL: Polsat Sport Premium 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22f29148c61f543ed4083efeeacf931e.png"  group-title="AANAX 1807",PL: Polsat Sport Premium 2
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/29607
+#EXTINF:-1 tvg-id="polsatsportpremium3ppv.pl" tvg-name="PL: Polsat Sport Premium 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e1ec5f267ca1decde0d9e51925976033.png"  group-title="AANAX 1807",PL: Polsat Sport Premium 3
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/147031
+#EXTINF:-1 tvg-id="" tvg-name="ID: Usee Sport 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png"  group-title="AANAX 1807",ID: Usee Sport 1
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/298577
+#EXTINF:-1 tvg-id="" tvg-name="ID: Usee Sport 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png"  group-title="AANAX 1807",ID: Usee Sport 2
+http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/298578
