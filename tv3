@@ -1363,3 +1363,40 @@ http://sysadminhost.net:8080/stadnik/6a627b52a9/273
 http://sysadminhost.net:8080/stadnik/6a627b52a9/271
 #EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/62202041be4d633e670a98fc322eaab0.svg" group-title="SYSADMIN 1407",UK: BT Sport 4
 http://sysadminhost.net:8080/stadnik/6a627b52a9/298471
+
+#EXTINF:-1 group-title="173 1807",beIN Sports 1
+http://173.212.193.243:8080/mo3ad2L/mo3ad2L/877
+#EXTINF:-1 group-title="173 1807",beIN Sports 2
+http://173.212.193.243:8080/mo3ad2L/mo3ad2L/878
+#EXTINF:-1 group-title="173 1807",beIN Sports 3
+http://173.212.193.243:8080/mo3ad2L/mo3ad2L/879
+#EXTINF:-1 group-title="173 1807",beIN Sports 4
+http://173.212.193.243:8080/mo3ad2L/mo3ad2L/732
+#EXTINF:-1 group-title="173 1807",beIN Sports 5 
+http://173.212.193.243:8080/mo3ad2L/mo3ad2L/409
+#EXTINF:-1 group-title="173 1807",beIN Sports 6 
+http://173.212.193.243:8080/mo3ad2L/mo3ad2L/410
+#EXTINF:-1 group-title="173 1807",BeIN Sports 7 
+http://173.212.193.243:8080/mo3ad2L/mo3ad2L/884
+#EXTINF:-1 group-title="173 1807",SSC 1 HD
+http://173.212.193.243:8080/mo3ad2L/mo3ad2L/733
+#EXTINF:-1 group-title="173 1807",SSC 2 HD
+http://173.212.193.243:8080/mo3ad2L/mo3ad2L/734
+#EXTINF:-1 group-title="173 1807",SSC 3 HD
+http://173.212.193.243:8080/mo3ad2L/mo3ad2L/735
+#EXTINF:-1 group-title="173 1807",SSC 5 HD
+http://173.212.193.243:8080/mo3ad2L/mo3ad2L/737
+#EXTINF:-1 group-title="173 1807",SSC-EXTRA 1 HD
+http://173.212.193.243:8080/mo3ad2L/mo3ad2L/882
+#EXTINF:-1 group-title="173 1807",SSC-EXTRA 2 HD
+http://173.212.193.243:8080/mo3ad2L/mo3ad2L/883
+#EXTINF:-1 group-title="173 1807",AD | SPORT PREMIUM 1 HD
+http://173.212.193.243:8080/mo3ad2L/mo3ad2L/880
+#EXTINF:-1 group-title="173 1807",AD | SPORT PREMIUM 2 HD
+http://173.212.193.243:8080/mo3ad2L/mo3ad2L/881
+#EXTINF:-1 group-title="173 1807",beIN 1 Premium FHD
+http://173.212.193.243:8080/mo3ad2L/mo3ad2L/405
+#EXTINF:-1 group-title="173 1807",beIN 2 Premium HD
+http://173.212.193.243:8080/mo3ad2L/mo3ad2L/406
+#EXTINF:-1 group-title="173 1807",beIN 3 Premium FHD
+http://173.212.193.243:8080/mo3ad2L/mo3ad2L/407
