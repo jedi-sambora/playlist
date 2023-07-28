@@ -222,8 +222,8 @@ http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/267542
 http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/13205.ts
 
 
-
-
+#EXTINF:-1 tvg-id="DAZN1Spain.es" tvg-logo="" group-title="SPORT LOCAL",voli 
+https://etslive-2-vidio-com.akamaized.net/exp=1690544155~acl=/hls-p/ingest_13886_*/*~hmac=ad8efd303274f4800d43af7987e8269590457c7efd0240114f75681acca9432c/hls-p/ingest_13886_1080p/index.m3u8?
 #EXTINF:-1 tvg-id="DAZN1Spain.es" tvg-logo="" group-title="SPORT LOCAL",DAZN EuroSport 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
