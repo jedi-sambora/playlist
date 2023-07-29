@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1 tvg-id="AstroSuperSportUHD.my" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Olahraga" ,Astro Supersport UHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkeyhttps://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/hls/JV_SportsHD3_DIG_MOB-audio_98835_hin=98800-video=1173600.m3u8?
 #KODIPROP:inputstream.adaptive.license_key=https://mammothtv.my.id/astro/1601
 https://daddyhd.mammothtv.workers.dev/dash-wv/linear/1601/default_primary.mpd
 
@@ -224,6 +224,8 @@ http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/13205.ts
 
 #EXTINF:-1 tvg-id="DAZN1Spain.es" tvg-logo="" group-title="SPORT LOCAL",voli 
 https://etslive-2-vidio-com.akamaized.net/exp=1690544155~acl=/hls-p/ingest_13886_*/*~hmac=ad8efd303274f4800d43af7987e8269590457c7efd0240114f75681acca9432c/hls-p/ingest_13886_1080p/index.m3u8?
+#EXTINF:-1 tvg-id="DAZN1Spain.es" tvg-logo="" group-title="SPORT LOCAL",badminton 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/hls/JV_SportsHD3_DIG_MOB-audio_98835_hin=98800-video=1173600.m3u8?
 #EXTINF:-1 tvg-id="DAZN1Spain.es" tvg-logo="" group-title="SPORT LOCAL",DAZN EuroSport 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
