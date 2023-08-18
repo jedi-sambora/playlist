@@ -1661,3 +1661,33 @@ http://cloud.cdn-proxy.win:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/1
 #EXTINF:-1 tvg-id="" tvg-name="AF | HD CANAL+ SPORT 5" tvg-logo="http://exaott.xyz/lagi/CANAL+_AFRIC_HD/CANAL_+_SPORT_5.png" group-title="CLOUDCDN 0908",AF | HD CANAL+ SPORT 5
 http://cloud.cdn-proxy.win:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/149432
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM 1 ᴴᴰ" tvg-logo="http://195.154.136.206/Bein/New/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="VIPERTEAM 1808",beIN SPORTS PREMIUM 1 ᴴᴰ
+http://viperteam.ddns.net:25461/Hdlocal/lVGKNfSWZu/17418
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM 2 ᴴᴰ" tvg-logo="http://195.154.136.206/Bein/New/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="VIPERTEAM 1808",beIN SPORTS PREMIUM 2 ᴴᴰ
+http://viperteam.ddns.net:25461/Hdlocal/lVGKNfSWZu/17419
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM 3 ᴴᴰ" tvg-logo="http://195.154.136.206/Bein/New/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="VIPERTEAM 1808",beIN SPORTS PREMIUM 3 ᴴᴰ
+http://viperteam.ddns.net:25461/Hdlocal/lVGKNfSWZu/17420
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 ᴴᴰ" tvg-logo="http://195.154.136.206/Bein/sport/Bein1.png" group-title="VIPERTEAM 1808",beIN SPORTS 1 ᴴᴰ
+http://viperteam.ddns.net:25461/Hdlocal/lVGKNfSWZu/15144
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 ᴴᴰ" tvg-logo="http://195.154.136.206/Bein/sport/Bein2.png" group-title="VIPERTEAM 1808",beIN SPORTS 2 ᴴᴰ
+http://viperteam.ddns.net:25461/Hdlocal/lVGKNfSWZu/15147
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 ᴴᴰ" tvg-logo="http://195.154.136.206/Bein/sport/Bein3.png" group-title="VIPERTEAM 1808",beIN SPORTS 3 ᴴᴰ
+http://viperteam.ddns.net:25461/Hdlocal/lVGKNfSWZu/15145
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 ᴴᴰ" tvg-logo="http://195.154.136.206/Bein/sport/Bein4.png" group-title="VIPERTEAM 1808",beIN SPORTS 4 ᴴᴰ
+http://viperteam.ddns.net:25461/Hdlocal/lVGKNfSWZu/15146
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 ᴴᴰ" tvg-logo="http://195.154.136.206/Bein/sport/Bein5.png" group-title="VIPERTEAM 1808",beIN SPORTS 5 ᴴᴰ
+http://viperteam.ddns.net:25461/Hdlocal/lVGKNfSWZu/15150
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 ᴴᴰ" tvg-logo="http://195.154.136.206/Bein/sport/Bein6.png" group-title="VIPERTEAM 1808",beIN SPORTS 6 ᴴᴰ
+http://viperteam.ddns.net:25461/Hdlocal/lVGKNfSWZu/15152
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 ᴴᴰ" tvg-logo="http://195.154.136.206/Bein/sport/Bein7.png" group-title="VIPERTEAM 1808",beIN SPORTS 7 ᴴᴰ
+http://viperteam.ddns.net:25461/Hdlocal/lVGKNfSWZu/17444
+#EXTINF:-1 tvg-id="" tvg-name="(FR) beIN SPORTS 1 HD" tvg-logo="http://www.zizoiptv.com:8000/logo/chn/341.png"  group-title="VIPERTEAM 1808",(FR) beIN SPORTS 1 HD
+http://viperteam.ddns.net:25461/Hdlocal/lVGKNfSWZu/420
+#EXTINF:-1 tvg-id="" tvg-name="[FR] beIN SPORTS 2 HD" tvg-logo="http://www.zizoiptv.com:8000/logo/chn/342.png"  group-title="VIPERTEAM 1808",[FR] beIN SPORTS 2 HD
+http://viperteam.ddns.net:25461/Hdlocal/lVGKNfSWZu/421
+#EXTINF:-1 tvg-id="" tvg-name="[FR] beIN SPORTS 3 HD" tvg-logo="http://www.zizoiptv.com:8000/logo/chn/1527.png"  group-title="VIPERTEAM 1808",[FR] beIN SPORTS 3 HD
+http://viperteam.ddns.net:25461/Hdlocal/lVGKNfSWZu/422
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport NBA HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/nba_tv_us.png" group-title="VIPERTEAM 1808",Bein Sport NBA HD
+http://viperteam.ddns.net:25461/Hdlocal/lVGKNfSWZu/5405
+#EXTINF:-1 tvg-id="" tvg-name="USA:TENNIS CHANNEL" tvg-logo=""  group-title="VIPERTEAM 1808",USA:TENNIS CHANNEL
+http://viperteam.ddns.net:25461/Hdlocal/lVGKNfSWZu/80936
