@@ -969,98 +969,16 @@ http://kuchini.site:8080/devtv/5af3eeb538/285558
 http://kuchini.site:8080/devtv/5af3eeb538/285559
 #EXTINF:-1 group-title="KUCHINI",Arena Premium 3
 http://kuchini.site:8080/devtv/5af3eeb538/285560
+#EXTINF:-1,ZA: SuperSport Football
+http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/38575
+#EXTINF:-1,ZA: SuperSport LaLiga
+http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/194358
+#EXTINF:-1,ZA: SuperSport Premier League
+http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/11642
+#EXTINF:-1,ZA: SuperSport Tennis
+http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/15200
 
 
-
-
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",ID: beIN Sports 1
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/165105
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",ID: beIN Sports 3
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298506
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",QA: beIN Sports 1
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/100
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",QA: beIN Sports 2
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/101
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",QA: beIN Sports 3
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/102
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",QA: beIN Sports 4
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/103
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",QA: beIN Sports 5
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/104
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",QA: beIN Sports 6
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/105
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",QA: beIN Sports 7
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/106
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",QA: beIN Sports English 1
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/110
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",QA: beIN Sports English 2
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/111
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",QA: beIN Sports English 3
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/267769
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",QA: beIN Sports Max 1
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/296991
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",QA: beIN Sports Max 2
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/199001
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",QA: beIN Sports Max 3
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/296992
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",QA: beIN Sports Max 4
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/13813
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",QA: beIN Sports Max 8
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/298192
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",QA: beIN Sports Max 9
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/13816
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",QA: beIN Sports NBA
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/15962
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",US: beIN Sports USA
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/296691
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",SI: Sport Klub 1
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/3467
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",SI: Sport Klub 2
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/5595
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",SI: Sport Klub 3
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/5596
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",MY: Astro SuperSport
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/146068
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",MY: Astro SuperSport 2
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/157556
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",MY: Astro SuperSport 3
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/157557
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",MY: Astro SuperSport 4
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/157558
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",MY: Astro SuperSport 5
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/287792
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",ZA: SuperSport Football
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/38575
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",ZA: SuperSport Grandstand
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/194353
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",ZA: SuperSport LaLiga
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/194358
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",ZA: SuperSport Premier League
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/11642
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",ZA: SuperSport Tennis
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/15200
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",US: Tennis Channel
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/2275
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",BG: Max Sport 1
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/20448
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",BG: Max Sport 2
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/20449
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",ARG: ESPN
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/61174
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",ARG: ESPN 2
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/70752
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",BR: SPORTV
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/4015
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",BR: SPORTV 2
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8783
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",ARG: FOX SPORTS
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/280370
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",ARG: FOX SPORTS 2
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/3187
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",ARG: FOX SPORTS 3
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/10921
-#EXTINF:-1  group-title="PREMIUMIPTV  1106",ARG: FOX SPORTS Premium
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/3203
 
 
 
