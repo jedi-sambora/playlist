@@ -1457,7 +1457,9 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd|User-
 
 
 
-#EXTINF:0 tvg-id="SPOTV.kr" tvg-name="SPOTV" tvg-logo="" group-title="SPORT LOCAL", SPO TV 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:0 group-title="SPORT LOCAL" tvg-logo="https://www.useetv.com/pimages/logo_spotv_big.png?v=1",SPOTV
 https://av-live-cdn.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
