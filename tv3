@@ -1667,3 +1667,8 @@ http://185.71.64.28:2052/goldstreamexchnage/tj7xXCM8X27U/7994027
 http://185.71.64.28:2052/goldstreamexchnage/tj7xXCM8X27U/7994026
 
 
+#EXTINF:-1 group-title="MPD Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzXMSw-ThVNtrqD_TwmLiKoInrm2XpLp3cyQ&usqp=CAU",DAZN 1 ES #2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b144f73e6fefe91cd05f850e2b589d0&kid=82f8e2a17dac44c0a18f660479349c59
+https://dce-ak-livewwdazn.akamaized.ne/dashdrm/dazn-linear-037/stream.mpd
