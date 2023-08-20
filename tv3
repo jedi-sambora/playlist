@@ -516,7 +516,7 @@ https://opl-n02.cdn-ncplus.pl/live/store01/11Sports2/hd2-dashdrm02/11Sports3.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CxvHvhvc/20220927-063909.png" group-title="MPD SPORT",ESPN 2 HD
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CxvHvhvc/20220927-063909.png" group-title="MPD SPORTS",ESPN 2 HD
 https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -525,7 +525,7 @@ https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CxvHvhvc/20220927-063909.png" group-title="MPD SPORT",ESPN 1 HD
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CxvHvhvc/20220927-063909.png" group-title="MPD SPORTS",ESPN 1 HD
 https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/dash/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -534,7 +534,7 @@ https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/dash/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CxvHvhvc/20220927-063909.png" group-title="MPD SPORT",ESPN 3 HD
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CxvHvhvc/20220927-063909.png" group-title="MPD SPORTS",ESPN 3 HD
 https://live1-ott.izzigo.tv/out/u/dash/ESPN-3-HD/dash/default.mpd
 
 #EXTINF:-1 group-title="KUCHINI",QA: beIN Sports 1
