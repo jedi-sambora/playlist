@@ -1550,3 +1550,94 @@ http://dmtn.tv:8080/GEN-NEW-LINE/jW76DnQ/159126
 http://dmtn.tv:8080/GEN-NEW-LINE/jW76DnQ/159130
 #EXTINF:-1 group-title="DMTN 2208"Peacock Live: Premier League
 http://dmtn.tv:8080/GEN-NEW-LINE/jW76DnQ/367471
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: S Sport Premier league" tvg-logo="" group-title="TVIPWORLD",UK: S Sport Premier league
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1375.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: S SportS Football" tvg-logo="" group-title="TVIPWORLD",UK: S SportS Football
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1376.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 1" tvg-logo="" group-title="TVIPWORLD",UK: BT Sport 1
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1384.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 2" tvg-logo="" group-title="TVIPWORLD",UK: BT Sport 2
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1385.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 3" tvg-logo="" group-title="TVIPWORLD",UK: BT Sport 3
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1386.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 1" tvg-logo="" group-title="TVIPWORLD",PT: Sport TV 1
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1387.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2" tvg-logo="" group-title="TVIPWORLD",PT: Sport TV 2
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1388.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3" tvg-logo="" group-title="TVIPWORLD",PT: Sport TV 3
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1389.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 4" tvg-logo="" group-title="TVIPWORLD",PT: Sport TV 4
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1390.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 5" tvg-logo="" group-title="TVIPWORLD",PT: Sport TV 5
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1391.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 2 HD" tvg-logo="" group-title="TVIPWORLD",AL: Super Sport 2 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1450.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 3 HD" tvg-logo="" group-title="TVIPWORLD",AL: Super Sport 3 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1452.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: KSport 1" tvg-logo="" group-title="TVIPWORLD",AL: KSport 1
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1465.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: KSport 2" tvg-logo="" group-title="TVIPWORLD",AL: KSport 2
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1466.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: bN Sport 1 HD" tvg-logo="" group-title="TVIPWORLD",AR: bN Sport 1 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1691.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: bN Sport 2 HD" tvg-logo="" group-title="TVIPWORLD",AR: bN Sport 2 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1692.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: bN Sport 3 HD" tvg-logo="" group-title="TVIPWORLD",AR: bN Sport 3 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1693.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: bN Sport 4 HD" tvg-logo="" group-title="TVIPWORLD",AR: bN Sport 4 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1694.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: bN Sport 5 HD" tvg-logo="" group-title="TVIPWORLD",AR: bN Sport 5 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1695.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: bN Sport 6 HD" tvg-logo="" group-title="TVIPWORLD",AR: bN Sport 6 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1696.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: bN Sport 7 HD" tvg-logo="" group-title="TVIPWORLD",AR: bN Sport 7 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1697.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: bN Sport Premium 1 HD" tvg-logo="" group-title="TVIPWORLD",AR: bN Sport Premium 1 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1698.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: bN Sport Premium 2 HD" tvg-logo="" group-title="TVIPWORLD",AR: bN Sport Premium 2 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1699.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: bN Sport Premium 3 HD" tvg-logo="" group-title="TVIPWORLD",AR: bN Sport Premium 3 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1700.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: bN Sport Max 1 HD" tvg-logo="" group-title="TVIPWORLD",AR: bN Sport Max 1 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1701.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: bN Sport Max 2 HD" tvg-logo="" group-title="TVIPWORLD",AR: bN Sport Max 2 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1702.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: bN Sport Max 3 HD" tvg-logo="" group-title="TVIPWORLD",AR: bN Sport Max 3 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1703.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: bN Sport Max 4 HD" tvg-logo="" group-title="TVIPWORLD",AR: bN Sport Max 4 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1704.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: bN Sport Max 5 HD" tvg-logo="" group-title="TVIPWORLD",AR: bN Sport Max 5 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1705.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: bN Sport MAX 6 HD" tvg-logo="" group-title="TVIPWORLD",AR: bN Sport MAX 6 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1706.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: bN Sport 1 EN HD" tvg-logo="" group-title="TVIPWORLD",AR: bN Sport 1 EN HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1707.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: bN Sport 2 EN HD" tvg-logo="" group-title="TVIPWORLD",AR: bN Sport 2 EN HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1708.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: S Sport Premier League HD" tvg-logo="" group-title="TVIPWORLD",DE: S Sport Premier League HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1365.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: S Sport Tennis HD" tvg-logo="" group-title="TVIPWORLD",DE: S Sport Tennis HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1366.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: V Sport Premier League" tvg-logo="" group-title="TVIPWORLD",NO: V Sport Premier League
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1660.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: V Sport Premier League 1" tvg-logo="" group-title="TVIPWORLD",NO: V Sport Premier League 1
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1661.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: V Sport Premier League 2" tvg-logo="" group-title="TVIPWORLD",NO: V Sport Premier League 2
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1662.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 1 HD" tvg-logo="" group-title="TVIPWORLD",RO: Digi Sport 1 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1570.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 2 HD" tvg-logo="" group-title="TVIPWORLD",RO: Digi Sport 2 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1571.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 3 HD" tvg-logo="" group-title="TVIPWORLD",RO: Digi Sport 3 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1572.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 4 HD" tvg-logo="" group-title="TVIPWORLD",RO: Digi Sport 4 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1573.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sport 1 HD" tvg-logo="" group-title="TVIPWORLD",PT: Eleven Sport 1 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1574.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sport 2 HD" tvg-logo="" group-title="TVIPWORLD",PT: Eleven Sport 2 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1575.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sport 3 HD" tvg-logo="" group-title="TVIPWORLD",PT: Eleven Sport 3 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1576.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sport 4 HD" tvg-logo="" group-title="TVIPWORLD",PT: Eleven Sport 4 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1577.ts
