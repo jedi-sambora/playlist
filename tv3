@@ -1641,3 +1641,10 @@ http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1575.ts
 http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1576.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sport 4 HD" tvg-logo="" group-title="TVIPWORLD",PT: Eleven Sport 4 HD
 http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1577.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sport 1 HD" tvg-logo="" group-title="TVIPWORLD",PL: Eleven Sport 1 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1468.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sport 2 HD" tvg-logo="" group-title="TVIPWORLD",PL: Eleven Sport 2 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1469.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sport 3 HD" tvg-logo="" group-title="TVIPWORLD",PL: Eleven Sport 3 HD
+http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1470.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sport 4 HD" tvg-logo="" group-title="TVIPWORLD",PL: Eleven Sport 4 HD
