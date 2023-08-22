@@ -2,9 +2,14 @@
 #EXTM3U url-tvg="https://epg.mammothtv.my.id/local/epg.xml,https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedstates.xml,https://www.bevy.be/bevyfiles/arabiapremiumeng.xml,https://www.bevy.be/bevyfiles/australia.xml,https://www.bevy.be/bevyfiles/germany.xml,https://www.bevy.be/bevyfiles/india.xml,https://www.bevy.be/bevyfiles/poland.xml,https://www.bevy.be/bevyfiles/russia.xml,https://www.bevy.be/bevyfiles/serbia.xml,https://www.bevy.be/bevyfiles/southafricapremium.xml" refresh="3600"
 
 
-
-
-
+#EXTINF:-1 group-title="Movie",SE: V FILM PREMIERE HD
+http://dmtn.tv:8080/GEN-NEW-LINE/jW76DnQ/103797
+#EXTINF:-1 group-title="Movie",SE: V FILM HITS HD
+http://dmtn.tv:8080/GEN-NEW-LINE/jW76DnQ/252085
+#EXTINF:-1 group-title="Movie",FR| CINÉ+ PREMIER HD
+http://dmtn.tv:8080/GEN-NEW-LINE/jW76DnQ/38287
+#EXTINF:-1 group-title="Movie",|NL| FILM1 ACTION HD
+http://dmtn.tv:8080/GEN-NEW-LINE/jW76DnQ/382860
 #EXTINF:-1 group-title="Movie",Douyu Movie
 https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
 #EXTINF:-1 group-title="Movie",&flix
@@ -1511,3 +1516,37 @@ https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_fotboll_live/cdgo_viasat_
 #KODIPROP:inputstream.adaptive.license_key=e76ae17d861546be9c238e6582509c2c:de1a91e2306bf8442236a80477f526e1
 https://ssc-1-on-prem-ak.akamaized.net/out/v1/ec938957da2849879f0cfac7e309ff38/index.mpd
 
+#EXTINF:-1 group-title="DMTN 2208"FR| Be〓 SPORTS 1 HD
+http://dmtn.tv:8080/GEN-NEW-LINE/jW76DnQ/7217
+#EXTINF:-1 group-title="DMTN 2208"FR| Be〓 SPORTS 2 HD
+http://dmtn.tv:8080/GEN-NEW-LINE/jW76DnQ/126546
+#EXTINF:-1 group-title="DMTN 2208"FR| Be〓 SPORTS 3 HD
+http://dmtn.tv:8080/GEN-NEW-LINE/jW76DnQ/116575
+#EXTINF:-1 group-title="DMTN 2208"ZA: SuperSport Tennis HD
+http://dmtn.tv:8080/GEN-NEW-LINE/jW76DnQ/226610
+#EXTINF:-1 group-title="DMTN 2208"US: TENNIS CHANNEL PLUS 1 HD
+http://dmtn.tv:8080/GEN-NEW-LINE/jW76DnQ/226612
+#EXTINF:-1 group-title="DMTN 2208"US: TENNIS CHANNEL PLUS 2 HD
+http://dmtn.tv:8080/GEN-NEW-LINE/jW76DnQ/226613
+#EXTINF:-1 group-title="DMTN 2208"FI: V SPORT PREMIUM HD
+http://dmtn.tv:8080/GEN-NEW-LINE/jW76DnQ/53515
+#EXTINF:-1 group-title="DMTN 2208"FI: V SPORT FOTBOLL HD
+http://dmtn.tv:8080/GEN-NEW-LINE/jW76DnQ/243039
+#EXTINF:-1 group-title="DMTN 2208"CH: BLUE SPORT 1 HD
+http://dmtn.tv:8080/GEN-NEW-LINE/jW76DnQ/196566
+#EXTINF:-1 group-title="DMTN 2208"CH: BLUE SPORT 2
+http://dmtn.tv:8080/GEN-NEW-LINE/jW76DnQ/196568
+#EXTINF:-1 group-title="DMTN 2208"PT: SPORT TV1 HD
+http://dmtn.tv:8080/GEN-NEW-LINE/jW76DnQ/159085
+#EXTINF:-1 group-title="DMTN 2208"PT: SPORT TV2 HD (M)
+http://dmtn.tv:8080/GEN-NEW-LINE/jW76DnQ/159091
+#EXTINF:-1 group-title="DMTN 2208"PT: SPORT TV3 HD (M)
+http://dmtn.tv:8080/GEN-NEW-LINE/jW76DnQ/159096
+#EXTINF:-1 group-title="DMTN 2208"PT: ELEVEN SPORTS 1 HD
+http://dmtn.tv:8080/GEN-NEW-LINE/jW76DnQ/159122
+#EXTINF:-1 group-title="DMTN 2208"PT: ELEVEN SPORTS 2 HD (M)
+http://dmtn.tv:8080/GEN-NEW-LINE/jW76DnQ/159126
+#EXTINF:-1 group-title="DMTN 2208"PT: ELEVEN SPORTS 3 HD (M)
+http://dmtn.tv:8080/GEN-NEW-LINE/jW76DnQ/159130
+#EXTINF:-1 group-title="DMTN 2208"Peacock Live: Premier League
+http://dmtn.tv:8080/GEN-NEW-LINE/jW76DnQ/367471
