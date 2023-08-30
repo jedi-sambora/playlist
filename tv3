@@ -1370,6 +1370,40 @@ http://185.71.64.28:2052/goldstreamexchnage/tj7xXCM8X27U/7994027
 http://185.71.64.28:2052/goldstreamexchnage/tj7xXCM8X27U/7994026
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kf6+hDwIx8xSPv2CcpLkDg","kid":"efQChzCsypq4sA8mFY3bEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro Supersport 4" group-title="SPORT LOCAL" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" ch-number="814",814 Astro SuperSport 4 HD
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
+https://cors-anywhere.azm.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eupDzZPCSqmDTstJhPf9Wg","kid":"IvvvHBzXJek5fsFkVfCCEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="AstroSuperSportUHD" tvg-name="Astro SuperSport UHD" group-title="SPORT LOCAL" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" ch-number="805",805 Astro SuperSport UHD HD
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
+https://cors-anywhere.azm.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_ott.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dYgj5Oq7bkyMA20HPbRrjA","kid":"wOGASqHZ/ZxBxBvw9hpfEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="SPOTV2Asia" tvg-name="SPOTV2 HD" group-title="SPORT LOCAL" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png" ch-number="816",816 SPOTV HD MY
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
+https://cors-anywhere.azm.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7W1n2VPRSwJrJgLPiEZXfg","kid":"Xv0m2lABNjtNb6SpyBKtEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" group-title="SPORT LOCAL" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png" ch-number="810",810 SPOTV2 HD MY 
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
+https://cors-anywhere.azm.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
+
 
 #EXTINF:-1 group-title="SPORT LOCAL" tvg-logo="https://i.imgur.com/YcZ6VfT.png" , Dazn 1 🇩🇪
 #KODIPROP:inputstreamaddon=inputstream.adaptive
