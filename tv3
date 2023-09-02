@@ -1768,3 +1768,45 @@ http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1469.ts
 #EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sport 3 HD" tvg-logo="" group-title="TVIPWORLD",PL: Eleven Sport 3 HD
 http://tvip.world:80/WORLDSPORT/fPZhNtFQQP/1470.ts
 #EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sport 4 HD" tvg-logo="" group-title="TVIPWORLD",PL: Eleven Sport 4 HD
+
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK | Sky Sports Premier League HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/skysportspl.png" group-title="CX2 0209",UK | Sky Sports Premier League HD
+http://cx2.supercloud9.xyz:2095/live/yefRuFZwkK/rMIv3A0OoL/4896.ts
+#EXTINF:-1 tvg-id="nbcsportsnetwork.us" tvg-name="Peacock | NBC Sports" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/peacock.jpg"group-title="CX2 0209",Peacock | NBC Sports
+http://cx2.supercloud9.xyz:2095/live/yefRuFZwkK/rMIv3A0OoL/45429.ts
+#EXTINF:-1 tvg-id="nbcsportsnetwork.us" tvg-name="Peacock | Premier League" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/peacock.jpg"group-title="CX2 0209",Peacock | Premier League
+http://cx2.supercloud9.xyz:2095/live/yefRuFZwkK/rMIv3A0OoL/45428.ts
+#EXTINF:-1 tvg-id="Premier5" tvg-name="EPL | Hub Premier 5 FHD: Manchester City vs Fulham" tvg-logo="http://cloud9apps.ddns.net/logos/hub.jpg" group-title="CX2 0209",EPL | Hub Premier 5 FHD: Manchester City vs Fulham
+http://cx2.supercloud9.xyz:2095/live/yefRuFZwkK/rMIv3A0OoL/47983.ts
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="ZA | SuperSport Premier League HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/supersport.jpg"group-title="CX2 0209",ZA | SuperSport Premier League HD
+#EXTINF:-1 tvg-id="1.L" tvg-name="Now HK | Premier Sports 1:" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/nowhk.png" group-title="CX2 0209",Now HK | Premier Sports 1:
+http://cx2.supercloud9.xyz:2095/live/yefRuFZwkK/rMIv3A0OoL/49674.ts
+#EXTINF:-1 tvg-id="1.L" tvg-name="Now HK | Premier Sports 2: " tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/nowhk.png" group-title="CX2 0209",Now HK | Premier Sports 2: 
+http://cx2.supercloud9.xyz:2095/live/yefRuFZwkK/rMIv3A0OoL/49675.ts
+#EXTINF:-1 tvg-id="1.L" tvg-name="Now HK | Premier Sports 3: " tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/nowhk.png" group-title="CX2 0209",Now HK | Premier Sports 3: 
+http://cx2.supercloud9.xyz:2095/live/yefRuFZwkK/rMIv3A0OoL/49676.ts
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="MY | Astro Supersport 1 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/astrosupersport.png" group-title="CX2 0209",MY | Astro Supersport 1 HD
+http://cx2.supercloud9.xyz:2095/live/yefRuFZwkK/rMIv3A0OoL/12693.ts
+#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="MY | Astro Supersport 2 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/astrosupersport.png" group-title="CX2 0209",MY | Astro Supersport 2 HD
+http://cx2.supercloud9.xyz:2095/live/yefRuFZwkK/rMIv3A0OoL/12694.ts
+#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="MY | Astro Supersport 3 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/astrosupersport.png" group-title="CX2 0209",MY | Astro Supersport 3 HD
+http://cx2.supercloud9.xyz:2095/live/yefRuFZwkK/rMIv3A0OoL/12695.ts
+#EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="MY | Astro Supersport 4 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/astrosupersport.png" group-title="CX2 0209",MY | Astro Supersport 4 HD
+http://cx2.supercloud9.xyz:2095/live/yefRuFZwkK/rMIv3A0OoL/12696.ts
+#EXTINF:-1 tvg-id="astrosupersport5.my" tvg-name="MY | Astro Supersport 5 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/astrosupersport.png" group-title="CX2 0209",MY | Astro Supersport 5 HD
+http://cx2.supercloud9.xyz:2095/live/yefRuFZwkK/rMIv3A0OoL/12698.ts
+#EXTINF:-1 tvg-id="beinsports.my" tvg-name="MY | Astro Bein Sports HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/beinsports.png" group-title="CX2 0209",MY | Astro Bein Sports HD
+http://cx2.supercloud9.xyz:2095/live/yefRuFZwkK/rMIv3A0OoL/12700.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | Astro Bein Sports 2 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/beinsports2hd.png" group-title="CX2 0209",MY | Astro Bein Sports 2 HD
+http://cx2.supercloud9.xyz:2095/live/yefRuFZwkK/rMIv3A0OoL/44406.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY | Astro Bein Sports 3 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/beinsports3hd.png" group-title="CX2 0209",MY | Astro Bein Sports 3 HD
+http://cx2.supercloud9.xyz:2095/live/yefRuFZwkK/rMIv3A0OoL/44405.ts
+#EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="ZA | SuperSport Tennis HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/supersport.jpg"group-title="CX2 0209",ZA | SuperSport Tennis HD
+http://cx2.supercloud9.xyz:2095/live/yefRuFZwkK/rMIv3A0OoL/16274.ts
+#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-name="ZA | SuperSport Grandstand HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/supersport.jpg"group-title="CX2 0209",ZA | SuperSport Grandstand HD
+http://cx2.supercloud9.xyz:2095/live/yefRuFZwkK/rMIv3A0OoL/5246.ts
+#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="ZA | SuperSport La Liga HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/supersport.jpg"group-title="CX2 0209",ZA | SuperSport La Liga HD
+http://cx2.supercloud9.xyz:2095/live/yefRuFZwkK/rMIv3A0OoL/5243.ts
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="ZA | SuperSport Football HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/supersport.jpg"group-title="CX2 0209",ZA | SuperSport Football HD
+http://cx2.supercloud9.xyz:2095/live/yefRuFZwkK/rMIv3A0OoL/5250.ts
+#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="USA | Tennis Channel" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/tennischannel.png"group-title="CX2 0209",USA | Tennis Channel
+http://cx2.supercloud9.xyz:2095/live/yefRuFZwkK/rMIv3A0OoL/5054.ts
