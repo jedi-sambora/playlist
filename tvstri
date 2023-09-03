@@ -1,4 +1,7 @@
-#EXTM3U
+#EXTM3U url-tvg="https://strimz.my.id/epg"
+#EXTM3U x-url-tvg="https://strimz.my.id/epg"
+
+
 #EXTINF: -1 tvg-id="strimzlivesport.id" tvg-name="strimz information" tvg-logo="http://strimz.my.id/logo/strimz.png" group-title="Live Sports", Strimz Information
 https://m3u-editor.com/serve/969d0a30-be9d-11ed-8af3-3f034e98415d/791315854
 #EXTINF: -1 tvg-id="strimzlivefootball.id" tvg-logo="http://strimz.my.id/logo/strimz.png" group-title="Live Football", Strimz Information
