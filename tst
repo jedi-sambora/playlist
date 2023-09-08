@@ -19,7 +19,7 @@ https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls7/arena1.mpd
 
 
