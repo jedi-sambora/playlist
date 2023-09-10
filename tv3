@@ -22,6 +22,15 @@ http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/11511
 http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73//267542
 #EXTINF:-1 group-title="Movie" ,Movies NOW
 http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/169118
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RNqgvcUmtzdBE6XydNAEJQ", "kid":"yqad9IN2XgGJz3hAvoA3KA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="173" group-title="Movie" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-748-j5l5fnts-v1/imageContent-748-j5l5fnts-m1.png", Movies Now
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_235/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HGowsEdifIP7SVUg4mQzPg", "kid":"N1n6FsVpXrGYr2dG1SsR2A" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="562" group-title="Movie" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12095-j9ooixfs-v1/imageContent-12095-j9ooixfs-m1.png", Movies Now HD
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_563/output/manifest.mpd
 
 
 
