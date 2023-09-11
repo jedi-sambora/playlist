@@ -23,13 +23,22 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-039/stream.mpd|User-
 http://linear004-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportsf1)/manifest_hd.mpd
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="Sport" tvg-logo="https://iili.io/1NzqF4.png",Ass-tro Supersport 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=66a61cf22e5956c49b89ecbc56049248:51fc45f5a6f184b9916631ac31f95653
-#EXTINF:-1 group-title="HD" tvg-logo="https://futboltvhd.live/img/logo-canal/ESPN.webp" , ESPN
-https://dtvott-abc.akamaized.net/dash_live_1104/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
+#EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="Sport",Ass-tro SuperSport 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104
+https://aqfadtv.xyz/live/supersport2/index.mpd
+
+#EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="Sport",Ass-tro SuperSport 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd
+
+#EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="Sport",Ass-tro SuperSport 4 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
