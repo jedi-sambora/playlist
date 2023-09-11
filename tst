@@ -42,4 +42,4 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kf6+hDwIx8xSPv2CcpLkDg","kid":"efQChzCsypq4sA8mFY3bEA"}],"type":"temporary"}
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-https://cors-anywhere.azm.workers.devhttps://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+https://cors-anywhere.azm.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
