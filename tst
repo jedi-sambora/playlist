@@ -23,7 +23,7 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-039/stream.mpd|User-
 http://linear004-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportsf1)/manifest_hd.mpd
 
 
-#EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="Sport" tvg-logo="https://iili.io/1NzqF4.png",Ass-tro Supersport 1 HD
+#EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="Sport" tvg-logo="https://iili.io/1NzqF4.png",Ass-tro Supersport 1 HDxx
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kf6+hDwIx8xSPv2CcpLkDg","kid":"efQChzCsypq4sA8mFY3bEA"}],"type":"temporary"}
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
