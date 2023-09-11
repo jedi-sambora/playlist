@@ -29,3 +29,10 @@ http://linear004-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/ch
 #KODIPROP:inputstream.adaptive.license_key=c68ec2e525d8406b6c3cedbac72debae:a0f28f93fb9834d331df3ddedeb8a565
 https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://iptvboss.xyz/logos/Romania/PrimaSport4.ro.png",Prima Sports 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c68ec2e525d8406b6c3cedbac72debae:a0f28f93fb9834d331df3ddedeb8a565
+https://ott.cyberhost.ro/sdash/LIVE$LookSport1HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
