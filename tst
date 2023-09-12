@@ -23,13 +23,7 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-039/stream.mpd|User-
 http://linear004-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportsf1)/manifest_hd.mpd
 
 
-#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/php5E6gAp_61533564a1d67.png" group-title="Sports",K+SPORT1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GUOxdnUkSRQudAROpGVNeg", "kid":"sUl+whGpQA+trrZ3Zq1YCA" } ], "type":"temporary" }
-https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
-#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/phpAXdpHm_615335bd4e5b4.png" group-title="Sports",K+SPORT2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wHepM9VjaHzKXwRtalitEg", "kid":"1LnnO5cCQnuJ1pnJMBUQjA" } ], "type":"temporary" }
-http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.postimg.cc/rFzvwMGg/Bradford-4-1-Stevenage-Andy-Cook-fires-in-first-half-hat-trick-in-big-Bantams-win.png" group-title="Sports",Sky Sports Premier League
+#EXTVLCOPT:http-user-agent=Mozilla
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://srv.vhls.ru.com/cdn/premium130/playlist.m3u8
