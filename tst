@@ -22,12 +22,12 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-039/stream.mpd|User-
 #KODIPROP:inputstream.adaptive.license_key=0005de226b16ae5d75df48aa6099cca6:75e80519551edc03e890e13f01abd26d 
 http://linear004-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportsf1)/manifest_hd.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/am6VNky.png" group-title="SPORT LOCAL" ,  arena
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005de226b16ae5d75df48aa6099cca6:75e80519551edc03e890e13f01abd26d 
-https://linear010-gb-dash1-prd-ak.cdn.skycdp.com//100e/Content/DASH_003_sm/Live/channel(skysportsarena)/manifest_hd.mpd
+#EXTINF:-1 tvg-id="CanalPlusSport2Poland.pl" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg" group-title="SPORTS",Canal+ Sport 3 Polska 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e942b1dad92436baad0c6a6901f6d13:5adefdb3f4edd5ceee23d37c10c37e5c
+#KODIPROP:inputstream.adaptive.license_key=5fb92575d7da45219e9a88646cd3e243:31d1f1df9c246eb734de1be0f6bf6acf
+#https://opl-n02.cdn-ncplus.pl/live/store01/CplusSportHD/hd2-dashdrm02/CplusSportHD.mpd
+
 
 
 
