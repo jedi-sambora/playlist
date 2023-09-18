@@ -671,26 +671,20 @@ http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/298549
 
 
 
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png"   group-title="ASTRO",Astro SuperSport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium123/index.m3u8
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png"   group-title="ASTRO",Astro SuperSport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium124/index.m3u8
-#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png"   group-title="ASTRO",Astro SuperSport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium125/index.m3u8
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png"   group-title="ASTRO",Astro SuperSport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium126/index.m3u8
-#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Astro SuperSport 5" tvg-logo="https://i.imgur.com/jb1igcv.png"   group-title="ASTRO",Astro SuperSport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium43/index.m3u8
+#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="", Astro Supersport 1
+https://m3.ballnaja.com/live/assp1/chunks.m3u8
+#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="", Astro Supersport 2
+https://m3.ballnaja.com/live/assp2/chunks.m3u8
+#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="", Astro Supersport 3
+https://m3.ballnaja.com/live/assp3/chunks.m3u8
+#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="", Astro Supersport 4
+https://m3.ballnaja.com/live/assp4/chunks.m3u8
+#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="", BEIN Rugby
+https://m2.ballnaja.com:8443/beIN_Sports_Rugby/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="", BEIN Sports 2
+https://m2.ballnaja.com:8443/BeIn_Sports_2_Eng/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="", BEIN Sports 3
+https://m2.ballnaja.com:8443/BeIn_Sports_3_A/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="polsatsport.pl" tvg-name="PL: Polsat Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f3f3f2765b30bb460c9f2c07a2303b90.png" group-title="SUPERMEDIA  2706",PL: Polsat Sport
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/356
