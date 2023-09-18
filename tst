@@ -19,4 +19,11 @@ http://gamsgo.cyou:8080/live/cipo/TAd9YX7VLaxhjxXt/110.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4CUAbzdvHspsMy1ZHTdr/Q", "kid":"iof/eF7cT7yoNgjBaGRlNA" } ], "type":"temporary" } 
 http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 
+#EXTINF:-1  tvg-id="https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/i.mpd" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2BSPORT%201%20HD.png",K+SPORT1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZmQ1ZDE0NzItNDJjZi0zNTY2LWE5NTgtNDZmNDY2MzQxNDgy
+http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
+
 
