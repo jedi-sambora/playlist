@@ -10,7 +10,7 @@ refresh="3"
 #EXTINF:0 CUID="53166" tvg-name="beIN Sports English 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/076e8935ff1715e7ebc42f5f23b9b152.png" group-title="AR | FLEXER ENTERTAINMENT",beIN Sports English 1x
 http://gamsgo.cyou:8080/live/cipo/TAd9YX7VLaxhjxXt/110.m3u8
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺✚" logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport1-hd.png",K+ SPORT1
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺✚" logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport1-hd.png",K+ SPORT1x
 #EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
