@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="https://strimz.my.id/epg"
 #EXTM3U x-url-tvg="https://strimz.my.id/epg"
 
+
 #EXTINF: -1 tvg-id="strimzlivesport.id" tvg-name="strimz information" tvg-logo="http://strimz.my.id/logo/strimz.png" group-title="Live Sports", Strimz Information
 https://m3u-editor.com/serve/969d0a30-be9d-11ed-8af3-3f034e98415d/791315854
 #EXTINF: -1 tvg-id="strimzlivefootball.id" tvg-logo="http://strimz.my.id/logo/strimz.png" group-title="Live Football", Strimz Information
@@ -1777,22 +1778,4 @@ https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880939
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880940
 #EXTINF: -1 tvg-name="MTV Yo" tvg-logo="https://logo.iptveditor.com/yomtv.png" group-title="Musik", MTV Yo
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880941
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
