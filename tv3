@@ -1256,7 +1256,7 @@ http://cloud.cdn-proxy.win:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/1
 http://cloud.cdn-proxy.win:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/149432
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM 1 ᴴᴰ" tvg-logo="http://195.154.136.206/Bein/New/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="VIPERTEAM 1808",beIN SPORTS PREMIUM 1 ᴴᴰ
-http://viperteam.ddns.net:25461/Hdlocal/lVGKNfSWZu/17418
+http://viperteam.ddns.net:25461/Hd/lVGKNfSWZu/17418
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM 2 ᴴᴰ" tvg-logo="http://195.154.136.206/Bein/New/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="VIPERTEAM 1808",beIN SPORTS PREMIUM 2 ᴴᴰ
 http://viperteam.ddns.net:25461/Hdlocal/lVGKNfSWZu/17419
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM 3 ᴴᴰ" tvg-logo="http://195.154.136.206/Bein/New/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="VIPERTEAM 1808",beIN SPORTS PREMIUM 3 ᴴᴰ
@@ -1287,6 +1287,19 @@ http://viperteam.ddns.net:25461/Hdlocal/lVGKNfSWZu/5405
 http://viperteam.ddns.net:25461/Hdlocal/lVGKNfSWZu/80936
 
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", tvg-id="ksport1hd" group-title="3 - 15.00 Manchester City v Nottingham Forest", Premier Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00059cff7b261aa9b2fcbd57ad1ca332:1872a5a3afb4f369ab339024a09fda25
+http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(premier1sports50)/manifest_hd.mpd
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", tvg-id="ksport1hd" group-title="Sky Sports", Premier Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000354713f5113fd49f41f556bdf1add:9a6ca88b3b6c7088c8197a7366f2e7e5
+http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(premier2sports50)/manifest_hd.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
