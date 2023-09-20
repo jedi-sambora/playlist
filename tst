@@ -10,9 +10,9 @@ refresh="3"
 #EXTINF:0 CUID="53166" tvg-name="beIN Sports English 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/076e8935ff1715e7ebc42f5f23b9b152.png" group-title="AR | FLEXER ENTERTAINMENT",beIN Sports English 1x
 http://gamsgo.cyou:8080/live/cipo/TAd9YX7VLaxhjxXt/110.m3u8
 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dcub.zhehacindo.workers.dev/dcub
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HD.png" group-title="Premium Movies",HBO
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", tvg-id="ksport1hd" group-title="3 - 15.00 Manchester City v Nottingham Forest", Premier Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00059cff7b261aa9b2fcbd57ad1ca332:1872a5a3afb4f369ab339024a09fda25
+http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(premier1sports50)/manifest_hd.mpd
