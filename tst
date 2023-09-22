@@ -8,17 +8,20 @@ refresh="3"
 <!---- #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" ---->
 
 
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/dvr-${start}-${offset}.m3u8", ONx Sports HD MY
-#http://gg.gg/ONSPORT3MY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aSctF9eKf6B1ujSQn4XYgQ", "kid":"rMNWQ/tYS3+773NfjpGdhQ" } ], "type":"temporary" }
-http://s7769.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv264&offset=1&nodelay=1
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" , ON Sports HD ONCAB
-https://iplogger.com/0nsport
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://i.postimg.cc/RCTRcF0K/stod2sport-logo-2018-f12e541.png",Stod 1 Sport HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportshd
-https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/THETHAO_HD/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8ps0x/FZ5HcQj8rVK9VOrQ", "kid":"mG/52MTsSEuRUK1eQPpdIw" } ], "type":"temporary" }
+https://director.tv.c.is/__cl/cg:default/__c/Stod2Sport_HD_HTTP/__op/dash-default/__dci/119/__f/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://i.postimg.cc/RCTRcF0K/stod2sport-logo-2018-f12e541.png",Stod 2 Sport 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XuM8IreLZKRViCqhKmzeRg", "kid":"Xr4GEphgQ12bgmB5nfAxzg" } ], "type":"temporary" }
+https://director.tv.c.is/__cl/cg:default/__c/Stod2Sport2_HD_HTTP/__op/dash-default/__dci/120/__f/manifest.mpd
 
 
