@@ -1807,6 +1807,8 @@ https://ctrl.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 group-title="True Premier Network" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2
 https://ctrl.laotv.la/live/TSport2/index.m3u8
 
+
+
 #EXTINF:-1 group-title="Sony Sports" tvg-id="" tvg-chno="" group-logo="" tvg-logo="https://iptvboss.xyz/logos/India/SONYTEN1.in.png",Sony sport 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 #EXTINF:-1 group-title="Sony Sports" tvg-id="" tvg-chno="" group-logo="" tvg-logo="https://iptvboss.xyz/logos/India/SONYTEN2.in.png",Sony sport 2
