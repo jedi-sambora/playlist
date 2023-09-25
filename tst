@@ -7,16 +7,21 @@ refresh="3"
 <!---- #EXTM3U tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" ---->
 <!---- #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" ---->
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", tvg-id="ksport1hd" group-title="UK Sport", Sky Premier League
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0003075ac154b3ee20efa24b5d68f975:55a9ba94d283fdb8e123995d7d87a0a4
-https://linear002-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportspremierleague)/manifest_hd.mpd
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", tvg-id="ksport1hd" group-title="UK Sport", Sky Premier League
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0003075ac154b3ee20efa24b5d68f975:55a9ba94d283fdb8e123995d7d87a0a4
-https://linear010-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportspremierleague)/manifest_sd.mpd?c3.ri=13506665491068385835
+#EXTINF:0 CUID="62" tvg-name="CINEMAX HD" tvg-id="cinemax.id" tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="Movies",CINEMAX HD
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
+#EXTINF:0 CUID="63" tvg-name="HBO HD" tvg-id="hbo.id" tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="Movies",HBO HD
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
+#EXTINF:0 CUID="64" tvg-name="HBO FAMILY" tvg-id="hbofamily.id" tvg-logo="https://logo.iptveditor.com/hbofamily.png" group-title="Movies",HBO FAMILY
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
+#EXTINF:0 CUID="65" tvg-name="HBO HITS" tvg-id="hbohits.id" tvg-logo="https://logo.iptveditor.com/hbohits.png" group-title="Movies",HBO HITS
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
+#EXTINF:0 CUID="66" tvg-name="HBO SIGNATURE" tvg-id="hbosignature.id" tvg-logo="https://logo.iptveditor.com/hbosignature.png" group-title="Movies",HBO SIGNATURE
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
