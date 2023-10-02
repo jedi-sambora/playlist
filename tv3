@@ -23,8 +23,10 @@ http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/169118
 
 
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="AR - Bein Sport 1 HD" tvg-logo="http://attp.ddns.net:25461/images/8c7d3002c6ca0d724937a1eda832644a.png" group-title="ag2023",C2
+http://43.152.23.47/txdirect.hls.huya.com/src/0-0-0-2199063805274-10057-A-0-1_1500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - Bein Sport 1 HD" tvg-logo="http://attp.ddns.net:25461/images/8c7d3002c6ca0d724937a1eda832644a.png" group-title="ag2023",C1
+http://43.152.23.47/txdirect.hls.huya.com/src/0-0-0-2199063805270-10057-A-0-1_1500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR - Bein Sport 1 HD" tvg-logo="http://attp.ddns.net:25461/images/8c7d3002c6ca0d724937a1eda832644a.png" group-title="2HUBS 1404",AR - Bein Sport 1 HD
 http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/59734
 #EXTINF:-1 tvg-id="" tvg-name="AR - Bein Sport 2 HD" tvg-logo="http://attp.ddns.net:25461/images/8c7d3002c6ca0d724937a1eda832644a.png" group-title="2HUBS 1404",AR - Bein Sport 2 HD
