@@ -558,8 +558,8 @@ http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/29607
 http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/147031
 
 
-#EXTINF:-1 tvg-id="polsatsportpremium3ppv.pl" tvg-name="PL: Polsat Sport Premium 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e1ec5f267ca1decde0d9e51925976033.png" group-title="A BADMINTO",BAC JUNIOR 2023
-https://prod-ec-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/jDwFzF95tubYYWnzfzxG-xkaNnDta9i-Um5ATJ6TLWG59tAfT9C8fyqWFRQ7nLu-K9Uu_KbxDJPM0QpRjRseew/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-id="polsatsportpremium3ppv.pl" tvg-name="PL: Polsat Sport Premium 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e1ec5f267ca1decde0d9e51925976033.png" group-title="A BADMINTON",arc 
+http://203.205.136.211/liveplay-kk.rtxapp.com/live/program/live/hdnba5/2300000/mnf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="SYSADMIN 1407",ID: beIN Sports 1
 http://sysadminhost.net:8080/stadnik/6a627b52a9/165105
