@@ -230,41 +230,41 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf6
 #EXTINF:0 CUID="66" tvg-name="HBO SIGNATURE" tvg-id="hbosignature.id" tvg-logo="https://logo.iptveditor.com/hbosignature.png" group-title="Movies",HBO SIGNATURE
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmvsn.herokuapp.com/vsn.php
+#KODIPROP:inputstream.adaptive.license_key=https://strmz.my.id/drm/punyastrimz
 #EXTINF:0 CUID="698" tvg-name="My Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/My_Cinema_Logo_kedua.png" group-title="Movies",My Cinema
-https://satvb.my.id/vsn/visio.mpd?id=61925
+https://strmz.my.id/lokalized/channel.mpd?id=61925
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmvsn.herokuapp.com/vsn.php
+#KODIPROP:inputstream.adaptive.license_key=https://strmz.my.id/drm/punyastrimz
 #EXTINF:0 CUID="699" tvg-name="My Cinema Asia" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1647324751-.png" group-title="Movies",My Cinema Asia
-https://satvb.my.id/vsn/visio.mpd?id=61928
+https://strmz.my.id/lokalized/channel.mpd?id=61928
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmvsn.herokuapp.com/vsn.php
+#KODIPROP:inputstream.adaptive.license_key=https://strmz.my.id/drm/punyastrimz
 #EXTINF:0 CUID="700" tvg-name="My Family Channel" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000350-.png" group-title="Movies",My Family Channel
-https://satvb.my.id/vsn/visio.mpd?id=61934
+https://strmz.my.id/lokalized/channel.mpd?id=61934
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmvsn.herokuapp.com/vsn.php
+#KODIPROP:inputstream.adaptive.license_key=https://strmz.my.id/drm/punyastrimz
 #EXTINF:0 CUID="701" tvg-name="Rock Action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png" group-title="Movies",Rock Action
-https://satvb.my.id/vsn/visio.mpd?id=62821
+https://strmz.my.id/lokalized/channel.mpd?id=62821
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmvsn.herokuapp.com/vsn.php
+#KODIPROP:inputstream.adaptive.license_key=https://strmz.my.id/drm/punyastrimz
 #EXTINF:0 CUID="702" tvg-name="Cinemachi" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/Cinemachi-logo.png" group-title="Movies",Cinemachi
-https://satvb.my.id/vsn/visio.mpd?id=63343
+https://strmz.my.id/lokalized/channel.mpd?id=63343
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmvsn.herokuapp.com/vsn.php
+#KODIPROP:inputstream.adaptive.license_key=https://strmz.my.id/drm/punyastrimz
 #EXTINF:0 CUID="703" tvg-name="Cinemachi Kids" tvg-logo="https://logo.iptveditor.com/cinemachikids.png" group-title="Movies",Cinemachi Kids
-https://satvb.my.id/vsn/visio.mpd?id=63350
+https://strmz.my.id/lokalized/channel.mpd?id=63350
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmvsn.herokuapp.com/vsn.php
+#KODIPROP:inputstream.adaptive.license_key=https://strmz.my.id/drm/punyastrimz
 #EXTINF:0 CUID="704" tvg-name="Cinemachi Action" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-action.png" group-title="Movies",Cinemachi Action
-https://satvb.my.id/vsn/visio.mpd?id=63354
+https://strmz.my.id/lokalized/channel.mpd?id=63354
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmvsn.herokuapp.com/vsn.php
+#KODIPROP:inputstream.adaptive.license_key=https://strmz.my.id/drm/punyastrimz
 #EXTINF:0 CUID="705" tvg-name="Cinemachi Max" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-max.png" group-title="Movies",Cinemachi Max
-https://satvb.my.id/vsn/visio.mpd?id=63357
+https://strmz.my.id/lokalized/channel.mpd?id=63357
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmvsn.herokuapp.com/vsn.php
+#KODIPROP:inputstream.adaptive.license_key=https://strmz.my.id/drm/punyastrimz
 #EXTINF:0 CUID="706" tvg-name="Cinemachi Xtra" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-xtra.png" group-title="Movies",Cinemachi Xtra
-https://satvb.my.id/vsn/visio.mpd?id=63358
+https://strmz.my.id/lokalized/channel.mpd?id=63358
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
 #EXTINF:0 CUID="67" tvg-name="Warner TV" tvg-id="warnertv.id" tvg-logo="https://logo.iptveditor.com/warnertv.png" group-title="Movies",Warner TV
@@ -422,47 +422,47 @@ https://mangga-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 #EXTINF:0 CUID="113" tvg-name="Anhui TV" tvg-logo="https://logo.iptveditor.com/anhui.png" group-title="Entertainment",Anhui TV
 https://mangga-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmvsn.herokuapp.com/vsn.php
+#KODIPROP:inputstream.adaptive.license_key=https://strmz.my.id/drm/punyastrimz
 #EXTINF:0 CUID="694" tvg-name="Nick" tvg-id="nickelodeon.id" tvg-logo="https://logo.iptveditor.com/nickeldeon.png" group-title="Anak",Nick
 https://mangga-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmvsn.herokuapp.com/vsn.php
+#KODIPROP:inputstream.adaptive.license_key=https://strmz.my.id/drm/punyastrimz
 #EXTINF:0 CUID="697" tvg-name="Dreamworks" tvg-id="nickelodeon.id" tvg-logo="https://logo.iptveditor.com/dreamworks.png" group-title="Anak",Dreamworks
-https://satvb.my.id/vsn/visio.mpd?id=62877
+https://strmz.my.id/lokalized/channel.mpd?id=62877
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmvsn.herokuapp.com/vsn.php
+#KODIPROP:inputstream.adaptive.license_key=https://strmz.my.id/drm/punyastrimz
 #EXTINF:0 CUID="696" tvg-name="My Kidz" tvg-id="nickelodeon.id" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1655920070-.png" group-title="Anak",My Kidz
-https://satvb.my.id/vsn/visio.mpd?id=61938
+https://strmz.my.id/lokalized/channel.mpd?id=61938
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmvsn.herokuapp.com/vsn.php
+#KODIPROP:inputstream.adaptive.license_key=https://strmz.my.id/drm/punyastrimz
 #EXTINF:0 CUID="118" tvg-name="Animax" tvg-id="animax.id" tvg-logo="https://logo.iptveditor.com/animax.png" group-title="Anak",Animax
 https://mangga-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmvsn.herokuapp.com/vsn.php
+#KODIPROP:inputstream.adaptive.license_key=https://strmz.my.id/drm/punyastrimz
 #EXTINF:0 CUID="116" tvg-name="Cartoon Network" tvg-id="cartoonnetwork.id" tvg-logo="https://logo.iptveditor.com/cartoonnetwork.png" group-title="Anak",Cartoon Network
 https://mangga-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmvsn.herokuapp.com/vsn.php
+#KODIPROP:inputstream.adaptive.license_key=https://strmz.my.id/drm/punyastrimz
 #EXTINF:0 CUID="117" tvg-name="Boomerang" tvg-id="myboomerang.id" tvg-logo="https://logo.iptveditor.com/boomerang.png" group-title="Anak",Boomerang
 https://mangga-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmvsn.herokuapp.com/vsn.php
+#KODIPROP:inputstream.adaptive.license_key=https://strmz.my.id/drm/punyastrimz
 #EXTINF:0 CUID="119" tvg-name="MiaoMi" tvg-id="miaomi.id" tvg-logo="https://logo.iptveditor.com/miaomi.png" group-title="Anak",MiaoMi
 https://mangga-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmvsn.herokuapp.com/vsn.php
+#KODIPROP:inputstream.adaptive.license_key=https://strmz.my.id/drm/punyastrimz
 #EXTINF:0 CUID="120" tvg-name="Baby TV" tvg-id="babytv.id" tvg-logo="https://logo.iptveditor.com/babytv.png" group-title="Anak",Baby TV
 https://mangga-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmvsn.herokuapp.com/vsn.php
+#KODIPROP:inputstream.adaptive.license_key=https://strmz.my.id/drm/punyastrimz
 #EXTINF:0 CUID="122" tvg-name="Nick Jr" tvg-id="nickjr.id" tvg-logo="https://logo.iptveditor.com/nickjr.png" group-title="Anak",Nick Jr
 https://mangga-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmvsn.herokuapp.com/vsn.php
+#KODIPROP:inputstream.adaptive.license_key=https://strmz.my.id/drm/punyastrimz
 #EXTINF:0 CUID="123" tvg-name="CBeebies" tvg-id="cbeebies.id" tvg-logo="https://logo.iptveditor.com/cbeebies.png" group-title="Anak",CBeebies
 https://mangga-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmvsn.herokuapp.com/vsn.php
+#KODIPROP:inputstream.adaptive.license_key=https://strmz.my.id/drm/punyastrimz
 #EXTINF:0 CUID="124" tvg-name="Kids Channel" tvg-id="kidschannel.id" tvg-logo="https://logo.iptveditor.com/kids1.png" group-title="Anak",Kids Channel
 https://mangga-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1325,4 +1325,3 @@ https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880939
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880940
 #EXTINF: -1 tvg-name="MTV Yo" tvg-logo="https://logo.iptveditor.com/yomtv.png" group-title="Musik", MTV Yo
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880941
-
