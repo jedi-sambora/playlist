@@ -1450,17 +1450,3 @@ http://es4u.live:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/412915
 #EXTINF:-1 tvg-ID="" tvg-name="MATCH! FOOTBALL 3 RU" tvg-logo="http://vodkom.com:25461/Logo/champions-league.png" group-title="es4u 031023",MATCH! FOOTBALL 3 RU
 http://es4u.live:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/412916
 
-#EXTINF:-1 group-title="4KSUPER",MY ASSP 1
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918986&extension=ts
-#EXTINF:-1 group-title="4KSUPER",MY ASSP 2
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918985&extension=ts
-#EXTINF:-1 group-title="4KSUPER",MY ASSP 3
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918984&extension=ts
-#EXTINF:-1 group-title="4KSUPER",MY ASSP 4
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918983&extension=ts
-#EXTINF:-1 group-title="4KSUPER",HUB 1
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941573
-#EXTINF:-1 group-title="4KSUPER",HUB 2
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941572
-#EXTINF:-1 group-title="4KSUPER",HUB 4
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941571
