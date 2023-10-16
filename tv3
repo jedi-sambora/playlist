@@ -46,20 +46,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 
 
-#EXTINF:0 CUID="63" tvg-name="HBO HD" tvg-id="hbo.id" tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="Movie",HBO HD
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
-#EXTINF:0 CUID="64" tvg-name="HBO FAMILY" tvg-id="hbofamily.id" tvg-logo="https://logo.iptveditor.com/hbofamily.png" group-title="Movie",HBO FAMILY
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
-#EXTINF:0 CUID="65" tvg-name="HBO HITS" tvg-id="hbohits.id" tvg-logo="https://logo.iptveditor.com/hbohits.png" group-title="Movie",HBO HITS
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
-#EXTINF:0 CUID="66" tvg-name="HBO SIGNATURE" tvg-id="hbosignature.id" tvg-logo="https://logo.iptveditor.com/hbosignature.png" group-title="Movie",HBO SIGNATURE
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
 
 
 
