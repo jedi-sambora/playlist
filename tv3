@@ -1,10 +1,7 @@
 #EXTM3U
 #EXTM3U url-tvg="https://epg.mammothtv.my.id/local/epg.xml,https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedstates.xml,https://www.bevy.be/bevyfiles/arabiapremiumeng.xml,https://www.bevy.be/bevyfiles/australia.xml,https://www.bevy.be/bevyfiles/germany.xml,https://www.bevy.be/bevyfiles/india.xml,https://www.bevy.be/bevyfiles/poland.xml,https://www.bevy.be/bevyfiles/russia.xml,https://www.bevy.be/bevyfiles/serbia.xml,https://www.bevy.be/bevyfiles/southafricapremium.xml" refresh="3600"
 
-#EXTINF:-1 group-title="ach open",ch 1
-http://203.205.137.250/mobilelive-pull.ysp.cctv.cn/ysp/2021533701_hd.m3u8
-#EXTINF:-1 group-title="ach open",ch 2
-http://203.205.137.250/mobilelive-pull.ysp.cctv.cn/ysp/2021533801_hd.m3u8
+
 #EXTINF:-1 group-title="Movie",Douyu Movie
 https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
 #EXTINF:-1 group-title="Movie",&flix
@@ -12,11 +9,19 @@ http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/67082
 #EXTINF:-1 group-title="Movie",&Prive
 http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/67084
 #EXTINF:-1 group-title="Movie" tvg-name="Movie" tvg-logo="http://62.182.85.43/poster/STAR.MOVIES.png",IND ➤ STAR MOVIES HD
-http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/67281
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/11511
 #EXTINF:-1 group-title="Movie" tvg-name="Movie" tvg-logo="http://62.182.85.43/poster/STAR.MOVIES.png",IND ➤ STAR MOVIES SELECTED HD
-http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73//267542
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/267542
 #EXTINF:-1 group-title="Movie" ,Movies NOW
 http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/169118
+#EXTINF:-1 group-title="Movie" ,HBO HD
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/197972
+#EXTINF:-1 group-title="Movie" ,HBO Hits
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/196480
+#EXTINF:-1 group-title="Movie" ,HBO Signature
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/221948
+#EXTINF:-1 group-title="Movie" ,TVN MOVIE
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/157596
 
 #EXTINF:0 CUID="63" tvg-name="HBO HD" tvg-id="hbo.id" tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="Movie",HBO HD
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
@@ -1366,6 +1371,11 @@ https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a0605846d1f0dc153537b04d5fef6594:af747fe84c6c850c646364ad0b96c6cf
 https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d4502b83/index.mpd
+
+#EXTINF:-1 tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" group-title="#🇮🇩CHAMPION TV🇮🇩#", Premier League TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8453753ad98627104b70c6c75d922d6:c7577969241b3d500fd569e9a38672ae
+https://etslive-2-vidio-com.akamaized.net/drm/dash/9353_stream.mpd
 
 #EXTINF:-1 tvg-ID="" tvg-name="Bein Sport AFC HD" tvg-logo="" group-title="es4u 031023",Bein Sport AFC HD
 http://es4u.live:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/336726
