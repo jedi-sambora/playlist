@@ -22,6 +22,12 @@ http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/196480
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/221948
 #EXTINF:-1 group-title="Movie" ,TVN MOVIE
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/157596
+#EXTINF:-1 group-title="Movie" ,Flix
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/165095
+#EXTINF:-1 group-title="Movie" ,Galaxy
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/264773
+#EXTINF:-1 group-title="Movie" ,Galaxy Premium
+http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/264774
 
 #EXTINF:0 CUID="63" tvg-name="HBO HD" tvg-id="hbo.id" tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="Movie",HBO HD
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
