@@ -1,565 +1,3345 @@
 #EXTM3U url-tvg="https://strimz.my.id/epg"
 #EXTM3U x-url-tvg="https://strimz.my.id/epg"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://link.zozotv.xyz/epgtvku.xml,http://103.152.118.53:80/global/epg.xml.gz,http://103.152.118.53:80/local/epg.xml"
-
-########################################################################################################################################
-
-################################################################ MY FREEVIEW ##################################################################################
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/ https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default.mpd
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5027/ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=4f885481fe053e544096532c1dcb9710:24a9b17859862887f28f63c7c29bcaa5 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default.mpd
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV 3 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/5b318e37-8add-4b31-90c8-35fc1255014b https://unifi-live07.secureswiftcontent.com/UnifiHD/live03.mpd
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV 3 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/ https://aqfadtv.xyz/live/tv3/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV3_v1.png", TV3 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/ https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7046/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png", Salam HD https://centerrrs.hypp.tv/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9X1Uzxq6NAAqGASx47cKgqfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080121%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080121%2Curn:Huawei:liveTV:iptv47777%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOXQuCMBiF_80uR5s25sWuiiCIFWTdxuv2usTpbLOgf5-WXZ6P53DGCAb3W1Wtpcmx4NbWeV5gNWkQmQCb1RIlCpLwoYPixID3Te90sDN2PW9ubEVXlHNGGSflPLfz4JamfnYVRpX9sTPGV2NQ2VTTFyQKzkV0MDahpycP70v0S4VguVxjQhRc5oJzIRkZZ7eE1E4JuUPahG6AiPYQ3BdQNfiEZADTgkMNHar-6f2PO0Y7vfkAzoOp1vQAAAA&tenantId=6001
-
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7042/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png",SENSASI #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/ https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Unifi_Inspirasi.png", Inspirasi #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/ https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=1900d0fd8dfd2357ca2685c66628bf07:9c105cc68caa9cf65315e06ef50860ab EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png",Hypp Inspirasi https://unifi-live05.secureswiftcontent.com/UnifiHD/live29.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png", DEGUP https://centerrrs.hypp.tv/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9uuxH7x3%2FZwmEQ4bTlgbubfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080123%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080123%2Curn:Huawei:liveTV:XTV55631601%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7DIBQE_4YjAoqxfeCUKlKlyq0Ut9doDS_UCjYpOJH6941b57q7s5olw9HLs23l4OoKRnlXaadbaCfrthYVGiPkIFih7y5ZxRxiHOfQJb9in4fdUQouuFKSS8X69W4fEbZld50GyvbpgR0o30ZH1pcTv6FwhJApYBnTzN8jfj5y3CaM-k1NGtOqRhulTVOxZU17lPO9YV8ouzRdkMm_pvAH2BNiIXaBOyNQh4nsfI3xn3vL_m7zCxBl4Ar0AAAA&tenantId=6001
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png", SIAR https://centerrrs.hypp.tv/PLTV/88888888/224/3221227948/3221227948.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=nR3IWnuvgquP%2F8My8iyxx%2BoxnuQhQQA9yraVG9ZBgJG7lGYp3EaTqDAXfA4S%2BPVgQpTIHrOhXCgOoaP1Jv59qvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124221801%3AUTC%2C1001767138%2C27.125.242.143%2C20221124221801%2Curn:Huawei:liveTV:XTV56919296%2C1001767138%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C3073678270%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOywrCMBRE_ybLkEfjY5GVIghSBatbuUluY2naaFIF_16rdTszZzhDAovbtXa1xDmzxihbFMViaRTjzjFVc4NWMiAZ72XUglgIoel9Gd2InY-rC2eUUSE45YJU490mgJ-W5aMzmLT8Y0dMz8aidrmmT8gUvE_oYWhiTw8BXqcUpgnBalLjs9lSSrVQc6kEGca0gtx-GnKFvIrdDRK6XfRfQNcQMpIb2BY8ltCh7h8h_Lh9ch-bN5RyWgv0AAAA&tenantId=6001
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png",SIAR https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227948/3221227948.mpd?rrsip=web.hypp.tv&zoneoffset=0&servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=V%2B5TlG5zAAAe3XE8YHHQk1bRXr%2FeSM9LS0lyp4GeYaooqtnztuev0Q75QBWZOwo3RaEqI6D0FtUt6%2FwRfytNL%2FHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20220902121326%3AUTC%2C1001767138%2C210.186.211.75%2C20220902121326%2Curn:Huawei:liveTV:XTV56919296%2C1001767138%2C-1%2C0%2C1%2C%2C%2C7%2C595%2C%2C%2C4%2C1612403%2C0%2C517698%2C3133383759%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6001&from=5&hms_devid=1790&mag_hms=1790,1799&mount=1000002&targetdev=1790&it=H4sIAAAAAAAAA0XMTwvCIBiA8W-zo_hnynbwVARdJFh1jVd9FcFN0jXo28ci6P78nrWCw_NRg4Mg2MgHZl2vWD9Q67wcpRKSWRl81_Bpihadg5zTEk3xO7tPhwejhBLOGRGqu-67U4ao-bc0r9li_bMJ65Ycat8C2aARiLFihDWVhVwyvG81_5IPdUDz25kAAAA
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310", Dunia Sinema HD #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGJjYzg0ODEtZjA2MS0zYTY2LTg4OTMtZDJiZWQ0MTUzNTJl https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
-
-EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5 #EXTVLCOPT:network-caching=1000 https://live.mana2.my/Tv5/manifest.mpd|Referer=https://live.mana2.my/
-
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814", TV6 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my #EXTVLCOPT:network-caching=1000 #EXTVLCOPT:http-referrer=https://d25tgymtnqzu8s.cloudfront.net https://live.mana2.my/Tv6/tracks-v2a1/mono.m3u8?token=1697105117-078ffbcd544b4369a2f4cc48796432ee-0-3b08a6236351cff8c260f327598021e4&auth_key=1697105117-078ffbcd544b4369a2f4cc48796432ee-0-7705999d9316dca667410516a39930c6
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"V6jW+eODKIfbGOpgcRGHNg","kid":"QaQvta9FdQHBG7mxWNWhEA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",TV AlHijrah #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png", TV ALHIJRAH https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default.mpd
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Oj30_OSCTbA/T__hmGh2tvI/AAAAAAAACWg/d7WUGwrM7ag/w1200-h630-p-k-no-nu/tvikim-logo.png",TV IKIM https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png",SUKE TV #EXTVLCOPT:network-caching=1000 #EXTVLCOPT:http-referrer=https://www.youtube.com https://live.mana2.my/SukeTv/tracks-v2a1/mono.m3u8?token=1697105321-47a77b490a0b4cd4841391ff5dfa2c2a-0-65761662b5b62d766bcbe44feab372bb&auth_key=1697105321-47a77b490a0b4cd4841391ff5dfa2c2a-0-7a7b9569101abec84c8f2204d94e75d9
-
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVSarawak.png",TVS #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVSarawak.png", TVS https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yEdSMcCdwbY5iGl2tvx1dQ","kid":"YPICsWQH/t2ONpwyr1fdEA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Okey_v1.png",TV Okey #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Okey_v1.png",TV Okey https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default.mpd
-
-EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png", Awesome TV #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/211/ https://aqfadtv.xyz/live/awesometv/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=f84fbe826d15755ef91ebcab67c57d10:6a136b65d2d45699cb1e98506dfa1bee #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",Awesome TV https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
-
-#EXTINF:-1 tvg-logo="https://didik.tv/images/logotv2.png", NTV7 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/ https://aqfadtv.xyz/live/didiktvkpm/index.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/8TV_%28Malaysia%29_logo_in_English.svg/640px-8TV_%28Malaysia%29_logo_in_English.svg.png", 8TV #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/ https://aqfadtv.xyz/live/8tv/index.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TV9_Malaysia_Logo_2021.png/476px-TV9_Malaysia_Logo_2021.png", TV9 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/ https://aqfadtv.xyz/live/tv9/index.mpd
-
-#EXTINF:-1 tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png",Selangor TV #EXTVLCOPT:network-caching=1000 #EXTVLCOPT:http-referrer=https://skyios.sky4k.top https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"btm0l2qFSiic5iyslXpV1Q","kid":"rTyyQs3jtofiOYzSHrm9EA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Colors_v1.png",Colors HD #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Colors_v1.png", COLORS HD https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"URkFvxkUdLQStOwRdRWnnA", "kid":"5GNU+znCjllWvJRqwqBQEA" } ], "type":"temporary" } #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png", COLORS TAMIL #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CE52Vhu6nU866VOs3Tez7Q","kid":"kYrevhCphI1WfcbLWtzlEA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png", THANGATHIRAI HD #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
-
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png",Box Office Bollyone HD #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=f884a92f39d704c432f25cf6333a3210:ebd8183d33158584f12160364c317ffa https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
-
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png",Zee Cinema HD #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IPOS5aECG+aPwyvNuew61A", "kid":"25ZIOQB2LiM6p4MEV6DTEA" } ], "type":"temporary" } https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png", Zee Cinema https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default.mpd
-
-########################################################## MEDIACORP ##########################################################################################
-
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",Suria #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/d8ed7731-7bc7-4993-9f9d-c98ba9291b5c https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",SURIA #https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
-
-########################################################### RTB GO ############################################################################################
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png", RTB Sukmaindera HD #EXTVLCOPT:network-caching=1000 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png", RTB Aneka HD #EXTVLCOPT:network-caching=1000 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CGlzsD5.png", RTB Go Live HD #EXTVLCOPT:network-caching=1000 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-
-########################################################## CHINESE ############################################################################################
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d9mO1x23Ukwnh1oJqXX55g","kid":"fvfpE86FoRMbJwNgaRaaEA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png", iQIYI HD #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png", iQIYI HD https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=49a10d0610e700b4b20dd1c91a2fc310:eb5b2cec485514216f7c25d102ab8a13 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVB_Magic.png",TVB Magic https://linearjitp-playback.astro.com.my/dash-wv/linear/5107/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png", CELESTIAL HD https://nyanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png",Celestial Movies HD https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/100 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png", CCM https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCM_v1.png",CCM https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default.mpd
-
-###################################################################### KOREAN #################################################################################
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6txiarlZJV96uIHAPTBv4g","kid":"aSlQ05hpySr5qd3qRTwNEA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/KBSW_v1.png",KBS World #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/KBSW_v1.png", KBSW HD https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Red+aounZ7Y8rP2wHvKsKQ","kid":"2P45jHkGUXP6l4jyJgVlEA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/ONE.png",ONE #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29 #EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/ONE.png", ONE HD https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"taOoAISBIMhDrg+mjAnCYQ","kid":"qkiyi9cj+RIUiH327Z+tEA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png",K Plus https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png", KPLUS https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GegOzF0zchXGQATLScnLAQ","kid":"+vTWK7iY3lA0RsKPsaqSEA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/tvN.png",tvN https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=faf4d62bb898de503446c28fb1aa9210:19e80ecc5d337215c64004cb49c9cb01 #EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/tvN.png", tvN HD https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0SzOuvu6KlNdiKMIf4hCUg","kid":"jiaciqMq1364MGgxI0PWEA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm #EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7038/CPS/images/universal/film/logo/202208/20220811/20220811020901814w9o.png",Animax https://centerrrs.hypp.tv/PLTV/88888888/224/3221227925/3221227925.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO13ekK2bj%2FEqhmZsgCb487VK201C73xHPJjGvTHv3JiPHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124082916%3AUTC%2C1001767137%2C115.164.56.153%2C20221124082916%2Curn:Huawei:liveTV:XTV57622558%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy2rDMBRE_0ZLoUcqOQutUgKB4gbidlvG1rViIlup5ATy941bdzszZzhzRkeHVwctoavqRWmvN0a0sBslWrLopRWwhhX6rpNTrEOMwxTq5Bfs87T7koILrpTkUrFmudtHhHVZ38aWstP_2InyfejI-dLzOwpHCJkC5iFN_Bjx-MhxnTBqVjVpzFZVRkpj7ZbNS9qgXJ4NO6Ps0nhFJv-Wwi_gesRC7IrugkA1RnLTLcY_7j37p80PI8646_QAAAA&tenantId=6001
-
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/animax https://aqfadtv.xyz/live/mewatch/animax/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz EXTINF:-1 tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png", Animax https://av-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
-
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest",AniPlus http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8?app_type=web&userid=jjj&chname=ANIPLUS_HD
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JqbvXBxWGCpTFLeSFbjQbQ","kid":"526GvXDwqoLJSzjYKVPdEA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230", Ceria HD https://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png", CERIA HD https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3MvfBDrEPRi+Cz60Olgodg","kid":"tb/jVU3yq803r+Ewp+HTEA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Dreamworks_190x80_TV-Guide.png",DreamWorks #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=b5bfe3554df2abcd37afe130a7e1d310:dccbdf043ac43d18be0b3eb43a582876 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Dreamworks_190x80_TV-Guide.png", DreamWorks https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"icX/n45lx/6WavvS+RKOXw","kid":"GgW+v3BkCEMaOQw/n0D0EA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png",Cartoon Network #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png", CARTOON NTWK HD https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vaX3u8HkQJb3eaBhn+mIHw","kid":"2FIOlqEoOrblvlOEdL+oEA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Nicklelodeon_v1.png",Nickelodeon #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Nicklelodeon_v1.png", NICKELODEON HD https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tKu+6Vtps+gKDRQScshw2w","kid":"+mUiDJ925CQXOJnfUzptEA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png",Nick Jr #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=fa65220c9f76e424173899df533a6d10:b4abbee95b69b3e80a0d141272c870db #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png", NICK JR https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"irCTravcNDuHNLfs8K6hGg","kid":"48t0mXEHhusQX6t7UkWZEA"}],"type":"temporary"} EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Moonbug_V1.png",Moonbug #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=e3cb7499710786eb105fab7b52459910:8ab093adabdc343b8734b7ecf0aea11a #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Moonbug_V1.png", Moonbug Kids https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3mxf6q5faWO0s5LdyLaneA","kid":"UMaZxETl+A2sr8TJlmfYEA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/CBeebies_V1.png",CBeebies #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/CBeebies_V1.png", CBeebies https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default.mpd
-
-EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png", KIDS TV #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993 https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/604 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png", HISTORY HD http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=3feecc36930732cbb69306dc687c6f10:3458265f7530bf1fef204ca8cb4689db EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/History_2022_v1.png",History https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/600 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png",National Geographic HD http://linearjitp-playback.astro.com.my/dash-wv/linear/600/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png",National Geographic HD https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2103 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",Nat Geo Wild HD http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png",Nat Geo Wild HD https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5051 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC_Earth.png",BBC Earth http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.png", BBC Earth https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC_Earth.png",BBC Earth https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2710 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png", ANIMAL PLANET HD http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=d5199f1513a0286e038dae8f7d820010:4d4d4d9dc41be43f528a4940cf66f14c EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png",Animal Planet https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2510 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png", DISCOVERY HD http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png",Discovery https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png",Discovery Channel HD https://nyanv-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/501 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png", DISCOVERY ASIA http://linearjitp-playback.astro.com.my/dash-wv/linear/501/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png",Discovery Asia https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default.mpd
-
-#################################################################### MOVIES ##################################################################################
-
-EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202212/20221211/20221211230555493f2h.png",ROCK Action #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/rockaction https://aqfadtv.xyz/live/mewatch/rockaction/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7051/CPS/images/universal/film/logo/202212/20221211/20221211230555493f2h.png",ROCK Action https://centerrrs.hypp.tv/PLTV/88888888/224/3221227656/3221227656.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixOdqyhNG6XnnSSB2s%2F7IFsw0fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84284064pk7ICuDiXpODG9z27SwoqJohWZiT1BzMAfjTRl1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230710152119%3AUTC%2C1004320541%2C14.1.254.193%2C20230710152119%2Curn:Huawei:liveTV:SP000002372888%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.165_80&hms_devid=1765&mount=1000002&targetdev=1765&it=H4sIAAAAAAAAA0XMzQoCIRRA4bdxKf4O48JVEbSRYKpt3PQqgo2k00BvHxNB-_OdpYHH494KqaLxRktphOLDaHQcefRSwxBYjIx0fLpqJfFQSp6Tq2Fj12l344wyKgSnypDztjsUSFZ8S_d63LH92YRtzR5t6JGu0Cmk1DDBkutMTwXel1Z-yQd5nV4SmQAAAA
-
-EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png",ROCK Entertainment #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QLnyUEVbQ7Oy6mhFq4Gryg", "kid":"kimBTGKbQG+N6Y0vI8looA" } ], "type":"temporary" } https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png",ROCK Entertainment https://web.hypp.tv:443/PLTV/88888888/224/3221227637/3221227637.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=4Pd3If3CaK4zw4kWr57ckMpfD96x1aIR37lClUOmFpI%2BIEfDwdlXZfxnWWAYzE8mVKUMe%2FHDKsELRKTKjZA%2FwuhYDDyK9uPinyR5FubCVXjCv79soLL9JzF%2BsZxJwR1E%3A20230706071735%3AUTC%2C10001003677358%2C14.1.254.192%2C20230706071735%2Curn:Huawei:liveTV:iptv42337%2C10001003677358%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C10000106830039%2C0%2C10000104551703%2C859461207%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.150_80&hms_devid=1794&mag_hms=1794,1786,1797&mount=1000002&targetdev=1794&it=H4sIAAAAAAAAAzXMvQrCMBRA4bfJeMkfaTNkUgSXIlRd5Ta5hkBsMKkF314qup_vLBU9HfdOTV75YIO2fa-VkZZzY6SSGHxHndWs0XMoTjGPOac5DiVs7DruboIDBykFKMHO2-6QMTr5LYfXY6LqxJ-NVNfkyYV2hxUbYIyVIi6pzHDK-L7U_Es-QS9BTJkAAAA
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OPv7OlbkD/ksnfisvLqe9g","kid":"/x/r1wGNDdcRYB55Xg1iEA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Logo_10000499.png",HITS Movies HD #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Logo_10000499.png", HITS MOVIES HD https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png",Thrill #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3609.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8yZr7GB/JYefSGQPMPHIiA","kid":"6k1RreAbvzlG4N6XMFG6EA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png",BOO #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2407/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png", BOO https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8/hCxUzJbLvQvLlqTLioEw","kid":"oJiJbSsRxfOQapk8O6XGEA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png",HBO #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png", HBO HD https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"E8xTWtSnMgEUeGPKw4bN0w","kid":"79sqjTkVHMOfS1HXYs+cEA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",CINEMAX #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png", CINEMAX HD https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yg0YU4hFuuLLT0oWgDbxdA","kid":"uAkMg2HMXMXBqsDsJxDeEA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png", SHOWCASE #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png", SHOWCASE https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fjdYjok6uSUuUFvW3aNb6w","kid":"K5/3zBo9yf70fMV3NHLVEA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png",HBO Family #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png", HBO Family https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eWE5ugWiq0Jfl4x/2YtDcg","kid":"XWAOtwlE1oHCbB9I++YfEA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png",HBO Hits #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png", HBO Hits https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://dcub.zhehacindo.workers.dev/dcub EXTINF:-1 tvg-logo="https://github.com/hendroagung2904/LOGO/blob/main/HBO%20Signature.png",HBO Signature https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+DJvZox77jCeUwK1E+W99w","kid":"YJPhJjmyTNZR7ms8E0RtEA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png",Warner TV #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png", WARNER TV https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"padw2I5EA3cvNuIxPo4y0A","kid":"//WSeiJJ8JT6N3PDkClAEA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Paramount.png",Paramount Network #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=fff5927a2249f094fa3773c390294010:a5a770d88e4403772f36e2313e8e32d0 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Paramount.png", Paramount https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"wyGv4WibB9W35VvQJcSDzg","kid":"wkp4EdmrRrSLdGoOfiaSEA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AXN_v1.png",AXN #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AXN_v1.png", AXN HD https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
-
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png",Sony PIX #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ohGIruj8XFbQFvz/zGsilQ", "kid":"zhcmSzF9sQjxnNwRqhqeZg" } ], "type":"temporary" } #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-
-EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png", SONY PIX http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=282631&extension=ts&play_token=8elHzUlVi6
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8kWnyqn.png",Star Movies https://raw.githubusercontent.com/kusnadipepenk/ntn/master/strmvi.m3u8 http://shareex@195.26.87.217/live?channelId=198&deviceMac=00:1A:79:33:E9:41
-
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png", STAR MOVIE http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1116488&extension=ts&play_token=1PvUcweHaG
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/Dpu3pd2.png",Star Movies Select http://shareex@195.26.87.217/live?channelId=199&deviceMac=00:1A:79:33:E9:41
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dpu3pd2.png",Star Movies Select https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/Dpu3pd2.png",Star Movies Select http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=155729&extension=ts&play_token=vOBlxrufX5
-
-#EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2017/09/andPrive-HD_6.jpg",AndPrive https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/andflix-logo.jpg",AndFlix https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png",Galaxy https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe #EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/Galaxy.png",Galaxy https://anevia115.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FbqpsDe.png",Galaxy Premium #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=360p #KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a https://av-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a #EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/GalaxyPremium.png",Galaxy Premium https://anevia115.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/MCN.png/revision/latest/scale-to-width-down/250?cb=20200201131113",My Cinema https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
-
-#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png",Moviesphere Free https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GDs+r6TILmj3TEJE1UkGsA","kid":"jeEeAF21vQ24IogUhjzTEA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png", Lifetime HD #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png", Lifetime https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZTcqMUjjpiK0Ip/YbqThYA","kid":"+ZitF1ADufbUD7XJLxniEA"}],"type":"temporary"} EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/453_144.png", Primetime HD #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=f998ad175003b9f6d40fb5c92f19e210:65372a3148e3a622b4229fd86ea4e160 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/PRIMEtime.png",PRIMEtime https://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NssgY79TONGNMWVzcbFYFw","kid":"H+kmhadYRNxUydrBJIAlEA"}],"type":"temporary"} #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Hits_v1.png", HITS HD #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=1fe92685a75844dc54c9dac124802510:36cb2063bf5338d18d31657371b15817 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Hits_v1.png",HITS https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/7e/CI_Crime_Investigation_Network_Logo.png", CI HD #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2111 https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=22fc5baf47ae3b6322bc244206bbb210:db1ee2b8994b91aac65049ef3e493787 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/7e/CI_Crime_Investigation_Network_Logo.png",Crime+Investigation https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default.mpd
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png", FOOD NTWK HD #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2300 http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=2d13c814df4a0c2ce488b2eda052d710:2dc2a7617bde2ab00136ee689c56d789 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png",Food Network https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default.mpd
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/afn_v1.png", AFN HD #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/500 http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/afn_v1.png",Asian Food Network https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Dmaxhd.png", DMAX HD #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2610 https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=0e21da304a29298ceca1fdfd1e71e210:87de38cf3ed2bbcd5d89b63e571bfe21 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Dmaxhd.png", DMAX https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TLC_v1.png", TLC HD https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default.mpd
-
-#################################################################### NEWS ####################################################################################
-
-#EXTINF:-1 tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg", Berita RTM https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5025 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png", AWANI HD https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=6f06f3b3cf7cbad0cc8b21e2c94dfb10:525510cfa634bd630af8c95fa93576ca EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png", AWANI HD https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1114 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/BNC_v3.png", BERNAMA http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=1406bbf218ca14f967034fcf4abf7710:39a27aa2cc84a29b665fcc4dbf9c54b6 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/BNC_v3.png",BERNAMA https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default.mpd
-
-################################################################## SPORTS #################################################################################### #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png",Sukan RTM https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=1
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1 HD https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest/scale-to-width-down/300?cb=20210712113109",Unifi Sports 2 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 #EXTVLCOPT:http-referrer=http://www.unifi_en.com.my https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
-
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-3.png",Unifi Sports 3 https://unifi-live05.secureswiftcontent.com/UnifiHD/live13.mpd
-
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-4.png",Unifi Sports 4 https://unifi-live05.secureswiftcontent.com/UnifiHD/live14.mpd
-
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-5.png",Unifi Sports 5 https://unifi-live05.secureswiftcontent.com/UnifiHD/live15.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png", ARENA HD https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png", ARENA 2 HD https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1601 #EXTINF:-1 tvg-logo="https://telegra.ph/file/b9cd859a14c1c4ba3c9e8.png", ASTRO UHD https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
-
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/b9cd859a14c1c4ba3c9e8.png", ASTRO UHD #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601 https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=89c10c7ef0af145be7d6e88dec090b10:80558606a13a99d2c543872d8899ced0 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro Supersport Plus https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default.mpd
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png", ASSP HD http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186387&extension=ts&play_token=oNnNMlQM3k
-
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport 1 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1000 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
-
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport 1 http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115615_&extension=ts
-
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport 1 https://iplogger.com/ASSP1
-
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png", ASSP2 HD http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186388&extension=ts&play_token=oNnNMlQM3k
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png", ASSP2 HD http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115616_&extension=ts
-
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",Astro SuperSport 2 https://iplogger.com/ASSP2
-
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png", SuperSport 2 ##KODIPROP:inputstream.adaptive.license_type=clearkey ##KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104 ##https://linears-playback.astro.com.my/vsg/411e3gN4AaSSfWXVLAyzIG37WF4Butu2RNZsJuRAgmbJo=mC4j/dash-wv/jitp-linearwm/2104/default.mpd ##https://raw.githubusercontent.com/Ortsa8/stream/main/sports/assp2.m3u8 https://raw.githubusercontent.com/Ortsa8/stream/main/ortsa/assp2.m3u8
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png", ASSP3 HD http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186389&extension=ts&play_token=oNnNMlQM3k
-
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",Astro SuperSport 3 http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115617_&extension=ts
-
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",Astro SuperSport 3 https://iplogger.com/ASSP3
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png", ASSP4 HD http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186390&extension=ts&play_token=oNnNMlQM3k
-
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",Astro SuperSport 4 http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115618_&extension=ts
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",Astro Supersport 4 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png", SPOTV #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058 https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",SPOTV2 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5079 https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",SPOTV2 https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default.mpd
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png", beIN SPORTS #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408 http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png",beIN Sports https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd
-
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",beIN Sports 2 #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UQKxKqx3VsZdy0ahAdlg0w", "kid":"OcF1WB4jfv+VWWB+ubI8EA" } ], "type":"temporary" } https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png", beIN SPORTS 2 https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default.mpd
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png", bEIN SPORTS 3 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png",beIN Sports 3 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default.mpd
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_Rugby_2023.png", beINSportsRugby #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5125 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5125/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2100 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk9h8WsS/Eurosport-White.png", EUROSPORT HD http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=4db23a41babfe9afc222a58c59828310:d0e794e3cff564ed2c720a098eb177c7 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png",EuroSport https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/W-Sport.png", W-Sport https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default.mpd
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png", WWE NETWORK #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=0cbc4d3b4fbd9af512acb2488bb42910:30528c4ef882954e5707cd1001d66121 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png",WWE Network https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default.mpd
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Golf_v1.png", GOLF CHANNEL HD #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1003 https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Golf_v1.png",Golf Channel https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default.mpd
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/PremierSports.png", Premier Sports #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2601 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/PremierSports.png",Premier Sports https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default.mpd
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png", ASTRO CRICKET #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2504 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png",Astro Cricket https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
-
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",Red Bull TV https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mastrolive/mastrolive/main/Poster/Series/SpecialForceAnarchy.jpg" group-title="Special Force Anarchy (Disney+ Hotstar)", Special Force Anarchy (ep1) https://onedrive-mastrolive.vercel.app/api/raw/?path=/Series/SpecialForceAnarchy/Special.Force.Anarchy.EP01.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mastrolive/mastrolive/main/Poster/Series/SpecialForceAnarchy.jpg" group-title="Special Force Anarchy (Disney+ Hotstar)", Special Force Anarchy (ep2) https://onedrive-mastrolive.vercel.app/api/raw/?path=Series/SpecialForceAnarchy/Special.Force.Anarchy.EP02.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mastrolive/mastrolive/main/Poster/Series/SpecialForceAnarchy.jpg" group-title="Special Force Anarchy (Disney+ Hotstar)", Special Force Anarchy (ep3) https://onedrive-mastrolive.vercel.app/api/raw/?path=/Series/SpecialForceAnarchy/Special.Force.Anarchy.EP03.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mastrolive/mastrolive/main/Poster/Series/SpecialForceAnarchy.jpg" group-title="Special Force Anarchy (Disney+ Hotstar)", Special Force Anarchy (ep4) https://onedrive-mastrolive.vercel.app/api/raw/?path=/Series/SpecialForceAnarchy/Special.Force.Anarchy.EP04.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mastrolive/mastrolive/main/Poster/Series/SpecialForceAnarchy.jpg" group-title="Special Force Anarchy (Disney+ Hotstar)", Special Force Anarchy (ep5) https://onedrive-mastrolive.vercel.app/api/raw/?path=/Series/SpecialForceAnarchy/Special.Force.Anarchy.EP05.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mastrolive/mastrolive/main/Poster/Series/SpecialForceAnarchy.jpg" group-title="Special Force Anarchy (Disney+ Hotstar)", Special Force Anarchy (ep6) https://onedrive-mastrolive.vercel.app/api/raw/?path=/Series/SpecialForceAnarchy/Special.Force.Anarchy.EP06.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mastrolive/mastrolive/main/Poster/Series/SpecialForceAnarchy.jpg" group-title="Special Force Anarchy (Disney+ Hotstar)", Special Force Anarchy (ep7) https://onedrive-mastrolive.vercel.app/api/raw/?path=/Series/SpecialForceAnarchy/Special.Force.Anarchy.EP07.mp4
-
-sukan asean
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5130 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ASIANGAMES_23.png", ASIAN GAMES 1 https://linearjitp-playback.astro.com.my/dash-wv/linear/5130/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5131 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ASIANGAMES_23.png", ASIAN GAMES 2 https://linearjitp-playback.astro.com.my/dash-wv/linear/5131/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5132 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ASIANGAMES_23.png", ASIAN GAMES 3 https://linearjitp-playback.astro.com.my/dash-wv/linear/5132/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5133/ #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ASIANGAMES_23.png", ASIAN GAMES 4 https://linearjitp-playback.astro.com.my/dash-wv/linear/5133/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5134/ #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ASIANGAMES_23.png", ASIAN GAMES 5 https://linearjitp-playback.astro.com.my/dash-wv/linear/5134/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5135/ #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ASIANGAMES_23.png", ASIAN GAMES 6 https://linearjitp-playback.astro.com.my/dash-wv/linear/5135/default_ott.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jf9zNQC/SGN-09-21-2023-1695302232905.png", LIVE SHOW ONLY 1 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=http://103.91.64.73/ott/8fbelkwa24/livegv1/ https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jf9zNQC/SGN-09-21-2023-1695302232905.png", LIVE SHOW ONLY 2 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=http://103.91.64.73/ott/8fbelkwa24/livegv2/ https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=88b324e7e763532b770d84d370d7c810:0ad1e7b2d71fd73a5c199739e534da4b EXTINF:-1 tvg-logo="https://i.ibb.co/9hF0Dx5/SGN-09-17-2023-1694929980026.png", ASTRO PREMIER https://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=2f3238142348789ed5a99b9a1bd8e010:438fb62e97278526686d921126343d32 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremier.png", ASTRO PREMIER https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
-
-RIA****************************
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png", RIA HD 1 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004 http://foctv.xyz:25510/live/axcestv/BKjN08kD8R/23.m3u8 https://ktpremium.com:443/live/M919HR/5577/912833.m3u8
-
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png", RIA HD 2 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/420464.m3u8 http://dmtn.tv:8080/live/steveny5997/54332611/420464.m3u8
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png", RIA HD 3 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004 https://linears-playback.astro.com.my/vsg/41lXpzlWglCm0GNWgsacPSFTPUp4vuedUI2OuRtWGygyg=jS80/dash-wv/jitp-linearwm/1004/default_primary.mpd
-
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png", RIA HD 4 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/158347
-
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png", RIA HD 5 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/23
-
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png", RIA HD 6 http://foctv.xyz:25510/live/axcestv/BKjN08kD8R/23.m3u8
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png", RIA HD 6 http://iptv12k.com:35461/7010925006/990986/13635
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png", RIA HD 8 http://iptv12k.com:35461/test167/12345/13635
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png", RIA HD 9 https://kametv.my.id/putar/astroria.php
-
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png", RIA HD 10 https://rb.gy/bzz6g https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/riajepstore.m3u8
-
-PRIMA************
-
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD 1 #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" } https://linears-playback.astro.com.my/vsg/41Hxci3ejo0Dd2U1WiwenLC-0nPY7MreG1XYlGkuEi3bs=NgP7/dash-wv/jitp-linearwm/1000/default_ott.mpd
-
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD 2 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/jepprimaa.m3u8
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90 https://us.dispatch.ulivetv.net/v/live/cg49a7nnj64g.m3u8?stream_id=cg49a7nnj64g&timestamp=1695742025&rand=qKW2DPbXcM&uuid=jHpT5hpwmLn4sdQFSc6dnt&from=web&sign=cbed8a8b0a5374dc51676dd347e08c3c|referer=https://www.histar.tv
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD 4 https://kametv.my.id/putar/astroprima.php
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000/ #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
-
-OASIS********************************
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png", OASIS HD #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2505/ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
-
-WARNA*******************************
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD 1 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318 https://us.dispatch.ulivetv.net/v/live/cg4ao9s4cbeo.m3u8?stream_id=cg4ao9s4cbeo&timestamp=1695741549&rand=JOh9Xftyg5&uuid=aXLvgeKovvvZBwiur48g83&from=web&sign=7930733c915433a226d9758e4b60b41d|referer=https://www.histar.tv
-
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD 2 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318 https://ktpremium.com/live/M919HR/5577/912836.m3u8 http://w.nasvpn.xyz:8080/live/best1/best1/7807.m3u8
-
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD 3 http://vo01.mohdtv.com:8880/live/voby0541/68254153/1706.m3u8
-
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD 4 http://iptv12k.com:35461/7010925006/990986/13629
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD 5 http://iptv12k.com:35461/test167/12345/9169
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD 4.2 http://iptv12k.com:35461/7010925006/990986/9169
-
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD 4.3 http://iptv12k.com:35461/80201033004/324542/4313
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD 6 http://iptv12k.com:35461/test167/12345/4313
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD 7 https://kametv.my.id/putar/malay/warna.php
-
-CITRA**************
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD 1 https://us.dispatch.ulivetv.net/v/live/cg4ckrx6xyv4.m3u8?stream_id=cg4ckrx6xyv4&timestamp=1695739657&rand=mWuD1w89CJ&uuid=sHZVn5xx4yaBo5nMkxFnto&from=web&sign=11f8aed71458456e999efd2064f34951|referer=https://www.histar.tv
-
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD 2 https://ktpremium.com/live/M919HR/5577/913177.m3u8 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/citrajepstore.m3u8
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD 3 https://us.dispatch.ulivetv.net/v/live/cg4ckrx6xyv4.m3u8?stream_id=cg4ckrx6xyv4&timestamp=1690127876&rand=dRWQc3gEWU&uuid=9b647b3816b2a66a&from=web&sign=566b46864cf85d4b0239c9083119189d
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD 4 https://kametv.my.id/putar/malay/citra.php
-
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD 5 https://axcestv.com:443/@jusriungit/AuHCh3H8D6/459
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD 6 http://iptv12k.com:35461/7010925006/990986/721
-
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD 7 http://iptv12k.com:35461/test167/12345/721
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/609/ #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png", AURA HD https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/608/ #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png", RANIA HD https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=0510cd2f13504601956fb58167de6beb:bdd71968a15b634b3e097173a8b7ea7b EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",Astro Sensasi HD http://king-tv.online:8080//live/gisle@/FDPWGufCmY/372542.ts https://co2-bks400-05.starhubgo.com/bpk-token/2ab@ltq53pwlc4x5jspmlp4c4b51520e2p5tlnq3uxca/bpk-tv/HubSensasiHD/output/manifest.mpd?bkm-query
-
-EXTINF:-1 ch-number="803" tvg-id="AstroArenaBola" group-title="Sports" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola_logo.png",803 Arena Bola #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5099 https://linearjitp-playback.astro.com.my/dash-wv/linear/5099/default.mpd
-
-#EXTINF:-1 tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola_logo.png",Arena Bola #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9HTXlOVEl4TW1JdFpUYzVZUzAwTUdJekxXSTFOak10WkdSaVlqSXdNMkl5WXpabSIsIndtb3BpZCI6MzIsImV4cCI6MTY5Njk4MjM4MCwiaWF0IjoxNjk2Mzc4MzgwfQ.kckwIY0lS2f2O8b0yFEbZGIbzARAa5iiSz8RS-GG0h0"} #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" } https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="SPORTS",ARENA BOLA #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY4Mzc5OTE4NCwiaWF0IjoxNjgzMTk1MTg0fQ.1J6FCyRHJYlTchoNIoGAbEATh4CF0-nHKw_HCsAUi5o"} #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" } https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
-
-EXTINF:-1 ch-number="804" tvg-id="AstroArenaBola2" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_v1.png",804 Arena Bola 2 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/astro.php?id=5100 https://linearjitp-playback.astro.com.my/dash-wv/linear/5100/default.mpd
-
-EXTINF:-1 ch-number="804" tvg-id="AstroArenaBola2" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_v1.png",804 Arena Bola 2 S #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9HTXlOVEl4TW1JdFpUYzVZUzAwTUdJekxXSTFOak10WkdSaVlqSXdNMkl5WXpabSIsIndtb3BpZCI6MzIsImV4cCI6MTY5Njk4MjM4MCwiaWF0IjoxNjk2Mzc4MzgwfQ.kckwIY0lS2f2O8b0yFEbZGIbzARAa5iiSz8RS-GG0h0"} #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" } https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
-
-EXTINF:-1 ch-number="807" tvg-id="AstroArenaBola3 group-title="Sports"" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola3_v1.png",807 Arena Bola 3 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5101 https://linearjitp-playback.astro.com.my/dash-wv/linear/5101/default.mpd
-
-EXTINF:-1 ch-number="807" tvg-id="AstroArenaBola3" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola3_v1.png",807 Arena Bola 3 S #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9HTXlOVEl4TW1JdFpUYzVZUzAwTUdJekxXSTFOak10WkdSaVlqSXdNMkl5WXpabSIsIndtb3BpZCI6MzIsImV4cCI6MTY5Njk4MjM4MCwiaWF0IjoxNjk2Mzc4MzgwfQ.kckwIY0lS2f2O8b0yFEbZGIbzARAa5iiSz8RS-GG0h0"} #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key= {"ca4f5ff4e4694d54bdfdc9bd34384290": "1100fe297146f7d024b59944f09e6d1a"} https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
-
-EXTINF:-1 ch-number="808" tvg-id="AstroArenaBola4" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola4.png",808 Arena Bola 4 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5102 https://linearjitp-playback.astro.com.my/dash-wv/linear/5102/default.mpd
-
-EXTINF:-1 ch-number="808" tvg-id="AstroArenaBola4" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola4.png",808 Arena Bola 4 S #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9HTXlOVEl4TW1JdFpUYzVZUzAwTUdJekxXSTFOak10WkdSaVlqSXdNMkl5WXpabSIsIndtb3BpZCI6MzIsImV4cCI6MTY5Njk4MjM4MCwiaWF0IjoxNjk2Mzc4MzgwfQ.kckwIY0lS2f2O8b0yFEbZGIbzARAa5iiSz8RS-GG0h0"} #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"imtZ0L9D4SZfzu/jIYQAYQ", "kid":"LLnnRGR0QSakBrBLuSBwvw" } ], "type":"temporary" } https://linear07-playback.sooka.my/CH3/masterCH3.mpd
-
-#EXTM3U billed-msg="😎 BijanBusuk 😎"
-
-
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/abc-tv-ua.png" group-title="DFiptv", ABC USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium51/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/ae_us.png" group-title="DFiptv", A&E USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium302/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="DFiptv", AMC USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium303/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/4TY4Gr90y5BCK5wtPAVnAf/7e5872302929e04da7a94a23118a16fa/animal-planet.png" group-title="DFiptv", Animal Planet
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium304/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/acc-network-us.png" group-title="DFiptv", ACC Network USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium666/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" group-title="DFiptv", Astro SuperSport 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium123/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png" group-title="DFiptv", Astro SuperSport 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium124/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png" group-title="DFiptv", Astro SuperSport 3
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium125/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="DFiptv", Astro SuperSport 4
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium126/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png" group-title="DFiptv", Arena Sport 1 Premium
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium134/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png" group-title="DFiptv", Arena Sport 2 Premium
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium135/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-3-rs.png" group-title="DFiptv", Arena Sport 3 Premium
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium139/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="DFiptv", Arena Sport 1 Serbia
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium429/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="DFiptv", Arena Sport 2 Serbia
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium430/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="DFiptv", Arena Sport 3 Serbia
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium431/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="DFiptv", Arena Sport 4 Serbia
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium581/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="DFiptv", Arena Sport 1 Croatia
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium432/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="DFiptv", Arena Sport 2 Croatia
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium433/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="DFiptv", Arena Sport 3 Croatia
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium434/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="DFiptv", Arena Sport 4 Croatia
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium580/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2020/06/2023_Alkass_1.png" group-title="DFiptv", Alkass One
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium781/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2020/06/2023_Alkass_2.png" group-title="DFiptv", Alkass Two
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium782/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2020/06/2023_Alkass_3.png" group-title="DFiptv", Alkass Three
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium783/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2020/06/2023_Alkass_4.png" group-title="DFiptv", Alkass Four
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium784/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://data-corporate.abs-cbn.com/corp/medialibrary/corphub/assets/logo-abscbn-black_1.png" group-title="DFiptv", ABS-CBN
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium785/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.ba/files/img/logo.png" group-title="DFiptv", Arena Sport 1 BiH
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium579/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-ae.png" group-title="DFiptv", Abu Dhabi Sports 1 UAE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium600/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-ae.png" group-title="DFiptv", Abu Dhabi Sports 2 UAE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium601/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-ae.png" group-title="DFiptv", Abu Dhabi Sports 1 Premium
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium609/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-ae.png" group-title="DFiptv", Abu Dhabi Sports 2 Premium
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium610/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="DFiptv", Astro Cricket
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium370/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://fotografias.antena3.com/clipping/cmsimages01/2022/07/06/9D1AF07F-AE92-4EB3-A793-B87D433BEE89/antena-3_51.jpg"" group-title="DFiptv", Antena 3 Spain
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium531/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/acc-network-us.png" group-title="DFiptv", ACC Network USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium664/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.kym-cdn.com/entries/icons/facebook/000/016/828/gnKdtoH.jpg" group-title="DFiptv", Adult Swim
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium295/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="DFiptv", AXN Movies Portugal
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium717/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/arte-logo.png" group-title="DFiptv", Arte DE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium725/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/axs-tv-us.png" group-title="DFiptv", AXS TV USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium742/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.abcotvs.net/abcotv/static/wabc/logos/wabc_logo_2x.png" group-title="DFiptv", ABCNY USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium766/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="DFiptv", beIN Sports MENA English 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium61/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="DFiptv", beIN Sports MENA English 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium90/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="DFiptv", beIN Sports MENA English 3
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium46/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="DFiptv", beIN Sports MENA 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium91/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="DFiptv", beIN Sports MENA 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium92/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="DFiptv", beIN Sports MENA 3
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium93/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="DFiptv", beIN Sports MENA 4
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium94/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="DFiptv", beIN Sports MENA 5
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium95/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="DFiptv", beIN Sports MENA 6
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium96/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="DFiptv", beIN Sports MENA 7
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium97/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="DFiptv", beIN Sports MENA Premium 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium98/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="DFiptv", beIN Sports MENA Premium 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium99/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="DFiptv", beIN Sports MENA Premium 3
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium100/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/BeIn_Sports_Max_4.png" group-title="DFiptv", beIN Sports MAX 4 France
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium494/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/BeIn_Sports_Max_5.png" group-title="DFiptv", beIN Sports MAX 5 France
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium495/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/BeIn_Sports_Max_6.png" group-title="DFiptv", beIN Sports MAX 6 France
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium496/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/BeIn_Sports_Max_7.png" group-title="DFiptv", beIN Sports MAX 7 France
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium497/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/BeIn_Sports_Max_8.png" group-title="DFiptv", beIN Sports MAX 8 France
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium498/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/BeIn_Sports_Max_9.png" group-title="DFiptv", beIN Sports MAX 9 France
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium499/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/BeIn_Sports_Max_10.png" group-title="DFiptv", beIN Sports MAX 10 France
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium500/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png" group-title="DFiptv", beIN SPORTS 1 France
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium116/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png" group-title="DFiptv", beIN SPORTS 2 France
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium117/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" group-title="DFiptv", beIN SPORTS 3 France
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium118/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="DFiptv", beIN SPORTS 1 Turkey
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium62/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="DFiptv", beIN SPORTS 2 Turkey
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium63/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="DFiptv", beIN SPORTS 3 Turkey
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium64/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="DFiptv", beIN SPORTS 4 Turkey
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium67/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="DFiptv", BeIN Sports HD Qatar
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium578/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-qa.png" group-title="DFiptv", BeIN SPORTS USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium425/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_espanol.png" group-title="DFiptv", beIN SPORTS en Espanol
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium372/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/a5dc8600e76af1e1d3b58c569580713e.png" group-title="DFiptv", beIN SPORTS Australia 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium491/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/b5de4caa4232fc8afacdba10daf5ba7b.png" group-title="DFiptv", beIN SPORTS Australia 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium492/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/5c72fa3d1788a0afa9a79ab3ec1f4ef6.png" group-title="DFiptv", beIN SPORTS Australia 3
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium493/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/yd1cpc1616924982.png" group-title="DFiptv", Barca TV Spain
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium522/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/o89qgl1601130898.png" group-title="DFiptv", Benfica TV PT
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium380/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/PjY9ui0KYjenUaQbIha5t/985ea861d41998a05c4ad1f4aa5da30e/Boomerang.png" group-title="DFiptv", Boomerang
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium648/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bnt-1-bg.png" group-title="DFiptv", BNT 1 Bulgaria
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium476/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bnt-2-bg.png" group-title="DFiptv", BNT 2 Bulgaria
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium477/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bnt-3-bg.png" group-title="DFiptv", BNT 3 Bulgaria
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium478/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bayerisches-fernsehen-de.png" group-title="DFiptv", BR Fernsehen DE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium476/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv_bg.png" group-title="DFiptv", bTV Bulgaria
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium479/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv_bg_action.png" group-title="DFiptv", bTV Action Bulgaria
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium481/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv-lady-bg.png" group-title="DFiptv", bTV Lady Bulgaria
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium484/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_america_east.png" group-title="DFiptv", BBC America (BBCA)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium305/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.blackpast.org/wp-content/uploads/prodimages/files/blackpast_images/BET_logo_2012.jpg" group-title="DFiptv", BET USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium306/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bravo_us.png" group-title="DFiptv", Bravo USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium307/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZZCtJ3qfFmP_G7BhFf4i9tL531wMw8ZYtHg&usqp=CAU" group-title="DFiptv", BBC News Channel HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium349/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/dihwqk1645131704.png" group-title="DFiptv", BBC One UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium356/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/ap35bu1645131783.png" group-title="DFiptv", BBC Two UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium357/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/hbd31f1643577726.png" group-title="DFiptv", BBC Three UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium358/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/txypru1433940904.png" group-title="DFiptv", BBC Four UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium359/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/big-ten-network-us.png" group-title="DFiptv", BIG TEN Network (BTN USA)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium397/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ysytyr1433882117.png" group-title="DFiptv", Cuatro Spain
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium535/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-corporate.channel4.com/_flysystem/s3/2021-07/4still_2.jpg" group-title="DFiptv", Channel 4 UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium354/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/Channel5LogoPurple-255x140.png" group-title="DFiptv", Channel 5 UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium355/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/77gqjl1624103918.png" group-title="DFiptv", CBS Sports Network (CBSSN)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium308/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/rswyxx1436720242.png" group-title="DFiptv", Canal+ France
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium121/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/utquqs1472570910.png" group-title="DFiptv", Canal+ Sport France
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium122/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/wuuyys1443269361.png" group-title="DFiptv", Canal+ Foot France
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium463/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-360-fr.png" group-title="DFiptv", Canal+ Sport360
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium464/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Canal_11_Portugal.png" group-title="DFiptv", Canal 11 Portugal
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium540/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-polska-pl.png" group-title="DFiptv", Canal+ Sport Poland
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium48/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-2-polska-pl.png" group-title="DFiptv", Canal+ Sport 2 Poland
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium73/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-5-polska-pl.png" group-title="DFiptv", CANAL+ SPORT 5 Poland
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium75/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qdk0mf1649340977.png" group-title="DFiptv", Canal+ Premium Poland
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium566/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-family-polska-pl.png" group-title="DFiptv", Canal+ Family Poland
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium567/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_pl_seriale.png" group-title="DFiptv", Canal+ Seriale Poland
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium570/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_sport_1.png" group-title="DFiptv", Canal+ Sport 1 Afrique
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium486/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_sport_2.png" group-title="DFiptv", Canal+ Sport 2 Afrique
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium487/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_sport_3.png" group-title="DFiptv", Canal+ Sport 3 Afrique
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium488/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_sport_4.png" group-title="DFiptv", Canal+ Sport 4 Afrique
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium489/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-5-fr.png" group-title="DFiptv", Canal+ Sport 5 Afrique
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium490/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Canal_9_Denmark_2015.png" group-title="DFiptv", CANAL9 Denmark
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium805/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/wqqpuy1437611123.png" group-title="DFiptv", Combate Brasil
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium89/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/3U0FTMduTIAe9ffOfAOIYW/74107eb1bb7e63e21192d4bbe607cdf4/c-more-fotboll.png" group-title="DFiptv", C More Football Sweden
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium747/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_1_hd.png" group-title="DFiptv", Cosmote Sport 1 HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium622/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_2_hd.png" group-title="DFiptv", Cosmote Sport 2 HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium623/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_3_hd.png" group-title="DFiptv", Cosmote Sport 3 HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium624/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_4_hd.png" group-title="DFiptv", Cosmote Sport 4 HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium625/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_5_hd.png" group-title="DFiptv", Cosmote Sport 5 HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium626/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_6_hd.png" group-title="DFiptv", Cosmote Sport 6 HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium627/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_7_hd.png" group-title="DFiptv", Cosmote Sport 7 HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium628/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_8_hd.png" group-title="DFiptv", Cosmote Sport 8 HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium629/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote-sport-9-gr.png" group-title="DFiptv", Cosmote Sport 9 HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium630/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arutz_9_logo.png/440px-Arutz_9_logo.png" group-title="DFiptv", Channel 9 Israel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium546/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Eser.jpg" group-title="DFiptv", Channel 10 Israel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium547/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/New_kan_bug.png" group-title="DFiptv", Channel 11 Israel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium548/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Arutz_12.png" group-title="DFiptv", Channel 12 Israel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium549/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/New_Logo_13_2022.jpg/440px-New_Logo_13_2022.jpg" group-title="DFiptv", Channel 13 Israel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium551/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Noamperetz-now14logo.png/440px-Noamperetz-now14logo.png" group-title="DFiptv", Channel 14 Israel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium552/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/5tOkmklPvUI0futIDzZlSQ/8d8296cb44ebb4d4370addcf35e3b114/cmore-stars-se.png" group-title="DFiptv", C More Stars Sweden
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium8111/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/3aUhHewDg0DMDLZgu5s1q9/0f757050462063e93b434598f4bb131e/cmore-first.png" group-title="DFiptv", C More First Sweden
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium812/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/6I7RFnP18DghVgFRVeaK3t/40f5f674ca8e5118e7c33d0db7ae154e/c-more-hits.png" group-title="DFiptv", C More Hits Sweden
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium813/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/1OOx3B7mQlM5nlnO8lLesb/457e5dc70ca53af74508cbb6a84939d6/c-more-series.png" group-title="DFiptv", C More Series Sweden
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium814/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cozi-tv-us.png" group-title="DFiptv", COZI TV USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium748/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cmt-us.png" group-title="DFiptv", CMT USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium647/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vruusq1434471511.png" group-title="DFiptv", CBS USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium52/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cw-in-us-pr-vi-gu.png" group-title="DFiptv", CW USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium300/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/CNBC_US.png" group-title="DFiptv", CNBC USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium309/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/comedy-central-deutschland-us-de.png" group-title="DFiptv", Comedy Central
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium310/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/1TAzMFJcbj8LUnS4ptodW2/dd6fd52ab480062bf4aaa698f77bc753/Cartoon-Network.png" group-title="DFiptv", Cartoon Network
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium339/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/3KF1wmQqRbQ30cWdf3QcAP/7b3105a72c3b871f21de2d1cc3a15d75/CNN.png" group-title="DFiptv", CNN USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium345/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_ce.png" group-title="DFiptv", Cinemax USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium374/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctv-ca.png" group-title="DFiptv", CTV Canada
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium602/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctv-2-ca.png" group-title="DFiptv", CTV 2 Canada
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium838/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="DFiptv", Crime+ Investigation USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium669/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/comet_tv_us.png" group-title="DFiptv", Comet USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium696/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cooking_channel_ca.png" group-title="DFiptv", Cooking Channel USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium697/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cleo-tv-us.png" group-title="DFiptv", Cleo TV
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium715/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/c-span-us.png" group-title="DFiptv", C SPAN 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium750/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-sports-network-us.png" group-title="DFiptv", CBSNY USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium767/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/city-tv-ca.png" group-title="DFiptv", Citytv
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium831/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbc-ca.png" group-title="DFiptv", CBC CA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium832/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/pcmt111657045725.png" group-title="DFiptv", DAZN 1 Bar DE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium426/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/risd0q1657045733.png" group-title="DFiptv", DAZN 2 Bar DE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium427/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/f5vosd1657045413.png" group-title="DFiptv", DAZN 1 Spain
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium445/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/fsswed1657045424.png" group-title="DFiptv", DAZN 2 Spain
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium446/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/0z5ub31657045435.png" group-title="DFiptv", DAZN 3 Spain
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium447/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/rywrzd1657045443.png" group-title="DFiptv", DAZN 4 Spain
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium448/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/gl9uoz1660314819.png" group-title="DFiptv", DAZN F1 ES
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium537/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/4qm3dw1692437861.png" group-title="DFiptv", DAZN LaLiga
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium538/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/evu0at1692970765.png" group-title="DFiptv", DAZN LaLiga 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium43/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dr1-dk.png" group-title="DFiptv", DR1 Denmark
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium801/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dr2-dk.png" group-title="DFiptv", DR2 Denmark
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium802/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png" group-title="DFiptv", Digi Sport 1 Romania
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium400/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport2_ro.png" group-title="DFiptv", Digi Sport 2 Romania
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium401/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport3_ro.png" group-title="DFiptv", Digi Sport 3 Romania
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium402/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport4_ro.png" group-title="DFiptv", Digi Sport 4 Romania
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium403/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/0xxcqo1627492559.png" group-title="DFiptv", Diema Sport Bulgaria
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium465/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/efa11r1627492687.png" group-title="DFiptv", Diema Sport 2 Bulgaria
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/wlk12t1627492656.png" group-title="DFiptv", Diema Sport 3 Bulgaria
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium467/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/qvtqxw1441035305.png" group-title="DFiptv", Diema Bulgaria
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium482/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/qvtqxw1441035305.png" group-title="DFiptv", Diema Family Bulgaria
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium485/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png" group-title="DFiptv", Dubai Sports 1 UAE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium604/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png" group-title="DFiptv", Dubai Sports 2 UAE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium605/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png" group-title="DFiptv", Dubai Sports 3 UAE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium606/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-racing-ae.png" group-title="DFiptv", Dubai Racing 1 UAE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium607/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-racing-ae.png" group-title="DFiptv", Dubai Racing 2 UAE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium608/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mzansi_za_magic.png" group-title="DFiptv", DSTV Mzansi Magic
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium786/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnet_west.png" group-title="DFiptv", DSTV M-Net
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium827/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kyk_net_za_kie.png" group-title="DFiptv", DSTV kykNET & kie
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium828/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_life_us.png" group-title="DFiptv", Discovery Life Channel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium311/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/2yCLAzuE49duD1eHj9Lynq/10b05ad0e0a84d5b69405de13ef19671/Disney-Channel.png" group-title="DFiptv", Disney Channel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium312/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/6SNRp3tEo7eED4Olf7epXw/9008de2ca6cca502b8fa6531d6e8384f/Discovery-Channel.png" group-title="DFiptv", Discovery Channel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium313/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_family_us.png" group-title="DFiptv", Discovery Family
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium657/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/7wrFfj2T26iYYsaCytBUtD/50d5b7afec96321487071cb050531143/Disney-XD.png" group-title="DFiptv", Disney XD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium314/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_I2H6BmSV7RvgA_ZV5M9aXFSF7hlvc2jCQ&usqp=CAU" group-title="DFiptv", Destination America
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium651/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/3MKbpf4HbI9NQezEbX5wjl/c28e5709b7ba9986785f91fdaf82d4ed/Disney_Junior_Logo.webp" group-title="DFiptv", Disney JR
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium652/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/xstvrx1433969695.png" group-title="DFiptv", Dave
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium348/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ESPN_US.png" group-title="DFiptv", ESPN USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium44/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/e0jjaa1660762501.png" group-title="DFiptv", ESPN2 USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium45/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/qwxxut1433431075.png" group-title="DFiptv", ESPNU USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium316/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ESPN_US.png" group-title="DFiptv", ESPN 1 NL
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium379/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/rrptsw1433431278.png" group-title="DFiptv", ESPN 2 NL
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium386/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="DFiptv", ElevenSports 1🇵🇱
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium71/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="DFiptv", ElevenSports 2🇵🇱
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium72/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-3-portugal-uk-pt.png" group-title="DFiptv", ElevenSports 3🇵🇱
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium428/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="DFiptv", ElevenSports 1🇵🇹
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium455/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="DFiptv", ElevenSports 2🇵🇹
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium456/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-3-portugal-uk-pt.png" group-title="DFiptv", ElevenSports 3🇵🇹
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium457/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-4-portugal-uk-pt.png" group-title="DFiptv", ElevenSports 4🇵🇹
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium458/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-5-portugal-uk-pt.png" group-title="DFiptv", ElevenSports 5🇵🇹
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium459/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/tutyvx1474667310.png" group-title="DFiptv", EuroSport 1🇬🇧
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium41/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/xvuxxt1474667338.png" group-title="DFiptv", EuroSport 2🇬🇧
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium42/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/tutyvx1474667310.png" group-title="DFiptv", EuroSport 1🇵🇱
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium57/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/xvuxxt1474667338.png" group-title="DFiptv", EuroSport 2🇵🇱
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium58/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/tutyvx1474667310.png" group-title="DFiptv", EuroSport 1🇪🇸
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium524/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/xvuxxt1474667338.png" group-title="DFiptv", EuroSport 2🇪🇸
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium525/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/tutyvx1474667310.png" group-title="DFiptv", EuroSport 1🇮🇹
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium878/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/xvuxxt1474667338.png" group-title="DFiptv", EuroSport 2🇮🇹
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium879/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/tutyvx1474667310.png" group-title="DFiptv", Eurosport 1🇧🇬
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium469/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/xvuxxt1474667338.png" group-title="DFiptv", Eurosport 2🇧🇬
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium470/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ESPN_plus.png" group-title="DFiptv", ESPN Premium Argentina
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium387/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/15wtva1660763030.png" group-title="DFiptv", ESPN Brasil
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium81/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/eaxkfc1645271536.png" group-title="DFiptv", ESPN2 Brasil
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium82/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/rwmjiy1610194637.png" group-title="DFiptv", ESPN3 Brasil
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium83/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/ik76mi1618056996.png" group-title="DFiptv", ESPN4 Brasil
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium85/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ESPN_US.png" group-title="DFiptv", ESPN SUR
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium149/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/rrptsw1433431278.png" group-title="DFiptv", ESPN2 SUR
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium150/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ESPN_Deportes.png" group-title="DFiptv", ESPN Deportes
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium375/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/rwxvsw1433431116.png" group-title="DFiptv", ESPNews
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium288/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/5uwBThfaUMmou4kUrbly12/4ad19f0124a43ca6b4867ddafef95aff/e_.png" group-title="DFiptv", E! Entertainment Television
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium315/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTqJwQk-3eIdhnYtBTLDQzfBdKAgUN6yBujw&usqp=CAU" group-title="DFiptv", E4 Channel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium363/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/69i5ab1583434917.png" group-title="DFiptv", Fox Sports 1 USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium39/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/zla83a1583866981.png" group-title="DFiptv", Fox Sports 2 USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium758/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/FOX_Soccer_Plus.png" group-title="DFiptv", FOX Soccer Plus
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium756/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-cricket-us-au.png" group-title="DFiptv", Fox Cricket
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium369/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1433430852.png" group-title="DFiptv", FOX Deportes USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium643/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/FOX_Sports_505.png" group-title="DFiptv", FOX Sports 502 AU
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium820/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/FOX_Sports_505.png" group-title="DFiptv", FOX Sports 503 AU
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium821/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/FOX_Sports_505.png" group-title="DFiptv", FOX Sports 504 AU
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium822/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/FOX_Sports_505.png" group-title="DFiptv", FOX Sports 505 AU
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium823/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/FOX_Sports_505.png" group-title="DFiptv", FOX Sports 506 AU
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium824/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/FOX_Sports_505.png" group-title="DFiptv", FOX Sports 507 AU
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium825/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Fox_Sports_Argentina.png" group-title="DFiptv", Fox Sports Argentina
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium767/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/FOX_Sports_2_Argentina.png" group-title="DFiptv", Fox Sports 2 Argentina
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium788/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Fox_Sports_3_Argentina.png" group-title="DFiptv", Fox Sports 3 Argentina
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium789/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-premiumpng-us-mx.png" group-title="DFiptv", Fox Sports Premium MX
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium830/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmbox_premium_cz.png" group-title="DFiptv", FilmBox Premium Poland
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium568/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_network_ca.png" group-title="DFiptv", Fight Network
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium757/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-business-us.png" group-title="DFiptv", Fox Business
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium297/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/xquwxv1436847349.png" group-title="DFiptv", FOX HD Bulgaria
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium483/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/xr224l1603050047.png" group-title="DFiptv", FOX USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium54/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx_us.png" group-title="DFiptv", FX USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium317/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fxx_east.png" group-title="DFiptv", FXX USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium298/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sswvst1466834795.png" group-title="DFiptv", Freeform
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium301/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_news_channel.png" group-title="DFiptv", Fox News
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium347/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fxm-us.png" group-title="DFiptv", FX Movie Channel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium381/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fyi_us.png" group-title="DFiptv", FYI
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium665/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/film-4-hu.png" group-title="DFiptv", Film4 UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium688/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="DFiptv", Fashion TV
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium744/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/family_entertainment_tv.png" group-title="DFiptv", FETV - Family Entertainment Television
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium751/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFYI8lm8MsOMVvx6H5DCPQeDJFrEMQJniMBw&usqp=CAU" group-title="DFiptv", FOXNY USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium768/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/the-weather-channel-us.png" group-title="DFiptv", Fox Weather Channel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium775/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/70wi1n1692441317.png" group-title="DFiptv", GOL PLAY Spain
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium530/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png" group-title="DFiptv", GOLF Channel USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium318/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/game-show-network-us.png" group-title="DFiptv", Game Show Network
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium319/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://statics.goltelevision.com/backoffice/public/image/GOL_Mundi_Al_49d993e995.png" group-title="DFiptv", Gol Mundial 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium292/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Q74gCwWlmXN7TL0c8ZUO2hvdzNyM5BvjUg&usqp=CAU" group-title="DFiptv", Gold UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium687/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/m6upwn1571337597.png" group-title="DFiptv", Galavisión USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium743/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbc-ca.png" group-title="DFiptv", CBC CA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium699/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/grit_tv_us.png" group-title="DFiptv", Grit Channel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium752/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSywagj3lO6E2EYPvsFyNhCAS2sfjfqJd_Ig6_YNf_Kvp0nZVJ1Frp0P8U&s=10" group-title="DFiptv", Globo SP
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium760/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/3igicx1645446040.png" group-title="DFiptv", Globo RIO
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium761/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8uK2WPRy01bg8pnIW6s4xbmIVcNEGafowQEp18VcA5vF4a9dBpEgwWFU&s=10" group-title="DFiptv", Global CA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium836/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9JAGR3TH-uaOFAEJNLi2r_bV16kO8Pl4Vvw&usqp=CAU" group-title="DFiptv", The Hallmark Channel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium320/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFbmccb8jda0YVcWQqxdKQj13dGMzc5O0m0A&usqp=CAU" group-title="DFiptv", Hallmark Movies & Mysterie
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium296/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="DFiptv", HBO USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium321/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_lam.png" group-title="DFiptv", HBO2 USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium689/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_comedy_east.png" group-title="DFiptv", HBO Comedy USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium690/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_lam.png" group-title="DFiptv", HBO Family USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium691/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_latino_este.png" group-title="DFiptv", HBO Latino USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium692/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_west.png" group-title="DFiptv", HBO Signature USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium693/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-zone-us.png" group-title="DFiptv", HBO Zone USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium694/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_pl.png" group-title="DFiptv", HBO Poland
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium569/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="DFiptv", History USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium322/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVKHZFW1Fnv2xJkODBg9QwnQwbL8mu_g-K5A&usqp=CAU" group-title="DFiptv", Headline News
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium323/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hgtv_us.png" group-title="DFiptv", HGTV
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium382/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAGLi1mahA7hJo7HlxIqvQy-pTKYhpPEXl-Q&usqp=CAU"" group-title="DFiptv", HOT3 Israel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium553/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hr_fernsehen_de.png" group-title="DFiptv", HR Fernsehen DE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium740/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/393f2a91-63b4-5f71-8cb2-158ef548c6f9.png" group-title="DFiptv", ITV 1 UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium350/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/3dd5a391-c762-5d2d-8166-dfb403f8b757.png" group-title="DFiptv", ITV 2 UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium351/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/a87519ca-c244-5181-b60b-f8b4fda4c6b7.png" group-title="DFiptv", ITV 3 UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium352/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/ff39bd9d-2bfc-59c0-a900-4bb82adc04b8.png" group-title="DFiptv", ITV 4 UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium353/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mediaset_italia1.png" group-title="DFiptv", Italia 1 Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium854/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/investigation-discovery-us.png" group-title="DFiptv", Investigation Discovery (ID USA)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium324/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/ion-tv-east-us.png" group-title="DFiptv", ION USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium325/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/IFC-White-Small.png" group-title="DFiptv", IFC TV USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium656/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Kanal_4_logo_Danmark.png/400px-Kanal_4_logo_Danmark.png" group-title="DFiptv", Kanal 4 Denmark
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium803/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kanal_5_logo_Danmark.png/400px-Kanal_5_logo_Danmark.png" group-title="DFiptv", Kanal 5 Denmark
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium804/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cache.pressmailing.net/thumbnail/highlight/d8eb4a88-e411-40f2-8d65-32fe61d5c56a/image.jpg" group-title="DFiptv", Kabel Eins (Kabel 1) DE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium731/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/r6rd9d1685177763.png" group-title="DFiptv", LaLiga SmartBank TV
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium539/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/l_equipe_fr.png" group-title="DFiptv", L'Equipe France
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium645/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/la_sexta_es.png" group-title="DFiptv", La Sexta Spain
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium534/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/xtvurp1433361104.png" group-title="DFiptv", Liverpool TV (LFC TV)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium826/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/677094/9b62efb249f4dfdb57dbbc0d4788c30b1bfea17e.png" group-title="DFiptv", Lifetime Network
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium326/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://godish.com/wp-content/uploads/channel-logos/lmn.png" group-title="DFiptv", Lifetime Movies Network
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium389/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Longhorn_Network.png" group-title="DFiptv", Longhorn Network USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium667/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvdream.net/img/la7d.png" group-title="DFiptv", La7 Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium855/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvdream.net/img/la7d.png" group-title="DFiptv", LA7d HD+ Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium856/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/cz682u1628519810.png" group-title="DFiptv", Match Football 1 Russia
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium136/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/am4ot71628519853.png" group-title="DFiptv", Match Football 2 Russia
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium137/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/69eju21628519874.png" group-title="DFiptv", Match Football 3 Russia
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium138/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/j19l3a1601730000.png" group-title="DFiptv", Match Premier Russia
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium573/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/r7vubi1601731224.png" group-title="DFiptv", Match TV Russia
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium127/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/k3gmp81628519750.png" group-title="DFiptv", МАТЧ! БОЕЦ Russia
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium395/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga.png" group-title="DFiptv", Movistar Laliga
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium84/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_1.png" group-title="DFiptv", Movistar Liga de Campeones
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium435/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/movistar_deportes.png" group-title="DFiptv", Movistar Deportes Spain
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium436/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/bru62v1600502891.png" group-title="DFiptv", Movistar Deportes 2 Spain
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium438/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/jztt1n1621708738.png" group-title="DFiptv", Movistar Deportes 3 Spain
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium526/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga_4.png" group-title="DFiptv", Movistar Deportes 4 Spain
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium527/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ag3kap1485860985.png" group-title="DFiptv", Movistar Golf Spain
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium528/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://motowizja.pl/wp-content/uploads/2023/01/motowizja_2023.png" group-title="DFiptv", Motowizja Poland
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium563/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/6dbad91681308934.png" group-title="DFiptv", MSG USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium765/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/msnbc_us_international.png" group-title="DFiptv", MSNBC
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium327/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/magnolia-network-us.png" group-title="DFiptv", Magnolia Network
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium299/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/54Ea8rlLOFYnm0cNQPt46D/917cbbdd9ee5dc5ee55131687db42824/MTV-Logo.png" group-title="DFiptv", MTV UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium367/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/54Ea8rlLOFYnm0cNQPt46D/917cbbdd9ee5dc5ee55131687db42824/MTV-Logo.png" group-title="DFiptv", MTV USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium371/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/rpxxqy1433779967.png" group-title="DFiptv", MUTV UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium377/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/spyvwt1434505322.png" group-title="DFiptv", MAVTV USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium646/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/MAXSport_1_logo.png" group-title="DFiptv", Max Sport 1 Croati
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium779/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/MAXSport_2_logo.png" group-title="DFiptv", Max Sport 2 Croatia
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium780/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/iritvy1634997899.png" group-title="DFiptv", Marquee Sports Network
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium770/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/er6tz11641505761.png" group-title="DFiptv", Max Sport 1 Bulgaria
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium472/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/8qhlj81641505795.png" group-title="DFiptv", Max Sport 2 Bulgaria
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium473/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/4j70fr1641505813.png" group-title="DFiptv", Max Sport 3 Bulgaria
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium474/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/o0kgrq1641505828.png" group-title="DFiptv", Max Sport 4 Bulgaria
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium475/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/stsxyv1475892891.png" group-title="DFiptv", MLB Network USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium399/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vprqxu1433431695.png" group-title="DFiptv", MASN USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium829/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnBJ50vMRwQR-x13VyrV9HPM9idvx3FypZZg&usqp=CAU" group-title="DFiptv", MY9TV USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium654/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/motor-trend-it.png" group-title="DFiptv", Motor Trend
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium661/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/me_tv_us.png" group-title="DFiptv", METV USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium662/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkWQGdISeUX3Ajmmm5dUQQcHcv51XD806Mfw&usqp=CAU" group-title="DFiptv", MDR DE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium733/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="DFiptv", Mundotoro TV Spain
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium749/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/54Ea8rlLOFYnm0cNQPt46D/917cbbdd9ee5dc5ee55131687db42824/MTV-Logo.png" group-title="DFiptv", MTV Denmark
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium806/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/uvrxut1433429052.png" group-title="DFiptv", NHL Network USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium663/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/xyyytr1444741576.png" group-title="DFiptv", Nova Sport Bulgaria
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium468/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vsrvqw1470042818.png" group-title="DFiptv", Nova Sport Serbia
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium582/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/um55y21659618122.png" group-title="DFiptv", Nova Sports 1 Greece
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium631/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/xf6uam1659618146.png" group-title="DFiptv", Nova Sports 2 Greece
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium632/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/cs5or61659618158.png" group-title="DFiptv", Nova Sports 3 Greece
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium633/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/d3aa191659618182.png" group-title="DFiptv", Nova Sports 4 Greece
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium634/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/wo7dix1659618221.png" group-title="DFiptv", Nova Sports 5 Greece
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium635/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/nmol9g1659618263.png" group-title="DFiptv", Nova Sports 6 Greece
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium636/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/4bz4tc1659618659.png" group-title="DFiptv", Nova Sports Premier League Greece
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium599/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/w5zenr1659618329.png" group-title="DFiptv", Nova Sports Start Greece
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium637/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/v33evp1659618284.png" group-title="DFiptv", Nova Sports Prime Greece
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium638/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nova-news-bg.png" group-title="DFiptv", Nova Sports News Greece
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium639/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/NESN.png" group-title="DFiptv", NESN USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium762/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/NBC.png" group-title="DFiptv", NBC USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium53/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/owa6og1571337802.png" group-title="DFiptv", NBA TV USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium404/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/NBC_Sports_Chicago.png" group-title="DFiptv", NBC Sports Chicago
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium776/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/NBC_Sports_Philadelphia.png" group-title="DFiptv", NBC Sports Philadelphia
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium777/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/NBC_Sports_Washington.png" group-title="DFiptv", NBC Sports Washington
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium778/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/NFL_Network.png" group-title="DFiptv", NFL Network
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium405/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/NBC_Sports_Bay_Area.png" group-title="DFiptv", NBC Sports Bay Area
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium753/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/NBC_Sports_Boston.png" group-title="DFiptv", NBC Sports Boston
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium754/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ipgzuh1595442099.png" group-title="DFiptv", NBC Sports California
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium755/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.nbcnewyork.com/2019/09/New_York_On_Dark@3x-5.png" group-title="DFiptv", NBCNY USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium769/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nova-tv-bg.png" group-title="DFiptv", Nova TV Bulgaria
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/1WRFov9HA187rUlzKELUJ4/6a71ffe451565d0685760decba6644f8/National-Geographic.png" group-title="DFiptv", National Geographic (NGC)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium328/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/2uvoMHRxMfdNdQoogHb1LV/c054cd3026242748ac3f8c5f64a70cb7/Nick-Jr-logo.png" group-title="DFiptv", NICK JR
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium329/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/1dVO86RSgZpt7EoHL3Txwg/88bb419020caab585a0ea6c8ee2dc8a9/nick__160x160.png" group-title="DFiptv", NICK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium330/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick_us_music.png"" group-title="DFiptv", Nick Music
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium666/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/2sf9snE4e6DQn8hqy3bx2Q/16f83dc7eace769296c5bdc20a45b945/Nicktoons.png" group-title="DFiptv", Nicktoons
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium649/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/ndr_fernsehen_sh.png" group-title="DFiptv", NDR DE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium736/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH41JvHQNFH5yoKt_RAnxFXLWpLqTy8DtVGA&usqp=CAU" group-title="DFiptv", NewsNation USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium292/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb0418S6-dcu_TUr1BBuCIAyS6YHa_4IGr6A&usqp=CAU" group-title="DFiptv", Newsmax USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium613/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/3tBLOLvZq69gbKUp5EdsbC/2723d25ef97133a95f040c9fde788caf/Nat-Geo-Wild.png" group-title="DFiptv", Nat Geo Wild USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium745/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/noovo-ca.png" group-title="DFiptv", Noovo CA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium835/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wpix-tv-us-ny.png" group-title="DFiptv", New! CWPIX 11
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium771/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/ontime-sports-eg.png" group-title="DFiptv", OnTime Sports
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium611/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/ontime-sports-2-eg.png" group-title="DFiptv", OnTime Sports 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium612/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/one_tv_il.png" group-title="DFiptv", ONE 1 HD Israel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium541/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/one-2-il.png" group-title="DFiptv", ONE 2 HD Israel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium542/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/89m9a11649342703.png" group-title="DFiptv", Orange Sport 1 Romania
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium439/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/kcqlaw1649342721.png" group-title="DFiptv", Orange Sport 2 Romania
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium440/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/nzikw81649342740.png" group-title="DFiptv", Orange Sport 3 Romania
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium441/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/gbnjeo1649342755.png" group-title="DFiptv", Orange Sport 4 Romania
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium442/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/oprah-winfrey-network-us.png" group-title="DFiptv", Oprah Winfrey Network (OWN)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium331/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHKP1JMoa0gIhTYg7V-fJpZq1jDkEKgi4TzQ&usqp=CAU" group-title="DFiptv", Oxygen True Crime
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium332/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-pl.png" group-title="DFiptv", Polsat Poland
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium562/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/padw0k1655540397.png" group-title="DFiptv", Polsat Sport Poland
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium47/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/0xg7lq1571515713.png" group-title="DFiptv", Polsat Sport Extra Poland
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium50/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/52ct2m1573901988.png" group-title="DFiptv", Polsat Sport News Poland
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium129/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-news-pl.png" group-title="DFiptv", Polsat News Poland
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium443/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat-film-pl.png" group-title="DFiptv", Polsat Film Poland
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium564/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/yuxppt1465900144.png" group-title="DFiptv", Porto Canal Portugal
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium718/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_peeFc1nosUaCMFI0-y6RPysGYGPbTttsFQ&usqp=CAU" group-title="DFiptv", ProSieben (PRO7) DE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium730/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv-sports-pk.png" group-title="DFiptv", PTV Sports
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium450/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/uustvp1437614684.png" group-title="DFiptv", Premier Brasil
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium88/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/iymjt11656958292.png" group-title="DFiptv", Prima Sport 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium583/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/urbckf1656958338.png" group-title="DFiptv", Prima Sport 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium584/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/pirzmo1656958353.png" group-title="DFiptv", Prima Sport 3
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium585/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/8yu0gp1656958366.png" group-title="DFiptv", Prima Sport 4
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium586/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/448_144.png" group-title="DFiptv", Paramount Network
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium334/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pop_us_west.png" group-title="DFiptv", POP TV USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium653/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Kshdc6B5uWxQ4RmBNJOhZNqRjCU-58g9wg&usqp=CAU" group-title="DFiptv", RTE 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium364/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Xb9W0VFFt1PzNaFFe74c0NoYDxIhB5kHnA&usqp=CAU" group-title="DFiptv", RTE 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium365/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/RMC_Sport_1.png" group-title="DFiptv", RMC Sport 1 France
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium119/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/RMC_Sport_2.png" group-title="DFiptv", RMC Sport 2 France
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium120/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-1-pt.png" group-title="DFiptv", RTP 1 Portugal
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium719/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-2-pt.png" group-title="DFiptv", RTP 2 Portugal
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp_3_pt.png" group-title="DFiptv", RTP 3 Portugal
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium721/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_1.png" group-title="DFiptv", Rai 1 Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium850/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_2.png" group-title="DFiptv", Rai 2 Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium851/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_3.png" group-title="DFiptv", Rai 3 Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium852/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_3.png" group-title="DFiptv", Rai 3 Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium853/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Rai_Sport_1.png" group-title="DFiptv", Rai Sport Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium882/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_premium.png" group-title="DFiptv", Rai Premium Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium858/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/xqwpww1436887616.png" group-title="DFiptv", Real Madrid TV Spain
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium523/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rds_ca.png" group-title="DFiptv", RDS CA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium839/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rds_ca_2.png" group-title="DFiptv", RDS 2 CA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium840/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rds-info-ca.png" group-title="DFiptv", RDS Info CA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium841/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/stpuqx1469455378.png" group-title="DFiptv", Ring Bulgaria
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium471/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCty-xTzDf5758YrdJGiFuFmIDG52JCHEijw&usqp=CAU" group-title="DFiptv", RTL7 Netherland
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium390/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/racing-tv-uk.png" group-title="DFiptv", Racing Tv UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium555/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/reelz_tv_us.png" group-title="DFiptv", Reelz Channel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium293/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.png" group-title="DFiptv", Sky Sports Football UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium35/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-arena-uk.png" group-title="DFiptv", Sky Sports Arena UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium36/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-action-uk.png" group-title="DFiptv", Sky Sports Action UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium37/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png" group-title="DFiptv", Sky Sports Main Event
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium38/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.png" group-title="DFiptv", Sky sports Premier League
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium130/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-f1-uk.png" group-title="DFiptv", Sky Sports F1 UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium60/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-cricket-uk.png" group-title="DFiptv", Sky Sports Cricket
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium65/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-golf-uk.png" group-title="DFiptv", Sky Sports Golf UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium70/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-golf-it.png" group-title="DFiptv", Sky Sports Golf Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium574/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-moto-gp-it.png" group-title="DFiptv", Sky Sport MotoGP Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium575/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-tennis-it.png" group-title="DFiptv", Sky Sport Tennis Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium576/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-f1-it.png" group-title="DFiptv", Sky Sport F1 Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium577/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-news-uk.png" group-title="DFiptv", Sky Sports News UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium366/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-mix-uk.png" group-title="DFiptv", Sky Sports MIX UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium449/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-top-event-de.png" group-title="DFiptv", Sky Sport Top Event DE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium556/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-de.png" group-title="DFiptv", Sky Sport Mix DE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium557/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="DFiptv", Sky Sport Bundesliga 1 HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium558/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-austria-1-de-at.png" group-title="DFiptv", Sky Sport Austria 1 HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium559/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ssstsr1433431952.png" group-title="DFiptv", SportsNet New York (SNY)
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium759/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-calcio-it.png" group-title="DFiptv", Sky Sport Football Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium460/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-uno-it.png" group-title="DFiptv", Sky Sport UNO Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium461/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-arena-it.png" group-title="DFiptv", Sky Sport Arena Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium462/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-racing-uk.png" group-title="DFiptv", Sky Sports Racing UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium554/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-uno-it.png" group-title="DFiptv", Sky UNO Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium881/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-1-nz.png" group-title="DFiptv", Sky Sport 1 NZ
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium588/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-2-nz.png" group-title="DFiptv", Sky Sport 2 NZ
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium589/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-3-nz.png" group-title="DFiptv", Sky Sport 3 NZ
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium590/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-4-nz.png" group-title="DFiptv", Sky Sport 4 NZ
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium591/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-5-nz.png" group-title="DFiptv", Sky Sport 5 NZ
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium592/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-6-nz.png" group-title="DFiptv", Sky Sport 6 NZ
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium593/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-7-nz.png" group-title="DFiptv", Sky Sport 7 NZ
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium594/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-8-nz.png" group-title="DFiptv", Sky Sport 8 NZ
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium595/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-9-nz.png" group-title="DFiptv", Sky Sport 9 NZ
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium596/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-select-nz.png" group-title="DFiptv", Sky Sport Select NZ
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium587/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sqxxtw1470409111.png" group-title="DFiptv", Sport TV1 Portugal
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium49/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" group-title="DFiptv", Sport TV2 Portugal
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium74/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/wwsuqv1470409839.png" group-title="DFiptv", Sport TV3 Portugal
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium454/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vuytwx1470409983.png" group-title="DFiptv", Sport TV4 Portugal
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium289/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/uvpqvr1470410094.png" group-title="DFiptv", Sport TV5 Portugal
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium290/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/cjwfrr1659133957.png" group-title="DFiptv", Sport TV6 Portugal
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium291/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sic-pt.png" group-title="DFiptv", SIC Portugal
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium722/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/SEC_Network.png" group-title="DFiptv", SEC Network USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium385/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ruvrus1437612002.png" group-title="DFiptv", SporTV Brasil
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium78/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/rspqxw1437612159.png" group-title="DFiptv", SporTV2 Brasil
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium79/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/yuusqs1437612244.png" group-title="DFiptv", SporTV3 Brasil
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium80/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/pavwzb1604073102.png" group-title="DFiptv", Sport Klub 1 Serbia
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium101/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/kgw3c01604066988.png" group-title="DFiptv", Sport Klub 2 Serbia
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium102/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/rf6rt51604073182.png" group-title="DFiptv", Sport Klub 3 Serbia
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium103/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/ma09yz1604073171.png" group-title="DFiptv", Sport Klub 4 Serbia
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium104/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_hd.png" group-title="DFiptv", Sport Klub HD Serbia
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium453/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/swsqwu1433380905.png" group-title="DFiptv", Sportsnet Ontario
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium406/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/yuxqyw1433381675.png" group-title="DFiptv", Sportsnet One
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium411/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/rysurt1453139330.png" group-title="DFiptv", Sportsnet West
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium407/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/wtyrpy1453139353.png" group-title="DFiptv", Sportsnet East
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium408/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/svwwpy1453139304.png" group-title="DFiptv", Sportsnet 360
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium409/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/rxwxvv1433429786.png" group-title="DFiptv", Sportsnet World
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium410/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-grandstand-za.png" group-title="DFiptv", SuperSport Grandstand
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium412/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-psl-za.png" group-title="DFiptv", SuperSport PSL
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium413/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="DFiptv", SuperSport Premier league
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium414/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png" group-title="DFiptv", SuperSport LaLiga
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium415/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-1-za.png" group-title="DFiptv", SuperSport Variety 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium416/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-2-za.png" group-title="DFiptv", SuperSport Variety 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium417/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-3-za.png" group-title="DFiptv", SuperSport Variety 3
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium418/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-4-za.png" group-title="DFiptv", SuperSport Variety 4
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium419/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-action-za.png" group-title="DFiptv", SuperSport Action
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium420/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-rugby-za.png" group-title="DFiptv", SuperSport Rugby
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium421/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-golf-za.png" group-title="DFiptv", SuperSport Golf
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium422/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-tennis-za.png" group-title="DFiptv", SuperSport Tennis
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium423/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-motorsport-za.png" group-title="DFiptv", SuperSport Motorsport
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium424/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png" group-title="DFiptv", Supersport Football
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium56/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png" group-title="DFiptv", SuperSport Cricket
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium368/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-maximo-1-za.png" group-title="DFiptv", SuperSport MaXimo 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium572/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sporting_tv_pt.png"" group-title="DFiptv", Sporting TV Portugal
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium716/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/6yoruk1601576410.png"" group-title="DFiptv", SportDigital Fussball
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium571/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/0ceiea1571343147.png" group-title="DFiptv", Spectrum Sportsnet LA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium764/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport1_de_plus.png" group-title="DFiptv", Sport1+ Germany
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium640/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport1_de.png" group-title="DFiptv", Sport1 Germany
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium641/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/S4C.png" group-title="DFiptv", S4C UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium670/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/zh4b8l1659634415.png" group-title="DFiptv", SAT.1 DE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium729/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-premiere-uk.png" group-title="DFiptv", Sky Cinema Premiere UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium671/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-select-uk.png" group-title="DFiptv", Sky Cinema Select UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium672/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-hits-uk.png" group-title="DFiptv", Sky Cinema Hits UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium673/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-greats-uk.png" group-title="DFiptv", Sky Cinema Greats UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium674/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-animation-uk.png" group-title="DFiptv", Sky Cinema Animation UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium675/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-family-uk.png" group-title="DFiptv", Sky Cinema Family UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium676/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-action-uk.png" group-title="DFiptv", Sky Cinema Action UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium677/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DFiptv", The Hallmark
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium678/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-thriller-uk.png" group-title="DFiptv", Sky Cinema Thriller UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium679/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DFiptv", The Hallmark
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium680/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-sci-fi-horror-uk.png" group-title="DFiptv", Sky Cinema Sci-Fi Horror UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium681/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-collection-it.png" group-title="DFiptv", Sky Cinema Collection Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium859/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-uno-it.png" group-title="DFiptv", Sky Cinema Uno Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium860/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-action-it.png" group-title="DFiptv", Sky Cinema Action Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium861/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-comedy-it.png" group-title="DFiptv", Sky Cinema Comedy Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium862/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-uno-plus24-it.png" group-title="DFiptv", Sky Cinema Uno +24 Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium863/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-romance-it.png" group-title="DFiptv", Sky Cinema Romance Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium864/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-family-it.png" group-title="DFiptv", Sky Cinema Family Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium865/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-due-plus24-it.png" group-title="DFiptv", Sky Cinema Due +24 Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium866/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-drama-it.png" group-title="DFiptv", Sky Cinema Drama Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/ l
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium867/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-suspense-it.png" group-title="DFiptv", Sky Cinema Suspense Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium868/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-24-it.png" group-title="DFiptv", Sky Sport 24 Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium869/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-calcio-it.png" group-title="DFiptv", Sky Sport Calcio Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium870/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-it.png" group-title="DFiptv", Sky Calcio 1 (251) Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium871/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-it.png" group-title="DFiptv", Sky Calcio 2 (252) Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium872/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-it.png" group-title="DFiptv", Sky Calcio 3 (253) Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium873/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-it.png" group-title="DFiptv", Sky Calcio 4 (254) Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium874/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-it.png" group-title="DFiptv", Sky Calcio 5 (255) Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium875/index.m3u8 Sky
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-it.png" group-title="DFiptv", Sky Calcio 6 (256) Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium876/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-it.png" group-title="DFiptv", Sky Calcio 7 (257) Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium877/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-serie-it.png" group-title="DFiptv", Sky Serie Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium880/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiyE6MNnG3-Kc-R2etv8VOYg37BLBEG3hBbA&usqp=CAU" group-title="DFiptv", StarzPlay CricLife 1 HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium284/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiyE6MNnG3-Kc-R2etv8VOYg37BLBEG3hBbA&usqp=CAU" group-title="DFiptv", StarzPlay CricLife 2 HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium283/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiyE6MNnG3-Kc-R2etv8VOYg37BLBEG3hBbA&usqp=CAU" group-title="DFiptv", StarzPlay CricLife 3 HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium282/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-showcase-uk.png" group-title="DFiptv", Sky Showcase UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium682/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-arts-uk.png" group-title="DFiptv", Sky Arts UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium683/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-comedy-uk.png" group-title="DFiptv", Sky Comedy UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium684/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-crime-uk.png" group-title="DFiptv", Sky Crime
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium685/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.cookielaw.org/logos/b2afecc7-2285-4d6a-ba4d-6d386206c6f6/dba4fff7-cb12-4715-ac89-60ff59f58dad/4d0a5f1c-ec14-4a37-9ba2-519fb4656085/sky-history-onetrust-logo.png" group-title="DFiptv", Sky History
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium686/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-1-sa.png" group-title="DFiptv", SSC Sport 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium614/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-2-sa.png" group-title="DFiptv", SSC Sport 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium615/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-3-sa.png" group-title="DFiptv", SSC Sport 3
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium616/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-sa.png" group-title="DFiptv", SSC Sport 4
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium617/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-5-sa.png" group-title="DFiptv", SSC Sport 5
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium618/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-extra-1-sa.png" group-title="DFiptv", SSC Sport Extra 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium619/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-extra-2-sa.png" group-title="DFiptv", SSC Sport Extra 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium620/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-extra-3-sa.png" group-title="DFiptv", SSC Sport Extra 3
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium621/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/ssjl1j1627494247.png" group-title="DFiptv", Sport 1 Israel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium140/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/27uvm51627494269.png" group-title="DFiptv", Sport 2 Israel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium141/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/irxvmy1627494303.png" group-title="DFiptv", Sport 3 Israel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium142/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/km8o4f1627494329.png" group-title="DFiptv", Sport 4 Israel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium143/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/5-sport-il.png" group-title="DFiptv", Sport 5 Israel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium144/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/5-plus-il.png" group-title="DFiptv", Sport 5 PLUS Israel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium145/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/5-live-il.png" group-title="DFiptv", Sport 5 Live Israel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium146/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/5-stars-il.png" group-title="DFiptv", Sport 5 Star Israel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium147/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/5-gold-il.png" group-title="DFiptv", Sport 5 Gold Israel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium14/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/science_us.png" group-title="DFiptv", Science Channel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium294/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/qpwqtq1434971341.png" group-title="DFiptv", Showtime USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium333/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Showtime_PPV.png" group-title="DFiptv", Showtime SHOxBET USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium685/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_us_east.png" group-title="DFiptv", Starz
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium335/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-witness-uk.png" group-title="DFiptv", Sky Witness HD
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium361/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sixx_at.png" group-title="DFiptv", Sixx DE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium732/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-atlantic-uk.png" group-title="DFiptv", Sky Atlantic
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium362/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vsppsu1433438058.png" group-title="DFiptv", SYFY USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium373/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sundance_tv_us.png"
+group-title="DFiptv", Sundance TV
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium658/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThheOhWD3-TT-LV0saNMWzfoQcPt57gOhK6Q&usqp=CAU" group-title="DFiptv", SWR DE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium735/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ7aTK0CTwWyhFFJNxqcgr1ZL5z2r2OIS6eg&usqp=CAU" group-title="DFiptv", SUPER RTL DE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium738/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4nnIk-BJmOUdME3B8AwAUSjn6c5pyriGe9w&usqp=CAU" group-title="DFiptv", SR Fernsehen DE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium739/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIVJRGPjDcV2P2ypCDO8xO5h2qGKa5yTJmYA&usqp=CAU" group-title="DFiptv", Smithsonian Channel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium601/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/153ikz1689746051.png" group-title="DFiptv", TNT Sports 1 UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium31/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/lzqo991689746090.png" group-title="DFiptv", TNT Sports 2 UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium32/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/zng7o61689746157.png" group-title="DFiptv", TNT Sports 3 UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium33/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/81twnr1689746183.png" group-title="DFiptv", TNT Sports 4 UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium34/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/upsspx1433379567.png" group-title="DFiptv", TSN1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium111/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sutruq1433379787.png" group-title="DFiptv", TSN2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium112/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ssxtux1433380256.png" group-title="DFiptv", TSN3
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium113/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/yrrvpq1433380019.png" group-title="DFiptv", TSN4
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium114/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sytpty1433380112.png" group-title="DFiptv", TSN5
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium115/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvn_pl.png" group-title="DFiptv", TVN HD Poland
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium565/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvn-24-pl.png" group-title="DFiptv", TVN24 Poland
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium444/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvp-1-pl.png" group-title="DFiptv", TVP1 Poland
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium560/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvp-2-pl.png" group-title="DFiptv", TVP2 Poland
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium561/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/telecinco.png" group-title="DFiptv", Telecinco Spain
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium532/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tve1_madrid.png" group-title="DFiptv", TVE La 1 Spain
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium533/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tve2.png" group-title="DFiptv", TVE La 2 Spain
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium536/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvi_pt.png" group-title="DFiptv", TVI Portugal
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium723/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvi_pt_reality.png" group-title="DFiptv", TVI Reality Portugal
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium724/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tve_teledeporte.png" group-title="DFiptv", Teledeporte Spain
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium529/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/zmpjy41624030194.png" group-title="DFiptv", TYC Sports Argentina
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium746/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvp-sport-pl.svg" group-title="DFiptv", TVP Sport Poland
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium128/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/zszlzv1657046220.png" group-title="DFiptv", TNT Brasil
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium87/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/1asjjb1605773962.png" group-title="DFiptv", TNT Sports Argentina
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium388/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/wxt7um1621868741.png" group-title="DFiptv", TNT Sports HD Chile
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium642/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/qutxrq1456636094.png" group-title="DFiptv", Tennis Channel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium40/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="DFiptv", Ten Sports PK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium741/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/3zt6s51679647663.png" group-title="DFiptv", TUDN USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium66/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Telemundo.png" group-title="DFiptv", Telemundo
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium131/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs_east.png" group-title="DFiptv", TBS USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium336/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/l434SR0kMwtELVLxsV5fi/a00d83494aeda2063d403bbdd43567f9/tlc.png" group-title="DFiptv", TLC
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium337/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/TNT.png" group-title="DFiptv", TNT USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium338/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tva-sports-ca.png" group-title="DFiptv", TVA Sports
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium833/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tva-sports-2-ca.png" group-title="DFiptv", TVA Sports 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium834/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/travel-channel-il.png" group-title="DFiptv", Travel Channel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium340/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tru_tv_us.png" group-title="DFiptv", TruTV USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium341/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_land_east.png" group-title="DFiptv", TVLAND
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium342/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tcm-us-us.png" group-title="DFiptv", TCM USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium644/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRspV2kVjQfFzvb_QW62Z6tkLpP_Iqr6AbUvg&usqp=CAU" group-title="DFiptv", TMC Channel USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium698/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/food-network-uk.png" group-title="DFiptv", The Food Network
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium384/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/the-weather-channel-us.png" group-title="DFiptv", The Weather Channel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium394/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/TVP.Info.HD.png" group-title="DFiptv", TVP INFO
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium452/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/teen_nick_us.png" group-title="DFiptv", TeenNick
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium650/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_one_us.png" group-title="DFiptv", TV ONE USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium660/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmh2KhONcJv1n8LR-Lt93qOgG_b9ehuVJ8Sw&usqp=CAU" group-title="DFiptv", TV2 Bornholm Denmark
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium807/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-2-sport-x-dk.png" group-title="DFiptv", TV2 Sport X Denmark
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium808/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-3-sport-dk.png" group-title="DFiptv", TV3 Sport Denmark
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium809/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-2-sport-dk.png" group-title="DFiptv", TV2 Sport Denmark
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium810/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.detect-project.eu/wp-content/uploads/2018/07/tv2.jpg" group-title="DFiptv", TV2 Denmark
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium817/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-2-zulu-dk.png" group-title="DFiptv", TV2 Zulu
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium818/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/viasat_tv3_plus_dk.png" group-title="DFiptv", TV3+ Denmark
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium819/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TVO_logo_as_of_2008.svg/220px-TVO_logo_as_of_2008.svg.png"" group-title="DFiptv", TVO CA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium842/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Tennis_Channel.png" group-title="DFiptv", Tennis+ 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium700/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Tennis_Channel.png" group-title="DFiptv", Tennis+ 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium701/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Tennis_Channel.png" group-title="DFiptv", Tennis+ 3
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium702/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Tennis_Channel.png" group-title="DFiptv", Tennis+ 4
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium703/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Tennis_Channel.png" group-title="DFiptv", Tennis+ 5
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium704/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Tennis_Channel.png" group-title="DFiptv", Tennis+ 6
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium705/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Tennis_Channel.png" group-title="DFiptv", Tennis+ 7
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium706/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Tennis_Channel.png" group-title="DFiptv", Tennis+ 8
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium707/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Tennis_Channel.png" group-title="DFiptv", Tennis+ 9
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium708/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Tennis_Channel.png" group-title="DFiptv", Tennis+ 10
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium709/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Tennis_Channel.png" group-title="DFiptv", Tennis+ 11
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium710/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Tennis_Channel.png" group-title="DFiptv", Tennis+ 12
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium711/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Tennis_Channel.png" group-title="DFiptv", Tennis+ 13
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium712/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Tennis_Channel.png" group-title="DFiptv", Tennis+ 14
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium713/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Tennis_Channel.png" group-title="DFiptv", Tennis+ 15
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium714/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/k4trv41682236915.png" group-title="DFiptv", USA Network
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium343/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/uu/universal-kids-us.png" group-title="DFiptv", Universal Kids USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium668/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ieqjx81596881848.png" group-title="DFiptv", Univision
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium132/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/UniMas.png" group-title="DFiptv", Unimas
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium133/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/bm9azf1678871805.png" group-title="DFiptv", Viaplay Sports 1 UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium451/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/kxyaqo1678871855.png" group-title="DFiptv", Viaplay Sports 2 UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium550/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/yk1vcy1678871870.png" group-title="DFiptv", Viaplay Xtra UK
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium597/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/movistar_vamos.png" group-title="DFiptv", #Vamos Spain
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium521/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/6v8MM4wQFj932oEyEMsVqR/3b14cb66009e218ee0265a858d346b23/v-film-premier.png" group-title="DFiptv", V Film Premiere
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium815/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/7031OKVRveLZReu1w5ES8C/545d47711f1bc490d0bae55eec77dfa1/v-film-family.png" group-title="DFiptv", V Film Family
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium816/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/56dtXlT2l5IAj8G9XcV99V/9adebbf74b1b0d79dffc65c089bf6a00/VH1.png" group-title="DFiptv", VH1 USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium344/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/9rf5w21649339157.png" group-title="DFiptv", Veronica NL Netherland
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium378/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/vtv-plus-uy.png" group-title="DFiptv", VTV+ Uruguay
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium391/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/vice-uk-us.png" group-title="DFiptv", VICE TV
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium659/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/willow_us.png" group-title="DFiptv", Willow Cricket
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium346/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/willow_us_extra.png" group-title="DFiptv", Willow XTRA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium598/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/egy26l1493127962.png" group-title="DFiptv", WWE Network
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium376/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/win-sports-co.png" group-title="DFiptv", Win Sports+ Columbia
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium392/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/we_tv_us.png" group-title="DFiptv", WETV USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium655/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjk62p32fKRcS2DCfa79cetsMqETvgp-ljdQ&usqp=CAU" group-title="DFiptv", WDR DE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium734/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/odza5x1595393040.png" group-title="DFiptv", YES Network USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium763/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/yy/yes-movies-action-il.png" group-title="DFiptv", YES Movies Action Israel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium543/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/yy/yes-movies-kids-il.png" group-title="DFiptv", Yes Movies Kids Israel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium544/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/yy/yes-movies-comedy-il.png" group-title="DFiptv", Yes Movies Comedy Israel
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium545/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/yy/yas-tv-ae.png" group-title="DFiptv", Yas TV UAE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium609/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://yestv.com/wp-content/uploads/2023/07/5f32b24923f4a1699c0852db_Yes-TV-logo-WHITE-copy-1.png" group-title="DFiptv", Yes TV CA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium837/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/6ug5ma1571692616.png" group-title="DFiptv", Ziggo Sport Docu NL
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium383/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Ziggo_Sport_Select.png" group-title="DFiptv", Ziggo Sport Select NL
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium393/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Ziggo_Sport_Racing.png" group-title="DFiptv", Ziggo Sport Racing NL
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium396/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Ziggo_Sport_Voetbal.png" group-title="DFiptv", Ziggo Sport Voetbal NL
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium398/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://branditechture.agency/brand-logos/wp-content/uploads/2023/01/BBC-Germany-01.png" group-title="DFiptv", BBC 1 DE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium727/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zdf-info-de.png" group-title="DFiptv", ZDF Info DE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium728/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/20-it.png" group-title="DFiptv", 20 Mediaset Italy
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium857/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/6_eren_dk.png" group-title="DFiptv", 6'eren Denmark
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium800/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/srxtvp1479965540.png" group-title="DFiptv", #0 Spain
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium437/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/stqqrr1467822842.png" group-title="DFiptv", 5 USA
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium360/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/233a47KqyUHe6qjBlmZYkb/6c3a3b793628f580db48a7539ee40d92/3sat.png" group-title="DFiptv", 3sat DE
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium726/index.m3u8
