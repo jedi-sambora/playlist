@@ -8,10 +8,14 @@ https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b
 http://sansat.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/93643
 #EXTINF:-1 group-title="Movie",&Prive
 http://sansat.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/93644
-#EXTINF:-1 group-title="Movie" tvg-name="Movie" tvg-logo="http://62.182.85.43/poster/STAR.MOVIES.png",IND ➤ STAR MOVIES HD
+#EXTINF:-1 group-title="Movie" tvg-name="Movie" tvg-logo="http://62.182.85.43/poster/STAR.MOVIES.png",IND ➤ STAR MOVIES HD kc
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/11511
-#EXTINF:-1 group-title="Movie" tvg-name="Movie" tvg-logo="http://62.182.85.43/poster/STAR.MOVIES.png",IND ➤ STAR MOVIES SELECTED HD
+#EXTINF:-1 group-title="Movie" tvg-name="Movie" tvg-logo="http://62.182.85.43/poster/STAR.MOVIES.png",IND ➤ STAR MOVIES HD tree
+http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/11511
+#EXTINF:-1 group-title="Movie" tvg-name="Movie" tvg-logo="http://62.182.85.43/poster/STAR.MOVIES.png",IND ➤ STAR MOVIES SELECTED HD sansat
 http://sansat.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/93669
+#EXTINF:-1 group-title="Movie" tvg-name="Movie" tvg-logo="http://62.182.85.43/poster/STAR.MOVIES.png",IND ➤ STAR MOVIES SELECTED HD tree
+http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/267542
 #EXTINF:-1 group-title="Movie" ,Movies NOW
 http://sansat.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/96282
 #EXTINF:-1 group-title="Movie" ,HBO HD kc
