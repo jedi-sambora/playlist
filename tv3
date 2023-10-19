@@ -489,6 +489,12 @@ http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/147031
 
 #EXTINF:-1 tvg-id="polsatsportpremium3ppv.pl" tvg-name="PL: Polsat Sport Premium 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e1ec5f267ca1decde0d9e51925976033.png" group-title="A BADMINTON",arc 
 http://203.205.136.211/liveplay-kk.rtxapp.com/live/program/live/hdnba5/2300000/mnf.m3u8
+#EXTINF:-1  group-title="A BADMINTON",DO C1 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/JV_SportsHD4_DIG_MOB-audio_98835_eng=98800-video=1173600.m3u8
+#EXTINF:-1  group-title="A BADMINTON",DO C2 
+http://203.205.137.202/mobilelive-play.ysp.cctv.cn/ysp/2021594001_hd.m3u8
+#EXTINF:-1  group-title="A BADMINTON",DO C3 
+http://203.205.137.202/mobilelive-play.ysp.cctv.cn/ysp/2021605801_hd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="SYSADMIN 1407",ID: beIN Sports 1
 http://sysadminhost.net:8080/stadnik/6a627b52a9/165105
