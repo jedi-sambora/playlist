@@ -44,6 +44,9 @@ http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/264773
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/264774
 #EXTINF:-1 group-title="Movie" ,24/7 Netflix
 http://sansat.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/301715
+#EXTINF:-1 group-title="Movie" ,24/7 Netflix sp
+http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/393759
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
