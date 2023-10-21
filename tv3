@@ -410,24 +410,28 @@ http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/298548
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/298549
 
 
+go="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" group-title="ASTRO", Astro SuperSport 1
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium123/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png" group-title="ASTRO", Astro SuperSport 2
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium124/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png" group-title="ASTRO", Astro SuperSport 3
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium125/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="ASTRO", Astro SuperSport 4
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.vipboxtv.stream/lb/premium126/index.m3u8
 
 
 
-
-#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="", Astro Supersport 1
-https://m3.ballnaja.com/live/assp1/chunks.m3u8
-#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="", Astro Supersport 2
-https://m3.ballnaja.com/live/assp2/chunks.m3u8
-#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="", Astro Supersport 3
-https://m3.ballnaja.com/live/assp3/chunks.m3u8
-#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="", Astro Supersport 4
-https://m3.ballnaja.com/live/assp4/chunks.m3u8
-#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="", BEIN Rugby
-https://m2.ballnaja.com:8443/beIN_Sports_Rugby/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="", BEIN Sports 2
-https://m2.ballnaja.com:8443/BeIn_Sports_2_Eng/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="", BEIN Sports 3
-https://m2.ballnaja.com:8443/BeIn_Sports_3_A/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="QA: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png" group-title="GAMSGO 2404",QA: beIN Sports 1
