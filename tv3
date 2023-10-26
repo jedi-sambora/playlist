@@ -1246,7 +1246,7 @@ https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.m
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sub/8k2mdlSvVI/mGqa9Wg", "kid":"3rbITbTcRXi9qmHpZbNCTA" } ], "type":"temporary" }
 #EXTINF:-1 group-title="SPORT LOCAL" tvg-id="" tvg-chno="" group-logo="https://speedtrademarket.com/live/logo/mediacorp_logo.png" tvg-logo="https://speedtrademarket.com/live/logo/mewatch_logo.png",SPORT 2 (SGP)
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
-N Sports 1
+#EXTINF:-1 group-title="IPTVTREE",QA: beIN Sports 1
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/100
 #EXTINF:-1 group-title="IPTVTREE",QA: beIN Sports 2
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/101
