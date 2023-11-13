@@ -105,12 +105,13 @@ http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/197972
 http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/196480
 #EXTINF:-1 group-title="Movie" ,HBO Hits tree
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/196480
-#EXTINF:-1 group-title="Movie" ,HBO Signature kc
-http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/221948
 #EXTINF:-1 group-title="Movie" ,HBO Signature tree
-ttp://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/221948
-#EXTINF:-1 group-title="Movie" ,TVN MOVIE kc
-http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/157596
+http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/221948
+#EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVN MOVIES HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://strmz.my.id/drm/punyastrimz
 #EXTINF:0 CUID="77" tvg-name="TVN MOVIES" tvg-id="tvnmovies.id" tvg-logo="https://logo.iptveditor.com/tvnmovies.png" group-title="Movie",TVN MOVIES mpd
@@ -1287,4 +1288,30 @@ http://es4u.live:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/412915
 http://es4u.live:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/412916
 
 
+#EXTINF:-1 tvg-id="telekomsport1.ro" group-title="Sports MPD" tvg-logo="https://iptvboss.xyz/logos/Romania/OrangeSport1.ro.png",Orange Sport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"gGVzp0eJppZRwWLaTbtVJg", "kid":"sRUX3jEvyrXLoGvjXkghOA"}], "type":"temporary"}
+https://ott1.cyberhost.ro/sdash/LIVE$DolceSportHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
+#EXTINF:-1 tvg-id="telekomsport2.ro" group-title="Sports MPD" tvg-logo="https://iptvboss.xyz/logos/Romania/OrangeSport2.ro.png",Orange Sport 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"MHv4idkpaf/TAU3dtnmZ9g", "kid":"91MCzbBKCeQ/FTCVvKzRIw"}], "type":"temporary"}
+https://ott1.cyberhost.ro/sdash/LIVE$DolceSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-id="telekomsport3.ro" group-title="Sports MPD" tvg-logo="https://iptvboss.xyz/logos/Romania/OrangeSport3.ro.png",Orange Sport 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"HNKJrHHOX7MGpedlMZLOOg", "kid":"uHhXunTOA/n6KGbx4IbQXQ"}], "type":"temporary"}
+https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-id="telekomsport4.ro" group-title="Sports MPD" tvg-logo="https://iptvboss.xyz/logos/Romania/OrangeSport4.ro.png",Orange Sport 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"zdOZhpBXvDTIJ/JX9WJkOg", "kid":"ICqSfNkTEB3nZbDluz9QDw"}], "type":"temporary"}
+https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
