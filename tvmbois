@@ -8,6 +8,26 @@
 #EXTM3U x-url-tvg="https://github.com/thefirefox12537/streams/blob/master/epg/local/guide.xml"
 #EXTM3U url-tvg="https://github.com/AqFad2811/epg/raw/main/epg.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedstates.xml,https://www.bevy.be/bevyfiles/thailand.xml" m3uautoload=1 cache=500 deinterlace=1
 
+############## FIFA ###############
+#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 1
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
+##https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 2
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 3
+https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 4
+https://webudit.hlsjs.ru/lb/premium123/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 5
+https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
+###################################################################
+####################### TV Nasional ###############################
+
+#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="NASIONAL",Ongis TV
+https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="" group-title="MNC GRUP" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI*
@@ -370,18 +390,6 @@ http://80.252.37.194:5000/udp/233.233.233.7:12000
 http://80.252.37.194:5000/udp/233.233.233.8:12000
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="ASTRO",Astro SuperSport
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/146068
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="ASTRO",Astro SuperSport 2
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157556
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="ASTRO",Astro SuperSport 3
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157557
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="ASTRO",Astro SuperSport 4
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157558
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="ASTRO",Astro SuperSport 5
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/287792
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="ASTRO", beIN Sports
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157561
 
 
 
@@ -618,13 +626,13 @@ https://ctrl.laotv.la/live/Bsport1/index.m3u8
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="OLAHRAGA",Astro SuperSport 1
-https://m2.ballnaja.com/assp1/tracks-v1a1/mono.m3u8
+https://webudit.hlsjs.ru/lb/premium123/index.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png" group-title="OLAHRAGA",Astro SuperSport 2
-https://m2.ballnaja.com/assp2/tracks-v1a1/mono.m3u8
+https://m3.ballnaja.com/assp2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="OLAHRAGA",Astro SuperSport 3
-https://m2.ballnaja.com/assp3/tracks-v1a1/mono.m3u8
+https://m3.ballnaja.com/assp3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="OLAHRAGA",Astro Supersport 4
-https://m2.ballnaja.com/assp4/tracks-v1a1/mono.m3u8
+https://m3.ballnaja.com/assp4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="OLAHRAGA",True Premiere 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -655,6 +663,28 @@ http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8
 #EXTINF:-1 group-title="OLAHRAGA" tvg-id="spotv2.kr" tvg-logo="https://i.imgur.com/5D0YW20.png",SPOTV 2 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/eurosport1spain.webp" group-title="OLAHRAGA",Eurosport 1 Spain
+https://webudit.hlsjs.ru/lb/premium524/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/eurosport2spain.webp" group-title="OLAHRAGA",Eurosport 2 Spain
+https://webudit.hlsjs.ru/lb/premium525/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/eurosports1.webp" group-title="OLAHRAGA",Eurosport 1 UK
+https://webudit.hlsjs.ru/lb/premium41/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTINF:-1 tvg-id="" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/eurosports2.webp" group-title="OLAHRAGA",Eurosport 2 UK
+https://webudit.hlsjs.ru/lb/premium42/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="KSASports1.sa" tvg-logo="https://i.imgur.com/ONKNOAp.png" group-title="OLAHRAGA",KSA Sports 1 HD
 https://edge.taghtia.com/sa/9.m3u8
