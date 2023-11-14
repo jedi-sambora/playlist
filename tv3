@@ -1251,3 +1251,60 @@ https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&e
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"zdOZhpBXvDTIJ/JX9WJkOg", "kid":"ICqSfNkTEB3nZbDluz9QDw"}], "type":"temporary"}
 https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
+#EXTINF:-1 tvg-chno="205" tvg-id="ESPN2.ar" tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="Sports MPD", ESPN
+https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
+#EXTINF:-1 tvg-chno="206" tvg-id="ESPN.ar" tvg-logo="https://static.wixstatic.com/media/b12542_ea74dac7ead245a6a572f8caab350a58~mv2.png" group-title="Sports MPD", ESPN 2
+https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/ESPN2_Arg.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
+#EXTINF:-1 tvg-chno="207" tvg-id="ESPN3.ar" tvg-logo="https://static.wixstatic.com/media/b12542_5658d51d89ad4541a01770e4f80d953d~mv2.png" group-title="Sports MPD", ESPN 3
+https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
+#EXTINF:-1 tvg-chno="208" tvg-id="ESPNExtraHDSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_06/large.1321307982_ESPNExtra.png.dab30b1a6f200ecbb305435d36e06ee9.png" group-title="Sports MPD", ESPN Extra
+https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+#EXTINF:-1 tvg-chno="250" tvg-id="ESPNPremiumHD.ar" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="PACK FÚTBOL", ESPN Premium
+https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
+#EXTINF:-1 tvg-chno="251" tvg-id="TNTSportsHDArgentina.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="PACK FÚTBOL", TNT Sports
+https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
+
+KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
+#EXTINF:-1 tvg-chno="201" tvg-id="" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="Sports MPD", TyC Sports
+https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
+#EXTINF:-1 tvg-chno="202" tvg-id="FoxSportsArgentina.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/1447103524_Fox_Sports_Argentina_2023-copia.png.977f2acd0eaa731580e02c585096a9d9.png" group-title="Sports MPD", FOX Sports
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
+#EXTINF:-1 tvg-chno="203" tvg-id="FoxSports2HDSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/1862574058_Fox_Sports_2_Argentina_2023-copia.png.f44c1ecb12612709887e97dd3e3400a8.png" group-title="Sports MPD", FOX Sports 2
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
+#EXTINF:-1 tvg-chno="204" tvg-id="FoxSports3Argentina.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/Fox_Sports_3_Argentina_2023.png.baa9fb8a642232d4d6733c958a64ce8a.png" group-title="Sports MPD", FOX Sports 3
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
