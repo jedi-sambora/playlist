@@ -87,8 +87,10 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
 #EXTINF:-1 group-title="Movie",AXN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8
-#EXTINF:-1 group-title="Movie" ,HBO HD tree
-http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/197972
+#EXTINF:-1 group-title="Movie" ,CHina Movie 
+http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/165065
+#EXTINF:-1 group-title="Movie" ,HBO HD aflax
+http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/197972
 #EXTINF:-1 group-title="Movie" ,HBO Hits tree
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/196480
 #EXTINF:-1 group-title="Movie" ,HBO Signature tree
@@ -96,22 +98,21 @@ http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/221948
 #EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVN MOVIES HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
+#EXTINF:-1 group-title="Movie" ,TVN Movie aflax
+http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/157596
+#EXTINF:-1 group-title="Movie" ,Movie Now
+http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/169118
+#EXTINF:-1 group-title="Movie" ,Star Movie Selected
+http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/267542
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://strmz.my.id/drm/punyastrimz
 #EXTINF:0 CUID="77" tvg-name="TVN MOVIES" tvg-id="tvnmovies.id" tvg-logo="https://logo.iptveditor.com/tvnmovies.png" group-title="Movie",TVN MOVIES mpd
 https://mangga-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-#EXTINF:-1 group-title="Movie" ,Flix
-http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/165095
-#EXTINF:-1 group-title="Movie" ,Galaxy kucini
-http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/264773
-#EXTINF:-1 group-title="Movie" ,Galaxy Premium kucini
-http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/264774
-#EXTINF:-1 group-title="Movie" ,24/7 Netflix
-http://sansat.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/301715
-#EXTINF:-1 group-title="Movie" ,24/7 Netflix sp
-http://iptv-plus.net:25461/@ttkiller/UFCPCNSP0NZZ2SK/393759
+#EXTINF:-1 group-title="Movie" ,TVN Movie aflax
+http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/297499
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -142,15 +143,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 
 
-#EXTINF:-1 tvg-id="beINSports" group-title="SPORT LOCAL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",BeIN Sports 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
-
-#EXTINF:-1 tvg-id="beINSports" group-title="SPORT LOCAL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",BeIN Sports 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
