@@ -102,9 +102,16 @@ http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
 http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/157596
 #EXTINF:-1 group-title="Movie" ,Movie Now
 http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/169118
+#EXTINF:-1 group-title="Movie" ,Movie Now2
+http://line.lion-ott.com:80/abcd1234/abcd1234/281391
+#EXTINF:-1 group-title="Movie" ,Star Movie
+http://line.lion-ott.com:80/abcd1234/abcd1234/281643
 #EXTINF:-1 group-title="Movie" ,Star Movie Selected
 http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/267542
-
+#EXTINF:-1 group-title="Movie" ,Star Movie Selected2
+http://line.lion-ott.com:80/abcd1234/abcd1234/281644
+#EXTINF:-1 group-title="Movie" ,&PRIVE
+http://line.lion-ott.com:80/abcd1234/abcd1234/281642
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://strmz.my.id/drm/punyastrimz
