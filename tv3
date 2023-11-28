@@ -105,9 +105,9 @@ http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/169118
 #EXTINF:-1 group-title="Movie" ,Movie Now2
 http://line.lion-ott.com:80/abcd1234/abcd1234/281391
 #EXTINF:-1 group-title="Movie" ,Star Movie
-http://line.lion-ott.com:80/abcd1234/abcd1234/281643
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Movie" ,Star Movie Selected
-http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/267542
+http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Movie" ,Star Movie Selected2
 http://line.lion-ott.com:80/abcd1234/abcd1234/281644
 #EXTINF:-1 group-title="Movie" ,&PRIVE
