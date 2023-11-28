@@ -112,6 +112,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=7435&deviceMac=00:1A:79:51:4B
 http://line.lion-ott.com:80/abcd1234/abcd1234/281644
 #EXTINF:-1 group-title="Movie" ,&PRIVE
 http://line.lion-ott.com:80/abcd1234/abcd1234/281642
+#EXTINF:-1 group-title="wcu17", US: Fox Sports 1
+http://iptvmedia.live:8080/streamnet/a8b92bb196/300620
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://strmz.my.id/drm/punyastrimz
