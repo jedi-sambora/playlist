@@ -425,16 +425,16 @@ https://webudit.hlsjs.ru/lb/premium125/index.m3u8
 https://webudit.hlsjs.ru/lb/premium126/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" group-title="ASTRO", Astro SuperSport 1 2077
- http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=571245&extension=ts&play_token=GVZS088tcf 
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=571245&extension=ts&play_token=GVZS088tcf 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png" group-title="ASTRO", Astro SuperSport 2 2077
- http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=571248&extension=ts&play_token=GVZS088tcf 
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=571248&extension=ts&play_token=GVZS088tcf 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png" group-title="ASTRO", Astro SuperSport 3 2077
- http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=571247&extension=ts&play_token=GVZS088tcf 
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=571247&extension=ts&play_token=GVZS088tcf 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="ASTRO", Astro SuperSport 4 2077
- http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=571246&extension=ts&play_token=GVZS088tcf 
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=571246&extension=ts&play_token=GVZS088tcf 
 
 
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="QA: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png" group-title="GAMSGO 2404",QA: beIN Sports 1
