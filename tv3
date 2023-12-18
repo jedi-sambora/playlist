@@ -427,103 +427,105 @@ http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=571246&extensi
 
 
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="QA: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png" group-title="GAMSGO 2404",QA: beIN Sports 1
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/100
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/100
 #EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="QA: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/31f6dbe34a61abb6cadc5a13d54d8b4d.png" group-title="GAMSGO 2404",QA: beIN Sports 2
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/101
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/101
 #EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="QA: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/e44c1ec620401a2f6238c2c24ccd6c58.png" group-title="GAMSGO 2404",QA: beIN Sports 3
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/102
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/102
 #EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="QA: beIN Sports 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/0dea19dc983ea75ced697dfaa4c47d85.png" group-title="GAMSGO 2404",QA: beIN Sports 4
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/103
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/103
 #EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="QA: beIN Sports 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b6c7110b7a880c716cb68073a5df5d90.png" group-title="GAMSGO 2404",QA: beIN Sports 5
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/104
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/104
 #EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="QA: beIN Sports 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/3ad0c2b25e878d21a2e3820b0c43a447.png" group-title="GAMSGO 2404",QA: beIN Sports 6
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/105
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/105
 #EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="QA: beIN Sports 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f823bec52bbeb99de40933222aed1f4f.png" group-title="GAMSGO 2404",QA: beIN Sports 7
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/106
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/106
 #EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="QA: beIN Sports English 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/076e8935ff1715e7ebc42f5f23b9b152.png" group-title="GAMSGO 2404",QA: beIN Sports English 1
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/110
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/110
 #EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="QA: beIN Sports English 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/33be90fdfdbfbf011c3e65d621196ec8.png" group-title="GAMSGO 2404",QA: beIN Sports English 2
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/111
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/111
 #EXTINF:-1 tvg-id="beinsports3en.qa" tvg-name="QA: beIN Sports English 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/724539660042a9755e6c7d5dafef0a55.png" group-title="GAMSGO 2404",QA: beIN Sports English 3
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/267769
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/267769
 #EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="QA: beIN Sports Max 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/9a1e4669f1aee94451e4c865bed6d009.png" group-title="GAMSGO 2404",QA: beIN Sports Max 1
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/296991
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/296991
 #EXTINF:-1 tvg-id="beinsportsmax2.qa" tvg-name="QA: beIN Sports Max 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/676f68d7821d270b1e0403c3a04fa06e.png" group-title="GAMSGO 2404",QA: beIN Sports Max 2
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/199001
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/199001
 #EXTINF:-1 tvg-id="" tvg-name="QA: beIN Sports Max 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/399e773b5d324d6ac7d9b1d77de11e97.png" group-title="GAMSGO 2404",QA: beIN Sports Max 4
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/13813
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/13813
 #EXTINF:-1 tvg-id="" tvg-name="QA: beIN Sports Max 8" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/96985d6b0cb269bb3aae851b78a1a7f9.png" group-title="GAMSGO 2404",QA: beIN Sports Max 8
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/298192
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/298192
 #EXTINF:-1 tvg-id="" tvg-name="QA: beIN Sports Max 9" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/283ebdb5dac20c76602f17c594ef8f62.png" group-title="Qatar",QA: beIN Sports Max 9
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/13816
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/13816
 #EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="QA: beIN Sports NBA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/9cfea567e2dd21638264fe3a6f0a2275.png" group-title="GAMSGO 2404",QA: beIN Sports NBA
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/15962
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/15962
 #EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="QA: beIN Sports News" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/d63c52c264be612fb3cfb58e2b1f6090.png" group-title="GAMSGO 2404",QA: beIN Sports News
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/1266
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/1266
 #EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="QA: beIN Sports Premium 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f8dc1d4d49006fbed81fb539bc89cde9.png" group-title="GAMSGO 2404",QA: beIN Sports Premium 1
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/109
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/109
 #EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="QA: beIN Sports Premium 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/4d9551cacc9433108171ed793131df12.png" group-title="GAMSGO 2404",QA: beIN Sports Premium 2
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/280145
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/280145
 #EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="QA: beIN Sports Premium 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/f1f5358024c749247618e2fcf2892eb5.jpg" group-title="GAMSGO 2404",QA: beIN Sports Premium 3
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/280249
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/280249
 #EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="QA: beIN Sports Xtra 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fb2314ef37b5afab01fff884f691f101.jpg" group-title="GAMSGO 2404",QA: beIN Sports Xtra 1
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/290037
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/290037
 #EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="QA: beIN Sports Xtra 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1c82a29d4cd31c80c4afe5693af065f8.jpg" group-title="GAMSGO 2404",QA: beIN Sports Xtra 2
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/283294
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/283294
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2f8f23e2a35d5a4e9ea336d7b51fd98f.png"  group-title="GAMSGO 2404",ZA: SuperSport Premier League
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/11642
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/11642
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport LaLiga" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png"  group-title="GAMSGO 2404",ZA: SuperSport LaLiga
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/194358
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/194358
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Grandstand" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a8f0bee8d482364f261394bf7678fa0e.png"  group-title="GAMSGO 2404",ZA: SuperSport Grandstand
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/194353
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/194353
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8dab62dd2c2faa3d66261a2a5afa6260.png"  group-title="GAMSGO 2404",ZA: SuperSport Football
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/38575
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/38575
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Tennis" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b51cde8be3defead0ca307c5be0c9453.png"  group-title="GAMSGO 2404",ZA: SuperSport Tennis
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/15200
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/15200
 #EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/6eafe5012b43973f31c5ee0b648e0594.png"  group-title="GAMSGO 2404",BR: SPORTV
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/4015
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/4015
 #EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2f163193ab2de12c120e02e264bc16a7.png"  group-title="GAMSGO 2404",BR: SPORTV 2
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/8783
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/8783
 #EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/50dc54d140bb68ee92fc1aa01bec5bb5.png"  group-title="GAMSGO 2404",BR: SPORTV 3
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/8784
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/8784
 #EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b6fb0039905434d2842bc80cc0c4db30.png"  group-title="GAMSGO 2404",ARG: FOX SPORTS
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/280370
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/280370
 #EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/f3e732b27ff9cbfc4c52b5e56c4f66d5.png"  group-title="GAMSGO 2404",ARG: FOX SPORTS 2
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/3187
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/3187
 #EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/58f557ffa761091f837f5c289ac13208.png"  group-title="GAMSGO 2404",ARG: ESPN
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/61174
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/61174
 #EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/826ab86530a6d609f3c9e0a5108ae8d1.png"  group-title="GAMSGO 2404",ARG: ESPN 2
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/70752
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/70752
 #EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/985c0340dda83edcaa89659e2740eb50.png"  group-title="GAMSGO 2404",ARG: ESPN 3
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/61170
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/61170
 #EXTINF:-1 tvg-id="espn.nl" tvg-name="NL: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fba7aa6abb3a938d6d2da99a29f57a8c.png" group-title="GAMSGO 2404",NL: ESPN
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/267209
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/267209
 #EXTINF:-1 tvg-id="espn2.nl" tvg-name="NL: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8d4dbda121c0cfc982516038b068e70.png" group-title="GAMSGO 2404",NL: ESPN 2
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/272119
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/272119
 #EXTINF:-1 tvg-id="espn3.nl" tvg-name="NL: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/60f126e910a86dc97e8c75e0e799fad0.png" group-title="GAMSGO 2404",NL: ESPN 3
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/272120
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/272120
 #EXTINF:-1 tvg-id="espn4.nl" tvg-name="NL: ESPN 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/25459a2e8dd1ae1419024458ee7d4418.png" group-title="GAMSGO 2404",NL: ESPN 4
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/272121
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/272121
 #EXTINF:-1 tvg-id="" tvg-name="RS: Sport Klub" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d2c5dc85785e9c070002066c2c7865ec.png" group-title="GAMSGO 2404",RS: Sport Klub
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/3466
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/3466
 #EXTINF:-1 tvg-id="" tvg-name="RS: Sport Klub 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d1fe0f9118f2c6c8d1ae0c9f704701c8.png" group-title="GAMSGO 2404",RS: Sport Klub 2
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/3468
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/3468
 #EXTINF:-1 tvg-id="" tvg-name="RS: Sport Klub 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4c1330777185e47ef3f0ee3ea69aa0fc.png" group-title="GAMSGO 2404",RS: Sport Klub 3
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/3469
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/3469
 #EXTINF:-1 tvg-id="" tvg-name="RS: Sport Klub 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/133fc2e99d0909d750bd414d1c22a7be.jpg" group-title="GAMSGO 2404",RS: Sport Klub 4
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/5563
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/5563
 #EXTINF:-1 tvg-id="" tvg-name="RS: Sport Klub 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f0217ea7a76646241a84a64122d79c25.jpg" group-title="GAMSGO 2404",RS: Sport Klub 5
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/10752
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/10752
 #EXTINF:-1 tvg-id="" tvg-name="RS: Sport Klub 6" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/3d3625edc8a744fbced185b8647c17c6.png" group-title="GAMSGO 2404",RS: Sport Klub 6
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/3471
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/3471
 #EXTINF:-1 tvg-id="polsatsport.pl" tvg-name="PL: Polsat Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f3f3f2765b30bb460c9f2c07a2303b90.png" group-title="GAMSGO 2404",PL: Polsat Sport
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/356
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/356
 #EXTINF:-1 tvg-id="polsatsportpremium1.pl" tvg-name="PL: Polsat Sport Premium 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/36b09d18656255ec922fb2c5d324f58c.png" group-title="GAMSGO 2404",PL: Polsat Sport Premium 1
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/23199
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/23199
 #EXTINF:-1 tvg-id="polsatsportpremium2.pl" tvg-name="PL: Polsat Sport Premium 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22f29148c61f543ed4083efeeacf931e.png" group-title="GAMSGO 2404",PL: Polsat Sport Premium 2
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/29607
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/29607
 #EXTINF:-1 tvg-id="polsatsportpremium3ppv.pl" tvg-name="PL: Polsat Sport Premium 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e1ec5f267ca1decde0d9e51925976033.png" group-title="GAMSGO 2404",PL: Polsat Sport Premium 3
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/147031
+http://gamsgo.cyou:8080/giobox2023/eHdN4c5LFkSg2vxJqXBhCp/147031
+#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="GAMSGO 2404",ID: Moji
+http://gamsgo.cyou:8080/88d59804/277fe806df/298550
 
 
 
