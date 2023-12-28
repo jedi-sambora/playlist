@@ -153,8 +153,6 @@ http://iptvtree.net:8080/F16406/60a43828/221948
 #EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVN MOVIES HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
-#EXTINF:-1 group-title="Movie" ,TVN Movie aflax
-http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/157596
 #EXTINF:-1 group-title="Movie" ,Movie Now
 http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/169118
 #EXTINF:-1 group-title="Movie" ,Movie Now2
@@ -171,11 +169,10 @@ http://line.lion-ott.com:80/abcd1234/abcd1234/281642
 http://iptvmedia.live:8080/streamnet/a8b92bb196/300620
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://strmz.my.id/drm/punyastrimz
-#EXTINF:0 CUID="77" tvg-name="TVN MOVIES" tvg-id="tvnmovies.id" tvg-logo="https://logo.iptveditor.com/tvnmovies.png" group-title="Movie",TVN MOVIES mpd
-https://mangga-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-#EXTINF:-1 group-title="Movie" ,TVN Movie aflax
-http://aflaxtv.xyz:8080/myhdosama/6JbVUE4zXTpRr2pf/297499
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_109.png",TVN Movies Indonesia
+https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
