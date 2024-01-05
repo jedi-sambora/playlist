@@ -457,9 +457,7 @@ http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/298549
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" group-title="ASTRO", Astro SuperSport 1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.hlsjs.ru/lb/premium123/index.m3u8
+http://mytv-extra.com:80/t12mgxyb335/9832948789/377339
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png" group-title="ASTRO", Astro SuperSport 2
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
@@ -467,9 +465,7 @@ https://webudit.hlsjs.ru/lb/premium123/index.m3u8
 https://webudit.hlsjs.ru/lb/premium124/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png" group-title="ASTRO", Astro SuperSport 3
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.hlsjs.ru/lb/premium125/index.m3u8
+http://mytv-extra.com:80/t12mgxyb335/9832948789/377339
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="ASTRO", Astro SuperSport 4
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
