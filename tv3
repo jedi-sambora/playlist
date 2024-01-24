@@ -1098,5 +1098,45 @@ https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/Fox
 #EXTINF:-1 tvg-chno="204" tvg-id="FoxSports3Argentina.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/Fox_Sports_3_Argentina_2023.png.baa9fb8a642232d4d6733c958a64ce8a.png" group-title="Sports MPD", FOX Sports 3
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="bein Asia 2" tvg-logo="" group-title="ARAB SPORT",bein Asia 2
+http://62.210.124.184:25461/freegaza/fasteriptv/1
+#EXTINF:-1 tvg-id="" tvg-name="bein Asia 1" tvg-logo="" group-title="ARAB SPORT",bein Asia 1
+http://62.210.124.184:25461/freegaza/fasteriptv/2
+#EXTINF:-1 tvg-id="" tvg-name="beIN ASIAN CUP 2 4K" tvg-logo="" group-title="ARAB SPORT",beIN ASIAN CUP 2 4K
+http://62.210.124.184:25461/freegaza/fasteriptv/25
+#EXTINF:-1 tvg-id="" tvg-name="bein afcon 1" tvg-logo="" group-title="ARAB SPORT",bein afcon 1
+http://62.210.124.184:25461/freegaza/fasteriptv/3
+#EXTINF:-1 tvg-id="" tvg-name="bein afcon 2" tvg-logo="" group-title="ARAB SPORT",bein afcon 2
+http://62.210.124.184:25461/freegaza/fasteriptv/4
+#EXTINF:-1 tvg-id="" tvg-name="Bein afcon 1-4k" tvg-logo="" group-title="ARAB SPORT",Bein afcon 1-4k
+http://62.210.124.184:25461/freegaza/fasteriptv/9
+#EXTINF:-1 tvg-id="" tvg-name="Bein Afcon 2-4k" tvg-logo="" group-title="ARAB SPORT",Bein Afcon 2-4k
+http://62.210.124.184:25461/freegaza/fasteriptv/10
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="ARAB SPORT",beIN Sport 1 HD
+http://62.210.124.184:25461/freegaza/fasteriptv/17
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 HD" tvg-logo="" group-title="ARAB SPORT",beIN Sport 2 HD
+http://62.210.124.184:25461/freegaza/fasteriptv/18
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 HD" tvg-logo="" group-title="ARAB SPORT",beIN Sport 3 HD
+http://62.210.124.184:25461/freegaza/fasteriptv/19
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 4 HD" tvg-logo="" group-title="ARAB SPORT",beIN Sport 4 HD
+http://62.210.124.184:25461/freegaza/fasteriptv/20
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 5 HD" tvg-logo="" group-title="ARAB SPORT",beIN Sport 5 HD
+http://62.210.124.184:25461/freegaza/fasteriptv/21
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 6 HD" tvg-logo="" group-title="ARAB SPORT",beIN Sport 6 HD
+http://62.210.124.184:25461/freegaza/fasteriptv/22
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 7 HD" tvg-logo="" group-title="ARAB SPORT",beIN Sport 7 HD
+http://62.210.124.184:25461/freegaza/fasteriptv/23
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 8 HD" tvg-logo="" group-title="ARAB SPORT",beIN Sport 8 HD
+http://62.210.124.184:25461/freegaza/fasteriptv/24
+#EXTINF:-1 tvg-id="" tvg-name="ARAB SPORT 1" tvg-logo="" group-title="ARAB SPORT",ARAB SPORT 1
+http://62.210.124.184:25461/freegaza/fasteriptv/5
+#EXTINF:-1 tvg-id="" tvg-name="ARAB SPORT 2" tvg-logo="" group-title="ARAB SPORT",ARAB SPORT 2
+http://62.210.124.184:25461/freegaza/fasteriptv/6
+#EXTINF:-1 tvg-id="" tvg-name="ARAB SPORT 3" tvg-logo="" group-title="ARAB SPORT",ARAB SPORT 3
+http://62.210.124.184:25461/freegaza/fasteriptv/7
+#EXTINF:-1 tvg-id="" tvg-name="ARAB SPORT 5" tvg-logo="" group-title="ARAB SPORT",ARAB SPORT 5
+http://62.210.124.184:25461/freegaza/fasteriptv/8
+
 
 #EXTM3U billed-msg="😎 Peace man !!!!!!!!!!!!!! 😎"
