@@ -1100,9 +1100,11 @@ https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/Fox
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="bein Asia 2" tvg-logo="" group-title="ARAB SPORT",bein Asia 2
-http://62.210.124.184:25461/freegaza/fasteriptv/1
+#http://62.210.124.184:25461/freegaza/fasteriptv/1
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_m1_250124/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="bein Asia 1" tvg-logo="" group-title="ARAB SPORT",bein Asia 1
-http://62.210.124.184:25461/freegaza/fasteriptv/2
+#http://62.210.124.184:25461/freegaza/fasteriptv/2
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_m2_250124/master_p3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN ASIAN CUP 2 4K" tvg-logo="" group-title="ARAB SPORT",beIN ASIAN CUP 2 4K
 http://62.210.124.184:25461/freegaza/fasteriptv/25
 #EXTINF:-1 tvg-id="" tvg-name="bein afcon 1" tvg-logo="" group-title="ARAB SPORT",bein afcon 1
