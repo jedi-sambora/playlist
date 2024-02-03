@@ -262,9 +262,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=7435&deviceMac=00:1A:79:51:4B
 #EXTINF:-1 group-title="Movie" ,Star Movie Selected2
 http://line.lion-ott.com:80/abcd1234/abcd1234/281644
 #EXTINF:-1 group-title="Movie" ,&PRIVE
-http://line.lion-ott.com:80/abcd1234/abcd1234/281642
-#EXTINF:-1 group-title="wcu17", US: Fox Sports 1
-http://iptvmedia.live:8080/streamnet/a8b92bb196/300620
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=155746&extension=m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -430,7 +429,16 @@ http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=571247&extensi
 http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=571246&extension=ts&play_token=GVZS088tcf 
 
 
-
+#EXTINF:-1 group-title="ASTRO",Astro SuperSports1HD bia
+http://www.biaozhun114.com/dl/dl888/histar.php?super-sports1
+#EXTINF:-1 group-title="ASTRO",Astro SuperSports2HD bia
+http://www.biaozhun114.com/dl/dl888/histar.php?super-sports2
+#EXTINF:-1 group-title="ASTRO",Astro SuperSports3HD bia
+http://www.biaozhun114.com/dl/dl888/histar.php?super-sports3
+#EXTINF:-1 group-title="ASTRO",Astro SuperSports4HD bia
+http://www.biaozhun114.com/dl/dl888/histar.php?super-sports4
+#EXTINF:-1 group-title="ASTRO",Astro SuperSports bia
+http://www.biaozhun114.com/dl/dl888/histar.php?super-sports5
 
 
 
