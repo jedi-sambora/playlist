@@ -262,7 +262,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=7435&deviceMac=00:1A:79:51:4B
 #EXTINF:-1 group-title="Movie" ,Star Movie Selected2
 http://line.lion-ott.com:80/abcd1234/abcd1234/281644
 #EXTINF:-1 group-title="Movie" ,&PRIVE
-http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=155746&extension=m3u8
+http://mixbix.xyz:8080/ZEK5JBdT4Ejs/NdXM6zxKpk83/236897
+#EXTINF:-1 tvg-id="" tvg-name="IN: & FLIX HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-flix-hd-logo-300x300.jpg" group-title="Movie",IN: & FLIX HD
+http://mixbix.xyz:8080/ZEK5JBdT4Ejs/NdXM6zxKpk83/236898
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1251,5 +1253,21 @@ http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1503
 http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1506
 #EXTINF:-1 group-title="IPTVTREE  2304",PT: ELEVEN SPORTS 4
 http://iptvtree.net:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1509
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD #1" tvg-logo="" group-title="MIXBIZ",BEIN SPORTS 1 HD #1
+http://mixbix.xyz:8080/ZEK5JBdT4Ejs/NdXM6zxKpk83/268504
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD" tvg-logo="" group-title="MIXBIZ",BEIN SPORTS 2 HD
+http://mixbix.xyz:8080/ZEK5JBdT4Ejs/NdXM6zxKpk83/268505
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="" group-title="MIXBIZ",BEIN SPORTS 3 HD
+http://mixbix.xyz:8080/ZEK5JBdT4Ejs/NdXM6zxKpk83/268506
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 HD" tvg-logo="" group-title="MIXBIZ",BEIN SPORTS 5 HD
+http://mixbix.xyz:8080/ZEK5JBdT4Ejs/NdXM6zxKpk83/268508
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 HD" tvg-logo="" group-title="MIXBIZ",BEIN SPORTS 4 HD
+http://mixbix.xyz:8080/ZEK5JBdT4Ejs/NdXM6zxKpk83/268507
+#EXTINF:-1 tvg-id="" tvg-name="MIXBIZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png" group-title="MIXBIZ",BEIN SPORT ENGLISH 1
+http://mixbix.xyz:8080/ZEK5JBdT4Ejs/NdXM6zxKpk83/237254
+#EXTINF:-1 tvg-id="" tvg-name="MIXBIZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="MIXBIZ",BEIN SPORT ENGLISH 2
+http://mixbix.xyz:8080/ZEK5JBdT4Ejs/NdXM6zxKpk83/237237
 
 #EXTM3U billed-msg="😎 Peace man !!!!!!!!!!!!!! 😎"
