@@ -1,766 +1,6904 @@
-#EXTM3U  url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
- 
-#EXTM3U billed-msg=""
-
---------------------------------------------------------------------------- TEST ---------------------------------------------------------------------------------------
-
-
-
-########################################################################################################################################################################
-########################################################################### MUSIC ####################################################################################
-########################################################################################################################################################################
-
-#EXTINF:-1 tvg-id="MTVAsia" tvg-name="MTV Live HD" group-title="Music" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/420_144.png",MTV HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IvlkptaSfM26SC53XN/xkA", "kid":"OsJUKk9750ZjPbB2R0UXEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
-
-#EXTINF:-1 tvg-id="MTVAsia" tvg-name="MTV Live HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/420_144.png" group-title="Music",MTV Asia
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://startv365.com:80//live/D85A79B4/55A7743D/191957.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_v2.png", MTV ID
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
-
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://telegra.ph/file/3d40ceb0cbbf895b62bcb.png",Mtv ID
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
-https://mangga-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://telegra.ph/file/0eb1eee9662483a4aa70e.png",MTV 90's
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
-https://mangga-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:-1 tvg-id="MusicTV.id" tvg-logo="https://cdn4.mbahnunungonline.net/img/774vsJ9.png?v=1.0.0.1" group-title="Music", Music TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-
-########################################################################################################################################################################
-################################################################ MOVIES ################################################################################################
-########################################################################################################################################################################
-
-#EXTINF:-1 tvg-id="Andflix.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MOVIES", &Flix
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
-
-
-#EXTINF:-1 tvg-id="AndpriveHD.in" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="MOVIES", &Prive
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
-
-
-#EXTINF:-1 tvg-id="BOO" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="MOVIES",BOO HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
-
-#EXTINF:-1 tvg-id="cinemachihd.id" group-title="MOVIES" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi.png",Cinemachi HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
-
-#EXTINF:-1 tvg-id="cinemachiaction.id" group-title="MOVIES" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi-action.png",Cinemachi Action HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
-
-#EXTINF:-1 tvg-id="cinemachimax.id" group-title="MOVIES" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi-max.png",Cinemachi Max HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
-
-#EXTINF:-1 tvg-id="cinemachixtra.id" group-title="MOVIES" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi-xtra.png",Cinemachi Xtra HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
-
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="MOVIES",Cinemax HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
-https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
-
-#EXTINF:0 tvg-id="Cinemax HD" tvg-name="CINEMAX HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-logo="" group-title="MOVIES", CINEMAX
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E8xTWtSnMgEUeGPKw4bN0w", "kid":"79sqjTkVHMOfS1HXYs+cEA" } ], "type":"temporary" }
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
-
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="MOVIES",HBO HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
-https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
-
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="MOVIES",HBO 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8/hCxUzJbLvQvLlqTLioEw", "kid":"oJiJbSsRxfOQapk8O6XGEA" } ], "type":"temporary" }
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
-
-#EXTINF:-1 tvg-id="HBOFamily1" tvg-name="HBO Family +1 HD" tvg-logo="https://i.ibb.co/hKf955K/hbo-family-modified.png" group-title="MOVIES",HBO Family HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
-https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
-
-#EXTINF:-1 tvg-id="HBOFamily1" tvg-name="HBO Family +1 HD" tvg-logo="https://i.ibb.co/hKf955K/hbo-family-modified.png" group-title="MOVIES",HBO Family
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fjdYjok6uSUuUFvW3aNb6w", "kid":"K5/3zBo9yf70fMV3NHLVEA" } ], "type":"temporary" }
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
-
-#EXTINF:-1 tvg-id="HBOHits1" tvg-name="HBO Hits +1 HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-title="MOVIES",HBO Hits HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
-https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
-
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="MOVIES",HBO Signature HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
-https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="MOVIES" tvg-id=“HBOSignatureAsia.us” tvg-name=“HBOSignatureAsia.us”, HBO Signature
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
-https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
-
-#EXTINF:-1 ch-number="410" tvg-id="AstroPremier" group-title="MOVIES" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremier.png",PREMIER
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f3238142348789ed5a99b9a1bd8e010:438fb62e97278526686d921126343d32
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5128/default.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="MOVIES" tvg-id="ROCKAction" tvg-name="ROCKAction",ROCK Action
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rUUgLmT2bvNrP2D6yTzEfw", "kid":"I0HC7NPPSGWIG7D6Eofejw" } ], "type":"temporary" }
-https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
-
-#EXTINF:-1 tvg-id="413" group-title="MOVIES" tvg-id="ShowcaseMovies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",Showcase
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yg0YU4hFuuLLT0oWgDbxdA", "kid":"uAkMg2HMXMXBqsDsJxDeEA" } ], "type":"temporary" }
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="MOVIES" tvg-id="SonyPix.in" tvg-name="SonyPix.in", Sony Pix
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-
-#EXTINF:-1 tvg-id="593" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png" group-logo="" group-title="MOVIES",Star Movies Select 
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-
-#EXTINF:-1 tvg-id="tvNMovies" ch-number="416" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",tvN Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2406/default.mpd
-
-#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg",Thrill HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeAction.in.png" group-title="MOVIES" tvg-id="ZeeAction.in" tvg-name="ZeeAction.in", Zee Action
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="MOVIES" tvg-id="ZeeBollywood.in" tvg-name="ZeeBollywood.in", Zee Bollywood
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/55212.m3u8
-
-########################################################################################################################################################################
-######################################################################## DOCUMENTARY ###################################################################################
-########################################################################################################################################################################
-
-#EXTINF:-1 tvg-id="AnimalPlanet" group-title="Documentary" tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" ch-number="556",556 Animal Planet
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5199f1513a0286e038dae8f7d820010:4d4d4d9dc41be43f528a4940cf66f14c
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2710/default.mpd
-
-#EXTINF:-1 tvg-id="BBCEarth" group-title="Documentary" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png" ch-number="554",554 BBC Earth
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5051/default.mpd
-
-#EXTINF:-1 ch-number="714" tvg-id="CrimeInvestigation" group-title="Documentary" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png",Crime & Investigation HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22fc5baf47ae3b6322bc244206bbb210:db1ee2b8994b91aac65049ef3e493787
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2111/default.mpd
-
-#EXTINF:-1 tvg-id="714" tvg-id="CrimeInvestigation" tvg-name="Crime & Investigaton HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="Documentary",Crime & Investigation ID
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=MNCNow/6.33.0 ExoPlayerLib/2.18.1
-https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/AWvwPm5.png?v=1.0.0.1" group-title="Documentary" tvg-id="DiscoveryChannel" tvg-name="Discovery Channel HD", Discovery Channel HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2510/default.mpd
-
-#EXTINF:-1 tvg-id="DiscoveryAsia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png" group-title="Documentary",Discovey Asia HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/501/default.mpd
-
-#EXTINF:-1 tvg-id="History" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" group-title="Documentary",History HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3feecc36930732cbb69306dc687c6f10:3458265f7530bf1fef204ca8cb4689db
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/604/default.mpd
-
-#EXTINF:-1 tvg-id="History" tvg-name="History HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" group-title="Documentary",History ID
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
-
-########################################################################################################################################################################
-################################################################## Entertainment #######################################################################################
-########################################################################################################################################################################
-
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="Entertainment", AXN HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wyGv4WibB9W35VvQJcSDzg", "kid":"wkp4EdmrRrSLdGoOfiaSEA" } ], "type":"temporary" }
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="Entertainment", AXN ID
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
-
-#EXTINF:-1 ch-number="709" tvg-id="AFN" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",709 Asian Food Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/500/default.mpd
-
-#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" group-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/485_144.png" group-title="Entertainment",DREAMWORKS HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3MvfBDrEPRi+Cz60Olgodg", "kid":"tb/jVU3yq803r+Ewp+HTEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my:443/dash-wv/linear/5095/default_ott.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2hT5zbw/BXD.png" group-title="Entertainment" tvg-id="Dreamworks" tvg-name="Dreamworks", DreamWorks ID
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
-
-#EXTINF:-1 ch-number="708" tvg-id="FoodNetwork" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png",708 Food Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2d13c814df4a0c2ce488b2eda052d710:2dc2a7617bde2ab00136ee689c56d789
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2300/default.mpd
-
-#EXTINF:-1 ch-number="715" tvg-id="HGTV" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",715 HGTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8c1bb309955eee32882390abebe19810:2a695b046e7cf5811a634d1348441195
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2502/default.mpd
-
-#EXTINF:-1 tvg-id="ParamountNetwork" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Paramount.png" group-title="Entertainment", PARAMOUNT NETWORK
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fff5927a2249f094fa3773c390294010:a5a770d88e4403772f36e2313e8e32d0
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5056/default.mpd
-
-#EXTINF:-1 ch-number="707" tvg-id="TLC" group-title="Entertainment" tvg-logo="https://api.discovery.com/v1/images/558c1c396b66d1023309e791?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4",707 TLC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2709/default.mpd
-
-#EXTINF:-1 tvg-id="703" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" group-title="Entertainment", Lifetime HD 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5052/default.mpd
-
-#EXTINF:-1 tvg-id="NHKWorldPremium" ch-number="398" group-title="Entertainment" group-logo="https://aqfadtv.xyz/images/japanese.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/428_144.png",398 NHK World Premium
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=98817b144bcf19fd0ddca7fe54cee110:44b423a77dd34ace162db35cbb0fb6a3
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5018/default_primary.mpd
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="ROCKEntertainment" tvg-chno="" group-logo="https://i.ibb.co/BzXszsr/flag-singapore-round-frame-1308-71152.jpg" tvg-logo="https://i.ibb.co/zsDGJDK/trtrtrt.jpg",ROCK ENTERTAINMENT
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QLnyUEVbQ7Oy6mhFq4Gryg", "kid":"kimBTGKbQG+N6Y0vI8looA" } ], "type":"temporary" }
-https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
-
-#EXTINF:-1 tvg-id="WarnerTV" tvg-name="Warner TV HD" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png", Warner TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2605/default.mpd
-
-########################################################################################################################################################################
-####################################################################### Singapore ######################################################################################
-########################################################################################################################################################################
-
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch 5" tvg-name="Channel 5" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png",Channel 5 HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
-https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
-
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch 8" tvg-name="Channel 8" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png",Channel 8 HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260
-https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
-
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch U" tvg-name="Channel U" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png",Channel U HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d
-https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
-
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="Suria" tvg-name="Suria" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428073_ico.png",Suria HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
-https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
-
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="Vasantham" tvg-name="Vasantham" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428079_ico.png",Vasantham HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9970038ef6c548e39768f3a1ff6f5081:3e19d54b7bcd8bb336776fe136d48f57
-https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
-
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="CNA" tvg-name="CNA" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7cb90b341f444e4ca3fb60de2ed3d6e5:5640220b78729773fbeaabc19a502b50
-https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
-
-########################################################################################################################################################################
-########################################################################## Malaysia ####################################################################################
-########################################################################################################################################################################
-
-#EXTINF:-1 tvg-id="AstroRia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Malaysia", Astro Ria HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-#https://linears-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroRia" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png" group-title="Malaysia", Astro Ria
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#http://startv365.com:80//live/D85A79B4/55A7743D/79321.ts
-
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="Malaysia",Astro Warna HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-#http://mku0414.oknirvana.club:8880//live/3us02233n01/adsf232e23/1706.m3u8
-
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="Malaysia",Astro Warna
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://startv365.com:80//live/D85A79B4/55A7743D/191874.m3u8
-
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" tvg-chno="101" channel-id="101" group-title="Malaysia",TV1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
-
-#EXTINF:-1 tvg-id="TV2" tvg-name="TV2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" tvg-chno="102" channel-id="102" group-title="Malaysia",TV2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JKmxeFmGKIfyj2PHwpvKpQ", "kid":"T4hUgf4FPlRAllMsHcuXEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
-
-#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" group-title="Malaysia" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"J6L3HYe/XrEFrwlvtmBdlw", "kid":"Ov4w7k6iSmf+Wi7wboPbCw" } ], "type":"temporary" }
-https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
-
-#EXTINF:-1 tvg-ID="501" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
-
-#EXTINF:-1 tvg-id="AstroCitra" group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://metatvpro.com:25461//live/W1808/1109/17.m3u8
-
-#EXTINF:-1 tvg-id="AstroCeria.my" ch-number=" " tvg-name="Astro Ceria HD" group-title="Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2606/default.mpd
-
-#EXTINF:-1 tvg-id="106" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-title="Malaysia",Astro Oasis
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default.mpd
-
-#EXTINF:-1 tvg-id="BernamaTV.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" group-title="Malaysia",Bernama
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1406bbf218ca14f967034fcf4abf7710:39a27aa2cc84a29b665fcc4dbf9c54b6
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/default.mpd
-
-########################################################################################################################################################################
-####################################################################### Chinese ########################################################################################
-########################################################################################################################################################################
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="Chinese" tvg-id="307" tvg-name="307", Astro Shuang Xing HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://startv365.com:80//live/D85A79B4/55A7743D/191980.m3u8
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="Chinese" tvg-id="AstroQJ" tvg-name="AstroQJ", Astro QJ
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://startv365.com:80//live/D85A79B4/55A7743D/191974.m3u8
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/65_144.png" group-title="Chinese" tvg-id="AstroAOD354" tvg-name="AstroAOD354", Astro AOD 354
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://startv365.com:80//live/D85A79B4/55A7743D/29650.m3u8
-
-#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/c80fbc0c1c459c6f112b564e69a15440.png" group-title="Chinese" tvg-id="AstroAOD352" tvg-name="AstroAOD352", Astro AOD 352
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://startv365.com:80//live/D85A79B4/55A7743D/191848.m3u8
-
-#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/266ce75d12de3edfb41bf0fb38d44e61.png" group-title="Chinese" tvg-id="AstroAODHD" tvg-name="AstroAODHD", Astro AOD HD 311
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://startv365.com:80//live/D85A79B4/55A7743D/191847.m3u8
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="Chinese" tvg-id="AstroAEC" tvg-name="AstroAEC", Astro Aec HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://startv365.com:80//live/D85A79B4/55A7743D/191841.m3u8
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png" group-title="Chinese" tvg-id="TVBSAsia" tvg-name="TVBSAsia", TVBS Asia HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d9mO1x23Ukwnh1oJqXX55g", "kid":"fvfpE86FoRMbJwNgaRaaEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI HD" group-title="Chinese" group-logo="https://iili.io/H7B4QYF.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_Iqiyi.png",300 IQIYI
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OvWAx7IYQAMBefTcrSJ8ig", "kid":"XMXAH2YVlZUkX+iuZ5ELEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroXiaoTaiYang" tvg-name="Astro Xiao Tai Yang HD" group-title="Chinese" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_XIAO.png",304 ASTRO XIAO TAI YANG
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kzric7Fmuqj7ID7vGnrb3w", "kid":"BxRIaQoOybJ+ssGn1eAwEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="TVBClassic" tvg-name="TVB Classic HD" group-title="Chinese" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://iili.io/1NBIJ1.png",305 TVB CLASSIC
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b1a1b7026ce4b378abd4b266aa9780f:121f270c5ea6b690bedd7e4a57f2f0c6
-#EXTINF:-1 tvg-id="AstroAEC" tvg-name="Astro AEC HD" group-title="Chinese" group-logo="https://iili.io/H7B4QYF.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_AEC.png",306 ASTRO AEC
-#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5EWTJPREk1WW1JdFlqWTBZaTAwTnpZNExUazFNR010TUdJeE1HWmlZalUyTnpOaiIsIndtb3BpZCI6MzIsImV4cCI6MTcwMDYxNzYwMiwiaWF0IjoxNzAwMDEzNjAyfQ.cDVjxm3xZCoAp9vK2URr5lJi_HLnF9niML5xI8Hw4-A","3y37WdNxsDTNAF5423xNjg3uHuMdTMcH9":"rmuorMTY4ODM1Njbalk3aWF0IjoNzUyNTE2fQCD1OZk9QhcCI6d7c484e9"}
-https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F24pOLznldHIVVmiRAR39w", "kid":"KGrvTo2F22bgX+Slx5nkEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroAODHD" tvg-name="Astro AOD HD 311" group-title="Chinese" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_AOD.png",311 ASTRO AOD
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2706/default.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dteB6K/4Pv5TOVrXhOfSA", "kid":"oMHwDxR3ez2vSpEsQxDxEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroAOD352" tvg-name="Astro AOD 352" group-title="Chinese" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_AOD.png",352 ASTRO AOD
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OKaMdJiYEUzwYp134kaoiA", "kid":"aRkWFkvisa5shS8ZkNH+EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroAOD354" tvg-name="Astro AOD 354" group-title="Chinese" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_AOD.png",354 ASTRO AOD
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhGXgF0BScKYAZRs8t3mfA", "kid":"xcG6JpByka/sEamnjVE0EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="CelestialMovies" tvg-name="Celestial Movies HD" group-title="Chinese" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_CALESTIAL.png",309 CELESTIAL MOVIES
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"y54aEi7RxkRffT/SFiNY8Q", "kid":"/hIZAZqfNs3vNHCI5ZLKEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="TVBJade" tvg-name="TVB Jade" group-title="Chinese" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_TVBS.png",310 TVB JADE
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7PtFSy8+I4xbXcGW5PkfuA", "kid":"424Mve8Gd7SNulxj6MqvEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="TVBXingHe" tvg-name="TVB Xing He HD" group-title="Chinese" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_TVBS.png",319 TVB XING HE
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NG8PYMvXWR4a5yyliRV7sQ", "kid":"52qJoeI/j3uCj029wtCaEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="TVBSAsia" tvg-name="TVBS Asia HD" group-title="Chinese" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_TVBS.png",320 TVBS ASIA
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"P1k1XhXu0bshnqFofVXPuw", "kid":"pkLdS/PqeC4ZICre+2BLEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="CCM" tvg-name="CCM" group-title="Chinese" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_CCM.png",321 CELESTIAL CLASSIC MOVIES
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/Wvhzqn6I8mPIPGyq8ridg", "kid":"UXwwjvZBmxdn6a5xDIl3EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="PhoenixChineseChannel" tvg-name="Phoenix Chinese Channel HD" group-title="Chinese" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_Phoenix.png",325 PHOENIX
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yKD35puzHf1HXaJvxsYAOw", "kid":"YFB+8NycgT1fjHsiKUEvEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroHuaHeeDai" tvg-name="Astro Hua Hee Dai HD" group-title="Chinese" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_HUA.png",333 ASTRO HUA HEE DAI
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
-
-########################################################################################################################################################################
-####################################################################### KOREAN #########################################################################################
-########################################################################################################################################################################
-
-#EXTINF:-1 tvg-id="KBSWorld" tvg-name="KBS World HD" ch-number="392" group-title="KOREAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png",392 KBS World
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
-
-#EXTINF:-1 tvg-id="ONE" tvg-name="tvOne" ch-number="393" group-title="KOREAN" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",393 ONE 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
-
-#EXTINF:-1 tvg-id="tvN" tvg-name="tvN HD" ch-number="395" group-title="KOREAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",395 tvN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=faf4d62bb898de503446c28fb1aa9210:19e80ecc5d337215c64004cb49c9cb01
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
-
-#EXTINF:-1 tvg-id="K-Plus" tvg-name="" ch-number="396" group-title="KOREAN" tvg-logo="http://www.kplus-asia.com/img/title/logo.png",396 KPlus
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
-
-########################################################################################################################################################################
-####################################################################### Indonesia ######################################################################################
-########################################################################################################################################################################
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://1.bp.blogspot.com/-RuwMkAyJNiM/YJVWuQyj81I/AAAAAAAAEaQ/rzSkWxhVddIh0ffNI4NAH4GZJOClv7SMwCLcBGAsYHQ/s720/idx-p.png",IDX Channel 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://nyanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RuwMkAyJNiM/YJVWuQyj81I/AAAAAAAAEaQ/rzSkWxhVddIh0ffNI4NAH4GZJOClv7SMwCLcBGAsYHQ/s720/idx-p.png" group-title="Indonesia",IDX Channel 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="MNC ENTERTAINMENT" tvg-logo="https://i.imgur.com/ZDIVrwq.jpg" group-title="Indonesia",MNC ENTERTAINMENT
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b4OlqKa.png" group-title="Indonesia", MNCTV 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-
-#EXTINF:-1 group-title="Indonesia" tvg-id="mnctv.id" tvg-logo="https://i.imgur.com/b4OlqKa.png",MNCTV 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd 
-
-#EXTINF:-1 tvg-id="RCTI.id" group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GoeGB8N.png" group-title="Indonesia", RTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-http://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
-
-#EXTINF:-1 tvg-id="SCTV.id" group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png",SCTV HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://pencarijanda.000webhostapp.com/oxygen/sctv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GvPx7NS.png" group-title="Indonesia",Vision Prime 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
-
-
-########################################################################################################################################################################
-###############################################################  KIDS  #################################################################################################
-########################################################################################################################################################################
-
-#EXTINF:-1 tvg-id="Animax" tvg-name="Animax HD" group-title="Cartoon" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png",Animax
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
-https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
-
-#EXTINF:-1 tvg-id="Animax" tvg-name="Animax HD" group-title="Cartoon" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png",Animax ID
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
-
-#EXTINF:-1 tvg-id="cinemachikids.id" group-title="Cartoon" tvg-logo="https://icon.mammothtv.my.id/film/cinemachi-kids.png",Cinemachi Kids HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
-
-#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network HD" group-title="Cartoon" tvg-logo="https://iili.io/1No5zu.png",Cartoon Network HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/509/default.mpd
-
-#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network HD" group-title="Cartoon" tvg-logo="https://iili.io/1No5zu.png",Cartoon Network ID
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
-
-#EXTINF:-1 tvg-id="619" tvg-name="Boomerang HD" group-title="Cartoon" tvg-logo="https://iili.io/1Nol0Q.png",Boomerang HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-http://line.lemotv.cc:25461//live/Ivica5274/juric4005/176238.m3u8
-
-#EXTINF:-1 tvg-id="619" tvg-name="Boomerang HD" group-title="Cartoon" tvg-logo="https://iili.io/1Nol0Q.png",Boomerang ID
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
-
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon HD" group-title="Cartoon" tvg-logo="https://iili.io/1No7Wb.png",Nickelodeon HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2511/default.mpd
-
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon HD" group-title="Cartoon" tvg-logo="https://iili.io/1No7Wb.png",Nickelodeon ID
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
-
-#EXTINF:-1 tvg-id="NickJr" tvg-name="Nickelodeon Junior" group-title="Cartoon" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//KIDS//KD_NICKJR.png",NICK JR
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tKu+6Vtps+gKDRQScshw2w", "kid":"+mUiDJ925CQXOJnfUzptEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
-
-########################################################################################################################################################################
-###############################################################  SPORTS  ###############################################################################################
-########################################################################################################################################################################
-
-#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5058/default.mpd
-
-#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-
-#EXTINF:-1 tvg-id="SPOTV2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png" group-title="Sports" tvg-id="SPOTV2" tvg-name="SPOTV2",SPOTV2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
-
-#EXTINF:-1 tvg-id="SPOTV2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png" group-title="Sports" tvg-id="SPOTV2" tvg-name="SPOTV2",SPOTV 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" group-logo="" tvg-logo="https://speedtrademarket.com/live/logo/mewatch_logo.png",SPORT 1 (SGP)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"By5hGjg6LR49TY6hngFqcQ", "kid":"9RWBlMxAROaZ0N8Bdy8iEg" } ], "type":"temporary" }
-https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" group-logo="" tvg-logo="https://speedtrademarket.com/live/logo/mewatch_logo.png",SPORT 2 (SGP)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sub/8k2mdlSvVI/mGqa9Wg", "kid":"3rbITbTcRXi9qmHpZbNCTA" } ], "type":"temporary" }
-https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
-
-#EXTINF:-1 tvg-id="AstroArena2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="Sports",Astro Arena 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="Sports",Astro Supersport
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"gFWGBqE6mdLFQ4ctiJnO0A", "kid":"icEMfvCvFFvn1uiN7AkLEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5076/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="MY| ASTRO SUPERSPORT 1 HD" tvg-logo="https://lo1.in/MALAY/astrossp.png" group-title="Sports",MY| ASTRO SUPERSPORT 1 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://startv365.com:80/9794783213/6955630461/6590
-
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="MY| ASTRO SUPERSPORT 2 HD" tvg-logo="https://lo1.in/MALAY/astroassp2.png" group-title="Sports",MY| ASTRO SUPERSPORT 2 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://startv365.com:80/9794783213/6955630461/6589
-
-#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="MY| ASTRO SUPERSPORT 3 HD" tvg-logo="https://lo1.in/MALAY/astroassp3.png" group-title="Sports",MY| ASTRO SUPERSPORT 3 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://startv365.com:80/9794783213/6955630461/6588
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports" tvg-id="AstroSupersport4" tvg-name="AstroSupersport4", Astro Supersport 4 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2506/default.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sports" tvg-id="beINSports" tvg-name="beINSports", beIN Sports HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/408/default.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sports" tvg-id="beINSports2" tvg-name="beINSports2", beIN Sports 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5066/default.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5vfCzNb/was.png" group-title="Sports" tvg-id="beINSports3" tvg-name="beINSports3", beIN Sports 3 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2705/default.mpd
-
-#EXTINF:-1 ch-number="821" tvg-id="WWENetwork" group-title="Sports" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png",821 WWE Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0cbc4d3b4fbd9af512acb2488bb42910:30528c4ef882954e5707cd1001d66121
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2603/default.mpd
+#EXTM3U
+
+# █▀▀ █▀█ █▀▄ █▀▀ █▀▀ █▀█ ▄▀█ █▀▀ ▀█▀ █▀▀ █▀█ █▀
+# █▄▄ █▄█ █▄▀ ██▄ █▄▄ █▀▄ █▀█ █▀░ ░█░ ██▄ █▀▄ ▄█
+# ――――――――――――――――――――――――――――――――――――――――――――――
+# (●) Last Update: 2024-02-27 07:30:20 UTC
+# (●) Service: DaddyHD
+# (●) Total Channels: 1379
+# (●) Join: https://t.me/realcodecrafters
+
+#EXTINF:-1 tvg-name="ABC USA" tvg-logo="" group-title="DaddyHD",ABC USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium51/index.m3u8
+
+#EXTINF:-1 tvg-name="A&E USA" tvg-logo="" group-title="DaddyHD",A&E USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium302/index.m3u8
+
+#EXTINF:-1 tvg-name="AMC USA" tvg-logo="" group-title="DaddyHD",AMC USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium303/index.m3u8
+
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="" group-title="DaddyHD",Animal Planet
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium304/index.m3u8
+
+#EXTINF:-1 tvg-name="ACC Network USA" tvg-logo="" group-title="DaddyHD",ACC Network USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium666/index.m3u8
+
+#EXTINF:-1 tvg-name="Astro SuperSport 1" tvg-logo="" group-title="DaddyHD",Astro SuperSport 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8
+
+#EXTINF:-1 tvg-name="Astro SuperSport 2" tvg-logo="" group-title="DaddyHD",Astro SuperSport 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8
+
+#EXTINF:-1 tvg-name="Astro SuperSport 3" tvg-logo="" group-title="DaddyHD",Astro SuperSport 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8
+
+#EXTINF:-1 tvg-name="Astro SuperSport 4" tvg-logo="" group-title="DaddyHD",Astro SuperSport 4
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 1 Premium" tvg-logo="" group-title="DaddyHD",Arena Sport 1 Premium
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium134/index.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 2 Premium" tvg-logo="" group-title="DaddyHD",Arena Sport 2 Premium
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium135/index.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 3 Premium" tvg-logo="" group-title="DaddyHD",Arena Sport 3 Premium
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium139/index.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 1 Serbia" tvg-logo="" group-title="DaddyHD",Arena Sport 1 Serbia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium429/index.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 2 Serbia" tvg-logo="" group-title="DaddyHD",Arena Sport 2 Serbia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium430/index.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 3 Serbia" tvg-logo="" group-title="DaddyHD",Arena Sport 3 Serbia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium431/index.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 4 Serbia" tvg-logo="" group-title="DaddyHD",Arena Sport 4 Serbia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium581/index.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 1 Croatia" tvg-logo="" group-title="DaddyHD",Arena Sport 1 Croatia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium432/index.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 2 Croatia" tvg-logo="" group-title="DaddyHD",Arena Sport 2 Croatia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium433/index.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 3 Croatia" tvg-logo="" group-title="DaddyHD",Arena Sport 3 Croatia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium434/index.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 4 Croatia" tvg-logo="" group-title="DaddyHD",Arena Sport 4 Croatia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium580/index.m3u8
+
+#EXTINF:-1 tvg-name="Alkass One" tvg-logo="" group-title="DaddyHD",Alkass One
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium781/index.m3u8
+
+#EXTINF:-1 tvg-name="Alkass Two" tvg-logo="" group-title="DaddyHD",Alkass Two
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium782/index.m3u8
+
+#EXTINF:-1 tvg-name="Alkass Three" tvg-logo="" group-title="DaddyHD",Alkass Three
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium783/index.m3u8
+
+#EXTINF:-1 tvg-name="Alkass Four" tvg-logo="" group-title="DaddyHD",Alkass Four
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium784/index.m3u8
+
+#EXTINF:-1 tvg-name="ABS-CBN" tvg-logo="" group-title="DaddyHD",ABS-CBN
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium785/index.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 1 BiH" tvg-logo="" group-title="DaddyHD",Arena Sport 1 BiH
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium579/index.m3u8
+
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 1 UAE" tvg-logo="" group-title="DaddyHD",Abu Dhabi Sports 1 UAE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium600/index.m3u8
+
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 2 UAE" tvg-logo="" group-title="DaddyHD",Abu Dhabi Sports 2 UAE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium601/index.m3u8
+
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 1 Premium" tvg-logo="" group-title="DaddyHD",Abu Dhabi Sports 1 Premium
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium609/index.m3u8
+
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 2 Premium" tvg-logo="" group-title="DaddyHD",Abu Dhabi Sports 2 Premium
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium610/index.m3u8
+
+#EXTINF:-1 tvg-name="Astro Cricket" tvg-logo="" group-title="DaddyHD",Astro Cricket
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium370/index.m3u8
+
+#EXTINF:-1 tvg-name="Antena 3 Spain" tvg-logo="" group-title="DaddyHD",Antena 3 Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium531/index.m3u8
+
+#EXTINF:-1 tvg-name="ACC Network USA" tvg-logo="" group-title="DaddyHD",ACC Network USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium664/index.m3u8
+
+#EXTINF:-1 tvg-name="Adult Swim" tvg-logo="" group-title="DaddyHD",Adult Swim
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium295/index.m3u8
+
+#EXTINF:-1 tvg-name="AXN Movies Portugal" tvg-logo="" group-title="DaddyHD",AXN Movies Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium717/index.m3u8
+
+#EXTINF:-1 tvg-name="Arte DE" tvg-logo="" group-title="DaddyHD",Arte DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium725/index.m3u8
+
+#EXTINF:-1 tvg-name="AXS TV USA" tvg-logo="" group-title="DaddyHD",AXS TV USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium742/index.m3u8
+
+#EXTINF:-1 tvg-name="ABCNY USA" tvg-logo="" group-title="DaddyHD",ABCNY USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium766/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MENA English 1" tvg-logo="" group-title="DaddyHD",beIN Sports MENA English 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium61/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MENA English 2" tvg-logo="" group-title="DaddyHD",beIN Sports MENA English 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium90/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MENA English 3" tvg-logo="" group-title="DaddyHD",beIN Sports MENA English 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium46/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MENA 1" tvg-logo="" group-title="DaddyHD",beIN Sports MENA 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium91/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MENA 2" tvg-logo="" group-title="DaddyHD",beIN Sports MENA 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium92/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MENA 3" tvg-logo="" group-title="DaddyHD",beIN Sports MENA 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium93/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MENA 4" tvg-logo="" group-title="DaddyHD",beIN Sports MENA 4
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium94/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MENA 5" tvg-logo="" group-title="DaddyHD",beIN Sports MENA 5
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium95/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MENA 6" tvg-logo="" group-title="DaddyHD",beIN Sports MENA 6
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium96/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MENA 7" tvg-logo="" group-title="DaddyHD",beIN Sports MENA 7
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium97/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MENA Premium 1" tvg-logo="" group-title="DaddyHD",beIN Sports MENA Premium 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium98/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MENA Premium 2" tvg-logo="" group-title="DaddyHD",beIN Sports MENA Premium 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium99/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MENA Premium 3" tvg-logo="" group-title="DaddyHD",beIN Sports MENA Premium 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium100/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MAX 4 France" tvg-logo="" group-title="DaddyHD",beIN Sports MAX 4 France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium494/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MAX 5 France" tvg-logo="" group-title="DaddyHD",beIN Sports MAX 5 France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium495/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MAX 6 France" tvg-logo="" group-title="DaddyHD",beIN Sports MAX 6 France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium496/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MAX 7 France" tvg-logo="" group-title="DaddyHD",beIN Sports MAX 7 France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium497/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MAX 8 France" tvg-logo="" group-title="DaddyHD",beIN Sports MAX 8 France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium498/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MAX 9 France" tvg-logo="" group-title="DaddyHD",beIN Sports MAX 9 France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium499/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MAX 10 France" tvg-logo="" group-title="DaddyHD",beIN Sports MAX 10 France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium500/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 1 France" tvg-logo="" group-title="DaddyHD",beIN SPORTS 1 France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium116/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 2 France" tvg-logo="" group-title="DaddyHD",beIN SPORTS 2 France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium117/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 3 France" tvg-logo="" group-title="DaddyHD",beIN SPORTS 3 France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium118/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 1 Turkey" tvg-logo="" group-title="DaddyHD",beIN SPORTS 1 Turkey
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium62/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 2 Turkey" tvg-logo="" group-title="DaddyHD",beIN SPORTS 2 Turkey
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium63/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 3 Turkey" tvg-logo="" group-title="DaddyHD",beIN SPORTS 3 Turkey
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium64/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 4 Turkey" tvg-logo="" group-title="DaddyHD",beIN SPORTS 4 Turkey
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium67/index.m3u8
+
+#EXTINF:-1 tvg-name="BeIN Sports HD Qatar" tvg-logo="" group-title="DaddyHD",BeIN Sports HD Qatar
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium578/index.m3u8
+
+#EXTINF:-1 tvg-name="BeIN SPORTS USA" tvg-logo="" group-title="DaddyHD",BeIN SPORTS USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium425/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS en Espa単ol" tvg-logo="" group-title="DaddyHD",beIN SPORTS en Espa単ol
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium372/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS Australia 1" tvg-logo="" group-title="DaddyHD",beIN SPORTS Australia 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium491/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS Australia 2" tvg-logo="" group-title="DaddyHD",beIN SPORTS Australia 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium492/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS Australia 3" tvg-logo="" group-title="DaddyHD",beIN SPORTS Australia 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium493/index.m3u8
+
+#EXTINF:-1 tvg-name="Barca TV Spain" tvg-logo="" group-title="DaddyHD",Barca TV Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium522/index.m3u8
+
+#EXTINF:-1 tvg-name="Benfica TV PT" tvg-logo="" group-title="DaddyHD",Benfica TV PT
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium380/index.m3u8
+
+#EXTINF:-1 tvg-name="Boomerang" tvg-logo="" group-title="DaddyHD",Boomerang
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium648/index.m3u8
+
+#EXTINF:-1 tvg-name="BNT 1 Bulgaria" tvg-logo="" group-title="DaddyHD",BNT 1 Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium476/index.m3u8
+
+#EXTINF:-1 tvg-name="BNT 2 Bulgaria" tvg-logo="" group-title="DaddyHD",BNT 2 Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium477/index.m3u8
+
+#EXTINF:-1 tvg-name="BNT 3 Bulgaria" tvg-logo="" group-title="DaddyHD",BNT 3 Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium478/index.m3u8
+
+#EXTINF:-1 tvg-name="BR Fernsehen DE" tvg-logo="" group-title="DaddyHD",BR Fernsehen DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium737/index.m3u8
+
+#EXTINF:-1 tvg-name="bTV Bulgaria" tvg-logo="" group-title="DaddyHD",bTV Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium479/index.m3u8
+
+#EXTINF:-1 tvg-name="bTV Action Bulgaria" tvg-logo="" group-title="DaddyHD",bTV Action Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium481/index.m3u8
+
+#EXTINF:-1 tvg-name="bTV Lady Bulgaria" tvg-logo="" group-title="DaddyHD",bTV Lady Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium484/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC America (BBCA)" tvg-logo="" group-title="DaddyHD",BBC America (BBCA)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium305/index.m3u8
+
+#EXTINF:-1 tvg-name="BET USA" tvg-logo="" group-title="DaddyHD",BET USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium306/index.m3u8
+
+#EXTINF:-1 tvg-name="Bravo USA" tvg-logo="" group-title="DaddyHD",Bravo USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium307/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC News Channel HD" tvg-logo="" group-title="DaddyHD",BBC News Channel HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium349/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC One UK" tvg-logo="" group-title="DaddyHD",BBC One UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium356/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC Two UK" tvg-logo="" group-title="DaddyHD",BBC Two UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium357/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC Three UK" tvg-logo="" group-title="DaddyHD",BBC Three UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium358/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC Four UK" tvg-logo="" group-title="DaddyHD",BBC Four UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium359/index.m3u8
+
+#EXTINF:-1 tvg-name="BIG TEN Network (BTN USA)" tvg-logo="" group-title="DaddyHD",BIG TEN Network (BTN USA)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium397/index.m3u8
+
+#EXTINF:-1 tvg-name="Cuatro Spain" tvg-logo="" group-title="DaddyHD",Cuatro Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium535/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 4 UK" tvg-logo="" group-title="DaddyHD",Channel 4 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium354/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 5 UK" tvg-logo="" group-title="DaddyHD",Channel 5 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium355/index.m3u8
+
+#EXTINF:-1 tvg-name="CBS Sports Network (CBSSN)" tvg-logo="" group-title="DaddyHD",CBS Sports Network (CBSSN)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium308/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ France" tvg-logo="" group-title="DaddyHD",Canal+ France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium121/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ Sport France" tvg-logo="" group-title="DaddyHD",Canal+ Sport France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium122/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ Foot France" tvg-logo="" group-title="DaddyHD",Canal+ Foot France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium463/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ Sport360" tvg-logo="" group-title="DaddyHD",Canal+ Sport360
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium464/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal 11 Portugal" tvg-logo="" group-title="DaddyHD",Canal 11 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium540/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ Sport Poland" tvg-logo="" group-title="DaddyHD",Canal+ Sport Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium48/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ Sport 2 Poland" tvg-logo="" group-title="DaddyHD",Canal+ Sport 2 Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium73/index.m3u8
+
+#EXTINF:-1 tvg-name="CANAL+ SPORT 5 Poland" tvg-logo="" group-title="DaddyHD",CANAL+ SPORT 5 Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium75/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ Premium Poland" tvg-logo="" group-title="DaddyHD",Canal+ Premium Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium566/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ Family Poland" tvg-logo="" group-title="DaddyHD",Canal+ Family Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium567/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ Seriale Poland" tvg-logo="" group-title="DaddyHD",Canal+ Seriale Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium570/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ Sport 1 Afrique" tvg-logo="" group-title="DaddyHD",Canal+ Sport 1 Afrique
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium486/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ Sport 2 Afrique" tvg-logo="" group-title="DaddyHD",Canal+ Sport 2 Afrique
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium487/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ Sport 3 Afrique" tvg-logo="" group-title="DaddyHD",Canal+ Sport 3 Afrique
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium488/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ Sport 4 Afrique" tvg-logo="" group-title="DaddyHD",Canal+ Sport 4 Afrique
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium489/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ Sport 5 Afrique" tvg-logo="" group-title="DaddyHD",Canal+ Sport 5 Afrique
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium490/index.m3u8
+
+#EXTINF:-1 tvg-name="CANAL9 Denmark" tvg-logo="" group-title="DaddyHD",CANAL9 Denmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium805/index.m3u8
+
+#EXTINF:-1 tvg-name="Combate Brasil" tvg-logo="" group-title="DaddyHD",Combate Brasil
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium89/index.m3u8
+
+#EXTINF:-1 tvg-name="C More Football Sweden" tvg-logo="" group-title="DaddyHD",C More Football Sweden
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium747/index.m3u8
+
+#EXTINF:-1 tvg-name="Cosmote Sport 1 HD" tvg-logo="" group-title="DaddyHD",Cosmote Sport 1 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium622/index.m3u8
+
+#EXTINF:-1 tvg-name="Cosmote Sport 2 HD" tvg-logo="" group-title="DaddyHD",Cosmote Sport 2 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium623/index.m3u8
+
+#EXTINF:-1 tvg-name="Cosmote Sport 3 HD" tvg-logo="" group-title="DaddyHD",Cosmote Sport 3 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium624/index.m3u8
+
+#EXTINF:-1 tvg-name="Cosmote Sport 4 HD" tvg-logo="" group-title="DaddyHD",Cosmote Sport 4 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium625/index.m3u8
+
+#EXTINF:-1 tvg-name="Cosmote Sport 5 HD" tvg-logo="" group-title="DaddyHD",Cosmote Sport 5 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium626/index.m3u8
+
+#EXTINF:-1 tvg-name="Cosmote Sport 6 HD" tvg-logo="" group-title="DaddyHD",Cosmote Sport 6 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium627/index.m3u8
+
+#EXTINF:-1 tvg-name="Cosmote Sport 7 HD" tvg-logo="" group-title="DaddyHD",Cosmote Sport 7 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium628/index.m3u8
+
+#EXTINF:-1 tvg-name="Cosmote Sport 8 HD" tvg-logo="" group-title="DaddyHD",Cosmote Sport 8 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium629/index.m3u8
+
+#EXTINF:-1 tvg-name="Cosmote Sport 9 HD" tvg-logo="" group-title="DaddyHD",Cosmote Sport 9 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium630/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 9 Israel" tvg-logo="" group-title="DaddyHD",Channel 9 Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium546/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 10 Israe" tvg-logo="" group-title="DaddyHD",Channel 10 Israe
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium547/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 11 Israel" tvg-logo="" group-title="DaddyHD",Channel 11 Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium548/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 12 Israel" tvg-logo="" group-title="DaddyHD",Channel 12 Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium549/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 13 Israel" tvg-logo="" group-title="DaddyHD",Channel 13 Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium551/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 14 Israel" tvg-logo="" group-title="DaddyHD",Channel 14 Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium552/index.m3u8
+
+#EXTINF:-1 tvg-name="C More Stars Sweden" tvg-logo="" group-title="DaddyHD",C More Stars Sweden
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium8111/index.m3u8
+
+#EXTINF:-1 tvg-name="C More First Sweden" tvg-logo="" group-title="DaddyHD",C More First Sweden
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium812/index.m3u8
+
+#EXTINF:-1 tvg-name="C More Hits Sweden" tvg-logo="" group-title="DaddyHD",C More Hits Sweden
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium813/index.m3u8
+
+#EXTINF:-1 tvg-name="C More Series Sweden" tvg-logo="" group-title="DaddyHD",C More Series Sweden
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium814/index.m3u8
+
+#EXTINF:-1 tvg-name="COZI TV USA" tvg-logo="" group-title="DaddyHD",COZI TV USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium748/index.m3u8
+
+#EXTINF:-1 tvg-name="CMT USA" tvg-logo="" group-title="DaddyHD",CMT USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium647/index.m3u8
+
+#EXTINF:-1 tvg-name="CBS USA" tvg-logo="" group-title="DaddyHD",CBS USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium52/index.m3u8
+
+#EXTINF:-1 tvg-name="CW USA" tvg-logo="" group-title="DaddyHD",CW USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium300/index.m3u8
+
+#EXTINF:-1 tvg-name="CNBC USA" tvg-logo="" group-title="DaddyHD",CNBC USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium309/index.m3u8
+
+#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="" group-title="DaddyHD",Comedy Central
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium310/index.m3u8
+
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="" group-title="DaddyHD",Cartoon Network
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium339/index.m3u8
+
+#EXTINF:-1 tvg-name="CNN USA" tvg-logo="" group-title="DaddyHD",CNN USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium345/index.m3u8
+
+#EXTINF:-1 tvg-name="Cinemax USA" tvg-logo="" group-title="DaddyHD",Cinemax USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium374/index.m3u8
+
+#EXTINF:-1 tvg-name="CTV Canada" tvg-logo="" group-title="DaddyHD",CTV Canada
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium602/index.m3u8
+
+#EXTINF:-1 tvg-name="CTV 2 Canada" tvg-logo="" group-title="DaddyHD",CTV 2 Canada
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium838/index.m3u8
+
+#EXTINF:-1 tvg-name="Crime+ Investigation USA" tvg-logo="" group-title="DaddyHD",Crime+ Investigation USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium669/index.m3u8
+
+#EXTINF:-1 tvg-name="Comet USA" tvg-logo="" group-title="DaddyHD",Comet USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium696/index.m3u8
+
+#EXTINF:-1 tvg-name="Cooking Channel USA" tvg-logo="" group-title="DaddyHD",Cooking Channel USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium697/index.m3u8
+
+#EXTINF:-1 tvg-name="Cleo TV" tvg-logo="" group-title="DaddyHD",Cleo TV
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium715/index.m3u8
+
+#EXTINF:-1 tvg-name="C SPAN 1" tvg-logo="" group-title="DaddyHD",C SPAN 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium750/index.m3u8
+
+#EXTINF:-1 tvg-name="CBSNY USA" tvg-logo="" group-title="DaddyHD",CBSNY USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium767/index.m3u8
+
+#EXTINF:-1 tvg-name="Citytv" tvg-logo="" group-title="DaddyHD",Citytv
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium831/index.m3u8
+
+#EXTINF:-1 tvg-name="CBC CA" tvg-logo="" group-title="DaddyHD",CBC CA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium832/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 1 Bar DE" tvg-logo="" group-title="DaddyHD",DAZN 1 Bar DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium426/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 2 Bar DE" tvg-logo="" group-title="DaddyHD",DAZN 2 Bar DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium427/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 1 Spain" tvg-logo="" group-title="DaddyHD",DAZN 1 Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium445/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 2 Spain" tvg-logo="" group-title="DaddyHD",DAZN 2 Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium446/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 3 Spain" tvg-logo="" group-title="DaddyHD",DAZN 3 Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium447/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 4 Spain" tvg-logo="" group-title="DaddyHD",DAZN 4 Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium448/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN F1 ES" tvg-logo="" group-title="DaddyHD",DAZN F1 ES
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium537/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN LaLiga" tvg-logo="" group-title="DaddyHD",DAZN LaLiga
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium538/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN LaLiga 2" tvg-logo="" group-title="DaddyHD",DAZN LaLiga 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium43/index.m3u8
+
+#EXTINF:-1 tvg-name="DR1 Denmark" tvg-logo="" group-title="DaddyHD",DR1 Denmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium801/index.m3u8
+
+#EXTINF:-1 tvg-name="DR2 Denmark" tvg-logo="" group-title="DaddyHD",DR2 Denmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium802/index.m3u8
+
+#EXTINF:-1 tvg-name="Digi Sport 1 Romania" tvg-logo="" group-title="DaddyHD",Digi Sport 1 Romania
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium400/index.m3u8
+
+#EXTINF:-1 tvg-name="Digi Sport 2 Romania" tvg-logo="" group-title="DaddyHD",Digi Sport 2 Romania
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium401/index.m3u8
+
+#EXTINF:-1 tvg-name="Digi Sport 3 Romania" tvg-logo="" group-title="DaddyHD",Digi Sport 3 Romania
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium402/index.m3u8
+
+#EXTINF:-1 tvg-name="Digi Sport 4 Romania" tvg-logo="" group-title="DaddyHD",Digi Sport 4 Romania
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium403/index.m3u8
+
+#EXTINF:-1 tvg-name="Diema Sport Bulgaria" tvg-logo="" group-title="DaddyHD",Diema Sport Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium465/index.m3u8
+
+#EXTINF:-1 tvg-name="Diema Sport 2 Bulgaria" tvg-logo="" group-title="DaddyHD",Diema Sport 2 Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium466/index.m3u8
+
+#EXTINF:-1 tvg-name="Diema Sport 3 Bulgaria" tvg-logo="" group-title="DaddyHD",Diema Sport 3 Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium467/index.m3u8
+
+#EXTINF:-1 tvg-name="Diema Bulgaria" tvg-logo="" group-title="DaddyHD",Diema Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium482/index.m3u8
+
+#EXTINF:-1 tvg-name="Diema Family Bulgaria" tvg-logo="" group-title="DaddyHD",Diema Family Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium485/index.m3u8
+
+#EXTINF:-1 tvg-name="Dubai Sports 1 UAE" tvg-logo="" group-title="DaddyHD",Dubai Sports 1 UAE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium604/index.m3u8
+
+#EXTINF:-1 tvg-name="Dubai Sports 2 UAE" tvg-logo="" group-title="DaddyHD",Dubai Sports 2 UAE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium605/index.m3u8
+
+#EXTINF:-1 tvg-name="Dubai Sports 3 UAE" tvg-logo="" group-title="DaddyHD",Dubai Sports 3 UAE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium606/index.m3u8
+
+#EXTINF:-1 tvg-name="Dubai Racing 1 UAE" tvg-logo="" group-title="DaddyHD",Dubai Racing 1 UAE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium607/index.m3u8
+
+#EXTINF:-1 tvg-name="Dubai Racing 2 UAE" tvg-logo="" group-title="DaddyHD",Dubai Racing 2 UAE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium608/index.m3u8
+
+#EXTINF:-1 tvg-name="DSTV Mzansi Magic" tvg-logo="" group-title="DaddyHD",DSTV Mzansi Magic
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium786/index.m3u8
+
+#EXTINF:-1 tvg-name="DSTV M-Net" tvg-logo="" group-title="DaddyHD",DSTV M-Net
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium827/index.m3u8
+
+#EXTINF:-1 tvg-name="DSTV kykNET & kie" tvg-logo="" group-title="DaddyHD",DSTV kykNET & kie
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium828/index.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Life Channel" tvg-logo="" group-title="DaddyHD",Discovery Life Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium311/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="" group-title="DaddyHD",Disney Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium312/index.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="" group-title="DaddyHD",Discovery Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium313/index.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Family" tvg-logo="" group-title="DaddyHD",Discovery Family
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium657/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney XD" tvg-logo="" group-title="DaddyHD",Disney XD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium314/index.m3u8
+
+#EXTINF:-1 tvg-name="Destination America" tvg-logo="" group-title="DaddyHD",Destination America
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium651/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney JR" tvg-logo="" group-title="DaddyHD",Disney JR
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium652/index.m3u8
+
+#EXTINF:-1 tvg-name="Dave" tvg-logo="" group-title="DaddyHD",Dave
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium348/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN USA" tvg-logo="" group-title="DaddyHD",ESPN USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium44/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN2 USA" tvg-logo="" group-title="DaddyHD",ESPN2 USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium45/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPNU USA" tvg-logo="" group-title="DaddyHD",ESPNU USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium316/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 1 NL" tvg-logo="" group-title="DaddyHD",ESPN 1 NL
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium379/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 2 NL" tvg-logo="" group-title="DaddyHD",ESPN 2 NL
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium386/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sports 1 Poland" tvg-logo="" group-title="DaddyHD",Eleven Sports 1 Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium71/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sports 2 Poland" tvg-logo="" group-title="DaddyHD",Eleven Sports 2 Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium72/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sports 3 Poland" tvg-logo="" group-title="DaddyHD",Eleven Sports 3 Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium428/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sports 1 Portugal" tvg-logo="" group-title="DaddyHD",Eleven Sports 1 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium455/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sports 2 Portugal" tvg-logo="" group-title="DaddyHD",Eleven Sports 2 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium456/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sports 3 Portugal" tvg-logo="" group-title="DaddyHD",Eleven Sports 3 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium457/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sports 4 Portugal" tvg-logo="" group-title="DaddyHD",Eleven Sports 4 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium458/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sports 5 Portugal" tvg-logo="" group-title="DaddyHD",Eleven Sports 5 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium459/index.m3u8
+
+#EXTINF:-1 tvg-name="EuroSport 1 UK" tvg-logo="" group-title="DaddyHD",EuroSport 1 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium41/index.m3u8
+
+#EXTINF:-1 tvg-name="EuroSport 2 UK" tvg-logo="" group-title="DaddyHD",EuroSport 2 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium42/index.m3u8
+
+#EXTINF:-1 tvg-name="EuroSport 1 Poland" tvg-logo="" group-title="DaddyHD",EuroSport 1 Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium57/index.m3u8
+
+#EXTINF:-1 tvg-name="EuroSport 2 Poland" tvg-logo="" group-title="DaddyHD",EuroSport 2 Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium58/index.m3u8
+
+#EXTINF:-1 tvg-name="EuroSport 1 Spain" tvg-logo="" group-title="DaddyHD",EuroSport 1 Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium524/index.m3u8
+
+#EXTINF:-1 tvg-name="EuroSport 2 Spain" tvg-logo="" group-title="DaddyHD",EuroSport 2 Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium525/index.m3u8
+
+#EXTINF:-1 tvg-name="EuroSport 1 Italy" tvg-logo="" group-title="DaddyHD",EuroSport 1 Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium878/index.m3u8
+
+#EXTINF:-1 tvg-name="EuroSport 2 Italy" tvg-logo="" group-title="DaddyHD",EuroSport 2 Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium879/index.m3u8
+
+#EXTINF:-1 tvg-name="Eurosport 1 Bulgaria" tvg-logo="" group-title="DaddyHD",Eurosport 1 Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium469/index.m3u8
+
+#EXTINF:-1 tvg-name="Eurosport 2 Bulgaria" tvg-logo="" group-title="DaddyHD",Eurosport 2 Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium470/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN Premium Argentina" tvg-logo="" group-title="DaddyHD",ESPN Premium Argentina
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium387/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN Brasil" tvg-logo="" group-title="DaddyHD",ESPN Brasil
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium81/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN2 Brasil" tvg-logo="" group-title="DaddyHD",ESPN2 Brasil
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium82/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN3 Brasil" tvg-logo="" group-title="DaddyHD",ESPN3 Brasil
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium83/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN4 Brasil" tvg-logo="" group-title="DaddyHD",ESPN4 Brasil
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium85/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN SUR" tvg-logo="" group-title="DaddyHD",ESPN SUR
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium149/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN2 SUR" tvg-logo="" group-title="DaddyHD",ESPN2 SUR
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium150/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN Deportes" tvg-logo="" group-title="DaddyHD",ESPN Deportes
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium375/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPNews" tvg-logo="" group-title="DaddyHD",ESPNews
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium288/index.m3u8
+
+#EXTINF:-1 tvg-name="E! Entertainment Television" tvg-logo="" group-title="DaddyHD",E! Entertainment Television
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium315/index.m3u8
+
+#EXTINF:-1 tvg-name="E4 Channel" tvg-logo="" group-title="DaddyHD",E4 Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium363/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports 1 USA" tvg-logo="" group-title="DaddyHD",Fox Sports 1 USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium39/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports 2 USA" tvg-logo="" group-title="DaddyHD",Fox Sports 2 USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium758/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX Soccer Plus" tvg-logo="" group-title="DaddyHD",FOX Soccer Plus
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium756/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox Cricket" tvg-logo="" group-title="DaddyHD",Fox Cricket
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium369/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX Deportes USA" tvg-logo="" group-title="DaddyHD",FOX Deportes USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium643/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX Sports 502 AU" tvg-logo="" group-title="DaddyHD",FOX Sports 502 AU
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium820/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX Sports 503 AU" tvg-logo="" group-title="DaddyHD",FOX Sports 503 AU
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium821/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX Sports 504 AU" tvg-logo="" group-title="DaddyHD",FOX Sports 504 AU
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium822/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX Sports 505 AU" tvg-logo="" group-title="DaddyHD",FOX Sports 505 AU
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium823/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX Sports 506 AU" tvg-logo="" group-title="DaddyHD",FOX Sports 506 AU
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium824/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX Sports 507 AU" tvg-logo="" group-title="DaddyHD",FOX Sports 507 AU
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium825/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports Argentina" tvg-logo="" group-title="DaddyHD",Fox Sports Argentina
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium767/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports 2 Argentina" tvg-logo="" group-title="DaddyHD",Fox Sports 2 Argentina
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium788/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports 3 Argentina" tvg-logo="" group-title="DaddyHD",Fox Sports 3 Argentina
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium789/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports Premium MX" tvg-logo="" group-title="DaddyHD",Fox Sports Premium MX
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium830/index.m3u8
+
+#EXTINF:-1 tvg-name="FilmBox Premium Poland" tvg-logo="" group-title="DaddyHD",FilmBox Premium Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium568/index.m3u8
+
+#EXTINF:-1 tvg-name="Fight Network" tvg-logo="" group-title="DaddyHD",Fight Network
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium757/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox Business" tvg-logo="" group-title="DaddyHD",Fox Business
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium297/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX HD Bulgaria" tvg-logo="" group-title="DaddyHD",FOX HD Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium483/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX USA" tvg-logo="" group-title="DaddyHD",FOX USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium54/index.m3u8
+
+#EXTINF:-1 tvg-name="FX USA" tvg-logo="" group-title="DaddyHD",FX USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium317/index.m3u8
+
+#EXTINF:-1 tvg-name="FXX USA" tvg-logo="" group-title="DaddyHD",FXX USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium298/index.m3u8
+
+#EXTINF:-1 tvg-name="Freeform" tvg-logo="" group-title="DaddyHD",Freeform
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium301/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox News" tvg-logo="" group-title="DaddyHD",Fox News
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium347/index.m3u8
+
+#EXTINF:-1 tvg-name="FX Movie Channel" tvg-logo="" group-title="DaddyHD",FX Movie Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium381/index.m3u8
+
+#EXTINF:-1 tvg-name="FYI" tvg-logo="" group-title="DaddyHD",FYI
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium665/index.m3u8
+
+#EXTINF:-1 tvg-name="Film4 UK" tvg-logo="" group-title="DaddyHD",Film4 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium688/index.m3u8
+
+#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="" group-title="DaddyHD",Fashion TV
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium744/index.m3u8
+
+#EXTINF:-1 tvg-name="FETV - Family Entertainment Television" tvg-logo="" group-title="DaddyHD",FETV - Family Entertainment Television
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium751/index.m3u8
+
+#EXTINF:-1 tvg-name="FOXNY USA" tvg-logo="" group-title="DaddyHD",FOXNY USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium768/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox Weather Channel" tvg-logo="" group-title="DaddyHD",Fox Weather Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium775/index.m3u8
+
+#EXTINF:-1 tvg-name="GOL PLAY Spain" tvg-logo="" group-title="DaddyHD",GOL PLAY Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium530/index.m3u8
+
+#EXTINF:-1 tvg-name="GOLF Channel USA" tvg-logo="" group-title="DaddyHD",GOLF Channel USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium318/index.m3u8
+
+#EXTINF:-1 tvg-name="Game Show Network" tvg-logo="" group-title="DaddyHD",Game Show Network
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium319/index.m3u8
+
+#EXTINF:-1 tvg-name="Gol Mundial 1" tvg-logo="" group-title="DaddyHD",Gol Mundial 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium292/index.m3u8
+
+#EXTINF:-1 tvg-name="Gold UK" tvg-logo="" group-title="DaddyHD",Gold UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium687/index.m3u8
+
+#EXTINF:-1 tvg-name="Galavisi贸n USA" tvg-logo="" group-title="DaddyHD",Galavisi贸n USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium743/index.m3u8
+
+#EXTINF:-1 tvg-name="CBC CA" tvg-logo="" group-title="DaddyHD",CBC CA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium699/index.m3u8
+
+#EXTINF:-1 tvg-name="Grit Channel" tvg-logo="" group-title="DaddyHD",Grit Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium752/index.m3u8
+
+#EXTINF:-1 tvg-name="Globo SP" tvg-logo="" group-title="DaddyHD",Globo SP
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium760/index.m3u8
+
+#EXTINF:-1 tvg-name="Globo RIO" tvg-logo="" group-title="DaddyHD",Globo RIO
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium761/index.m3u8
+
+#EXTINF:-1 tvg-name="Global CA" tvg-logo="" group-title="DaddyHD",Global CA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium836/index.m3u8
+
+#EXTINF:-1 tvg-name="The Hallmark Channel" tvg-logo="" group-title="DaddyHD",The Hallmark Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium320/index.m3u8
+
+#EXTINF:-1 tvg-name="Hallmark Movies & Mysterie" tvg-logo="" group-title="DaddyHD",Hallmark Movies & Mysterie
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium296/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO USA" tvg-logo="" group-title="DaddyHD",HBO USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium321/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO2 USA" tvg-logo="" group-title="DaddyHD",HBO2 USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium689/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO Comedy USA" tvg-logo="" group-title="DaddyHD",HBO Comedy USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium690/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO Family USA" tvg-logo="" group-title="DaddyHD",HBO Family USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium691/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO Latino USA" tvg-logo="" group-title="DaddyHD",HBO Latino USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium692/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO Signature USA" tvg-logo="" group-title="DaddyHD",HBO Signature USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium693/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO Zone USA" tvg-logo="" group-title="DaddyHD",HBO Zone USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium694/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO Poland" tvg-logo="" group-title="DaddyHD",HBO Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium569/index.m3u8
+
+#EXTINF:-1 tvg-name="History USA" tvg-logo="" group-title="DaddyHD",History USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium322/index.m3u8
+
+#EXTINF:-1 tvg-name="Headline News" tvg-logo="" group-title="DaddyHD",Headline News
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium323/index.m3u8
+
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="" group-title="DaddyHD",HGTV
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium382/index.m3u8
+
+#EXTINF:-1 tvg-name="HOT3 Israel" tvg-logo="" group-title="DaddyHD",HOT3 Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium553/index.m3u8
+
+#EXTINF:-1 tvg-name="HR Fernsehen DE" tvg-logo="" group-title="DaddyHD",HR Fernsehen DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium740/index.m3u8
+
+#EXTINF:-1 tvg-name="ITV 1 UK" tvg-logo="" group-title="DaddyHD",ITV 1 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium350/index.m3u8
+
+#EXTINF:-1 tvg-name="ITV 2 UK" tvg-logo="" group-title="DaddyHD",ITV 2 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium351/index.m3u8
+
+#EXTINF:-1 tvg-name="ITV 3 UK" tvg-logo="" group-title="DaddyHD",ITV 3 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium352/index.m3u8
+
+#EXTINF:-1 tvg-name="ITV 4 UK" tvg-logo="" group-title="DaddyHD",ITV 4 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium353/index.m3u8
+
+#EXTINF:-1 tvg-name="Italia 1 Italy" tvg-logo="" group-title="DaddyHD",Italia 1 Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium854/index.m3u8
+
+#EXTINF:-1 tvg-name="Investigation Discovery (ID USA)" tvg-logo="" group-title="DaddyHD",Investigation Discovery (ID USA)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium324/index.m3u8
+
+#EXTINF:-1 tvg-name="ION USA" tvg-logo="" group-title="DaddyHD",ION USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium325/index.m3u8
+
+#EXTINF:-1 tvg-name="IFC TV USA" tvg-logo="" group-title="DaddyHD",IFC TV USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium656/index.m3u8
+
+#EXTINF:-1 tvg-name="Kanal 4 Denmark" tvg-logo="" group-title="DaddyHD",Kanal 4 Denmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium803/index.m3u8
+
+#EXTINF:-1 tvg-name="Kanal 5 Denmark" tvg-logo="" group-title="DaddyHD",Kanal 5 Denmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium804/index.m3u8
+
+#EXTINF:-1 tvg-name="Kabel Eins (Kabel 1) DE" tvg-logo="" group-title="DaddyHD",Kabel Eins (Kabel 1) DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium731/index.m3u8
+
+#EXTINF:-1 tvg-name="LaLiga SmartBank TV" tvg-logo="" group-title="DaddyHD",LaLiga SmartBank TV
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium539/index.m3u8
+
+#EXTINF:-1 tvg-name="L'Equipe France" tvg-logo="" group-title="DaddyHD",L'Equipe France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium645/index.m3u8
+
+#EXTINF:-1 tvg-name="La Sexta Spain" tvg-logo="" group-title="DaddyHD",La Sexta Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium534/index.m3u8
+
+#EXTINF:-1 tvg-name="Liverpool TV (LFC TV)" tvg-logo="" group-title="DaddyHD",Liverpool TV (LFC TV)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium826/index.m3u8
+
+#EXTINF:-1 tvg-name="Lifetime Network" tvg-logo="" group-title="DaddyHD",Lifetime Network
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium326/index.m3u8
+
+#EXTINF:-1 tvg-name="Lifetime Movies Network" tvg-logo="" group-title="DaddyHD",Lifetime Movies Network
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium389/index.m3u8
+
+#EXTINF:-1 tvg-name="Longhorn Network USA" tvg-logo="" group-title="DaddyHD",Longhorn Network USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium667/index.m3u8
+
+#EXTINF:-1 tvg-name="La7 Italy" tvg-logo="" group-title="DaddyHD",La7 Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium855/index.m3u8
+
+#EXTINF:-1 tvg-name="LA7d HD+ Italy" tvg-logo="" group-title="DaddyHD",LA7d HD+ Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium856/index.m3u8
+
+#EXTINF:-1 tvg-name="Match Football 1 Russia" tvg-logo="" group-title="DaddyHD",Match Football 1 Russia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium136/index.m3u8
+
+#EXTINF:-1 tvg-name="Match Football 2 Russia" tvg-logo="" group-title="DaddyHD",Match Football 2 Russia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium137/index.m3u8
+
+#EXTINF:-1 tvg-name="Match Football 3 Russia" tvg-logo="" group-title="DaddyHD",Match Football 3 Russia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium138/index.m3u8
+
+#EXTINF:-1 tvg-name="Match Premier Russia" tvg-logo="" group-title="DaddyHD",Match Premier Russia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium573/index.m3u8
+
+#EXTINF:-1 tvg-name="Match TV Russia" tvg-logo="" group-title="DaddyHD",Match TV Russia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium127/index.m3u8
+
+#EXTINF:-1 tvg-name="МАТЧ! БОЕЦ Russia" tvg-logo="" group-title="DaddyHD",МАТЧ! БОЕЦ Russia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium395/index.m3u8
+
+#EXTINF:-1 tvg-name="Movistar Laliga" tvg-logo="" group-title="DaddyHD",Movistar Laliga
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium84/index.m3u8
+
+#EXTINF:-1 tvg-name="Movistar Liga de Campeones" tvg-logo="" group-title="DaddyHD",Movistar Liga de Campeones
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium435/index.m3u8
+
+#EXTINF:-1 tvg-name="Movistar Deportes Spain" tvg-logo="" group-title="DaddyHD",Movistar Deportes Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium436/index.m3u8
+
+#EXTINF:-1 tvg-name="Movistar Deportes 2 Spain" tvg-logo="" group-title="DaddyHD",Movistar Deportes 2 Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium438/index.m3u8
+
+#EXTINF:-1 tvg-name="Movistar Deportes 3 Spain" tvg-logo="" group-title="DaddyHD",Movistar Deportes 3 Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium526/index.m3u8
+
+#EXTINF:-1 tvg-name="Movistar Deportes 4 Spain" tvg-logo="" group-title="DaddyHD",Movistar Deportes 4 Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium527/index.m3u8
+
+#EXTINF:-1 tvg-name="Movistar Golf Spain" tvg-logo="" group-title="DaddyHD",Movistar Golf Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium528/index.m3u8
+
+#EXTINF:-1 tvg-name="Motowizja Poland" tvg-logo="" group-title="DaddyHD",Motowizja Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium563/index.m3u8
+
+#EXTINF:-1 tvg-name="MSG USA" tvg-logo="" group-title="DaddyHD",MSG USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium765/index.m3u8
+
+#EXTINF:-1 tvg-name="MSNBC" tvg-logo="" group-title="DaddyHD",MSNBC
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium327/index.m3u8
+
+#EXTINF:-1 tvg-name="Magnolia Network" tvg-logo="" group-title="DaddyHD",Magnolia Network
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium299/index.m3u8
+
+#EXTINF:-1 tvg-name="MTV UK" tvg-logo="" group-title="DaddyHD",MTV UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium367/index.m3u8
+
+#EXTINF:-1 tvg-name="MTV USA" tvg-logo="" group-title="DaddyHD",MTV USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium371/index.m3u8
+
+#EXTINF:-1 tvg-name="MUTV UK" tvg-logo="" group-title="DaddyHD",MUTV UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium377/index.m3u8
+
+#EXTINF:-1 tvg-name="MAVTV USA" tvg-logo="" group-title="DaddyHD",MAVTV USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium646/index.m3u8
+
+#EXTINF:-1 tvg-name="Max Sport 1 Croatia" tvg-logo="" group-title="DaddyHD",Max Sport 1 Croatia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium779/index.m3u8
+
+#EXTINF:-1 tvg-name="Max Sport 2 Croatia" tvg-logo="" group-title="DaddyHD",Max Sport 2 Croatia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium780/index.m3u8
+
+#EXTINF:-1 tvg-name="Marquee Sports Network" tvg-logo="" group-title="DaddyHD",Marquee Sports Network
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium770/index.m3u8
+
+#EXTINF:-1 tvg-name="Max Sport 1 Bulgaria" tvg-logo="" group-title="DaddyHD",Max Sport 1 Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium472/index.m3u8
+
+#EXTINF:-1 tvg-name="Max Sport 2 Bulgaria" tvg-logo="" group-title="DaddyHD",Max Sport 2 Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium473/index.m3u8
+
+#EXTINF:-1 tvg-name="Max Sport 3 Bulgaria" tvg-logo="" group-title="DaddyHD",Max Sport 3 Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium474/index.m3u8
+
+#EXTINF:-1 tvg-name="Max Sport 4 Bulgaria" tvg-logo="" group-title="DaddyHD",Max Sport 4 Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium475/index.m3u8
+
+#EXTINF:-1 tvg-name="MLB Network USA" tvg-logo="" group-title="DaddyHD",MLB Network USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium399/index.m3u8
+
+#EXTINF:-1 tvg-name="MASN USA" tvg-logo="" group-title="DaddyHD",MASN USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium829/index.m3u8
+
+#EXTINF:-1 tvg-name="MY9TV USA" tvg-logo="" group-title="DaddyHD",MY9TV USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium654/index.m3u8
+
+#EXTINF:-1 tvg-name="Motor Trend" tvg-logo="" group-title="DaddyHD",Motor Trend
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium661/index.m3u8
+
+#EXTINF:-1 tvg-name="METV USA" tvg-logo="" group-title="DaddyHD",METV USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium662/index.m3u8
+
+#EXTINF:-1 tvg-name="MDR DE" tvg-logo="" group-title="DaddyHD",MDR DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium733/index.m3u8
+
+#EXTINF:-1 tvg-name="Mundotoro TV Spain" tvg-logo="" group-title="DaddyHD",Mundotoro TV Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium749/index.m3u8
+
+#EXTINF:-1 tvg-name="MTV Denmark" tvg-logo="" group-title="DaddyHD",MTV Denmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium806/index.m3u8
+
+#EXTINF:-1 tvg-name="NHL Network USA" tvg-logo="" group-title="DaddyHD",NHL Network USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium663/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova Sport Bulgaria" tvg-logo="" group-title="DaddyHD",Nova Sport Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium468/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova Sport Serbia" tvg-logo="" group-title="DaddyHD",Nova Sport Serbia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium582/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova Sports 1 Greece" tvg-logo="" group-title="DaddyHD",Nova Sports 1 Greece
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium631/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova Sports 2 Greece" tvg-logo="" group-title="DaddyHD",Nova Sports 2 Greece
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium632/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova Sports 3 Greece" tvg-logo="" group-title="DaddyHD",Nova Sports 3 Greece
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium633/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova Sports 4 Greece" tvg-logo="" group-title="DaddyHD",Nova Sports 4 Greece
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium634/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova Sports 5 Greece" tvg-logo="" group-title="DaddyHD",Nova Sports 5 Greece
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium635/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova Sports 6 Greece" tvg-logo="" group-title="DaddyHD",Nova Sports 6 Greece
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium636/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova Sports Premier League Greece" tvg-logo="" group-title="DaddyHD",Nova Sports Premier League Greece
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium599/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova Sports Start Greece" tvg-logo="" group-title="DaddyHD",Nova Sports Start Greece
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium637/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova Sports Prime Greece" tvg-logo="" group-title="DaddyHD",Nova Sports Prime Greece
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium638/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova Sports News Greece" tvg-logo="" group-title="DaddyHD",Nova Sports News Greece
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium639/index.m3u8
+
+#EXTINF:-1 tvg-name="NESN USA" tvg-logo="" group-title="DaddyHD",NESN USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium762/index.m3u8
+
+#EXTINF:-1 tvg-name="NBC USA" tvg-logo="" group-title="DaddyHD",NBC USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium53/index.m3u8
+
+#EXTINF:-1 tvg-name="NBA TV USA" tvg-logo="" group-title="DaddyHD",NBA TV USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium404/index.m3u8
+
+#EXTINF:-1 tvg-name="NBC Sports Chicago" tvg-logo="" group-title="DaddyHD",NBC Sports Chicago
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium776/index.m3u8
+
+#EXTINF:-1 tvg-name="NBC Sports Philadelphia" tvg-logo="" group-title="DaddyHD",NBC Sports Philadelphia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium777/index.m3u8
+
+#EXTINF:-1 tvg-name="NBC Sports Washington" tvg-logo="" group-title="DaddyHD",NBC Sports Washington
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium778/index.m3u8
+
+#EXTINF:-1 tvg-name="NFL Network" tvg-logo="" group-title="DaddyHD",NFL Network
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium405/index.m3u8
+
+#EXTINF:-1 tvg-name="NBC Sports Bay Area" tvg-logo="" group-title="DaddyHD",NBC Sports Bay Area
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium753/index.m3u8
+
+#EXTINF:-1 tvg-name="NBC Sports Boston" tvg-logo="" group-title="DaddyHD",NBC Sports Boston
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium754/index.m3u8
+
+#EXTINF:-1 tvg-name="NBC Sports California" tvg-logo="" group-title="DaddyHD",NBC Sports California
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium755/index.m3u8
+
+#EXTINF:-1 tvg-name="NBCNY USA" tvg-logo="" group-title="DaddyHD",NBCNY USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium769/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova TV Bulgaria" tvg-logo="" group-title="DaddyHD",Nova TV Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium480/index.m3u8
+
+#EXTINF:-1 tvg-name="National Geographic (NGC)" tvg-logo="" group-title="DaddyHD",National Geographic (NGC)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium328/index.m3u8
+
+#EXTINF:-1 tvg-name="NICK JR" tvg-logo="" group-title="DaddyHD",NICK JR
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium329/index.m3u8
+
+#EXTINF:-1 tvg-name="NICK" tvg-logo="" group-title="DaddyHD",NICK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium330/index.m3u8
+
+#EXTINF:-1 tvg-name="Nick Music" tvg-logo="" group-title="DaddyHD",Nick Music
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium666/index.m3u8
+
+#EXTINF:-1 tvg-name="Nicktoons" tvg-logo="" group-title="DaddyHD",Nicktoons
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium649/index.m3u8
+
+#EXTINF:-1 tvg-name="NDR DE" tvg-logo="" group-title="DaddyHD",NDR DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium736/index.m3u8
+
+#EXTINF:-1 tvg-name="NewsNation USA" tvg-logo="" group-title="DaddyHD",NewsNation USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium292/index.m3u8
+
+#EXTINF:-1 tvg-name="Newsmax USA" tvg-logo="" group-title="DaddyHD",Newsmax USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium613/index.m3u8
+
+#EXTINF:-1 tvg-name="Nat Geo Wild USA" tvg-logo="" group-title="DaddyHD",Nat Geo Wild USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium745/index.m3u8
+
+#EXTINF:-1 tvg-name="Noovo CA" tvg-logo="" group-title="DaddyHD",Noovo CA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium835/index.m3u8
+
+#EXTINF:-1 tvg-name="New! CWPIX 11" tvg-logo="" group-title="DaddyHD",New! CWPIX 11
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium771/index.m3u8
+
+#EXTINF:-1 tvg-name="OnTime Sports" tvg-logo="" group-title="DaddyHD",OnTime Sports
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium611/index.m3u8
+
+#EXTINF:-1 tvg-name="OnTime Sports 2" tvg-logo="" group-title="DaddyHD",OnTime Sports 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium612/index.m3u8
+
+#EXTINF:-1 tvg-name="ONE 1 HD Israel" tvg-logo="" group-title="DaddyHD",ONE 1 HD Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium541/index.m3u8
+
+#EXTINF:-1 tvg-name="ONE 2 HD Israel" tvg-logo="" group-title="DaddyHD",ONE 2 HD Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium542/index.m3u8
+
+#EXTINF:-1 tvg-name="Orange Sport 1 Romania" tvg-logo="" group-title="DaddyHD",Orange Sport 1 Romania
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium439/index.m3u8
+
+#EXTINF:-1 tvg-name="Orange Sport 2 Romania" tvg-logo="" group-title="DaddyHD",Orange Sport 2 Romania
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium440/index.m3u8
+
+#EXTINF:-1 tvg-name="Orange Sport 3 Romania" tvg-logo="" group-title="DaddyHD",Orange Sport 3 Romania
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium441/index.m3u8
+
+#EXTINF:-1 tvg-name="Orange Sport 4 Romania" tvg-logo="" group-title="DaddyHD",Orange Sport 4 Romania
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium442/index.m3u8
+
+#EXTINF:-1 tvg-name="Oprah Winfrey Network (OWN)" tvg-logo="" group-title="DaddyHD",Oprah Winfrey Network (OWN)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium331/index.m3u8
+
+#EXTINF:-1 tvg-name="Oxygen True Crime" tvg-logo="" group-title="DaddyHD",Oxygen True Crime
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium332/index.m3u8
+
+#EXTINF:-1 tvg-name="Polsat Poland" tvg-logo="" group-title="DaddyHD",Polsat Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium562/index.m3u8
+
+#EXTINF:-1 tvg-name="Polsat Sport Poland" tvg-logo="" group-title="DaddyHD",Polsat Sport Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium47/index.m3u8
+
+#EXTINF:-1 tvg-name="Polsat Sport Extra Poland" tvg-logo="" group-title="DaddyHD",Polsat Sport Extra Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium50/index.m3u8
+
+#EXTINF:-1 tvg-name="Polsat Sport News Poland" tvg-logo="" group-title="DaddyHD",Polsat Sport News Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium129/index.m3u8
+
+#EXTINF:-1 tvg-name="Polsat News Poland" tvg-logo="" group-title="DaddyHD",Polsat News Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium443/index.m3u8
+
+#EXTINF:-1 tvg-name="Polsat Film Poland" tvg-logo="" group-title="DaddyHD",Polsat Film Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium564/index.m3u8
+
+#EXTINF:-1 tvg-name="Porto Canal Portugal" tvg-logo="" group-title="DaddyHD",Porto Canal Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium718/index.m3u8
+
+#EXTINF:-1 tvg-name="ProSieben (PRO7) DE" tvg-logo="" group-title="DaddyHD",ProSieben (PRO7) DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium730/index.m3u8
+
+#EXTINF:-1 tvg-name="PTV Sports" tvg-logo="" group-title="DaddyHD",PTV Sports
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium450/index.m3u8
+
+#EXTINF:-1 tvg-name="Premier Brasil" tvg-logo="" group-title="DaddyHD",Premier Brasil
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium88/index.m3u8
+
+#EXTINF:-1 tvg-name="Prima Sport 1" tvg-logo="" group-title="DaddyHD",Prima Sport 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium583/index.m3u8
+
+#EXTINF:-1 tvg-name="Prima Sport 2" tvg-logo="" group-title="DaddyHD",Prima Sport 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium584/index.m3u8
+
+#EXTINF:-1 tvg-name="Prima Sport 3" tvg-logo="" group-title="DaddyHD",Prima Sport 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium585/index.m3u8
+
+#EXTINF:-1 tvg-name="Prima Sport 4" tvg-logo="" group-title="DaddyHD",Prima Sport 4
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium586/index.m3u8
+
+#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="" group-title="DaddyHD",Paramount Network
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium334/index.m3u8
+
+#EXTINF:-1 tvg-name="POP TV USA" tvg-logo="" group-title="DaddyHD",POP TV USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium653/index.m3u8
+
+#EXTINF:-1 tvg-name="RTE 1" tvg-logo="" group-title="DaddyHD",RTE 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium364/index.m3u8
+
+#EXTINF:-1 tvg-name="RTE 2" tvg-logo="" group-title="DaddyHD",RTE 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium365/index.m3u8
+
+#EXTINF:-1 tvg-name="RMC Sport 1 France" tvg-logo="" group-title="DaddyHD",RMC Sport 1 France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium119/index.m3u8
+
+#EXTINF:-1 tvg-name="RMC Sport 2 France" tvg-logo="" group-title="DaddyHD",RMC Sport 2 France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium120/index.m3u8
+
+#EXTINF:-1 tvg-name="RTP 1 Portugal" tvg-logo="" group-title="DaddyHD",RTP 1 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium719/index.m3u8
+
+#EXTINF:-1 tvg-name="RTP 2 Portugal" tvg-logo="" group-title="DaddyHD",RTP 2 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium720/index.m3u8
+
+#EXTINF:-1 tvg-name="RTP 3 Portugal" tvg-logo="" group-title="DaddyHD",RTP 3 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium721/index.m3u8
+
+#EXTINF:-1 tvg-name="Rai 1 Italy" tvg-logo="" group-title="DaddyHD",Rai 1 Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium850/index.m3u8
+
+#EXTINF:-1 tvg-name="Rai 2 Italy" tvg-logo="" group-title="DaddyHD",Rai 2 Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium851/index.m3u8
+
+#EXTINF:-1 tvg-name="Rai 3 Italy" tvg-logo="" group-title="DaddyHD",Rai 3 Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium852/index.m3u8
+
+#EXTINF:-1 tvg-name="Rai 3 Italy" tvg-logo="" group-title="DaddyHD",Rai 3 Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium853/index.m3u8
+
+#EXTINF:-1 tvg-name="Rai Sport Italy" tvg-logo="" group-title="DaddyHD",Rai Sport Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium882/index.m3u8
+
+#EXTINF:-1 tvg-name="Rai Premium Italy" tvg-logo="" group-title="DaddyHD",Rai Premium Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium858/index.m3u8
+
+#EXTINF:-1 tvg-name="Real Madrid TV Spain" tvg-logo="" group-title="DaddyHD",Real Madrid TV Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium523/index.m3u8
+
+#EXTINF:-1 tvg-name="RDS CA" tvg-logo="" group-title="DaddyHD",RDS CA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium839/index.m3u8
+
+#EXTINF:-1 tvg-name="RDS 2 CA" tvg-logo="" group-title="DaddyHD",RDS 2 CA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium840/index.m3u8
+
+#EXTINF:-1 tvg-name="RDS Info CA" tvg-logo="" group-title="DaddyHD",RDS Info CA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium841/index.m3u8
+
+#EXTINF:-1 tvg-name="Ring Bulgaria" tvg-logo="" group-title="DaddyHD",Ring Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium471/index.m3u8
+
+#EXTINF:-1 tvg-name="RTL7 Netherland" tvg-logo="" group-title="DaddyHD",RTL7 Netherland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium390/index.m3u8
+
+#EXTINF:-1 tvg-name="Racing Tv UK" tvg-logo="" group-title="DaddyHD",Racing Tv UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium555/index.m3u8
+
+#EXTINF:-1 tvg-name="Reelz Channel" tvg-logo="" group-title="DaddyHD",Reelz Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium293/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Football UK" tvg-logo="" group-title="DaddyHD",Sky Sports Football UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium35/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Arena UK" tvg-logo="" group-title="DaddyHD",Sky Sports Arena UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium36/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Action UK" tvg-logo="" group-title="DaddyHD",Sky Sports Action UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium37/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="" group-title="DaddyHD",Sky Sports Main Event
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium38/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky sports Premier League" tvg-logo="" group-title="DaddyHD",Sky sports Premier League
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium130/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-logo="" group-title="DaddyHD",Sky Sports F1 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium60/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-logo="" group-title="DaddyHD",Sky Sports Cricket
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium65/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Golf UK" tvg-logo="" group-title="DaddyHD",Sky Sports Golf UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium70/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Golf Italy" tvg-logo="" group-title="DaddyHD",Sky Sports Golf Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium574/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport MotoGP Italy" tvg-logo="" group-title="DaddyHD",Sky Sport MotoGP Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium575/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport Tennis Italy" tvg-logo="" group-title="DaddyHD",Sky Sport Tennis Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium576/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport F1 Italy" tvg-logo="" group-title="DaddyHD",Sky Sport F1 Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium577/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports News UK" tvg-logo="" group-title="DaddyHD",Sky Sports News UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium366/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports MIX UK" tvg-logo="" group-title="DaddyHD",Sky Sports MIX UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium449/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport Top Event DE" tvg-logo="" group-title="DaddyHD",Sky Sport Top Event DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium556/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport Mix DE" tvg-logo="" group-title="DaddyHD",Sky Sport Mix DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium557/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 1 HD" tvg-logo="" group-title="DaddyHD",Sky Sport Bundesliga 1 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium558/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport Austria 1 HD" tvg-logo="" group-title="DaddyHD",Sky Sport Austria 1 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium559/index.m3u8
+
+#EXTINF:-1 tvg-name="SportsNet New York (SNY)" tvg-logo="" group-title="DaddyHD",SportsNet New York (SNY)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium759/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport Football Italy" tvg-logo="" group-title="DaddyHD",Sky Sport Football Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium460/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport UNO Italy" tvg-logo="" group-title="DaddyHD",Sky Sport UNO Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium461/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport Arena Italy" tvg-logo="" group-title="DaddyHD",Sky Sport Arena Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium462/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Racing UK" tvg-logo="" group-title="DaddyHD",Sky Sports Racing UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium554/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky UNO Italy" tvg-logo="" group-title="DaddyHD",Sky UNO Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium881/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport 1 NZ" tvg-logo="" group-title="DaddyHD",Sky Sport 1 NZ
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium588/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport 2 NZ" tvg-logo="" group-title="DaddyHD",Sky Sport 2 NZ
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium589/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport 3 NZ" tvg-logo="" group-title="DaddyHD",Sky Sport 3 NZ
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium590/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport 4 NZ" tvg-logo="" group-title="DaddyHD",Sky Sport 4 NZ
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium591/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport 5 NZ" tvg-logo="" group-title="DaddyHD",Sky Sport 5 NZ
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium592/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport 6 NZ" tvg-logo="" group-title="DaddyHD",Sky Sport 6 NZ
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium593/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport 7 NZ" tvg-logo="" group-title="DaddyHD",Sky Sport 7 NZ
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium594/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport 8 NZ" tvg-logo="" group-title="DaddyHD",Sky Sport 8 NZ
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium595/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport 9 NZ" tvg-logo="" group-title="DaddyHD",Sky Sport 9 NZ
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium596/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport Select NZ" tvg-logo="" group-title="DaddyHD",Sky Sport Select NZ
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium587/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV1 Portugal" tvg-logo="" group-title="DaddyHD",Sport TV1 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium49/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV2 Portugal" tvg-logo="" group-title="DaddyHD",Sport TV2 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium74/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV4 Portugal" tvg-logo="" group-title="DaddyHD",Sport TV4 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium289/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV3 Portugal" tvg-logo="" group-title="DaddyHD",Sport TV3 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium454/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV5 Portugal" tvg-logo="" group-title="DaddyHD",Sport TV5 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium290/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV6 Portugal" tvg-logo="" group-title="DaddyHD",Sport TV6 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium291/index.m3u8
+
+#EXTINF:-1 tvg-name="SIC Portugal" tvg-logo="" group-title="DaddyHD",SIC Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium722/index.m3u8
+
+#EXTINF:-1 tvg-name="SEC Network USA" tvg-logo="" group-title="DaddyHD",SEC Network USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium385/index.m3u8
+
+#EXTINF:-1 tvg-name="SporTV Brasil" tvg-logo="" group-title="DaddyHD",SporTV Brasil
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium78/index.m3u8
+
+#EXTINF:-1 tvg-name="SporTV2 Brasil" tvg-logo="" group-title="DaddyHD",SporTV2 Brasil
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium79/index.m3u8
+
+#EXTINF:-1 tvg-name="SporTV3 Brasil" tvg-logo="" group-title="DaddyHD",SporTV3 Brasil
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium80/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport Klub 1 Serbia" tvg-logo="" group-title="DaddyHD",Sport Klub 1 Serbia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium101/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport Klub 2 Serbia" tvg-logo="" group-title="DaddyHD",Sport Klub 2 Serbia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium102/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport Klub 3 Serbia" tvg-logo="" group-title="DaddyHD",Sport Klub 3 Serbia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium103/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport Klub 4 Serbia" tvg-logo="" group-title="DaddyHD",Sport Klub 4 Serbia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium104/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport Klub HD Serbia" tvg-logo="" group-title="DaddyHD",Sport Klub HD Serbia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium453/index.m3u8
+
+#EXTINF:-1 tvg-name="Sportsnet Ontario" tvg-logo="" group-title="DaddyHD",Sportsnet Ontario
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium406/index.m3u8
+
+#EXTINF:-1 tvg-name="Sportsnet One" tvg-logo="" group-title="DaddyHD",Sportsnet One
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium411/index.m3u8
+
+#EXTINF:-1 tvg-name="Sportsnet West" tvg-logo="" group-title="DaddyHD",Sportsnet West
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium407/index.m3u8
+
+#EXTINF:-1 tvg-name="Sportsnet East" tvg-logo="" group-title="DaddyHD",Sportsnet East
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium408/index.m3u8
+
+#EXTINF:-1 tvg-name="Sportsnet 360" tvg-logo="" group-title="DaddyHD",Sportsnet 360
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium409/index.m3u8
+
+#EXTINF:-1 tvg-name="Sportsnet World" tvg-logo="" group-title="DaddyHD",Sportsnet World
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium410/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport Grandstand" tvg-logo="" group-title="DaddyHD",SuperSport Grandstand
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium412/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport PSL" tvg-logo="" group-title="DaddyHD",SuperSport PSL
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium413/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport Premier league" tvg-logo="" group-title="DaddyHD",SuperSport Premier league
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium414/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport LaLiga" tvg-logo="" group-title="DaddyHD",SuperSport LaLiga
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium415/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport Variety 1" tvg-logo="" group-title="DaddyHD",SuperSport Variety 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium416/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport Variety 2" tvg-logo="" group-title="DaddyHD",SuperSport Variety 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium417/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport Variety 3" tvg-logo="" group-title="DaddyHD",SuperSport Variety 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium418/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport Variety 4" tvg-logo="" group-title="DaddyHD",SuperSport Variety 4
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium419/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport Action" tvg-logo="" group-title="DaddyHD",SuperSport Action
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium420/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport Rugby" tvg-logo="" group-title="DaddyHD",SuperSport Rugby
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium421/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport Golf" tvg-logo="" group-title="DaddyHD",SuperSport Golf
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium422/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport Tennis" tvg-logo="" group-title="DaddyHD",SuperSport Tennis
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium423/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport Motorsport" tvg-logo="" group-title="DaddyHD",SuperSport Motorsport
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium424/index.m3u8
+
+#EXTINF:-1 tvg-name="Supersport Football" tvg-logo="" group-title="DaddyHD",Supersport Football
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium56/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport Cricket" tvg-logo="" group-title="DaddyHD",SuperSport Cricket
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium368/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport MaXimo 1" tvg-logo="" group-title="DaddyHD",SuperSport MaXimo 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium572/index.m3u8
+
+#EXTINF:-1 tvg-name="Sporting TV Portugal" tvg-logo="" group-title="DaddyHD",Sporting TV Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium716/index.m3u8
+
+#EXTINF:-1 tvg-name="SportDigital Fussball" tvg-logo="" group-title="DaddyHD",SportDigital Fussball
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium571/index.m3u8
+
+#EXTINF:-1 tvg-name="Spectrum Sportsnet LA" tvg-logo="" group-title="DaddyHD",Spectrum Sportsnet LA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium764/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport1+ Germany" tvg-logo="" group-title="DaddyHD",Sport1+ Germany
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium640/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport1 Germany" tvg-logo="" group-title="DaddyHD",Sport1 Germany
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium641/index.m3u8
+
+#EXTINF:-1 tvg-name="S4C UK" tvg-logo="" group-title="DaddyHD",S4C UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium670/index.m3u8
+
+#EXTINF:-1 tvg-name="SAT.1 DE" tvg-logo="" group-title="DaddyHD",SAT.1 DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium729/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Premiere UK" tvg-logo="" group-title="DaddyHD",Sky Cinema Premiere UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium671/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Select UK" tvg-logo="" group-title="DaddyHD",Sky Cinema Select UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium672/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Hits UK" tvg-logo="" group-title="DaddyHD",Sky Cinema Hits UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium673/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Greats UK" tvg-logo="" group-title="DaddyHD",Sky Cinema Greats UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium674/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Animation UK" tvg-logo="" group-title="DaddyHD",Sky Cinema Animation UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium675/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Family UK" tvg-logo="" group-title="DaddyHD",Sky Cinema Family UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium676/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Action UK" tvg-logo="" group-title="DaddyHD",Sky Cinema Action UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium677/index.m3u8
+
+#EXTINF:-1 tvg-name="The Hallmark" tvg-logo="" group-title="DaddyHD",The Hallmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium678/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Thriller UK" tvg-logo="" group-title="DaddyHD",Sky Cinema Thriller UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium679/index.m3u8
+
+#EXTINF:-1 tvg-name="The Hallmark" tvg-logo="" group-title="DaddyHD",The Hallmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium680/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Sci-Fi Horror UK" tvg-logo="" group-title="DaddyHD",Sky Cinema Sci-Fi Horror UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium681/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Collection Italy" tvg-logo="" group-title="DaddyHD",Sky Cinema Collection Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium859/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Uno Italy" tvg-logo="" group-title="DaddyHD",Sky Cinema Uno Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium860/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Action Italy" tvg-logo="" group-title="DaddyHD",Sky Cinema Action Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium861/index.m3u8
+
+#EXTINF:-1 tvg-name="8Sky Cinema Comedy Italy" tvg-logo="" group-title="DaddyHD",8Sky Cinema Comedy Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium862/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Uno +24 Italy" tvg-logo="" group-title="DaddyHD",Sky Cinema Uno +24 Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium863/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Romance Italy" tvg-logo="" group-title="DaddyHD",Sky Cinema Romance Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium864/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Family Italy" tvg-logo="" group-title="DaddyHD",Sky Cinema Family Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium865/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Due +24 Italy" tvg-logo="" group-title="DaddyHD",Sky Cinema Due +24 Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium866/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Drama Italy" tvg-logo="" group-title="DaddyHD",Sky Cinema Drama Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium867/index.m3u8
+
+#EXTINF:-1 tvg-name="8Sky Cinema Suspense Italy" tvg-logo="" group-title="DaddyHD",8Sky Cinema Suspense Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium868/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport 24 Italy" tvg-logo="" group-title="DaddyHD",Sky Sport 24 Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium869/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport Calcio Italy" tvg-logo="" group-title="DaddyHD",Sky Sport Calcio Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium870/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Calcio 1 (251) Italy" tvg-logo="" group-title="DaddyHD",Sky Calcio 1 (251) Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium871/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Calcio 2 (252) Italy" tvg-logo="" group-title="DaddyHD",Sky Calcio 2 (252) Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium872/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Calcio 3 (253) Italy" tvg-logo="" group-title="DaddyHD",Sky Calcio 3 (253) Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium873/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Calcio 4 (254) Italy" tvg-logo="" group-title="DaddyHD",Sky Calcio 4 (254) Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium874/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Calcio 5 (255) Italy" tvg-logo="" group-title="DaddyHD",Sky Calcio 5 (255) Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium875/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Calcio 6 (256) Italy" tvg-logo="" group-title="DaddyHD",Sky Calcio 6 (256) Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium876/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Calcio 7 (257) Italy" tvg-logo="" group-title="DaddyHD",Sky Calcio 7 (257) Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium877/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Serie Italy" tvg-logo="" group-title="DaddyHD",Sky Serie Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium880/index.m3u8
+
+#EXTINF:-1 tvg-name="StarzPlay CricLife 1 HD" tvg-logo="" group-title="DaddyHD",StarzPlay CricLife 1 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium284/index.m3u8
+
+#EXTINF:-1 tvg-name="StarzPlay CricLife 2 HD" tvg-logo="" group-title="DaddyHD",StarzPlay CricLife 2 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium283/index.m3u8
+
+#EXTINF:-1 tvg-name="StarzPlay CricLife 3 HD" tvg-logo="" group-title="DaddyHD",StarzPlay CricLife 3 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium282/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Showcase UK" tvg-logo="" group-title="DaddyHD",Sky Showcase UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium682/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Arts UK" tvg-logo="" group-title="DaddyHD",Sky Arts UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium683/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Comedy UK" tvg-logo="" group-title="DaddyHD",Sky Comedy UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium684/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Crime" tvg-logo="" group-title="DaddyHD",Sky Crime
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium685/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky History" tvg-logo="" group-title="DaddyHD",Sky History
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium686/index.m3u8
+
+#EXTINF:-1 tvg-name="SSC Sport 1" tvg-logo="" group-title="DaddyHD",SSC Sport 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium614/index.m3u8
+
+#EXTINF:-1 tvg-name="SSC Sport 2" tvg-logo="" group-title="DaddyHD",SSC Sport 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium615/index.m3u8
+
+#EXTINF:-1 tvg-name="SSC Sport 3" tvg-logo="" group-title="DaddyHD",SSC Sport 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium616/index.m3u8
+
+#EXTINF:-1 tvg-name="SSC Sport 4" tvg-logo="" group-title="DaddyHD",SSC Sport 4
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium617/index.m3u8
+
+#EXTINF:-1 tvg-name="SSC Sport 5" tvg-logo="" group-title="DaddyHD",SSC Sport 5
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium618/index.m3u8
+
+#EXTINF:-1 tvg-name="SSC Sport Extra 1" tvg-logo="" group-title="DaddyHD",SSC Sport Extra 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium619/index.m3u8
+
+#EXTINF:-1 tvg-name="SSC Sport Extra 2" tvg-logo="" group-title="DaddyHD",SSC Sport Extra 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium620/index.m3u8
+
+#EXTINF:-1 tvg-name="SSC Sport Extra 3" tvg-logo="" group-title="DaddyHD",SSC Sport Extra 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium621/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport 1 Israel" tvg-logo="" group-title="DaddyHD",Sport 1 Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium140/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport 2 Israel" tvg-logo="" group-title="DaddyHD",Sport 2 Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium141/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport 3 Israel" tvg-logo="" group-title="DaddyHD",Sport 3 Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium142/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport 4 Israel" tvg-logo="" group-title="DaddyHD",Sport 4 Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium143/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport 5 Israel" tvg-logo="" group-title="DaddyHD",Sport 5 Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium144/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport 5 PLUS Israel" tvg-logo="" group-title="DaddyHD",Sport 5 PLUS Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium145/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport 5 Live Israel" tvg-logo="" group-title="DaddyHD",Sport 5 Live Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium146/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport 5 Star Israel" tvg-logo="" group-title="DaddyHD",Sport 5 Star Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium147/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport 5 Gold Israel" tvg-logo="" group-title="DaddyHD",Sport 5 Gold Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium148/index.m3u8
+
+#EXTINF:-1 tvg-name="Science Channel" tvg-logo="" group-title="DaddyHD",Science Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium294/index.m3u8
+
+#EXTINF:-1 tvg-name="Showtime USA" tvg-logo="" group-title="DaddyHD",Showtime USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium333/index.m3u8
+
+#EXTINF:-1 tvg-name="Showtime SHOxBET USA" tvg-logo="" group-title="DaddyHD",Showtime SHOxBET USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium685/index.m3u8
+
+#EXTINF:-1 tvg-name="Starz" tvg-logo="" group-title="DaddyHD",Starz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium335/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Witness HD" tvg-logo="" group-title="DaddyHD",Sky Witness HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium361/index.m3u8
+
+#EXTINF:-1 tvg-name="Sixx DE" tvg-logo="" group-title="DaddyHD",Sixx DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium732/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Atlantic" tvg-logo="" group-title="DaddyHD",Sky Atlantic
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium362/index.m3u8
+
+#EXTINF:-1 tvg-name="SYFY USA" tvg-logo="" group-title="DaddyHD",SYFY USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium373/index.m3u8
+
+#EXTINF:-1 tvg-name="Sundance TV" tvg-logo="" group-title="DaddyHD",Sundance TV
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium658/index.m3u8
+
+#EXTINF:-1 tvg-name="SWR DE" tvg-logo="" group-title="DaddyHD",SWR DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium735/index.m3u8
+
+#EXTINF:-1 tvg-name="SUPER RTL DE" tvg-logo="" group-title="DaddyHD",SUPER RTL DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium738/index.m3u8
+
+#EXTINF:-1 tvg-name="SR Fernsehen DE" tvg-logo="" group-title="DaddyHD",SR Fernsehen DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium739/index.m3u8
+
+#EXTINF:-1 tvg-name="Smithsonian Channel" tvg-logo="" group-title="DaddyHD",Smithsonian Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium601/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT Sports 1 UK" tvg-logo="" group-title="DaddyHD",TNT Sports 1 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium31/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT Sports 2 UK" tvg-logo="" group-title="DaddyHD",TNT Sports 2 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium32/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT Sports 3 UK" tvg-logo="" group-title="DaddyHD",TNT Sports 3 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium33/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT Sports 4 UK" tvg-logo="" group-title="DaddyHD",TNT Sports 4 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium34/index.m3u8
+
+#EXTINF:-1 tvg-name="TSN1" tvg-logo="" group-title="DaddyHD",TSN1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium111/index.m3u8
+
+#EXTINF:-1 tvg-name="TSN2" tvg-logo="" group-title="DaddyHD",TSN2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium112/index.m3u8
+
+#EXTINF:-1 tvg-name="TSN3" tvg-logo="" group-title="DaddyHD",TSN3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium113/index.m3u8
+
+#EXTINF:-1 tvg-name="TSN4" tvg-logo="" group-title="DaddyHD",TSN4
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium114/index.m3u8
+
+#EXTINF:-1 tvg-name="TSN5" tvg-logo="" group-title="DaddyHD",TSN5
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium115/index.m3u8
+
+#EXTINF:-1 tvg-name="TVN HD Poland" tvg-logo="" group-title="DaddyHD",TVN HD Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium565/index.m3u8
+
+#EXTINF:-1 tvg-name="TVN24 Poland" tvg-logo="" group-title="DaddyHD",TVN24 Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium444/index.m3u8
+
+#EXTINF:-1 tvg-name="TVP1 Poland" tvg-logo="" group-title="DaddyHD",TVP1 Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium560/index.m3u8
+
+#EXTINF:-1 tvg-name="TVP2 Poland" tvg-logo="" group-title="DaddyHD",TVP2 Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium561/index.m3u8
+
+#EXTINF:-1 tvg-name="Telecinco Spain" tvg-logo="" group-title="DaddyHD",Telecinco Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium532/index.m3u8
+
+#EXTINF:-1 tvg-name="TVE La 1 Spain" tvg-logo="" group-title="DaddyHD",TVE La 1 Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium533/index.m3u8
+
+#EXTINF:-1 tvg-name="TVE La 2 Spain" tvg-logo="" group-title="DaddyHD",TVE La 2 Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium536/index.m3u8
+
+#EXTINF:-1 tvg-name="TVI Portugal" tvg-logo="" group-title="DaddyHD",TVI Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium723/index.m3u8
+
+#EXTINF:-1 tvg-name="TVI Reality Portugal" tvg-logo="" group-title="DaddyHD",TVI Reality Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium724/index.m3u8
+
+#EXTINF:-1 tvg-name="Teledeporte Spain (TDP)" tvg-logo="" group-title="DaddyHD",Teledeporte Spain (TDP)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium529/index.m3u8
+
+#EXTINF:-1 tvg-name="TYC Sports Argentina" tvg-logo="" group-title="DaddyHD",TYC Sports Argentina
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium746/index.m3u8
+
+#EXTINF:-1 tvg-name="TVP Sport Poland" tvg-logo="" group-title="DaddyHD",TVP Sport Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium128/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT Brasil" tvg-logo="" group-title="DaddyHD",TNT Brasil
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium87/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT Sports Argentina" tvg-logo="" group-title="DaddyHD",TNT Sports Argentina
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium388/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT Sports HD Chile" tvg-logo="" group-title="DaddyHD",TNT Sports HD Chile
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium642/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="" group-title="DaddyHD",Tennis Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium40/index.m3u8
+
+#EXTINF:-1 tvg-name="Ten Sports PK" tvg-logo="" group-title="DaddyHD",Ten Sports PK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium741/index.m3u8
+
+#EXTINF:-1 tvg-name="TUDN USA" tvg-logo="" group-title="DaddyHD",TUDN USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium66/index.m3u8
+
+#EXTINF:-1 tvg-name="Telemundo" tvg-logo="" group-title="DaddyHD",Telemundo
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium131/index.m3u8
+
+#EXTINF:-1 tvg-name="TBS USA" tvg-logo="" group-title="DaddyHD",TBS USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium336/index.m3u8
+
+#EXTINF:-1 tvg-name="TLC" tvg-logo="" group-title="DaddyHD",TLC
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium337/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT USA" tvg-logo="" group-title="DaddyHD",TNT USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium338/index.m3u8
+
+#EXTINF:-1 tvg-name="TVA Sports" tvg-logo="" group-title="DaddyHD",TVA Sports
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium833/index.m3u8
+
+#EXTINF:-1 tvg-name="TVA Sports 2" tvg-logo="" group-title="DaddyHD",TVA Sports 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium834/index.m3u8
+
+#EXTINF:-1 tvg-name="Travel Channel" tvg-logo="" group-title="DaddyHD",Travel Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium340/index.m3u8
+
+#EXTINF:-1 tvg-name="TruTV USA" tvg-logo="" group-title="DaddyHD",TruTV USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium341/index.m3u8
+
+#EXTINF:-1 tvg-name="TVLAND" tvg-logo="" group-title="DaddyHD",TVLAND
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium342/index.m3u8
+
+#EXTINF:-1 tvg-name="TCM USA" tvg-logo="" group-title="DaddyHD",TCM USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium644/index.m3u8
+
+#EXTINF:-1 tvg-name="TMC Channel USA" tvg-logo="" group-title="DaddyHD",TMC Channel USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium698/index.m3u8
+
+#EXTINF:-1 tvg-name="The Food Network" tvg-logo="" group-title="DaddyHD",The Food Network
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium384/index.m3u8
+
+#EXTINF:-1 tvg-name="The Weather Channel" tvg-logo="" group-title="DaddyHD",The Weather Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium394/index.m3u8
+
+#EXTINF:-1 tvg-name="TVP INFO" tvg-logo="" group-title="DaddyHD",TVP INFO
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium452/index.m3u8
+
+#EXTINF:-1 tvg-name="TeenNick" tvg-logo="" group-title="DaddyHD",TeenNick
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium650/index.m3u8
+
+#EXTINF:-1 tvg-name="TV ONE USA" tvg-logo="" group-title="DaddyHD",TV ONE USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium660/index.m3u8
+
+#EXTINF:-1 tvg-name="TV2 Bornholm Denmark" tvg-logo="" group-title="DaddyHD",TV2 Bornholm Denmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium807/index.m3u8
+
+#EXTINF:-1 tvg-name="TV2 Sport X Denmark" tvg-logo="" group-title="DaddyHD",TV2 Sport X Denmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium808/index.m3u8
+
+#EXTINF:-1 tvg-name="TV3 Sport Denmark" tvg-logo="" group-title="DaddyHD",TV3 Sport Denmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium809/index.m3u8
+
+#EXTINF:-1 tvg-name="TV2 Sport Denmark" tvg-logo="" group-title="DaddyHD",TV2 Sport Denmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium810/index.m3u8
+
+#EXTINF:-1 tvg-name="TV2 Denmark" tvg-logo="" group-title="DaddyHD",TV2 Denmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium817/index.m3u8
+
+#EXTINF:-1 tvg-name="TV2 Zulu" tvg-logo="" group-title="DaddyHD",TV2 Zulu
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium818/index.m3u8
+
+#EXTINF:-1 tvg-name="TV3+ Denmark" tvg-logo="" group-title="DaddyHD",TV3+ Denmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium819/index.m3u8
+
+#EXTINF:-1 tvg-name="TVO CA" tvg-logo="" group-title="DaddyHD",TVO CA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium842/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 1" tvg-logo="" group-title="DaddyHD",Tennis+ 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium700/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 2" tvg-logo="" group-title="DaddyHD",Tennis+ 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium701/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 3" tvg-logo="" group-title="DaddyHD",Tennis+ 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium702/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 4" tvg-logo="" group-title="DaddyHD",Tennis+ 4
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium703/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 5" tvg-logo="" group-title="DaddyHD",Tennis+ 5
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium704/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 6" tvg-logo="" group-title="DaddyHD",Tennis+ 6
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium705/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 7" tvg-logo="" group-title="DaddyHD",Tennis+ 7
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium706/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 8" tvg-logo="" group-title="DaddyHD",Tennis+ 8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium707/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 9" tvg-logo="" group-title="DaddyHD",Tennis+ 9
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium708/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 10" tvg-logo="" group-title="DaddyHD",Tennis+ 10
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium709/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 11" tvg-logo="" group-title="DaddyHD",Tennis+ 11
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium710/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 12" tvg-logo="" group-title="DaddyHD",Tennis+ 12
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium711/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 13" tvg-logo="" group-title="DaddyHD",Tennis+ 13
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium712/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 14" tvg-logo="" group-title="DaddyHD",Tennis+ 14
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium713/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 15" tvg-logo="" group-title="DaddyHD",Tennis+ 15
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium714/index.m3u8
+
+#EXTINF:-1 tvg-name="USA Network" tvg-logo="" group-title="DaddyHD",USA Network
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium343/index.m3u8
+
+#EXTINF:-1 tvg-name="Universal Kids USA" tvg-logo="" group-title="DaddyHD",Universal Kids USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium668/index.m3u8
+
+#EXTINF:-1 tvg-name="Univision" tvg-logo="" group-title="DaddyHD",Univision
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium132/index.m3u8
+
+#EXTINF:-1 tvg-name="Unimas" tvg-logo="" group-title="DaddyHD",Unimas
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium133/index.m3u8
+
+#EXTINF:-1 tvg-name="Viaplay Sports 1 UK" tvg-logo="" group-title="DaddyHD",Viaplay Sports 1 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium451/index.m3u8
+
+#EXTINF:-1 tvg-name="Viaplay Sports 2 UK" tvg-logo="" group-title="DaddyHD",Viaplay Sports 2 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium550/index.m3u8
+
+#EXTINF:-1 tvg-name="Viaplay Xtra UK" tvg-logo="" group-title="DaddyHD",Viaplay Xtra UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium597/index.m3u8
+
+#EXTINF:-1 tvg-name="#Vamos Spain" tvg-logo="" group-title="DaddyHD",#Vamos Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium521/index.m3u8
+
+#EXTINF:-1 tvg-name="V Film Premiere" tvg-logo="" group-title="DaddyHD",V Film Premiere
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium815/index.m3u8
+
+#EXTINF:-1 tvg-name="V Film Family" tvg-logo="" group-title="DaddyHD",V Film Family
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium816/index.m3u8
+
+#EXTINF:-1 tvg-name="VH1 USA" tvg-logo="" group-title="DaddyHD",VH1 USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium344/index.m3u8
+
+#EXTINF:-1 tvg-name="Veronica NL Netherland" tvg-logo="" group-title="DaddyHD",Veronica NL Netherland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium378/index.m3u8
+
+#EXTINF:-1 tvg-name="VTV+ Uruguay" tvg-logo="" group-title="DaddyHD",VTV+ Uruguay
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium391/index.m3u8
+
+#EXTINF:-1 tvg-name="VICE TV" tvg-logo="" group-title="DaddyHD",VICE TV
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium659/index.m3u8
+
+#EXTINF:-1 tvg-name="Willow Cricket" tvg-logo="" group-title="DaddyHD",Willow Cricket
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium346/index.m3u8
+
+#EXTINF:-1 tvg-name="Willow XTRA" tvg-logo="" group-title="DaddyHD",Willow XTRA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium598/index.m3u8
+
+#EXTINF:-1 tvg-name="WWE Network" tvg-logo="" group-title="DaddyHD",WWE Network
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium376/index.m3u8
+
+#EXTINF:-1 tvg-name="Win Sports+ Columbia" tvg-logo="" group-title="DaddyHD",Win Sports+ Columbia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium392/index.m3u8
+
+#EXTINF:-1 tvg-name="WETV USA" tvg-logo="" group-title="DaddyHD",WETV USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium655/index.m3u8
+
+#EXTINF:-1 tvg-name="WDR DE" tvg-logo="" group-title="DaddyHD",WDR DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium734/index.m3u8
+
+#EXTINF:-1 tvg-name="YES Network USA" tvg-logo="" group-title="DaddyHD",YES Network USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium763/index.m3u8
+
+#EXTINF:-1 tvg-name="Yes Movies Action Israel" tvg-logo="" group-title="DaddyHD",Yes Movies Action Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium543/index.m3u8
+
+#EXTINF:-1 tvg-name="Yes Movies Kids Israel" tvg-logo="" group-title="DaddyHD",Yes Movies Kids Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium544/index.m3u8
+
+#EXTINF:-1 tvg-name="Yes Movies Comedy Israel" tvg-logo="" group-title="DaddyHD",Yes Movies Comedy Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium545/index.m3u8
+
+#EXTINF:-1 tvg-name="Yas TV UAE" tvg-logo="" group-title="DaddyHD",Yas TV UAE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium609/index.m3u8
+
+#EXTINF:-1 tvg-name="Yes TV CA" tvg-logo="" group-title="DaddyHD",Yes TV CA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium837/index.m3u8
+
+#EXTINF:-1 tvg-name="Ziggo Sport Docu NL" tvg-logo="" group-title="DaddyHD",Ziggo Sport Docu NL
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium383/index.m3u8
+
+#EXTINF:-1 tvg-name="Ziggo Sport Select NL" tvg-logo="" group-title="DaddyHD",Ziggo Sport Select NL
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium393/index.m3u8
+
+#EXTINF:-1 tvg-name="Ziggo Sport Racing NL" tvg-logo="" group-title="DaddyHD",Ziggo Sport Racing NL
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium396/index.m3u8
+
+#EXTINF:-1 tvg-name="Ziggo Sport Voetbal NL" tvg-logo="" group-title="DaddyHD",Ziggo Sport Voetbal NL
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium398/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC 1 DE" tvg-logo="" group-title="DaddyHD",BBC 1 DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium727/index.m3u8
+
+#EXTINF:-1 tvg-name="ZDF Info DE" tvg-logo="" group-title="DaddyHD",ZDF Info DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium728/index.m3u8
+
+#EXTINF:-1 tvg-name="20 Mediaset Italy" tvg-logo="" group-title="DaddyHD",20 Mediaset Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium857/index.m3u8
+
+#EXTINF:-1 tvg-name="6'eren Denmark" tvg-logo="" group-title="DaddyHD",6'eren Denmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium800/index.m3u8
+
+#EXTINF:-1 tvg-name="#0 Spain" tvg-logo="" group-title="DaddyHD",#0 Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium437/index.m3u8
+
+#EXTINF:-1 tvg-name="5 USA" tvg-logo="" group-title="DaddyHD",5 USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium360/index.m3u8
+
+#EXTINF:-1 tvg-name="3sat DE" tvg-logo="" group-title="DaddyHD",3sat DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium726/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-01)" tvg-logo="" group-title="DaddyHD",18+ (Player-01)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium501/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-02)" tvg-logo="" group-title="DaddyHD",18+ (Player-02)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium502/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-03)" tvg-logo="" group-title="DaddyHD",18+ (Player-03)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium503/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-04)" tvg-logo="" group-title="DaddyHD",18+ (Player-04)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium504/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-05)" tvg-logo="" group-title="DaddyHD",18+ (Player-05)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium505/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-06)" tvg-logo="" group-title="DaddyHD",18+ (Player-06)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium506/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-07)" tvg-logo="" group-title="DaddyHD",18+ (Player-07)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium507/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-08)" tvg-logo="" group-title="DaddyHD",18+ (Player-08)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium508/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-09)" tvg-logo="" group-title="DaddyHD",18+ (Player-09)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium509/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-10)" tvg-logo="" group-title="DaddyHD",18+ (Player-10)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium510/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-11)" tvg-logo="" group-title="DaddyHD",18+ (Player-11)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium511/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-12)" tvg-logo="" group-title="DaddyHD",18+ (Player-12)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium512/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-13)" tvg-logo="" group-title="DaddyHD",18+ (Player-13)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium513/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-14)" tvg-logo="" group-title="DaddyHD",18+ (Player-14)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium514/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-15)" tvg-logo="" group-title="DaddyHD",18+ (Player-15)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium515/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-16)" tvg-logo="" group-title="DaddyHD",18+ (Player-16)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium516/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-17)" tvg-logo="" group-title="DaddyHD",18+ (Player-17)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium517/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-18)" tvg-logo="" group-title="DaddyHD",18+ (Player-18)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium518/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-19)" tvg-logo="" group-title="DaddyHD",18+ (Player-19)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium519/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-20)" tvg-logo="" group-title="DaddyHD",18+ (Player-20)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium520/index.m3u8
+
+#EXTINF:-1 tvg-name="ABC USA" tvg-logo="" group-title="DaddyHD",ABC USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium51/index.m3u8
+
+#EXTINF:-1 tvg-name="A&E USA" tvg-logo="" group-title="DaddyHD",A&E USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium302/index.m3u8
+
+#EXTINF:-1 tvg-name="AMC USA" tvg-logo="" group-title="DaddyHD",AMC USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium303/index.m3u8
+
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="" group-title="DaddyHD",Animal Planet
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium304/index.m3u8
+
+#EXTINF:-1 tvg-name="ACC Network USA" tvg-logo="" group-title="DaddyHD",ACC Network USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium666/index.m3u8
+
+#EXTINF:-1 tvg-name="Astro SuperSport 1" tvg-logo="" group-title="DaddyHD",Astro SuperSport 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8
+
+#EXTINF:-1 tvg-name="Astro SuperSport 2" tvg-logo="" group-title="DaddyHD",Astro SuperSport 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8
+
+#EXTINF:-1 tvg-name="Astro SuperSport 3" tvg-logo="" group-title="DaddyHD",Astro SuperSport 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8
+
+#EXTINF:-1 tvg-name="Astro SuperSport 4" tvg-logo="" group-title="DaddyHD",Astro SuperSport 4
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 1 Premium" tvg-logo="" group-title="DaddyHD",Arena Sport 1 Premium
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium134/index.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 2 Premium" tvg-logo="" group-title="DaddyHD",Arena Sport 2 Premium
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium135/index.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 3 Premium" tvg-logo="" group-title="DaddyHD",Arena Sport 3 Premium
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium139/index.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 1 Serbia" tvg-logo="" group-title="DaddyHD",Arena Sport 1 Serbia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium429/index.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 2 Serbia" tvg-logo="" group-title="DaddyHD",Arena Sport 2 Serbia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium430/index.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 3 Serbia" tvg-logo="" group-title="DaddyHD",Arena Sport 3 Serbia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium431/index.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 4 Serbia" tvg-logo="" group-title="DaddyHD",Arena Sport 4 Serbia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium581/index.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 1 Croatia" tvg-logo="" group-title="DaddyHD",Arena Sport 1 Croatia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium432/index.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 2 Croatia" tvg-logo="" group-title="DaddyHD",Arena Sport 2 Croatia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium433/index.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 3 Croatia" tvg-logo="" group-title="DaddyHD",Arena Sport 3 Croatia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium434/index.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 4 Croatia" tvg-logo="" group-title="DaddyHD",Arena Sport 4 Croatia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium580/index.m3u8
+
+#EXTINF:-1 tvg-name="Alkass One" tvg-logo="" group-title="DaddyHD",Alkass One
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium781/index.m3u8
+
+#EXTINF:-1 tvg-name="Alkass Two" tvg-logo="" group-title="DaddyHD",Alkass Two
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium782/index.m3u8
+
+#EXTINF:-1 tvg-name="Alkass Three" tvg-logo="" group-title="DaddyHD",Alkass Three
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium783/index.m3u8
+
+#EXTINF:-1 tvg-name="Alkass Four" tvg-logo="" group-title="DaddyHD",Alkass Four
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium784/index.m3u8
+
+#EXTINF:-1 tvg-name="ABS-CBN" tvg-logo="" group-title="DaddyHD",ABS-CBN
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium785/index.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 1 BiH" tvg-logo="" group-title="DaddyHD",Arena Sport 1 BiH
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium579/index.m3u8
+
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 1 UAE" tvg-logo="" group-title="DaddyHD",Abu Dhabi Sports 1 UAE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium600/index.m3u8
+
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 2 UAE" tvg-logo="" group-title="DaddyHD",Abu Dhabi Sports 2 UAE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium601/index.m3u8
+
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 1 Premium" tvg-logo="" group-title="DaddyHD",Abu Dhabi Sports 1 Premium
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium609/index.m3u8
+
+#EXTINF:-1 tvg-name="Abu Dhabi Sports 2 Premium" tvg-logo="" group-title="DaddyHD",Abu Dhabi Sports 2 Premium
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium610/index.m3u8
+
+#EXTINF:-1 tvg-name="Astro Cricket" tvg-logo="" group-title="DaddyHD",Astro Cricket
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium370/index.m3u8
+
+#EXTINF:-1 tvg-name="Antena 3 Spain" tvg-logo="" group-title="DaddyHD",Antena 3 Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium531/index.m3u8
+
+#EXTINF:-1 tvg-name="ACC Network USA" tvg-logo="" group-title="DaddyHD",ACC Network USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium664/index.m3u8
+
+#EXTINF:-1 tvg-name="Adult Swim" tvg-logo="" group-title="DaddyHD",Adult Swim
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium295/index.m3u8
+
+#EXTINF:-1 tvg-name="AXN Movies Portugal" tvg-logo="" group-title="DaddyHD",AXN Movies Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium717/index.m3u8
+
+#EXTINF:-1 tvg-name="Arte DE" tvg-logo="" group-title="DaddyHD",Arte DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium725/index.m3u8
+
+#EXTINF:-1 tvg-name="AXS TV USA" tvg-logo="" group-title="DaddyHD",AXS TV USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium742/index.m3u8
+
+#EXTINF:-1 tvg-name="ABCNY USA" tvg-logo="" group-title="DaddyHD",ABCNY USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium766/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MENA English 1" tvg-logo="" group-title="DaddyHD",beIN Sports MENA English 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium61/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MENA English 2" tvg-logo="" group-title="DaddyHD",beIN Sports MENA English 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium90/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MENA English 3" tvg-logo="" group-title="DaddyHD",beIN Sports MENA English 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium46/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MENA 1" tvg-logo="" group-title="DaddyHD",beIN Sports MENA 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium91/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MENA 2" tvg-logo="" group-title="DaddyHD",beIN Sports MENA 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium92/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MENA 3" tvg-logo="" group-title="DaddyHD",beIN Sports MENA 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium93/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MENA 4" tvg-logo="" group-title="DaddyHD",beIN Sports MENA 4
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium94/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MENA 5" tvg-logo="" group-title="DaddyHD",beIN Sports MENA 5
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium95/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MENA 6" tvg-logo="" group-title="DaddyHD",beIN Sports MENA 6
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium96/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MENA 7" tvg-logo="" group-title="DaddyHD",beIN Sports MENA 7
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium97/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MENA Premium 1" tvg-logo="" group-title="DaddyHD",beIN Sports MENA Premium 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium98/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MENA Premium 2" tvg-logo="" group-title="DaddyHD",beIN Sports MENA Premium 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium99/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MENA Premium 3" tvg-logo="" group-title="DaddyHD",beIN Sports MENA Premium 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium100/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MAX 4 France" tvg-logo="" group-title="DaddyHD",beIN Sports MAX 4 France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium494/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MAX 5 France" tvg-logo="" group-title="DaddyHD",beIN Sports MAX 5 France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium495/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MAX 6 France" tvg-logo="" group-title="DaddyHD",beIN Sports MAX 6 France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium496/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MAX 7 France" tvg-logo="" group-title="DaddyHD",beIN Sports MAX 7 France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium497/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MAX 8 France" tvg-logo="" group-title="DaddyHD",beIN Sports MAX 8 France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium498/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MAX 9 France" tvg-logo="" group-title="DaddyHD",beIN Sports MAX 9 France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium499/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports MAX 10 France" tvg-logo="" group-title="DaddyHD",beIN Sports MAX 10 France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium500/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 1 France" tvg-logo="" group-title="DaddyHD",beIN SPORTS 1 France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium116/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 2 France" tvg-logo="" group-title="DaddyHD",beIN SPORTS 2 France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium117/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 3 France" tvg-logo="" group-title="DaddyHD",beIN SPORTS 3 France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium118/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 1 Turkey" tvg-logo="" group-title="DaddyHD",beIN SPORTS 1 Turkey
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium62/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 2 Turkey" tvg-logo="" group-title="DaddyHD",beIN SPORTS 2 Turkey
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium63/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 3 Turkey" tvg-logo="" group-title="DaddyHD",beIN SPORTS 3 Turkey
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium64/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS 4 Turkey" tvg-logo="" group-title="DaddyHD",beIN SPORTS 4 Turkey
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium67/index.m3u8
+
+#EXTINF:-1 tvg-name="BeIN Sports HD Qatar" tvg-logo="" group-title="DaddyHD",BeIN Sports HD Qatar
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium578/index.m3u8
+
+#EXTINF:-1 tvg-name="BeIN SPORTS USA" tvg-logo="" group-title="DaddyHD",BeIN SPORTS USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium425/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS en Español" tvg-logo="" group-title="DaddyHD",beIN SPORTS en Español
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium372/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS Australia 1" tvg-logo="" group-title="DaddyHD",beIN SPORTS Australia 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium491/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS Australia 2" tvg-logo="" group-title="DaddyHD",beIN SPORTS Australia 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium492/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS Australia 3" tvg-logo="" group-title="DaddyHD",beIN SPORTS Australia 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium493/index.m3u8
+
+#EXTINF:-1 tvg-name="Barca TV Spain" tvg-logo="" group-title="DaddyHD",Barca TV Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium522/index.m3u8
+
+#EXTINF:-1 tvg-name="Benfica TV PT" tvg-logo="" group-title="DaddyHD",Benfica TV PT
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium380/index.m3u8
+
+#EXTINF:-1 tvg-name="Boomerang" tvg-logo="" group-title="DaddyHD",Boomerang
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium648/index.m3u8
+
+#EXTINF:-1 tvg-name="BNT 1 Bulgaria" tvg-logo="" group-title="DaddyHD",BNT 1 Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium476/index.m3u8
+
+#EXTINF:-1 tvg-name="BNT 2 Bulgaria" tvg-logo="" group-title="DaddyHD",BNT 2 Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium477/index.m3u8
+
+#EXTINF:-1 tvg-name="BNT 3 Bulgaria" tvg-logo="" group-title="DaddyHD",BNT 3 Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium478/index.m3u8
+
+#EXTINF:-1 tvg-name="BR Fernsehen DE" tvg-logo="" group-title="DaddyHD",BR Fernsehen DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium737/index.m3u8
+
+#EXTINF:-1 tvg-name="bTV Bulgaria" tvg-logo="" group-title="DaddyHD",bTV Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium479/index.m3u8
+
+#EXTINF:-1 tvg-name="bTV Action Bulgaria" tvg-logo="" group-title="DaddyHD",bTV Action Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium481/index.m3u8
+
+#EXTINF:-1 tvg-name="bTV Lady Bulgaria" tvg-logo="" group-title="DaddyHD",bTV Lady Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium484/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC America (BBCA)" tvg-logo="" group-title="DaddyHD",BBC America (BBCA)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium305/index.m3u8
+
+#EXTINF:-1 tvg-name="BET USA" tvg-logo="" group-title="DaddyHD",BET USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium306/index.m3u8
+
+#EXTINF:-1 tvg-name="Bravo USA" tvg-logo="" group-title="DaddyHD",Bravo USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium307/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC News Channel HD" tvg-logo="" group-title="DaddyHD",BBC News Channel HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium349/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC One UK" tvg-logo="" group-title="DaddyHD",BBC One UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium356/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC Two UK" tvg-logo="" group-title="DaddyHD",BBC Two UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium357/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC Three UK" tvg-logo="" group-title="DaddyHD",BBC Three UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium358/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC Four UK" tvg-logo="" group-title="DaddyHD",BBC Four UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium359/index.m3u8
+
+#EXTINF:-1 tvg-name="BIG TEN Network (BTN USA)" tvg-logo="" group-title="DaddyHD",BIG TEN Network (BTN USA)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium397/index.m3u8
+
+#EXTINF:-1 tvg-name="Cuatro Spain" tvg-logo="" group-title="DaddyHD",Cuatro Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium535/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 4 UK" tvg-logo="" group-title="DaddyHD",Channel 4 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium354/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 5 UK" tvg-logo="" group-title="DaddyHD",Channel 5 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium355/index.m3u8
+
+#EXTINF:-1 tvg-name="CBS Sports Network (CBSSN)" tvg-logo="" group-title="DaddyHD",CBS Sports Network (CBSSN)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium308/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ France" tvg-logo="" group-title="DaddyHD",Canal+ France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium121/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ Sport France" tvg-logo="" group-title="DaddyHD",Canal+ Sport France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium122/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ Foot France" tvg-logo="" group-title="DaddyHD",Canal+ Foot France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium463/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ Sport360" tvg-logo="" group-title="DaddyHD",Canal+ Sport360
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium464/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal 11 Portugal" tvg-logo="" group-title="DaddyHD",Canal 11 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium540/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ Sport Poland" tvg-logo="" group-title="DaddyHD",Canal+ Sport Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium48/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ Sport 2 Poland" tvg-logo="" group-title="DaddyHD",Canal+ Sport 2 Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium73/index.m3u8
+
+#EXTINF:-1 tvg-name="CANAL+ SPORT 5 Poland" tvg-logo="" group-title="DaddyHD",CANAL+ SPORT 5 Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium75/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ Premium Poland" tvg-logo="" group-title="DaddyHD",Canal+ Premium Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium566/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ Family Poland" tvg-logo="" group-title="DaddyHD",Canal+ Family Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium567/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ Seriale Poland" tvg-logo="" group-title="DaddyHD",Canal+ Seriale Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium570/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ Sport 1 Afrique" tvg-logo="" group-title="DaddyHD",Canal+ Sport 1 Afrique
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium486/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ Sport 2 Afrique" tvg-logo="" group-title="DaddyHD",Canal+ Sport 2 Afrique
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium487/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ Sport 3 Afrique" tvg-logo="" group-title="DaddyHD",Canal+ Sport 3 Afrique
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium488/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ Sport 4 Afrique" tvg-logo="" group-title="DaddyHD",Canal+ Sport 4 Afrique
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium489/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal+ Sport 5 Afrique" tvg-logo="" group-title="DaddyHD",Canal+ Sport 5 Afrique
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium490/index.m3u8
+
+#EXTINF:-1 tvg-name="CANAL9 Denmark" tvg-logo="" group-title="DaddyHD",CANAL9 Denmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium805/index.m3u8
+
+#EXTINF:-1 tvg-name="Combate Brasil" tvg-logo="" group-title="DaddyHD",Combate Brasil
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium89/index.m3u8
+
+#EXTINF:-1 tvg-name="C More Football Sweden" tvg-logo="" group-title="DaddyHD",C More Football Sweden
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium747/index.m3u8
+
+#EXTINF:-1 tvg-name="Cosmote Sport 1 HD" tvg-logo="" group-title="DaddyHD",Cosmote Sport 1 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium622/index.m3u8
+
+#EXTINF:-1 tvg-name="Cosmote Sport 2 HD" tvg-logo="" group-title="DaddyHD",Cosmote Sport 2 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium623/index.m3u8
+
+#EXTINF:-1 tvg-name="Cosmote Sport 3 HD" tvg-logo="" group-title="DaddyHD",Cosmote Sport 3 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium624/index.m3u8
+
+#EXTINF:-1 tvg-name="Cosmote Sport 4 HD" tvg-logo="" group-title="DaddyHD",Cosmote Sport 4 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium625/index.m3u8
+
+#EXTINF:-1 tvg-name="Cosmote Sport 5 HD" tvg-logo="" group-title="DaddyHD",Cosmote Sport 5 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium626/index.m3u8
+
+#EXTINF:-1 tvg-name="Cosmote Sport 6 HD" tvg-logo="" group-title="DaddyHD",Cosmote Sport 6 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium627/index.m3u8
+
+#EXTINF:-1 tvg-name="Cosmote Sport 7 HD" tvg-logo="" group-title="DaddyHD",Cosmote Sport 7 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium628/index.m3u8
+
+#EXTINF:-1 tvg-name="Cosmote Sport 8 HD" tvg-logo="" group-title="DaddyHD",Cosmote Sport 8 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium629/index.m3u8
+
+#EXTINF:-1 tvg-name="Cosmote Sport 9 HD" tvg-logo="" group-title="DaddyHD",Cosmote Sport 9 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium630/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 9 Israel" tvg-logo="" group-title="DaddyHD",Channel 9 Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium546/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 10 Israe" tvg-logo="" group-title="DaddyHD",Channel 10 Israe
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium547/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 11 Israel" tvg-logo="" group-title="DaddyHD",Channel 11 Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium548/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 12 Israel" tvg-logo="" group-title="DaddyHD",Channel 12 Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium549/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 13 Israel" tvg-logo="" group-title="DaddyHD",Channel 13 Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium551/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 14 Israel" tvg-logo="" group-title="DaddyHD",Channel 14 Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium552/index.m3u8
+
+#EXTINF:-1 tvg-name="C More Stars Sweden" tvg-logo="" group-title="DaddyHD",C More Stars Sweden
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium8111/index.m3u8
+
+#EXTINF:-1 tvg-name="C More First Sweden" tvg-logo="" group-title="DaddyHD",C More First Sweden
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium812/index.m3u8
+
+#EXTINF:-1 tvg-name="C More Hits Sweden" tvg-logo="" group-title="DaddyHD",C More Hits Sweden
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium813/index.m3u8
+
+#EXTINF:-1 tvg-name="C More Series Sweden" tvg-logo="" group-title="DaddyHD",C More Series Sweden
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium814/index.m3u8
+
+#EXTINF:-1 tvg-name="COZI TV USA" tvg-logo="" group-title="DaddyHD",COZI TV USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium748/index.m3u8
+
+#EXTINF:-1 tvg-name="CMT USA" tvg-logo="" group-title="DaddyHD",CMT USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium647/index.m3u8
+
+#EXTINF:-1 tvg-name="CBS USA" tvg-logo="" group-title="DaddyHD",CBS USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium52/index.m3u8
+
+#EXTINF:-1 tvg-name="CW USA" tvg-logo="" group-title="DaddyHD",CW USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium300/index.m3u8
+
+#EXTINF:-1 tvg-name="CNBC USA" tvg-logo="" group-title="DaddyHD",CNBC USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium309/index.m3u8
+
+#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="" group-title="DaddyHD",Comedy Central
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium310/index.m3u8
+
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="" group-title="DaddyHD",Cartoon Network
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium339/index.m3u8
+
+#EXTINF:-1 tvg-name="CNN USA" tvg-logo="" group-title="DaddyHD",CNN USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium345/index.m3u8
+
+#EXTINF:-1 tvg-name="Cinemax USA" tvg-logo="" group-title="DaddyHD",Cinemax USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium374/index.m3u8
+
+#EXTINF:-1 tvg-name="CTV Canada" tvg-logo="" group-title="DaddyHD",CTV Canada
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium602/index.m3u8
+
+#EXTINF:-1 tvg-name="CTV 2 Canada" tvg-logo="" group-title="DaddyHD",CTV 2 Canada
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium838/index.m3u8
+
+#EXTINF:-1 tvg-name="Crime+ Investigation USA" tvg-logo="" group-title="DaddyHD",Crime+ Investigation USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium669/index.m3u8
+
+#EXTINF:-1 tvg-name="Comet USA" tvg-logo="" group-title="DaddyHD",Comet USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium696/index.m3u8
+
+#EXTINF:-1 tvg-name="Cooking Channel USA" tvg-logo="" group-title="DaddyHD",Cooking Channel USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium697/index.m3u8
+
+#EXTINF:-1 tvg-name="Cleo TV" tvg-logo="" group-title="DaddyHD",Cleo TV
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium715/index.m3u8
+
+#EXTINF:-1 tvg-name="C SPAN 1" tvg-logo="" group-title="DaddyHD",C SPAN 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium750/index.m3u8
+
+#EXTINF:-1 tvg-name="CBSNY USA" tvg-logo="" group-title="DaddyHD",CBSNY USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium767/index.m3u8
+
+#EXTINF:-1 tvg-name="Citytv" tvg-logo="" group-title="DaddyHD",Citytv
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium831/index.m3u8
+
+#EXTINF:-1 tvg-name="CBC CA" tvg-logo="" group-title="DaddyHD",CBC CA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium832/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 1 Bar DE" tvg-logo="" group-title="DaddyHD",DAZN 1 Bar DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium426/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 2 Bar DE" tvg-logo="" group-title="DaddyHD",DAZN 2 Bar DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium427/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 1 Spain" tvg-logo="" group-title="DaddyHD",DAZN 1 Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium445/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 2 Spain" tvg-logo="" group-title="DaddyHD",DAZN 2 Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium446/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 3 Spain" tvg-logo="" group-title="DaddyHD",DAZN 3 Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium447/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 4 Spain" tvg-logo="" group-title="DaddyHD",DAZN 4 Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium448/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN F1 ES" tvg-logo="" group-title="DaddyHD",DAZN F1 ES
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium537/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN LaLiga" tvg-logo="" group-title="DaddyHD",DAZN LaLiga
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium538/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN LaLiga 2" tvg-logo="" group-title="DaddyHD",DAZN LaLiga 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium43/index.m3u8
+
+#EXTINF:-1 tvg-name="DR1 Denmark" tvg-logo="" group-title="DaddyHD",DR1 Denmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium801/index.m3u8
+
+#EXTINF:-1 tvg-name="DR2 Denmark" tvg-logo="" group-title="DaddyHD",DR2 Denmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium802/index.m3u8
+
+#EXTINF:-1 tvg-name="Digi Sport 1 Romania" tvg-logo="" group-title="DaddyHD",Digi Sport 1 Romania
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium400/index.m3u8
+
+#EXTINF:-1 tvg-name="Digi Sport 2 Romania" tvg-logo="" group-title="DaddyHD",Digi Sport 2 Romania
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium401/index.m3u8
+
+#EXTINF:-1 tvg-name="Digi Sport 3 Romania" tvg-logo="" group-title="DaddyHD",Digi Sport 3 Romania
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium402/index.m3u8
+
+#EXTINF:-1 tvg-name="Digi Sport 4 Romania" tvg-logo="" group-title="DaddyHD",Digi Sport 4 Romania
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium403/index.m3u8
+
+#EXTINF:-1 tvg-name="Diema Sport Bulgaria" tvg-logo="" group-title="DaddyHD",Diema Sport Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium465/index.m3u8
+
+#EXTINF:-1 tvg-name="Diema Sport 2 Bulgaria" tvg-logo="" group-title="DaddyHD",Diema Sport 2 Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium466/index.m3u8
+
+#EXTINF:-1 tvg-name="Diema Sport 3 Bulgaria" tvg-logo="" group-title="DaddyHD",Diema Sport 3 Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium467/index.m3u8
+
+#EXTINF:-1 tvg-name="Diema Bulgaria" tvg-logo="" group-title="DaddyHD",Diema Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium482/index.m3u8
+
+#EXTINF:-1 tvg-name="Diema Family Bulgaria" tvg-logo="" group-title="DaddyHD",Diema Family Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium485/index.m3u8
+
+#EXTINF:-1 tvg-name="Dubai Sports 1 UAE" tvg-logo="" group-title="DaddyHD",Dubai Sports 1 UAE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium604/index.m3u8
+
+#EXTINF:-1 tvg-name="Dubai Sports 2 UAE" tvg-logo="" group-title="DaddyHD",Dubai Sports 2 UAE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium605/index.m3u8
+
+#EXTINF:-1 tvg-name="Dubai Sports 3 UAE" tvg-logo="" group-title="DaddyHD",Dubai Sports 3 UAE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium606/index.m3u8
+
+#EXTINF:-1 tvg-name="Dubai Racing 1 UAE" tvg-logo="" group-title="DaddyHD",Dubai Racing 1 UAE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium607/index.m3u8
+
+#EXTINF:-1 tvg-name="Dubai Racing 2 UAE" tvg-logo="" group-title="DaddyHD",Dubai Racing 2 UAE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium608/index.m3u8
+
+#EXTINF:-1 tvg-name="DSTV Mzansi Magic" tvg-logo="" group-title="DaddyHD",DSTV Mzansi Magic
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium786/index.m3u8
+
+#EXTINF:-1 tvg-name="DSTV M-Net" tvg-logo="" group-title="DaddyHD",DSTV M-Net
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium827/index.m3u8
+
+#EXTINF:-1 tvg-name="DSTV kykNET & kie" tvg-logo="" group-title="DaddyHD",DSTV kykNET & kie
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium828/index.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Life Channel" tvg-logo="" group-title="DaddyHD",Discovery Life Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium311/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="" group-title="DaddyHD",Disney Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium312/index.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="" group-title="DaddyHD",Discovery Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium313/index.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Family" tvg-logo="" group-title="DaddyHD",Discovery Family
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium657/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney XD" tvg-logo="" group-title="DaddyHD",Disney XD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium314/index.m3u8
+
+#EXTINF:-1 tvg-name="Destination America" tvg-logo="" group-title="DaddyHD",Destination America
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium651/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney JR" tvg-logo="" group-title="DaddyHD",Disney JR
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium652/index.m3u8
+
+#EXTINF:-1 tvg-name="Dave" tvg-logo="" group-title="DaddyHD",Dave
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium348/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN USA" tvg-logo="" group-title="DaddyHD",ESPN USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium44/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN2 USA" tvg-logo="" group-title="DaddyHD",ESPN2 USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium45/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPNU USA" tvg-logo="" group-title="DaddyHD",ESPNU USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium316/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 1 NL" tvg-logo="" group-title="DaddyHD",ESPN 1 NL
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium379/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 2 NL" tvg-logo="" group-title="DaddyHD",ESPN 2 NL
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium386/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sports 1 Poland" tvg-logo="" group-title="DaddyHD",Eleven Sports 1 Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium71/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sports 2 Poland" tvg-logo="" group-title="DaddyHD",Eleven Sports 2 Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium72/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sports 3 Poland" tvg-logo="" group-title="DaddyHD",Eleven Sports 3 Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium428/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sports 1 Portugal" tvg-logo="" group-title="DaddyHD",Eleven Sports 1 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium455/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sports 2 Portugal" tvg-logo="" group-title="DaddyHD",Eleven Sports 2 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium456/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sports 3 Portugal" tvg-logo="" group-title="DaddyHD",Eleven Sports 3 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium457/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sports 4 Portugal" tvg-logo="" group-title="DaddyHD",Eleven Sports 4 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium458/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sports 5 Portugal" tvg-logo="" group-title="DaddyHD",Eleven Sports 5 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium459/index.m3u8
+
+#EXTINF:-1 tvg-name="EuroSport 1 UK" tvg-logo="" group-title="DaddyHD",EuroSport 1 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium41/index.m3u8
+
+#EXTINF:-1 tvg-name="EuroSport 2 UK" tvg-logo="" group-title="DaddyHD",EuroSport 2 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium42/index.m3u8
+
+#EXTINF:-1 tvg-name="EuroSport 1 Poland" tvg-logo="" group-title="DaddyHD",EuroSport 1 Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium57/index.m3u8
+
+#EXTINF:-1 tvg-name="EuroSport 2 Poland" tvg-logo="" group-title="DaddyHD",EuroSport 2 Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium58/index.m3u8
+
+#EXTINF:-1 tvg-name="EuroSport 1 Spain" tvg-logo="" group-title="DaddyHD",EuroSport 1 Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium524/index.m3u8
+
+#EXTINF:-1 tvg-name="EuroSport 2 Spain" tvg-logo="" group-title="DaddyHD",EuroSport 2 Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium525/index.m3u8
+
+#EXTINF:-1 tvg-name="EuroSport 1 Italy" tvg-logo="" group-title="DaddyHD",EuroSport 1 Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium878/index.m3u8
+
+#EXTINF:-1 tvg-name="EuroSport 2 Italy" tvg-logo="" group-title="DaddyHD",EuroSport 2 Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium879/index.m3u8
+
+#EXTINF:-1 tvg-name="Eurosport 1 Bulgaria" tvg-logo="" group-title="DaddyHD",Eurosport 1 Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium469/index.m3u8
+
+#EXTINF:-1 tvg-name="Eurosport 2 Bulgaria" tvg-logo="" group-title="DaddyHD",Eurosport 2 Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium470/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN Premium Argentina" tvg-logo="" group-title="DaddyHD",ESPN Premium Argentina
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium387/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN Brasil" tvg-logo="" group-title="DaddyHD",ESPN Brasil
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium81/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN2 Brasil" tvg-logo="" group-title="DaddyHD",ESPN2 Brasil
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium82/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN3 Brasil" tvg-logo="" group-title="DaddyHD",ESPN3 Brasil
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium83/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN4 Brasil" tvg-logo="" group-title="DaddyHD",ESPN4 Brasil
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium85/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN SUR" tvg-logo="" group-title="DaddyHD",ESPN SUR
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium149/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN2 SUR" tvg-logo="" group-title="DaddyHD",ESPN2 SUR
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium150/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN Deportes" tvg-logo="" group-title="DaddyHD",ESPN Deportes
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium375/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPNews" tvg-logo="" group-title="DaddyHD",ESPNews
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium288/index.m3u8
+
+#EXTINF:-1 tvg-name="E! Entertainment Television" tvg-logo="" group-title="DaddyHD",E! Entertainment Television
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium315/index.m3u8
+
+#EXTINF:-1 tvg-name="E4 Channel" tvg-logo="" group-title="DaddyHD",E4 Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium363/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports 1 USA" tvg-logo="" group-title="DaddyHD",Fox Sports 1 USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium39/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports 2 USA" tvg-logo="" group-title="DaddyHD",Fox Sports 2 USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium758/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX Soccer Plus" tvg-logo="" group-title="DaddyHD",FOX Soccer Plus
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium756/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox Cricket" tvg-logo="" group-title="DaddyHD",Fox Cricket
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium369/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX Deportes USA" tvg-logo="" group-title="DaddyHD",FOX Deportes USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium643/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX Sports 502 AU" tvg-logo="" group-title="DaddyHD",FOX Sports 502 AU
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium820/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX Sports 503 AU" tvg-logo="" group-title="DaddyHD",FOX Sports 503 AU
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium821/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX Sports 504 AU" tvg-logo="" group-title="DaddyHD",FOX Sports 504 AU
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium822/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX Sports 505 AU" tvg-logo="" group-title="DaddyHD",FOX Sports 505 AU
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium823/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX Sports 506 AU" tvg-logo="" group-title="DaddyHD",FOX Sports 506 AU
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium824/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX Sports 507 AU" tvg-logo="" group-title="DaddyHD",FOX Sports 507 AU
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium825/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports Argentina" tvg-logo="" group-title="DaddyHD",Fox Sports Argentina
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium767/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports 2 Argentina" tvg-logo="" group-title="DaddyHD",Fox Sports 2 Argentina
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium788/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports 3 Argentina" tvg-logo="" group-title="DaddyHD",Fox Sports 3 Argentina
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium789/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports Premium MX" tvg-logo="" group-title="DaddyHD",Fox Sports Premium MX
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium830/index.m3u8
+
+#EXTINF:-1 tvg-name="FilmBox Premium Poland" tvg-logo="" group-title="DaddyHD",FilmBox Premium Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium568/index.m3u8
+
+#EXTINF:-1 tvg-name="Fight Network" tvg-logo="" group-title="DaddyHD",Fight Network
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium757/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox Business" tvg-logo="" group-title="DaddyHD",Fox Business
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium297/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX HD Bulgaria" tvg-logo="" group-title="DaddyHD",FOX HD Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium483/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX USA" tvg-logo="" group-title="DaddyHD",FOX USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium54/index.m3u8
+
+#EXTINF:-1 tvg-name="FX USA" tvg-logo="" group-title="DaddyHD",FX USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium317/index.m3u8
+
+#EXTINF:-1 tvg-name="FXX USA" tvg-logo="" group-title="DaddyHD",FXX USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium298/index.m3u8
+
+#EXTINF:-1 tvg-name="Freeform" tvg-logo="" group-title="DaddyHD",Freeform
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium301/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox News" tvg-logo="" group-title="DaddyHD",Fox News
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium347/index.m3u8
+
+#EXTINF:-1 tvg-name="FX Movie Channel" tvg-logo="" group-title="DaddyHD",FX Movie Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium381/index.m3u8
+
+#EXTINF:-1 tvg-name="FYI" tvg-logo="" group-title="DaddyHD",FYI
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium665/index.m3u8
+
+#EXTINF:-1 tvg-name="Film4 UK" tvg-logo="" group-title="DaddyHD",Film4 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium688/index.m3u8
+
+#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="" group-title="DaddyHD",Fashion TV
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium744/index.m3u8
+
+#EXTINF:-1 tvg-name="FETV - Family Entertainment Television" tvg-logo="" group-title="DaddyHD",FETV - Family Entertainment Television
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium751/index.m3u8
+
+#EXTINF:-1 tvg-name="FOXNY USA" tvg-logo="" group-title="DaddyHD",FOXNY USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium768/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox Weather Channel" tvg-logo="" group-title="DaddyHD",Fox Weather Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium775/index.m3u8
+
+#EXTINF:-1 tvg-name="GOL PLAY Spain" tvg-logo="" group-title="DaddyHD",GOL PLAY Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium530/index.m3u8
+
+#EXTINF:-1 tvg-name="GOLF Channel USA" tvg-logo="" group-title="DaddyHD",GOLF Channel USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium318/index.m3u8
+
+#EXTINF:-1 tvg-name="Game Show Network" tvg-logo="" group-title="DaddyHD",Game Show Network
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium319/index.m3u8
+
+#EXTINF:-1 tvg-name="Gol Mundial 1" tvg-logo="" group-title="DaddyHD",Gol Mundial 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium292/index.m3u8
+
+#EXTINF:-1 tvg-name="Gold UK" tvg-logo="" group-title="DaddyHD",Gold UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium687/index.m3u8
+
+#EXTINF:-1 tvg-name="Galavisión USA" tvg-logo="" group-title="DaddyHD",Galavisión USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium743/index.m3u8
+
+#EXTINF:-1 tvg-name="CBC CA" tvg-logo="" group-title="DaddyHD",CBC CA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium699/index.m3u8
+
+#EXTINF:-1 tvg-name="Grit Channel" tvg-logo="" group-title="DaddyHD",Grit Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium752/index.m3u8
+
+#EXTINF:-1 tvg-name="Globo SP" tvg-logo="" group-title="DaddyHD",Globo SP
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium760/index.m3u8
+
+#EXTINF:-1 tvg-name="Globo RIO" tvg-logo="" group-title="DaddyHD",Globo RIO
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium761/index.m3u8
+
+#EXTINF:-1 tvg-name="Global CA" tvg-logo="" group-title="DaddyHD",Global CA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium836/index.m3u8
+
+#EXTINF:-1 tvg-name="The Hallmark Channel" tvg-logo="" group-title="DaddyHD",The Hallmark Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium320/index.m3u8
+
+#EXTINF:-1 tvg-name="Hallmark Movies & Mysterie" tvg-logo="" group-title="DaddyHD",Hallmark Movies & Mysterie
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium296/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO USA" tvg-logo="" group-title="DaddyHD",HBO USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium321/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO2 USA" tvg-logo="" group-title="DaddyHD",HBO2 USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium689/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO Comedy USA" tvg-logo="" group-title="DaddyHD",HBO Comedy USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium690/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO Family USA" tvg-logo="" group-title="DaddyHD",HBO Family USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium691/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO Latino USA" tvg-logo="" group-title="DaddyHD",HBO Latino USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium692/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO Signature USA" tvg-logo="" group-title="DaddyHD",HBO Signature USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium693/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO Zone USA" tvg-logo="" group-title="DaddyHD",HBO Zone USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium694/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO Poland" tvg-logo="" group-title="DaddyHD",HBO Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium569/index.m3u8
+
+#EXTINF:-1 tvg-name="History USA" tvg-logo="" group-title="DaddyHD",History USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium322/index.m3u8
+
+#EXTINF:-1 tvg-name="Headline News" tvg-logo="" group-title="DaddyHD",Headline News
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium323/index.m3u8
+
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="" group-title="DaddyHD",HGTV
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium382/index.m3u8
+
+#EXTINF:-1 tvg-name="HOT3 Israel" tvg-logo="" group-title="DaddyHD",HOT3 Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium553/index.m3u8
+
+#EXTINF:-1 tvg-name="HR Fernsehen DE" tvg-logo="" group-title="DaddyHD",HR Fernsehen DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium740/index.m3u8
+
+#EXTINF:-1 tvg-name="ITV 1 UK" tvg-logo="" group-title="DaddyHD",ITV 1 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium350/index.m3u8
+
+#EXTINF:-1 tvg-name="ITV 2 UK" tvg-logo="" group-title="DaddyHD",ITV 2 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium351/index.m3u8
+
+#EXTINF:-1 tvg-name="ITV 3 UK" tvg-logo="" group-title="DaddyHD",ITV 3 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium352/index.m3u8
+
+#EXTINF:-1 tvg-name="ITV 4 UK" tvg-logo="" group-title="DaddyHD",ITV 4 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium353/index.m3u8
+
+#EXTINF:-1 tvg-name="Italia 1 Italy" tvg-logo="" group-title="DaddyHD",Italia 1 Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium854/index.m3u8
+
+#EXTINF:-1 tvg-name="Investigation Discovery (ID USA)" tvg-logo="" group-title="DaddyHD",Investigation Discovery (ID USA)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium324/index.m3u8
+
+#EXTINF:-1 tvg-name="ION USA" tvg-logo="" group-title="DaddyHD",ION USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium325/index.m3u8
+
+#EXTINF:-1 tvg-name="IFC TV USA" tvg-logo="" group-title="DaddyHD",IFC TV USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium656/index.m3u8
+
+#EXTINF:-1 tvg-name="Coming Soon" tvg-logo="" group-title="DaddyHD",Coming Soon
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium/index.m3u8
+
+#EXTINF:-1 tvg-name="Kanal 4 Denmark" tvg-logo="" group-title="DaddyHD",Kanal 4 Denmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium803/index.m3u8
+
+#EXTINF:-1 tvg-name="Kanal 5 Denmark" tvg-logo="" group-title="DaddyHD",Kanal 5 Denmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium804/index.m3u8
+
+#EXTINF:-1 tvg-name="Kabel Eins (Kabel 1) DE" tvg-logo="" group-title="DaddyHD",Kabel Eins (Kabel 1) DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium731/index.m3u8
+
+#EXTINF:-1 tvg-name="LaLiga SmartBank TV" tvg-logo="" group-title="DaddyHD",LaLiga SmartBank TV
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium539/index.m3u8
+
+#EXTINF:-1 tvg-name="L'Equipe France" tvg-logo="" group-title="DaddyHD",L'Equipe France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium645/index.m3u8
+
+#EXTINF:-1 tvg-name="La Sexta Spain" tvg-logo="" group-title="DaddyHD",La Sexta Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium534/index.m3u8
+
+#EXTINF:-1 tvg-name="Liverpool TV (LFC TV)" tvg-logo="" group-title="DaddyHD",Liverpool TV (LFC TV)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium826/index.m3u8
+
+#EXTINF:-1 tvg-name="Lifetime Network" tvg-logo="" group-title="DaddyHD",Lifetime Network
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium326/index.m3u8
+
+#EXTINF:-1 tvg-name="Lifetime Movies Network" tvg-logo="" group-title="DaddyHD",Lifetime Movies Network
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium389/index.m3u8
+
+#EXTINF:-1 tvg-name="Longhorn Network USA" tvg-logo="" group-title="DaddyHD",Longhorn Network USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium667/index.m3u8
+
+#EXTINF:-1 tvg-name="La7 Italy" tvg-logo="" group-title="DaddyHD",La7 Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium855/index.m3u8
+
+#EXTINF:-1 tvg-name="LA7d HD+ Italy" tvg-logo="" group-title="DaddyHD",LA7d HD+ Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium856/index.m3u8
+
+#EXTINF:-1 tvg-name="Match Football 1 Russia" tvg-logo="" group-title="DaddyHD",Match Football 1 Russia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium136/index.m3u8
+
+#EXTINF:-1 tvg-name="Match Football 2 Russia" tvg-logo="" group-title="DaddyHD",Match Football 2 Russia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium137/index.m3u8
+
+#EXTINF:-1 tvg-name="Match Football 3 Russia" tvg-logo="" group-title="DaddyHD",Match Football 3 Russia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium138/index.m3u8
+
+#EXTINF:-1 tvg-name="Match Premier Russia" tvg-logo="" group-title="DaddyHD",Match Premier Russia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium573/index.m3u8
+
+#EXTINF:-1 tvg-name="Match TV Russia" tvg-logo="" group-title="DaddyHD",Match TV Russia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium127/index.m3u8
+
+#EXTINF:-1 tvg-name="МАТЧ! БОЕЦ Russia" tvg-logo="" group-title="DaddyHD",МАТЧ! БОЕЦ Russia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium395/index.m3u8
+
+#EXTINF:-1 tvg-name="Movistar Laliga" tvg-logo="" group-title="DaddyHD",Movistar Laliga
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium84/index.m3u8
+
+#EXTINF:-1 tvg-name="Movistar Liga de Campeones" tvg-logo="" group-title="DaddyHD",Movistar Liga de Campeones
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium435/index.m3u8
+
+#EXTINF:-1 tvg-name="Movistar Deportes Spain" tvg-logo="" group-title="DaddyHD",Movistar Deportes Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium436/index.m3u8
+
+#EXTINF:-1 tvg-name="Movistar Deportes 2 Spain" tvg-logo="" group-title="DaddyHD",Movistar Deportes 2 Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium438/index.m3u8
+
+#EXTINF:-1 tvg-name="Movistar Deportes 3 Spain" tvg-logo="" group-title="DaddyHD",Movistar Deportes 3 Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium526/index.m3u8
+
+#EXTINF:-1 tvg-name="Movistar Deportes 4 Spain" tvg-logo="" group-title="DaddyHD",Movistar Deportes 4 Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium527/index.m3u8
+
+#EXTINF:-1 tvg-name="Movistar Golf Spain" tvg-logo="" group-title="DaddyHD",Movistar Golf Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium528/index.m3u8
+
+#EXTINF:-1 tvg-name="Motowizja Poland" tvg-logo="" group-title="DaddyHD",Motowizja Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium563/index.m3u8
+
+#EXTINF:-1 tvg-name="MSG USA" tvg-logo="" group-title="DaddyHD",MSG USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium765/index.m3u8
+
+#EXTINF:-1 tvg-name="MSNBC" tvg-logo="" group-title="DaddyHD",MSNBC
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium327/index.m3u8
+
+#EXTINF:-1 tvg-name="Magnolia Network" tvg-logo="" group-title="DaddyHD",Magnolia Network
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium299/index.m3u8
+
+#EXTINF:-1 tvg-name="MTV UK" tvg-logo="" group-title="DaddyHD",MTV UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium367/index.m3u8
+
+#EXTINF:-1 tvg-name="MTV USA" tvg-logo="" group-title="DaddyHD",MTV USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium371/index.m3u8
+
+#EXTINF:-1 tvg-name="MUTV UK" tvg-logo="" group-title="DaddyHD",MUTV UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium377/index.m3u8
+
+#EXTINF:-1 tvg-name="MAVTV USA" tvg-logo="" group-title="DaddyHD",MAVTV USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium646/index.m3u8
+
+#EXTINF:-1 tvg-name="Max Sport 1 Croatia" tvg-logo="" group-title="DaddyHD",Max Sport 1 Croatia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium779/index.m3u8
+
+#EXTINF:-1 tvg-name="Max Sport 2 Croatia" tvg-logo="" group-title="DaddyHD",Max Sport 2 Croatia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium780/index.m3u8
+
+#EXTINF:-1 tvg-name="Marquee Sports Network" tvg-logo="" group-title="DaddyHD",Marquee Sports Network
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium770/index.m3u8
+
+#EXTINF:-1 tvg-name="Max Sport 1 Bulgaria" tvg-logo="" group-title="DaddyHD",Max Sport 1 Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium472/index.m3u8
+
+#EXTINF:-1 tvg-name="Max Sport 2 Bulgaria" tvg-logo="" group-title="DaddyHD",Max Sport 2 Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium473/index.m3u8
+
+#EXTINF:-1 tvg-name="Max Sport 3 Bulgaria" tvg-logo="" group-title="DaddyHD",Max Sport 3 Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium474/index.m3u8
+
+#EXTINF:-1 tvg-name="Max Sport 4 Bulgaria" tvg-logo="" group-title="DaddyHD",Max Sport 4 Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium475/index.m3u8
+
+#EXTINF:-1 tvg-name="MLB Network USA" tvg-logo="" group-title="DaddyHD",MLB Network USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium399/index.m3u8
+
+#EXTINF:-1 tvg-name="MASN USA" tvg-logo="" group-title="DaddyHD",MASN USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium829/index.m3u8
+
+#EXTINF:-1 tvg-name="MY9TV USA" tvg-logo="" group-title="DaddyHD",MY9TV USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium654/index.m3u8
+
+#EXTINF:-1 tvg-name="Motor Trend" tvg-logo="" group-title="DaddyHD",Motor Trend
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium661/index.m3u8
+
+#EXTINF:-1 tvg-name="METV USA" tvg-logo="" group-title="DaddyHD",METV USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium662/index.m3u8
+
+#EXTINF:-1 tvg-name="MDR DE" tvg-logo="" group-title="DaddyHD",MDR DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium733/index.m3u8
+
+#EXTINF:-1 tvg-name="Mundotoro TV Spain" tvg-logo="" group-title="DaddyHD",Mundotoro TV Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium749/index.m3u8
+
+#EXTINF:-1 tvg-name="MTV Denmark" tvg-logo="" group-title="DaddyHD",MTV Denmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium806/index.m3u8
+
+#EXTINF:-1 tvg-name="NHL Network USA" tvg-logo="" group-title="DaddyHD",NHL Network USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium663/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova Sport Bulgaria" tvg-logo="" group-title="DaddyHD",Nova Sport Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium468/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova Sport Serbia" tvg-logo="" group-title="DaddyHD",Nova Sport Serbia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium582/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova Sports 1 Greece" tvg-logo="" group-title="DaddyHD",Nova Sports 1 Greece
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium631/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova Sports 2 Greece" tvg-logo="" group-title="DaddyHD",Nova Sports 2 Greece
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium632/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova Sports 3 Greece" tvg-logo="" group-title="DaddyHD",Nova Sports 3 Greece
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium633/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova Sports 4 Greece" tvg-logo="" group-title="DaddyHD",Nova Sports 4 Greece
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium634/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova Sports 5 Greece" tvg-logo="" group-title="DaddyHD",Nova Sports 5 Greece
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium635/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova Sports 6 Greece" tvg-logo="" group-title="DaddyHD",Nova Sports 6 Greece
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium636/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova Sports Premier League Greece" tvg-logo="" group-title="DaddyHD",Nova Sports Premier League Greece
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium599/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova Sports Start Greece" tvg-logo="" group-title="DaddyHD",Nova Sports Start Greece
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium637/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova Sports Prime Greece" tvg-logo="" group-title="DaddyHD",Nova Sports Prime Greece
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium638/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova Sports News Greece" tvg-logo="" group-title="DaddyHD",Nova Sports News Greece
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium639/index.m3u8
+
+#EXTINF:-1 tvg-name="NESN USA" tvg-logo="" group-title="DaddyHD",NESN USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium762/index.m3u8
+
+#EXTINF:-1 tvg-name="NBC USA" tvg-logo="" group-title="DaddyHD",NBC USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium53/index.m3u8
+
+#EXTINF:-1 tvg-name="NBA TV USA" tvg-logo="" group-title="DaddyHD",NBA TV USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium404/index.m3u8
+
+#EXTINF:-1 tvg-name="NBC Sports Chicago" tvg-logo="" group-title="DaddyHD",NBC Sports Chicago
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium776/index.m3u8
+
+#EXTINF:-1 tvg-name="NBC Sports Philadelphia" tvg-logo="" group-title="DaddyHD",NBC Sports Philadelphia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium777/index.m3u8
+
+#EXTINF:-1 tvg-name="NBC Sports Washington" tvg-logo="" group-title="DaddyHD",NBC Sports Washington
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium778/index.m3u8
+
+#EXTINF:-1 tvg-name="NFL Network" tvg-logo="" group-title="DaddyHD",NFL Network
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium405/index.m3u8
+
+#EXTINF:-1 tvg-name="NBC Sports Bay Area" tvg-logo="" group-title="DaddyHD",NBC Sports Bay Area
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium753/index.m3u8
+
+#EXTINF:-1 tvg-name="NBC Sports Boston" tvg-logo="" group-title="DaddyHD",NBC Sports Boston
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium754/index.m3u8
+
+#EXTINF:-1 tvg-name="NBC Sports California" tvg-logo="" group-title="DaddyHD",NBC Sports California
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium755/index.m3u8
+
+#EXTINF:-1 tvg-name="NBCNY USA" tvg-logo="" group-title="DaddyHD",NBCNY USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium769/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova TV Bulgaria" tvg-logo="" group-title="DaddyHD",Nova TV Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium480/index.m3u8
+
+#EXTINF:-1 tvg-name="National Geographic (NGC)" tvg-logo="" group-title="DaddyHD",National Geographic (NGC)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium328/index.m3u8
+
+#EXTINF:-1 tvg-name="NICK JR" tvg-logo="" group-title="DaddyHD",NICK JR
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium329/index.m3u8
+
+#EXTINF:-1 tvg-name="NICK" tvg-logo="" group-title="DaddyHD",NICK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium330/index.m3u8
+
+#EXTINF:-1 tvg-name="Nick Music" tvg-logo="" group-title="DaddyHD",Nick Music
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium666/index.m3u8
+
+#EXTINF:-1 tvg-name="Nicktoons" tvg-logo="" group-title="DaddyHD",Nicktoons
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium649/index.m3u8
+
+#EXTINF:-1 tvg-name="NDR DE" tvg-logo="" group-title="DaddyHD",NDR DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium736/index.m3u8
+
+#EXTINF:-1 tvg-name="NewsNation USA" tvg-logo="" group-title="DaddyHD",NewsNation USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium292/index.m3u8
+
+#EXTINF:-1 tvg-name="Newsmax USA" tvg-logo="" group-title="DaddyHD",Newsmax USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium613/index.m3u8
+
+#EXTINF:-1 tvg-name="Nat Geo Wild USA" tvg-logo="" group-title="DaddyHD",Nat Geo Wild USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium745/index.m3u8
+
+#EXTINF:-1 tvg-name="Noovo CA" tvg-logo="" group-title="DaddyHD",Noovo CA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium835/index.m3u8
+
+#EXTINF:-1 tvg-name="New! CWPIX 11" tvg-logo="" group-title="DaddyHD",New! CWPIX 11
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium771/index.m3u8
+
+#EXTINF:-1 tvg-name="OnTime Sports" tvg-logo="" group-title="DaddyHD",OnTime Sports
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium611/index.m3u8
+
+#EXTINF:-1 tvg-name="OnTime Sports 2" tvg-logo="" group-title="DaddyHD",OnTime Sports 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium612/index.m3u8
+
+#EXTINF:-1 tvg-name="ONE 1 HD Israel" tvg-logo="" group-title="DaddyHD",ONE 1 HD Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium541/index.m3u8
+
+#EXTINF:-1 tvg-name="ONE 2 HD Israel" tvg-logo="" group-title="DaddyHD",ONE 2 HD Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium542/index.m3u8
+
+#EXTINF:-1 tvg-name="Orange Sport 1 Romania" tvg-logo="" group-title="DaddyHD",Orange Sport 1 Romania
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium439/index.m3u8
+
+#EXTINF:-1 tvg-name="Orange Sport 2 Romania" tvg-logo="" group-title="DaddyHD",Orange Sport 2 Romania
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium440/index.m3u8
+
+#EXTINF:-1 tvg-name="Orange Sport 3 Romania" tvg-logo="" group-title="DaddyHD",Orange Sport 3 Romania
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium441/index.m3u8
+
+#EXTINF:-1 tvg-name="Orange Sport 4 Romania" tvg-logo="" group-title="DaddyHD",Orange Sport 4 Romania
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium442/index.m3u8
+
+#EXTINF:-1 tvg-name="Oprah Winfrey Network (OWN)" tvg-logo="" group-title="DaddyHD",Oprah Winfrey Network (OWN)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium331/index.m3u8
+
+#EXTINF:-1 tvg-name="Oxygen True Crime" tvg-logo="" group-title="DaddyHD",Oxygen True Crime
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium332/index.m3u8
+
+#EXTINF:-1 tvg-name="Polsat Poland" tvg-logo="" group-title="DaddyHD",Polsat Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium562/index.m3u8
+
+#EXTINF:-1 tvg-name="Polsat Sport Poland" tvg-logo="" group-title="DaddyHD",Polsat Sport Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium47/index.m3u8
+
+#EXTINF:-1 tvg-name="Polsat Sport Extra Poland" tvg-logo="" group-title="DaddyHD",Polsat Sport Extra Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium50/index.m3u8
+
+#EXTINF:-1 tvg-name="Polsat Sport News Poland" tvg-logo="" group-title="DaddyHD",Polsat Sport News Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium129/index.m3u8
+
+#EXTINF:-1 tvg-name="Polsat News Poland" tvg-logo="" group-title="DaddyHD",Polsat News Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium443/index.m3u8
+
+#EXTINF:-1 tvg-name="Polsat Film Poland" tvg-logo="" group-title="DaddyHD",Polsat Film Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium564/index.m3u8
+
+#EXTINF:-1 tvg-name="Porto Canal Portugal" tvg-logo="" group-title="DaddyHD",Porto Canal Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium718/index.m3u8
+
+#EXTINF:-1 tvg-name="ProSieben (PRO7) DE" tvg-logo="" group-title="DaddyHD",ProSieben (PRO7) DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium730/index.m3u8
+
+#EXTINF:-1 tvg-name="PTV Sports" tvg-logo="" group-title="DaddyHD",PTV Sports
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium450/index.m3u8
+
+#EXTINF:-1 tvg-name="Premier Brasil" tvg-logo="" group-title="DaddyHD",Premier Brasil
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium88/index.m3u8
+
+#EXTINF:-1 tvg-name="Prima Sport 1" tvg-logo="" group-title="DaddyHD",Prima Sport 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium583/index.m3u8
+
+#EXTINF:-1 tvg-name="Prima Sport 2" tvg-logo="" group-title="DaddyHD",Prima Sport 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium584/index.m3u8
+
+#EXTINF:-1 tvg-name="Prima Sport 3" tvg-logo="" group-title="DaddyHD",Prima Sport 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium585/index.m3u8
+
+#EXTINF:-1 tvg-name="Prima Sport 4" tvg-logo="" group-title="DaddyHD",Prima Sport 4
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium586/index.m3u8
+
+#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="" group-title="DaddyHD",Paramount Network
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium334/index.m3u8
+
+#EXTINF:-1 tvg-name="POP TV USA" tvg-logo="" group-title="DaddyHD",POP TV USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium653/index.m3u8
+
+#EXTINF:-1 tvg-name="Coming Soon" tvg-logo="" group-title="DaddyHD",Coming Soon
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium/index.m3u8
+
+#EXTINF:-1 tvg-name="RTE 1" tvg-logo="" group-title="DaddyHD",RTE 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium364/index.m3u8
+
+#EXTINF:-1 tvg-name="RTE 2" tvg-logo="" group-title="DaddyHD",RTE 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium365/index.m3u8
+
+#EXTINF:-1 tvg-name="RMC Sport 1 France" tvg-logo="" group-title="DaddyHD",RMC Sport 1 France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium119/index.m3u8
+
+#EXTINF:-1 tvg-name="RMC Sport 2 France" tvg-logo="" group-title="DaddyHD",RMC Sport 2 France
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium120/index.m3u8
+
+#EXTINF:-1 tvg-name="RTP 1 Portugal" tvg-logo="" group-title="DaddyHD",RTP 1 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium719/index.m3u8
+
+#EXTINF:-1 tvg-name="RTP 2 Portugal" tvg-logo="" group-title="DaddyHD",RTP 2 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium720/index.m3u8
+
+#EXTINF:-1 tvg-name="RTP 3 Portugal" tvg-logo="" group-title="DaddyHD",RTP 3 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium721/index.m3u8
+
+#EXTINF:-1 tvg-name="Rai 1 Italy" tvg-logo="" group-title="DaddyHD",Rai 1 Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium850/index.m3u8
+
+#EXTINF:-1 tvg-name="Rai 2 Italy" tvg-logo="" group-title="DaddyHD",Rai 2 Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium851/index.m3u8
+
+#EXTINF:-1 tvg-name="Rai 3 Italy" tvg-logo="" group-title="DaddyHD",Rai 3 Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium852/index.m3u8
+
+#EXTINF:-1 tvg-name="Rai 3 Italy" tvg-logo="" group-title="DaddyHD",Rai 3 Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium853/index.m3u8
+
+#EXTINF:-1 tvg-name="Rai Sport Italy" tvg-logo="" group-title="DaddyHD",Rai Sport Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium882/index.m3u8
+
+#EXTINF:-1 tvg-name="Rai Premium Italy" tvg-logo="" group-title="DaddyHD",Rai Premium Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium858/index.m3u8
+
+#EXTINF:-1 tvg-name="Real Madrid TV Spain" tvg-logo="" group-title="DaddyHD",Real Madrid TV Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium523/index.m3u8
+
+#EXTINF:-1 tvg-name="RDS CA" tvg-logo="" group-title="DaddyHD",RDS CA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium839/index.m3u8
+
+#EXTINF:-1 tvg-name="RDS 2 CA" tvg-logo="" group-title="DaddyHD",RDS 2 CA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium840/index.m3u8
+
+#EXTINF:-1 tvg-name="RDS Info CA" tvg-logo="" group-title="DaddyHD",RDS Info CA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium841/index.m3u8
+
+#EXTINF:-1 tvg-name="Ring Bulgaria" tvg-logo="" group-title="DaddyHD",Ring Bulgaria
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium471/index.m3u8
+
+#EXTINF:-1 tvg-name="RTL7 Netherland" tvg-logo="" group-title="DaddyHD",RTL7 Netherland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium390/index.m3u8
+
+#EXTINF:-1 tvg-name="Racing Tv UK" tvg-logo="" group-title="DaddyHD",Racing Tv UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium555/index.m3u8
+
+#EXTINF:-1 tvg-name="Reelz Channel" tvg-logo="" group-title="DaddyHD",Reelz Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium293/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Football UK" tvg-logo="" group-title="DaddyHD",Sky Sports Football UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium35/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Arena UK" tvg-logo="" group-title="DaddyHD",Sky Sports Arena UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium36/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Action UK" tvg-logo="" group-title="DaddyHD",Sky Sports Action UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium37/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="" group-title="DaddyHD",Sky Sports Main Event
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium38/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky sports Premier League" tvg-logo="" group-title="DaddyHD",Sky sports Premier League
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium130/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-logo="" group-title="DaddyHD",Sky Sports F1 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium60/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-logo="" group-title="DaddyHD",Sky Sports Cricket
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium65/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Golf UK" tvg-logo="" group-title="DaddyHD",Sky Sports Golf UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium70/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Golf Italy" tvg-logo="" group-title="DaddyHD",Sky Sports Golf Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium574/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport MotoGP Italy" tvg-logo="" group-title="DaddyHD",Sky Sport MotoGP Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium575/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport Tennis Italy" tvg-logo="" group-title="DaddyHD",Sky Sport Tennis Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium576/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport F1 Italy" tvg-logo="" group-title="DaddyHD",Sky Sport F1 Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium577/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports News UK" tvg-logo="" group-title="DaddyHD",Sky Sports News UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium366/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports MIX UK" tvg-logo="" group-title="DaddyHD",Sky Sports MIX UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium449/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport Top Event DE" tvg-logo="" group-title="DaddyHD",Sky Sport Top Event DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium556/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport Mix DE" tvg-logo="" group-title="DaddyHD",Sky Sport Mix DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium557/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 1 HD" tvg-logo="" group-title="DaddyHD",Sky Sport Bundesliga 1 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium558/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport Austria 1 HD" tvg-logo="" group-title="DaddyHD",Sky Sport Austria 1 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium559/index.m3u8
+
+#EXTINF:-1 tvg-name="SportsNet New York (SNY)" tvg-logo="" group-title="DaddyHD",SportsNet New York (SNY)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium759/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport Football Italy" tvg-logo="" group-title="DaddyHD",Sky Sport Football Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium460/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport UNO Italy" tvg-logo="" group-title="DaddyHD",Sky Sport UNO Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium461/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport Arena Italy" tvg-logo="" group-title="DaddyHD",Sky Sport Arena Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium462/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Racing UK" tvg-logo="" group-title="DaddyHD",Sky Sports Racing UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium554/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky UNO Italy" tvg-logo="" group-title="DaddyHD",Sky UNO Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium881/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport 1 NZ" tvg-logo="" group-title="DaddyHD",Sky Sport 1 NZ
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium588/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport 2 NZ" tvg-logo="" group-title="DaddyHD",Sky Sport 2 NZ
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium589/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport 3 NZ" tvg-logo="" group-title="DaddyHD",Sky Sport 3 NZ
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium590/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport 4 NZ" tvg-logo="" group-title="DaddyHD",Sky Sport 4 NZ
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium591/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport 5 NZ" tvg-logo="" group-title="DaddyHD",Sky Sport 5 NZ
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium592/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport 6 NZ" tvg-logo="" group-title="DaddyHD",Sky Sport 6 NZ
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium593/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport 7 NZ" tvg-logo="" group-title="DaddyHD",Sky Sport 7 NZ
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium594/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport 8 NZ" tvg-logo="" group-title="DaddyHD",Sky Sport 8 NZ
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium595/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport 9 NZ" tvg-logo="" group-title="DaddyHD",Sky Sport 9 NZ
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium596/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport Select NZ" tvg-logo="" group-title="DaddyHD",Sky Sport Select NZ
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium587/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV1 Portugal" tvg-logo="" group-title="DaddyHD",Sport TV1 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium49/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV2 Portugal" tvg-logo="" group-title="DaddyHD",Sport TV2 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium74/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV4 Portugal" tvg-logo="" group-title="DaddyHD",Sport TV4 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium289/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV3 Portugal" tvg-logo="" group-title="DaddyHD",Sport TV3 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium454/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV5 Portugal" tvg-logo="" group-title="DaddyHD",Sport TV5 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium290/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV6 Portugal" tvg-logo="" group-title="DaddyHD",Sport TV6 Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium291/index.m3u8
+
+#EXTINF:-1 tvg-name="SIC Portugal" tvg-logo="" group-title="DaddyHD",SIC Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium722/index.m3u8
+
+#EXTINF:-1 tvg-name="SEC Network USA" tvg-logo="" group-title="DaddyHD",SEC Network USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium385/index.m3u8
+
+#EXTINF:-1 tvg-name="SporTV Brasil" tvg-logo="" group-title="DaddyHD",SporTV Brasil
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium78/index.m3u8
+
+#EXTINF:-1 tvg-name="SporTV2 Brasil" tvg-logo="" group-title="DaddyHD",SporTV2 Brasil
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium79/index.m3u8
+
+#EXTINF:-1 tvg-name="SporTV3 Brasil" tvg-logo="" group-title="DaddyHD",SporTV3 Brasil
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium80/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport Klub 1 Serbia" tvg-logo="" group-title="DaddyHD",Sport Klub 1 Serbia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium101/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport Klub 2 Serbia" tvg-logo="" group-title="DaddyHD",Sport Klub 2 Serbia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium102/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport Klub 3 Serbia" tvg-logo="" group-title="DaddyHD",Sport Klub 3 Serbia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium103/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport Klub 4 Serbia" tvg-logo="" group-title="DaddyHD",Sport Klub 4 Serbia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium104/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport Klub HD Serbia" tvg-logo="" group-title="DaddyHD",Sport Klub HD Serbia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium453/index.m3u8
+
+#EXTINF:-1 tvg-name="Sportsnet Ontario" tvg-logo="" group-title="DaddyHD",Sportsnet Ontario
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium406/index.m3u8
+
+#EXTINF:-1 tvg-name="Sportsnet One" tvg-logo="" group-title="DaddyHD",Sportsnet One
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium411/index.m3u8
+
+#EXTINF:-1 tvg-name="Sportsnet West" tvg-logo="" group-title="DaddyHD",Sportsnet West
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium407/index.m3u8
+
+#EXTINF:-1 tvg-name="Sportsnet East" tvg-logo="" group-title="DaddyHD",Sportsnet East
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium408/index.m3u8
+
+#EXTINF:-1 tvg-name="Sportsnet 360" tvg-logo="" group-title="DaddyHD",Sportsnet 360
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium409/index.m3u8
+
+#EXTINF:-1 tvg-name="Sportsnet World" tvg-logo="" group-title="DaddyHD",Sportsnet World
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium410/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport Grandstand" tvg-logo="" group-title="DaddyHD",SuperSport Grandstand
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium412/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport PSL" tvg-logo="" group-title="DaddyHD",SuperSport PSL
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium413/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport Premier league" tvg-logo="" group-title="DaddyHD",SuperSport Premier league
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium414/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport LaLiga" tvg-logo="" group-title="DaddyHD",SuperSport LaLiga
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium415/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport Variety 1" tvg-logo="" group-title="DaddyHD",SuperSport Variety 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium416/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport Variety 2" tvg-logo="" group-title="DaddyHD",SuperSport Variety 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium417/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport Variety 3" tvg-logo="" group-title="DaddyHD",SuperSport Variety 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium418/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport Variety 4" tvg-logo="" group-title="DaddyHD",SuperSport Variety 4
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium419/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport Action" tvg-logo="" group-title="DaddyHD",SuperSport Action
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium420/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport Rugby" tvg-logo="" group-title="DaddyHD",SuperSport Rugby
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium421/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport Golf" tvg-logo="" group-title="DaddyHD",SuperSport Golf
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium422/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport Tennis" tvg-logo="" group-title="DaddyHD",SuperSport Tennis
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium423/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport Motorsport" tvg-logo="" group-title="DaddyHD",SuperSport Motorsport
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium424/index.m3u8
+
+#EXTINF:-1 tvg-name="Supersport Football" tvg-logo="" group-title="DaddyHD",Supersport Football
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium56/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport Cricket" tvg-logo="" group-title="DaddyHD",SuperSport Cricket
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium368/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSport MaXimo 1" tvg-logo="" group-title="DaddyHD",SuperSport MaXimo 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium572/index.m3u8
+
+#EXTINF:-1 tvg-name="Sporting TV Portugal" tvg-logo="" group-title="DaddyHD",Sporting TV Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium716/index.m3u8
+
+#EXTINF:-1 tvg-name="SportDigital Fussball" tvg-logo="" group-title="DaddyHD",SportDigital Fussball
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium571/index.m3u8
+
+#EXTINF:-1 tvg-name="Spectrum Sportsnet LA" tvg-logo="" group-title="DaddyHD",Spectrum Sportsnet LA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium764/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport1+ Germany" tvg-logo="" group-title="DaddyHD",Sport1+ Germany
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium640/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport1 Germany" tvg-logo="" group-title="DaddyHD",Sport1 Germany
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium641/index.m3u8
+
+#EXTINF:-1 tvg-name="S4C UK" tvg-logo="" group-title="DaddyHD",S4C UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium670/index.m3u8
+
+#EXTINF:-1 tvg-name="SAT.1 DE" tvg-logo="" group-title="DaddyHD",SAT.1 DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium729/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Premiere UK" tvg-logo="" group-title="DaddyHD",Sky Cinema Premiere UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium671/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Select UK" tvg-logo="" group-title="DaddyHD",Sky Cinema Select UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium672/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Hits UK" tvg-logo="" group-title="DaddyHD",Sky Cinema Hits UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium673/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Greats UK" tvg-logo="" group-title="DaddyHD",Sky Cinema Greats UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium674/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Animation UK" tvg-logo="" group-title="DaddyHD",Sky Cinema Animation UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium675/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Family UK" tvg-logo="" group-title="DaddyHD",Sky Cinema Family UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium676/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Action UK" tvg-logo="" group-title="DaddyHD",Sky Cinema Action UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium677/index.m3u8
+
+#EXTINF:-1 tvg-name="The Hallmark" tvg-logo="" group-title="DaddyHD",The Hallmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium678/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Thriller UK" tvg-logo="" group-title="DaddyHD",Sky Cinema Thriller UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium679/index.m3u8
+
+#EXTINF:-1 tvg-name="The Hallmark" tvg-logo="" group-title="DaddyHD",The Hallmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium680/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Sci-Fi Horror UK" tvg-logo="" group-title="DaddyHD",Sky Cinema Sci-Fi Horror UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium681/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Collection Italy" tvg-logo="" group-title="DaddyHD",Sky Cinema Collection Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium859/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Uno Italy" tvg-logo="" group-title="DaddyHD",Sky Cinema Uno Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium860/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Action Italy" tvg-logo="" group-title="DaddyHD",Sky Cinema Action Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium861/index.m3u8
+
+#EXTINF:-1 tvg-name="8Sky Cinema Comedy Italy" tvg-logo="" group-title="DaddyHD",8Sky Cinema Comedy Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium862/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Uno +24 Italy" tvg-logo="" group-title="DaddyHD",Sky Cinema Uno +24 Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium863/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Romance Italy" tvg-logo="" group-title="DaddyHD",Sky Cinema Romance Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium864/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Family Italy" tvg-logo="" group-title="DaddyHD",Sky Cinema Family Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium865/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Due +24 Italy" tvg-logo="" group-title="DaddyHD",Sky Cinema Due +24 Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium866/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Cinema Drama Italy" tvg-logo="" group-title="DaddyHD",Sky Cinema Drama Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium867/index.m3u8
+
+#EXTINF:-1 tvg-name="8Sky Cinema Suspense Italy" tvg-logo="" group-title="DaddyHD",8Sky Cinema Suspense Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium868/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport 24 Italy" tvg-logo="" group-title="DaddyHD",Sky Sport 24 Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium869/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport Calcio Italy" tvg-logo="" group-title="DaddyHD",Sky Sport Calcio Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium870/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Calcio 1 (251) Italy" tvg-logo="" group-title="DaddyHD",Sky Calcio 1 (251) Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium871/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Calcio 2 (252) Italy" tvg-logo="" group-title="DaddyHD",Sky Calcio 2 (252) Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium872/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Calcio 3 (253) Italy" tvg-logo="" group-title="DaddyHD",Sky Calcio 3 (253) Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium873/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Calcio 4 (254) Italy" tvg-logo="" group-title="DaddyHD",Sky Calcio 4 (254) Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium874/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Calcio 5 (255) Italy" tvg-logo="" group-title="DaddyHD",Sky Calcio 5 (255) Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium875/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Calcio 6 (256) Italy" tvg-logo="" group-title="DaddyHD",Sky Calcio 6 (256) Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium876/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Calcio 7 (257) Italy" tvg-logo="" group-title="DaddyHD",Sky Calcio 7 (257) Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium877/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Serie Italy" tvg-logo="" group-title="DaddyHD",Sky Serie Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium880/index.m3u8
+
+#EXTINF:-1 tvg-name="StarzPlay CricLife 1 HD" tvg-logo="" group-title="DaddyHD",StarzPlay CricLife 1 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium284/index.m3u8
+
+#EXTINF:-1 tvg-name="StarzPlay CricLife 2 HD" tvg-logo="" group-title="DaddyHD",StarzPlay CricLife 2 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium283/index.m3u8
+
+#EXTINF:-1 tvg-name="StarzPlay CricLife 3 HD" tvg-logo="" group-title="DaddyHD",StarzPlay CricLife 3 HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium282/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Showcase UK" tvg-logo="" group-title="DaddyHD",Sky Showcase UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium682/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Arts UK" tvg-logo="" group-title="DaddyHD",Sky Arts UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium683/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Comedy UK" tvg-logo="" group-title="DaddyHD",Sky Comedy UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium684/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Crime" tvg-logo="" group-title="DaddyHD",Sky Crime
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium685/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky History" tvg-logo="" group-title="DaddyHD",Sky History
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium686/index.m3u8
+
+#EXTINF:-1 tvg-name="SSC Sport 1" tvg-logo="" group-title="DaddyHD",SSC Sport 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium614/index.m3u8
+
+#EXTINF:-1 tvg-name="SSC Sport 2" tvg-logo="" group-title="DaddyHD",SSC Sport 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium615/index.m3u8
+
+#EXTINF:-1 tvg-name="SSC Sport 3" tvg-logo="" group-title="DaddyHD",SSC Sport 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium616/index.m3u8
+
+#EXTINF:-1 tvg-name="SSC Sport 4" tvg-logo="" group-title="DaddyHD",SSC Sport 4
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium617/index.m3u8
+
+#EXTINF:-1 tvg-name="SSC Sport 5" tvg-logo="" group-title="DaddyHD",SSC Sport 5
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium618/index.m3u8
+
+#EXTINF:-1 tvg-name="SSC Sport Extra 1" tvg-logo="" group-title="DaddyHD",SSC Sport Extra 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium619/index.m3u8
+
+#EXTINF:-1 tvg-name="SSC Sport Extra 2" tvg-logo="" group-title="DaddyHD",SSC Sport Extra 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium620/index.m3u8
+
+#EXTINF:-1 tvg-name="SSC Sport Extra 3" tvg-logo="" group-title="DaddyHD",SSC Sport Extra 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium621/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport 1 Israel" tvg-logo="" group-title="DaddyHD",Sport 1 Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium140/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport 2 Israel" tvg-logo="" group-title="DaddyHD",Sport 2 Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium141/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport 3 Israel" tvg-logo="" group-title="DaddyHD",Sport 3 Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium142/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport 4 Israel" tvg-logo="" group-title="DaddyHD",Sport 4 Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium143/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport 5 Israel" tvg-logo="" group-title="DaddyHD",Sport 5 Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium144/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport 5 PLUS Israel" tvg-logo="" group-title="DaddyHD",Sport 5 PLUS Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium145/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport 5 Live Israel" tvg-logo="" group-title="DaddyHD",Sport 5 Live Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium146/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport 5 Star Israel" tvg-logo="" group-title="DaddyHD",Sport 5 Star Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium147/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport 5 Gold Israel" tvg-logo="" group-title="DaddyHD",Sport 5 Gold Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium148/index.m3u8
+
+#EXTINF:-1 tvg-name="Science Channel" tvg-logo="" group-title="DaddyHD",Science Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium294/index.m3u8
+
+#EXTINF:-1 tvg-name="Showtime USA" tvg-logo="" group-title="DaddyHD",Showtime USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium333/index.m3u8
+
+#EXTINF:-1 tvg-name="Showtime SHOxBET USA" tvg-logo="" group-title="DaddyHD",Showtime SHOxBET USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium685/index.m3u8
+
+#EXTINF:-1 tvg-name="Starz" tvg-logo="" group-title="DaddyHD",Starz
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium335/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Witness HD" tvg-logo="" group-title="DaddyHD",Sky Witness HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium361/index.m3u8
+
+#EXTINF:-1 tvg-name="Sixx DE" tvg-logo="" group-title="DaddyHD",Sixx DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium732/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Atlantic" tvg-logo="" group-title="DaddyHD",Sky Atlantic
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium362/index.m3u8
+
+#EXTINF:-1 tvg-name="SYFY USA" tvg-logo="" group-title="DaddyHD",SYFY USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium373/index.m3u8
+
+#EXTINF:-1 tvg-name="Sundance TV" tvg-logo="" group-title="DaddyHD",Sundance TV
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium658/index.m3u8
+
+#EXTINF:-1 tvg-name="SWR DE" tvg-logo="" group-title="DaddyHD",SWR DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium735/index.m3u8
+
+#EXTINF:-1 tvg-name="SUPER RTL DE" tvg-logo="" group-title="DaddyHD",SUPER RTL DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium738/index.m3u8
+
+#EXTINF:-1 tvg-name="SR Fernsehen DE" tvg-logo="" group-title="DaddyHD",SR Fernsehen DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium739/index.m3u8
+
+#EXTINF:-1 tvg-name="Smithsonian Channel" tvg-logo="" group-title="DaddyHD",Smithsonian Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium601/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT Sports 1 UK" tvg-logo="" group-title="DaddyHD",TNT Sports 1 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium31/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT Sports 2 UK" tvg-logo="" group-title="DaddyHD",TNT Sports 2 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium32/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT Sports 3 UK" tvg-logo="" group-title="DaddyHD",TNT Sports 3 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium33/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT Sports 4 UK" tvg-logo="" group-title="DaddyHD",TNT Sports 4 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium34/index.m3u8
+
+#EXTINF:-1 tvg-name="TSN1" tvg-logo="" group-title="DaddyHD",TSN1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium111/index.m3u8
+
+#EXTINF:-1 tvg-name="TSN2" tvg-logo="" group-title="DaddyHD",TSN2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium112/index.m3u8
+
+#EXTINF:-1 tvg-name="TSN3" tvg-logo="" group-title="DaddyHD",TSN3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium113/index.m3u8
+
+#EXTINF:-1 tvg-name="TSN4" tvg-logo="" group-title="DaddyHD",TSN4
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium114/index.m3u8
+
+#EXTINF:-1 tvg-name="TSN5" tvg-logo="" group-title="DaddyHD",TSN5
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium115/index.m3u8
+
+#EXTINF:-1 tvg-name="TVN HD Poland" tvg-logo="" group-title="DaddyHD",TVN HD Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium565/index.m3u8
+
+#EXTINF:-1 tvg-name="TVN24 Poland" tvg-logo="" group-title="DaddyHD",TVN24 Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium444/index.m3u8
+
+#EXTINF:-1 tvg-name="TVP1 Poland" tvg-logo="" group-title="DaddyHD",TVP1 Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium560/index.m3u8
+
+#EXTINF:-1 tvg-name="TVP2 Poland" tvg-logo="" group-title="DaddyHD",TVP2 Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium561/index.m3u8
+
+#EXTINF:-1 tvg-name="Telecinco Spain" tvg-logo="" group-title="DaddyHD",Telecinco Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium532/index.m3u8
+
+#EXTINF:-1 tvg-name="TVE La 1 Spain" tvg-logo="" group-title="DaddyHD",TVE La 1 Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium533/index.m3u8
+
+#EXTINF:-1 tvg-name="TVE La 2 Spain" tvg-logo="" group-title="DaddyHD",TVE La 2 Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium536/index.m3u8
+
+#EXTINF:-1 tvg-name="TVI Portugal" tvg-logo="" group-title="DaddyHD",TVI Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium723/index.m3u8
+
+#EXTINF:-1 tvg-name="TVI Reality Portugal" tvg-logo="" group-title="DaddyHD",TVI Reality Portugal
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium724/index.m3u8
+
+#EXTINF:-1 tvg-name="Teledeporte Spain (TDP)" tvg-logo="" group-title="DaddyHD",Teledeporte Spain (TDP)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium529/index.m3u8
+
+#EXTINF:-1 tvg-name="TYC Sports Argentina" tvg-logo="" group-title="DaddyHD",TYC Sports Argentina
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium746/index.m3u8
+
+#EXTINF:-1 tvg-name="TVP Sport Poland" tvg-logo="" group-title="DaddyHD",TVP Sport Poland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium128/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT Brasil" tvg-logo="" group-title="DaddyHD",TNT Brasil
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium87/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT Sports Argentina" tvg-logo="" group-title="DaddyHD",TNT Sports Argentina
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium388/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT Sports HD Chile" tvg-logo="" group-title="DaddyHD",TNT Sports HD Chile
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium642/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-logo="" group-title="DaddyHD",Tennis Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium40/index.m3u8
+
+#EXTINF:-1 tvg-name="Ten Sports PK" tvg-logo="" group-title="DaddyHD",Ten Sports PK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium741/index.m3u8
+
+#EXTINF:-1 tvg-name="TUDN USA" tvg-logo="" group-title="DaddyHD",TUDN USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium66/index.m3u8
+
+#EXTINF:-1 tvg-name="Telemundo" tvg-logo="" group-title="DaddyHD",Telemundo
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium131/index.m3u8
+
+#EXTINF:-1 tvg-name="TBS USA" tvg-logo="" group-title="DaddyHD",TBS USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium336/index.m3u8
+
+#EXTINF:-1 tvg-name="TLC" tvg-logo="" group-title="DaddyHD",TLC
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium337/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT USA" tvg-logo="" group-title="DaddyHD",TNT USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium338/index.m3u8
+
+#EXTINF:-1 tvg-name="TVA Sports" tvg-logo="" group-title="DaddyHD",TVA Sports
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium833/index.m3u8
+
+#EXTINF:-1 tvg-name="TVA Sports 2" tvg-logo="" group-title="DaddyHD",TVA Sports 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium834/index.m3u8
+
+#EXTINF:-1 tvg-name="Travel Channel" tvg-logo="" group-title="DaddyHD",Travel Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium340/index.m3u8
+
+#EXTINF:-1 tvg-name="TruTV USA" tvg-logo="" group-title="DaddyHD",TruTV USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium341/index.m3u8
+
+#EXTINF:-1 tvg-name="TVLAND" tvg-logo="" group-title="DaddyHD",TVLAND
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium342/index.m3u8
+
+#EXTINF:-1 tvg-name="TCM USA" tvg-logo="" group-title="DaddyHD",TCM USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium644/index.m3u8
+
+#EXTINF:-1 tvg-name="TMC Channel USA" tvg-logo="" group-title="DaddyHD",TMC Channel USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium698/index.m3u8
+
+#EXTINF:-1 tvg-name="The Food Network" tvg-logo="" group-title="DaddyHD",The Food Network
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium384/index.m3u8
+
+#EXTINF:-1 tvg-name="The Weather Channel" tvg-logo="" group-title="DaddyHD",The Weather Channel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium394/index.m3u8
+
+#EXTINF:-1 tvg-name="TVP INFO" tvg-logo="" group-title="DaddyHD",TVP INFO
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium452/index.m3u8
+
+#EXTINF:-1 tvg-name="TeenNick" tvg-logo="" group-title="DaddyHD",TeenNick
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium650/index.m3u8
+
+#EXTINF:-1 tvg-name="TV ONE USA" tvg-logo="" group-title="DaddyHD",TV ONE USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium660/index.m3u8
+
+#EXTINF:-1 tvg-name="TV2 Bornholm Denmark" tvg-logo="" group-title="DaddyHD",TV2 Bornholm Denmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium807/index.m3u8
+
+#EXTINF:-1 tvg-name="TV2 Sport X Denmark" tvg-logo="" group-title="DaddyHD",TV2 Sport X Denmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium808/index.m3u8
+
+#EXTINF:-1 tvg-name="TV3 Sport Denmark" tvg-logo="" group-title="DaddyHD",TV3 Sport Denmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium809/index.m3u8
+
+#EXTINF:-1 tvg-name="TV2 Sport Denmark" tvg-logo="" group-title="DaddyHD",TV2 Sport Denmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium810/index.m3u8
+
+#EXTINF:-1 tvg-name="TV2 Denmark" tvg-logo="" group-title="DaddyHD",TV2 Denmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium817/index.m3u8
+
+#EXTINF:-1 tvg-name="TV2 Zulu" tvg-logo="" group-title="DaddyHD",TV2 Zulu
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium818/index.m3u8
+
+#EXTINF:-1 tvg-name="TV3+ Denmark" tvg-logo="" group-title="DaddyHD",TV3+ Denmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium819/index.m3u8
+
+#EXTINF:-1 tvg-name="TVO CA" tvg-logo="" group-title="DaddyHD",TVO CA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium842/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 1" tvg-logo="" group-title="DaddyHD",Tennis+ 1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium700/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 2" tvg-logo="" group-title="DaddyHD",Tennis+ 2
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium701/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 3" tvg-logo="" group-title="DaddyHD",Tennis+ 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium702/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 4" tvg-logo="" group-title="DaddyHD",Tennis+ 4
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium703/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 5" tvg-logo="" group-title="DaddyHD",Tennis+ 5
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium704/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 6" tvg-logo="" group-title="DaddyHD",Tennis+ 6
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium705/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 7" tvg-logo="" group-title="DaddyHD",Tennis+ 7
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium706/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 8" tvg-logo="" group-title="DaddyHD",Tennis+ 8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium707/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 9" tvg-logo="" group-title="DaddyHD",Tennis+ 9
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium708/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 10" tvg-logo="" group-title="DaddyHD",Tennis+ 10
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium709/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 11" tvg-logo="" group-title="DaddyHD",Tennis+ 11
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium710/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 12" tvg-logo="" group-title="DaddyHD",Tennis+ 12
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium711/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 13" tvg-logo="" group-title="DaddyHD",Tennis+ 13
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium712/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 14" tvg-logo="" group-title="DaddyHD",Tennis+ 14
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium713/index.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+ 15" tvg-logo="" group-title="DaddyHD",Tennis+ 15
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium714/index.m3u8
+
+#EXTINF:-1 tvg-name="USA Network" tvg-logo="" group-title="DaddyHD",USA Network
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium343/index.m3u8
+
+#EXTINF:-1 tvg-name="Universal Kids USA" tvg-logo="" group-title="DaddyHD",Universal Kids USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium668/index.m3u8
+
+#EXTINF:-1 tvg-name="Univision" tvg-logo="" group-title="DaddyHD",Univision
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium132/index.m3u8
+
+#EXTINF:-1 tvg-name="Unimas" tvg-logo="" group-title="DaddyHD",Unimas
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium133/index.m3u8
+
+#EXTINF:-1 tvg-name="Viaplay Sports 1 UK" tvg-logo="" group-title="DaddyHD",Viaplay Sports 1 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium451/index.m3u8
+
+#EXTINF:-1 tvg-name="Viaplay Sports 2 UK" tvg-logo="" group-title="DaddyHD",Viaplay Sports 2 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium550/index.m3u8
+
+#EXTINF:-1 tvg-name="Viaplay Xtra UK" tvg-logo="" group-title="DaddyHD",Viaplay Xtra UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium597/index.m3u8
+
+#EXTINF:-1 tvg-name="#Vamos Spain" tvg-logo="" group-title="DaddyHD",#Vamos Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium521/index.m3u8
+
+#EXTINF:-1 tvg-name="V Film Premiere" tvg-logo="" group-title="DaddyHD",V Film Premiere
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium815/index.m3u8
+
+#EXTINF:-1 tvg-name="V Film Family" tvg-logo="" group-title="DaddyHD",V Film Family
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium816/index.m3u8
+
+#EXTINF:-1 tvg-name="VH1 USA" tvg-logo="" group-title="DaddyHD",VH1 USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium344/index.m3u8
+
+#EXTINF:-1 tvg-name="Veronica NL Netherland" tvg-logo="" group-title="DaddyHD",Veronica NL Netherland
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium378/index.m3u8
+
+#EXTINF:-1 tvg-name="VTV+ Uruguay" tvg-logo="" group-title="DaddyHD",VTV+ Uruguay
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium391/index.m3u8
+
+#EXTINF:-1 tvg-name="VICE TV" tvg-logo="" group-title="DaddyHD",VICE TV
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium659/index.m3u8
+
+#EXTINF:-1 tvg-name="Willow Cricket" tvg-logo="" group-title="DaddyHD",Willow Cricket
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium346/index.m3u8
+
+#EXTINF:-1 tvg-name="Willow XTRA" tvg-logo="" group-title="DaddyHD",Willow XTRA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium598/index.m3u8
+
+#EXTINF:-1 tvg-name="WWE Network" tvg-logo="" group-title="DaddyHD",WWE Network
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium376/index.m3u8
+
+#EXTINF:-1 tvg-name="Win Sports+ Columbia" tvg-logo="" group-title="DaddyHD",Win Sports+ Columbia
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium392/index.m3u8
+
+#EXTINF:-1 tvg-name="WETV USA" tvg-logo="" group-title="DaddyHD",WETV USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium655/index.m3u8
+
+#EXTINF:-1 tvg-name="WDR DE" tvg-logo="" group-title="DaddyHD",WDR DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium734/index.m3u8
+
+#EXTINF:-1 tvg-name="Coming Soon" tvg-logo="" group-title="DaddyHD",Coming Soon
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium/index.m3u8
+
+#EXTINF:-1 tvg-name="YES Network USA" tvg-logo="" group-title="DaddyHD",YES Network USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium763/index.m3u8
+
+#EXTINF:-1 tvg-name="Yes Movies Action Israel" tvg-logo="" group-title="DaddyHD",Yes Movies Action Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium543/index.m3u8
+
+#EXTINF:-1 tvg-name="Yes Movies Kids Israel" tvg-logo="" group-title="DaddyHD",Yes Movies Kids Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium544/index.m3u8
+
+#EXTINF:-1 tvg-name="Yes Movies Comedy Israel" tvg-logo="" group-title="DaddyHD",Yes Movies Comedy Israel
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium545/index.m3u8
+
+#EXTINF:-1 tvg-name="Yas TV UAE" tvg-logo="" group-title="DaddyHD",Yas TV UAE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium609/index.m3u8
+
+#EXTINF:-1 tvg-name="Yes TV CA" tvg-logo="" group-title="DaddyHD",Yes TV CA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium837/index.m3u8
+
+#EXTINF:-1 tvg-name="Ziggo Sport Docu NL" tvg-logo="" group-title="DaddyHD",Ziggo Sport Docu NL
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium383/index.m3u8
+
+#EXTINF:-1 tvg-name="Ziggo Sport Select NL" tvg-logo="" group-title="DaddyHD",Ziggo Sport Select NL
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium393/index.m3u8
+
+#EXTINF:-1 tvg-name="Ziggo Sport Racing NL" tvg-logo="" group-title="DaddyHD",Ziggo Sport Racing NL
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium396/index.m3u8
+
+#EXTINF:-1 tvg-name="Ziggo Sport Voetbal NL" tvg-logo="" group-title="DaddyHD",Ziggo Sport Voetbal NL
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium398/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC 1 DE" tvg-logo="" group-title="DaddyHD",BBC 1 DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium727/index.m3u8
+
+#EXTINF:-1 tvg-name="ZDF Info DE" tvg-logo="" group-title="DaddyHD",ZDF Info DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium728/index.m3u8
+
+#EXTINF:-1 tvg-name="20 Mediaset Italy" tvg-logo="" group-title="DaddyHD",20 Mediaset Italy
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium857/index.m3u8
+
+#EXTINF:-1 tvg-name="6'eren Denmark" tvg-logo="" group-title="DaddyHD",6'eren Denmark
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium800/index.m3u8
+
+#EXTINF:-1 tvg-name="#0 Spain" tvg-logo="" group-title="DaddyHD",#0 Spain
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium437/index.m3u8
+
+#EXTINF:-1 tvg-name="5 USA" tvg-logo="" group-title="DaddyHD",5 USA
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium360/index.m3u8
+
+#EXTINF:-1 tvg-name="3sat DE" tvg-logo="" group-title="DaddyHD",3sat DE
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium726/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-01)" tvg-logo="" group-title="DaddyHD",18+ (Player-01)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium501/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-02)" tvg-logo="" group-title="DaddyHD",18+ (Player-02)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium502/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-03)" tvg-logo="" group-title="DaddyHD",18+ (Player-03)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium503/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-04)" tvg-logo="" group-title="DaddyHD",18+ (Player-04)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium504/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-05)" tvg-logo="" group-title="DaddyHD",18+ (Player-05)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium505/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-06)" tvg-logo="" group-title="DaddyHD",18+ (Player-06)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium506/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-07)" tvg-logo="" group-title="DaddyHD",18+ (Player-07)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium507/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-08)" tvg-logo="" group-title="DaddyHD",18+ (Player-08)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium508/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-09)" tvg-logo="" group-title="DaddyHD",18+ (Player-09)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium509/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-10)" tvg-logo="" group-title="DaddyHD",18+ (Player-10)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium510/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-11)" tvg-logo="" group-title="DaddyHD",18+ (Player-11)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium511/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-12)" tvg-logo="" group-title="DaddyHD",18+ (Player-12)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium512/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-13)" tvg-logo="" group-title="DaddyHD",18+ (Player-13)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium513/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-14)" tvg-logo="" group-title="DaddyHD",18+ (Player-14)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium514/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-15)" tvg-logo="" group-title="DaddyHD",18+ (Player-15)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium515/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-16)" tvg-logo="" group-title="DaddyHD",18+ (Player-16)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium516/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-17)" tvg-logo="" group-title="DaddyHD",18+ (Player-17)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium517/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-18)" tvg-logo="" group-title="DaddyHD",18+ (Player-18)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium518/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-19)" tvg-logo="" group-title="DaddyHD",18+ (Player-19)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium519/index.m3u8
+
+#EXTINF:-1 tvg-name="18+ (Player-20)" tvg-logo="" group-title="DaddyHD",18+ (Player-20)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium520/index.m3u8
