@@ -287,7 +287,9 @@ http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=1116477&extens
 #EXTINF:-1 group-title="Movie" ,&PRIVE
 http://mixbix.xyz:8080/Sw4Cngg3j5nY/jYgUkRmhfkDF/236897
 #EXTINF:-1 tvg-id="" tvg-name="IN: & FLIX HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-flix-hd-logo-300x300.jpg" group-title="Movie",IN: & FLIX HD
-http://mixbix.xyz:8080/Sw4Cngg3j5nY/jYgUkRmhfkDF/236898
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155990&extension=ts
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
