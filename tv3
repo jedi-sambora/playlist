@@ -1214,20 +1214,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/Fox
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD #1" tvg-logo="" group-title="MIXBIZ",BEIN SPORTS 1 HD #1
-http://mixbix.xyz:8080/Sw4Cngg3j5nY/jYgUkRmhfkDF/268504
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD" tvg-logo="" group-title="MIXBIZ",BEIN SPORTS 2 HD
-http://mixbix.xyz:8080/Sw4Cngg3j5nY/jYgUkRmhfkDF/268505
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="" group-title="MIXBIZ",BEIN SPORTS 3 HD
-http://mixbix.xyz:8080/Sw4Cngg3j5nY/jYgUkRmhfkDF/268506
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 HD" tvg-logo="" group-title="MIXBIZ",BEIN SPORTS 5 HD
-http://mixbix.xyz:8080/Sw4Cngg3j5nY/jYgUkRmhfkDF/268508
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 HD" tvg-logo="" group-title="MIXBIZ",BEIN SPORTS 4 HD
-http://mixbix.xyz:8080/Sw4Cngg3j5nY/jYgUkRmhfkDF/268507
-#EXTINF:-1 tvg-id="" tvg-name="MIXBIZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png" group-title="MIXBIZ",BEIN SPORT ENGLISH 1
-http://mixbix.xyz:8080/Sw4Cngg3j5nY/jYgUkRmhfkDF/237254
-#EXTINF:-1 tvg-id="" tvg-name="MIXBIZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="MIXBIZ",BEIN SPORT ENGLISH 2
-http://mixbix.xyz:8080/Sw4Cngg3j5nY/jYgUkRmhfkDF/237237
+
 
 #EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="USA Sport", USA Network (East)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
