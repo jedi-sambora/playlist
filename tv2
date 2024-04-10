@@ -4630,3 +4630,12 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8?|Refe
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cms.dmpcdn.com/livetv/2023/02/06/00d2eb00-a5c0-11ed-a358-099f80363291_webp_original.png", Spotv 2 HD
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8?|Referer=https://dooball2you.com/
 
+#EXTINF:-1 group-title="BAC 24" tvg-logo="https://cms.dmpcdn.com/livetv/2023/02/06/00d2eb00-a5c0-11ed-a358-099f80363291_webp_original.png", C1
+https://wakacha.github.io/c1.m3u8 
+#EXTINF:-1 group-title="BAC 24" tvg-logo="https://cms.dmpcdn.com/livetv/2023/02/06/00d2eb00-a5c0-11ed-a358-099f80363291_webp_original.png", C2
+https://wakacha.github.io/c2.m3u8
+#EXTINF:-1 group-title="BAC 24" tvg-logo="https://cms.dmpcdn.com/livetv/2023/02/06/00d2eb00-a5c0-11ed-a358-099f80363291_webp_original.png", C3
+https://wakacha.github.io/c3.m3u8 
+#EXTINF:-1 group-title="BAC 24" tvg-logo="https://cms.dmpcdn.com/livetv/2023/02/06/00d2eb00-a5c0-11ed-a358-099f80363291_webp_original.png", C4
+https://wakacha.github.io/c4.m3u8
+
