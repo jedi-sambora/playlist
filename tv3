@@ -1603,6 +1603,10 @@ https://cors-proxy.elfsight.com/http://39.145.2.202/play.cbalive.weibisai.com/li
 http://39.145.2.202/hlslive-tx-cdn.ysp.cctv.cn/ysp/2023173903.m3u8?utm_medium=social&utm_source=heylink.me
 #EXTINF:-1 group-title="bac 2024",COURT 1 x
 http://39.145.2.202/hlslive-tx-cdn.ysp.cctv.cn/ysp/2023173601.m3u8?utm_medium=social&utm_source=heylink.me
+#EXTINF:-1 group-title="bac 2024" tvg-id="mewatch.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Mewatch_2023.svg/revision/latest/scale-to-width-down/640",mewatch
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
+https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
 
 #EXTM3U billed-msg="😎 Peace man !!!!!!!!!!!!!! 😎"
 
