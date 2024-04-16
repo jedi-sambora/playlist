@@ -1596,6 +1596,23 @@ http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/2135
 http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/3513
 #EXTINF:-1 group-title="013TV",DE: Sky Sport Bundesliga 5
 http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/2136
+#EXTINF:-1 tvg-id="espn.nl" tvg-name="NL: ESPN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fba7aa6abb3a938d6d2da99a29f57a8c.png" group-title="013TV",NL: ESPN
+http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/267209
+#EXTINF:-1 tvg-id="espn2.nl" tvg-name="NL: ESPN 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f8d4dbda121c0cfc982516038b068e70.png" group-title="013TV",NL: ESPN 2
+http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/272119
+#EXTINF:-1 tvg-id="espn3.nl" tvg-name="NL: ESPN 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/60f126e910a86dc97e8c75e0e799fad0.png" group-title="013TV",NL: ESPN 3
+http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/272120
+#EXTINF:-1 tvg-id="espn4.nl" tvg-name="NL: ESPN 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/25459a2e8dd1ae1419024458ee7d4418.png" group-title="013TV",NL: ESPN 4
+http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/272121
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/826ab86530a6d609f3c9e0a5108ae8d1.png" group-title="013TV",ARG: ESPN 2
+http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/70752
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/985c0340dda83edcaa89659e2740eb50.png" group-title="013TV",ARG: ESPN 3
+http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/61170
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/746819f44951f27e240c8fdaf3ea5384.png" group-title="013TV",ARG: ESPN 4
+http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/295627
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN Premium" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/32cd381cddd366224dff2fae29c3a2cd.svg" group-title="013TV",ARG: ESPN Premium
+http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/298158
+
 
 #EXTINF:-1 group-title="bac 2024",COURT 1
 https://cors-proxy.elfsight.com/http://39.145.2.202/play.cbalive.weibisai.com/live/3556015984799061_AiSD.m3u8?txSecret=d052e85cbb3fcffcdfd7ffd6db5cccf9&txTime=661B1C80
