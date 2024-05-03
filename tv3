@@ -1629,12 +1629,9 @@ http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/295627
 http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/298158
 
 
-#EXTINF:-1 group-title="bac 2024",COURT 1
-https://cors-proxy.elfsight.com/http://39.145.2.202/play.cbalive.weibisai.com/live/3556015984799061_AiSD.m3u8?txSecret=d052e85cbb3fcffcdfd7ffd6db5cccf9&txTime=661B1C80
-#EXTINF:-1 group-title="bac 2024",COURT 1 4k
-http://39.145.2.202/hlslive-tx-cdn.ysp.cctv.cn/ysp/2023173903.m3u8?utm_medium=social&utm_source=heylink.me
-#EXTINF:-1 group-title="bac 2024",COURT 1 x
-http://39.145.2.202/hlslive-tx-cdn.ysp.cctv.cn/ysp/2023173601.m3u8?utm_medium=social&utm_source=heylink.me
+
+#EXTINF:-1 group-title="bac 2024",COURT 1 thomas uber
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd?id=3
 #EXTINF:-1 group-title="bac 2024" tvg-id="mewatch.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Mewatch_2023.svg/revision/latest/scale-to-width-down/640",mewatch
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
