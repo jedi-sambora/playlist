@@ -1526,29 +1526,29 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sEeP0mQk6I+h5keO411/CA","k":"9QRCQtjSJMrkCH/Y72VAIw"},{"kty":"oct","kid":"InUSnyhWdxReNOuL4kmuSg","k":"dQVcYFHWUMUpYnseYm9TCg"},{"kty":"oct","kid":"LrcsuNUlcZzdo+H1zEOzQg","k":"4Hl+IoZXVIcgUgFd2ikF9w"},{"kty":"oct","kid":"CtLb067+IHA08kBQ68mM0Q","k":"CxIf52nQsbRaOmu4xA40BQ"}]}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/973/1/live.mpd
 
-#EXTINF:-1 tvg-id="TV1" group-title="PORTUGAL" tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png",sport tv
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
-#EXTINF:-1 tvg-id="TV1" group-title="PORTUGAL" tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png",sport tv3
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
-#EXTINF:-1 tvg-id="TV1" group-title="PORTUGAL" tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv3.png",sport tv3
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
-#EXTINF:-1 group-title="PORTUGAL",Sportv 1 4k
+#EXTINF:-1 tvg-id="TV1" group-title="==MISC==" tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png",sport tv
+http://212.129.20.162:8080/nWj7n63B/eCAFe8baBep9REWY/441
+#EXTINF:-1 tvg-id="TV1" group-title="==MISC==" tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png",sport tv2
+http://212.129.20.162:8080/nWj7n63B/eCAFe8baBep9REWY/444
+#EXTINF:-1 tvg-id="TV1" group-title="==MISC==" tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv3.png",sport tv3
+http://212.129.20.162:8080/nWj7n63B/eCAFe8baBep9REWY/446
+#EXTINF:-1 group-title="==MISC==",Sportv 1 4k
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/80
-#EXTINF:-1 group-title="PORTUGAL",Sportv 1 HD
+#EXTINF:-1 group-title="==MISC==",Sportv 1 HD
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/14
-#EXTINF:-1 group-title="PORTUGAL",Sportv 2 HD
+#EXTINF:-1 group-title="==MISC==",Sportv 2 HD
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/9
-#EXTINF:-1 group-title="PORTUGAL",sportv 3 HD
+#EXTINF:-1 group-title="==MISC==",sportv 3 HD
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/28
-#EXTINF:-1 group-title="PORTUGAL",Espn hd
+#EXTINF:-1 group-title="==MISC==",Espn hd
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1
-#EXTINF:-1 group-title="PORTUGAL",Star +1
+#EXTINF:-1 group-title="==MISC==",Star +1
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/38
-#EXTINF:-1 group-title="PORTUGAL",Premiere 2
+#EXTINF:-1 group-title="==MISC==",Premiere 2
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/4
-#EXTINF:-1 group-title="PORTUGAL",Premiere 3
+#EXTINF:-1 group-title="==MISC==",Premiere 3
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/6
-#EXTINF:-1 group-title="PORTUGAL",Polsat sport
+#EXTINF:-1 group-title="==MISC==",Polsat sport
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7296/index.m3u8
 
 #EXTINF:-1  group-title="PORTUGAL", SKY  SPORTS FOOTBALL
