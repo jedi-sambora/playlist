@@ -1,15 +1,6 @@
 
-#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-logo="https://i.postimg.cc/fbr5Bcz2/20220927-132529.png" group-title="Sports",Polsat Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.webhd.ru/lb/premium47/index.m3u8|Origin=https://weblivehdplay.ru/|Referer=https://weblivehdplay.ru/
-
-#EXTINF:-1 tvg-id="PolsatSportExtra.pl" tvg-logo="https://i.postimg.cc/fbr5Bcz2/20220927-132529.png" group-title="Sports",Polsat Sport Extra
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.webhd.ru/lb/premium50/index.m3u8|Origin=https://weblivehdplay.ru/|Referer=https://weblivehdplay.ru/
-
-#EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-logo="https://i.postimg.cc/fbr5Bcz2/20220927-132529.png" group-title="Sports",Polsat Sport News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.webhd.ru/lb/premium129/index.m3u8|Origin=https://weblivehdplay.ru/|Referer=https://weblivehdplay.ru/
-
-#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-logo="https://i.postimg.cc/fbr5Bcz2/20220927-132529.png" group-title="Sports",Polsat Sportxx
-http://178.219.128.68:64889/POLSSPORHD
+#EXTINF:-1 tvg-name="Premiere Clubes.br" group-title="SPORTS BRAZIL" tvg-logo="https://i.ibb.co/F0jTVwQ/premierebr.png", SKy bundesliga
+PROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000b4856d9b1eb17e459f4ad4f480b7e:1162c56a12e96ecd7afba37a3d650201
+https://https://snowden-l2gf.onrender.com/https://linear205-de-dash1-prd-ak.cdn12.skycdp.com/031122-50/index_stereo.mpd
