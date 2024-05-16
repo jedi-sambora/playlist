@@ -1427,24 +1427,12 @@ http://212.129.20.162:8080/nWj7n63B/eCAFe8baBep9REWY/441
 http://212.129.20.162:8080/nWj7n63B/eCAFe8baBep9REWY/444
 #EXTINF:-1 tvg-id="TV1" group-title="==MISC==" tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv3.png",sport tv3
 http://212.129.20.162:8080/nWj7n63B/eCAFe8baBep9REWY/446
-#EXTINF:-1 group-title="==MISC==",Sportv 1 4k
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/80
-#EXTINF:-1 group-title="==MISC==",Sportv 1 HD
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/14
-#EXTINF:-1 group-title="==MISC==",Sportv 2 HD
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/9
-#EXTINF:-1 group-title="==MISC==",sportv 3 HD
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/28
-#EXTINF:-1 group-title="==MISC==",Espn hd
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1
-#EXTINF:-1 group-title="==MISC==",Star +1
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/38
-#EXTINF:-1 group-title="==MISC==",Premiere 2
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/4
-#EXTINF:-1 group-title="==MISC==",Premiere 3
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/6
 #EXTINF:-1 group-title="==MISC==",Polsat sport
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7296/index.m3u8
+#EXTINF:-1 group-title="==MISC==",CCTV 5+
+	https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 group-title="==MISC==",CCTV 5
+https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
 #EXTINF:-1  group-title="PORTUGAL", SKY  SPORTS FOOTBALL
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20829
