@@ -62,3 +62,9 @@ https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09093/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d96572a0a9dd440b88c27268dc133399:4c1facad62ea4d7dd3ac59047520aa78
 https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09095/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
+#EXTINF:-1 tvg-id="706" ch-number="706" tvg-name="SPOTV" tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/logo-SPOTV.png" group-title="UNIFI",706 Unifi SPOTV
+https://web.hypp.tv:443/PLTV/88888888/224/3221227608/3221227608.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixJoQQ2n25ztdC0DKANCj1%2Bx3mSYzxMB6oxfG8tqFbNRH19H1eUPRdxa5OW2Tfy5wFRU8%2Fbhy3FY4lT9USsfRTgw%3D%3A20230704190848%3AUTC%2C1004320542%2C14.1.254.135%2C20230704190848%2Curn:Huawei:liveTV:XTV100000161%2C1004320542%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C859461207%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.172_80&hms_devid=1800&mag_hms=1800,1765,1791,1786&mount=1000002&targetdev=1800&it=H4sIAAAAAAAAAzXMQQvCIBiA4X_jUaauTQ-eiqCLBKuu8amfItgkXYP-fSzq_j7vUsHh6aC5xF4Ozo1eqF6NKK0LuFM9A2lRBSQNn6ZoQRzknOZoit_YbdrfWUc7yjmjYiCXbXfMEDX_lub1sFg1-7MJ65ocat8CXaFRiLFihCWVmZ4zvK81_5IPLIt2dZkAAAA
+  
