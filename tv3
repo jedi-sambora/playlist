@@ -816,18 +816,32 @@ https://cors-proxy.cluster.fun/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpspo
 
 
 
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="ASTRO",Astro SuperSport 1
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1722
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="ASTRO",Astro SuperSport 2
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1721
-#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="ASTRO",Astro SuperSport 3
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="ASTRO",Astro SuperSport 4
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
-#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Astro SuperSport 5" tvg-logo="https://i.imgur.com/jb1igcv.png" group-title="ASTRO",Astro SuperSport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.webhd.ru/lb/premium43/index.m3u8|Origin=https://weblivehdplay.ru/
+#EXTINF:-1 group-title="Astro oke" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456",Astro SuperSport 1
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/166
+
+
+#EXTINF:-1 group-title="Astro oke" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/167
+
+#EXTINF:-1 group-title="Astro oke" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/168
+
+#EXTINF:-1 group-title="Astro oke" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro SuperSport 4
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/169
+
+
+#EXTINF:-1 group-title="Astro oke" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroCricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/143
+
+#EXTINF:-1 group-title="Astro oke" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="SPOTVStadia" tvg-logo="https://pictr.com/images/2024/06/15/x78t4I.png",SPOTV Stadia
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/235
+
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="Astro oke",ITV1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b
+https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd
 
 
 
