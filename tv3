@@ -1468,6 +1468,8 @@ http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/295627
 http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/298158
 
 ##========= SPORT BRAZIL ======
+#EXTINF:-1 tvg-name="Premiere Clubes.br" group-title="SPORTS BRAZIL" tvg-logo="https://i.ibb.co/F0jTVwQ/premierebr.png", SPORTV
+https://sportscdn.net/hls/premiereclubes.m3u8
 #EXTINF:-1 tvg-name="Premiere Clubes.br" group-title="SPORTS BRAZIL" tvg-logo="https://i.ibb.co/F0jTVwQ/premierebr.png", PREMIERE 🇧🇷
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
