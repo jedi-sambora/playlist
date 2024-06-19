@@ -1533,4 +1533,231 @@ https://lebo.huminbird.cn/live/ballbar_24130.m3u8
 https://lebo.huminbird.cn/live/ballbar_18290.m3u8
 #EXTINF:-1 group-title="IND OPEN",COURT 3 
 https://lebo.huminbird.cn/live/ballbar_27940.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/581px-UEFA_Euro_2024_Logo.svg.png",
+#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO (7.3s)
+#EXTGRP: EURO2024
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 DMOST/2.0.0 (; LGE; webOSTV; WEBOS6.3.2 03.34.95; W6_lm21a;)
+https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO
+#EXTGRP: EURO2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6b92e6f0c6957d98aa0d4a23d890800:e68568ca6147b0bb7b0fddc37061ddc6
+https://director.streaming.telia.com/tvm-packager-prod/group3/613f17f514b809f854ec2c3d/manifest.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO (5.6s)
+#EXTGRP: EURO2024
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO (5.8s)
+#EXTGRP: EURO2024
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://persianasport.mastercast.cloud/memfs/ae5f15e4-63eb-48b3-a0b4-5346c34a8f37.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇧🇪
+#EXTGRP: EURO2024
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f794d3c19854f4fa6f0183b993b86fa:37077d010758ce2cb85ca46720884b01
+https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇧🇪
+#EXTGRP: EURO2024
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a8315e4b64c4e638dc24d93134b9b2d:2821b54058fb3adc9c6252c631aef9e5
+https://daiconnect.com/live/dash/rtbf/laune-premium-drm-2/.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇧🇪
+#EXTGRP: EURO2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef4daa3c90333621e4115ff1ca5bfbda:424c9902fce5a2e7dcbeb37ffc06b906
+https://live.vrtcdn.be/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live.isml/.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇧🇷
+#EXTGRP: EURO2024
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db1f45f2c7eb3229a72fccd82b60a6f7:4e2070595da16f87e6e6459a26be34d6
+https://poc-sky0120.glbcdn.net/Content/Channel/live_0120/DASH/manifest.mpd?da=1&country=BR&accountType=DTH&deviceType=web
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇩🇪
+#EXTGRP: EURO2024
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=667f821486adfa6df62b53e41fe60c65:be65cc2c378180153cbac97bc6ab8625
+https://p7s1-live-001-prod.akamaized.net/28df258a/t_009/daserste-de-hd/cenc-default.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇩🇪 (18.8s)
+#EXTGRP: EURO2024
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7757d3fa8cdab673a2dd9f3ed7b41360:96e498b70eeecfc0164ed4e0a78e36f3
+https://p7s1-live-001-prod.akamaized.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇩🇪 (18.6s)
+#EXTGRP: EURO2024
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
+https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇪🇸
+#EXTGRP: EURO2024
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b5e6af8d1f345828d9cfff8cbf903ee:99df7780551f38af550a637923bd4a31
+https://mad02.cdn.avatel.tv/live/eds/la1/MPEG-DASH_Scrambled_High/la1.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇪🇸
+#EXTGRP: EURO2024
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
+https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇪🇸
+#EXTGRP: EURO2024
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecd7ee75e0e88f267ace6bd7d9d70d83:eb196d2b2dc28418f465532c5d1182c0
+https://cache3.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇭🇺
+#EXTGRP: EURO2024
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=317aef79ab54447caaeecfec10c9b196:4d9fee9624bf32274cb407afd3d5d248
+https://m7rovideolive.solocoo.tv/blueskylive2dash/bluem4sport/Manifest.mpd
+
+#EXTINF:-1 tvg-name="Sportstars 3" tvg-id="Sportstars 3 - [Channel 99].id" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇮🇩 (5.9s)
+#EXTGRP: EURO2024
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1 tvg-name="Sportstars 4 HD" tvg-id="Sportstars 4 HD - [Channel 424].id" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇮🇩 (6.2s)
+#EXTGRP: EURO2024
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇮🇳
+#EXTGRP: EURO2024
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://toxicify.pro/chal/stream.php?id=sony-ten-2-hd&e=.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇮🇳
+#EXTGRP: EURO2024
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://toxicify.pro/chal/stream.php?id=sony-ten-3-hd&e=.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="HERE" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇮🇹
+#EXTGRP: EURO2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00368000eaecbeeafd84c05b3b8243af:8f84185910e18ae0ca8a45004625a000
+https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="Sky Sport Calcio.it" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇮🇹 (16.0s)
+#EXTGRP: EURO2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
+https://linear301-it-dash1-prd-akp1.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="RAI1" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇮🇹
+#EXTGRP: EURO2024
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d79467df269743b3aca99a9171c54878:a7d3bc19bd09db6b581833e4a6176c8f
+https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09101/manifest.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇳🇱
+#EXTGRP: EURO2024
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7545f9301bf94e7a9132dccf32920e51:94fc134c1b1cb1ea9075781417eca48b
+https://nlziet-live.akamaized.net/L6/76fd047c/c427bd9d.isml/.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇳🇴
+#EXTGRP: EURO2024
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bfb0134de69d76d25b5b4b202df11431:025915bd3062c4bde44a13916c5bfefe
+https://aws-appeartv-cdn.rikstv.no/rikstv/1/11/dash/TV2_HD/manifest.mpd?version=1&adap=no_dolby&RikstvAssetId=rikstv_5711
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇳🇴
+#EXTGRP: EURO2024
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bfb0134de69d76d25b5b4b202df11431:025915bd3062c4bde44a13916c5bfefe
+https://aws-appeartv-cdn.rikstv.no/rikstv/1/11/dash/TV2_HD/manifest.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇷🇴
+#EXTGRP: EURO2024
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=889750ca612844cfabc4073989befa3e:c188729c59e29bedafc1cbedaa107abb
+https://m7rovideolive.solocoo.tv/blueskylivedash/blueprotv/Manifest.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇷🇴
+#EXTGRP: EURO2024
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa59a3d9aef54b58b0301c4f739b8c65:84f5b4481e244e7dbee7cafd9d1a618a
+https://m7rovideolive.solocoo.tv/blueskylivedash/blueprox/Manifest.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇸🇰
+#EXTGRP: EURO2024
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇸🇰
+#EXTGRP: EURO2024
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
+https://dash2.antik.sk/stream/nvidia_markiza/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="PPTV" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇹🇭
+#EXTGRP: EURO2024
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="THAIRATH" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇹🇭
+#EXTGRP: EURO2024
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="MCOT" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇹🇭 (1.6s)
+#EXTGRP: EURO2024
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="THAIRATH" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇹🇭
+#EXTGRP: EURO2024
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="MCOT" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO 🇹🇭
+#EXTGRP: EURO2024
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
+
+
 #EXTM3U billed-msg="😎 Peace man !!!!!!!!!!!!!! 😎"
