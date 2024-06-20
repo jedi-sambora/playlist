@@ -1220,14 +1220,16 @@ https://youdooball.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 
 
 
-#EXTINF:-1 group-title="Sony Sports" tvg-id="" tvg-chno="" group-logo="" tvg-logo="https://iptvboss.xyz/logos/India/SONYTEN1.in.png",Sony sport 1
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF:-1 group-title="Sony Sports" tvg-id="" tvg-chno="" group-logo="" tvg-logo="https://iptvboss.xyz/logos/India/SONYTEN2.in.png",Sony sport 2
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1 group-title="Sony Sports" tvg-id="" tvg-chno="" group-logo="" tvg-logo="https://iptvboss.xyz/logos/India/SONYTEN3.in.png",Sony sport 3
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-#EXTINF:-1 group-title="Sony Sports" tvg-id="" tvg-chno="" group-logo="" tvg-logo="https://iptvboss.xyz/logos/India/SONYTEN4.in.png",Sony sport 4
-https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+#EXTINF:-1 group-title="SONY SPORT" tvg-id="sonyten1.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png",Sony Sports 1 HD
+https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-1-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
+#EXTINF:-1 group-title="SONY SPORT" tvg-id="sonyten2.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png",Sony Sports 2 HD
+https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-2-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
+#EXTINF:-1 group-title="SONY SPORT" tvg-id="sonyten3.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports 3 HD
+https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-3-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
+#EXTINF:-1 group-title="SONY SPORT" tvg-id="sonyten4.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png",Sony Sports 4 HD
+https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-4-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
+#EXTINF:-1 group-title="SONY SPORT" tvg-id="sonysix.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png",Sony Sports 5 HD
+https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-5-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/FlchC_zDtL6BohLUeP5ANFfnQ_w=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="#🇮🇩CHAMPION TV🇮🇩#", CHAMPIONS TV 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
