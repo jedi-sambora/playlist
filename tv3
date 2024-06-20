@@ -1463,6 +1463,10 @@ http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/298158
 ##========= SPORT BRAZIL ======
 #EXTINF:-1 tvg-name="Premiere Clubes.br" group-title="SPORTS BRAZIL" tvg-logo="https://i.ibb.co/F0jTVwQ/premierebr.png", SPORTV
 https://sportscdn.net/hls/premiereclubes.m3u8
+#EXTINF:-1 tvg-name="Premiere Clubes.br" group-title="SPORTS BRAZIL" tvg-logo="https://i.ibb.co/F0jTVwQ/premierebr.png", SPORTV 2
+https://sportscdn.net/hls/premiereclubes.m3u8
+
+ttp://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/113518.ts
 #EXTINF:-1 tvg-name="Premiere Clubes.br" group-title="SPORTS BRAZIL" tvg-logo="https://i.ibb.co/F0jTVwQ/premierebr.png", PREMIERE 🇧🇷
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1519,6 +1523,8 @@ https://linear033-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/L
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb4b504ae8015e149965a48cfff9418e:b67881cf246e6c7ef8a3db7491c5b036
 https://director.streaming.telia.com/tvm-packager-prod/group2/60ae45e51522bd66f469461b/manifest.mpd
+#EXTINF:-1 tvg-id="TV4 Tennis" tvg-logo="https://i.ibb.co/DMXtLrF/tv4tennis.png" group-title="TENNIS", SuperSport Tennis
+http://152.89.62.76:8880/live/D12m1495/23236986/60572.ts
 
 #EXTINF:-1 group-title="IND OPEN",COURT 1 
 https://lebo.huminbird.cn/live/ballbar_24130.m3u8
