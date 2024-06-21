@@ -1171,13 +1171,6 @@ https://director.streaming.telia.com/tvm-packager-prod/group2/60ae45e51522bd66f4
 #EXTINF:-1 tvg-id="TV4 Tennis" tvg-logo="https://i.ibb.co/DMXtLrF/tv4tennis.png" group-title="TENNIS", SuperSport Tennis
 http://152.89.62.76:8880/live/D12m1495/23236986/60572.ts
 
-#EXTINF:-1 group-title="IND OPEN",COURT 1 
-https://lebo.huminbird.cn/live/ballbar_24130.m3u8
-#EXTINF:-1 group-title="IND OPEN",COURT 2 
-https://lebo.huminbird.cn/live/ballbar_18290.m3u8
-#EXTINF:-1 group-title="IND OPEN",COURT 3 
-https://lebo.huminbird.cn/live/ballbar_27940.m3u8
-
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/581px-UEFA_Euro_2024_Logo.svg.png",
 #EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="EURO24",EURO (7.3s)
 #EXTGRP: EURO2024
