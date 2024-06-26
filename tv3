@@ -402,18 +402,35 @@ https://cors-proxy.cluster.fun/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpspo
 https://cors-proxy.cluster.fun/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports2uk/vpsports2uk.isml/index.mpd
 
 
+#EXTINF:-1 group-title="Astro Oke" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",ASSP 1
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/118.m3u8
+#EXTINF:-1 group-title="Astro Oke" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",ASSP 2
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/119.m3u8
+#EXTINF:-1 group-title="Astro Oke" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",ASSP 3
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/120.m3u8
+#EXTINF:-1 group-title="Astro Oke" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",ASSP 4
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/121.m3u8
 
+#EXTINF:-1 group-title="Astro Oke" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg", ASSP 1x
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/166.m3u8
 
-#EXTINF:-1 group-title="Astro oke" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="AstroSupersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456",Astro SuperSport 1
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/166
-#EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.com/img/astro_supersport1.png" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" group-title="Astro Oke", Astro Supersport 1
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/astro_supersport1_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.com/img/astro_supersport2.png" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" group-title="Astro Oke", Astro Supersport 2
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/astro_supersport2_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.com/img/astro_supersport3.png" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" group-title="Astro Oke", Astro Supersport 3
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/astro_supersport3_norvegicus/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.com/img/astro_supersport4.png" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" group-title="Astro Oke", Astro Supersport 4
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/astro_supersport4_norvegicus/playlist.m3u8
+#EXTINF:-1 group-title="Astro Oke" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg", ASSP 2x
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/167.m3u8
+
+#EXTINF:-1 group-title="Astro Oke" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg", ASSP 3x
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/168.m3u8
+
+#EXTINF:-1 group-title="Astro Oke" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg", ASSP 4x
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/169.m3u8
+
 
 #EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="Astro oke",ITV1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
