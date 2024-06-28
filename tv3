@@ -56,6 +56,11 @@ https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-022/stream.mpd
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATSPORT.png" group-title="Other Sports",PL | POLSAT SPORT UHD
+http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:C0:88:BE&stream=17613&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/POLONIA/POLSATSPORTEXTRA.png" group-title="Other Sports",PL | POLSAT SPORT EXTRA UHD
+http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:C0:88:BE&stream=17617&extension=ts
+
 
 #EXTINF:-1 group-title="beIN Sports" tvg-id="BEIN" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/2019/01/bein-og-01-1.png",beIN Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
