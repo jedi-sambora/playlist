@@ -20,3 +20,10 @@ https://linear-novi.stvacdn.spectrum.com/LIVE/1166/dash/cenc/SPEEDHD/manifest.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7545f9301bf94e7a9132dccf32920e51:94fc134c1b1cb1ea9075781417eca48b
 https://nlziet-live.akamaized.net/L6/76fd047c/c427bd9d.isml/.mpd
+
+#EXTINF:-1 group-title="CHANNEL | SPORTS 2" tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.ibb.co/JWYjRrF/fs1.png", FOX SPORTS 1xx
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff18f095bc835e8d902be9420438729e:bbfdc8de223e8b33144d5c718f01f58b
+https://cors-proxy-s47hjsqcra-uc.a.run.app/https://cip4-2048b75120.linear-novi.stvacdn.spectrum.com/LIVE/5239/bpk-tv/00700/drm/manifest.mpd
