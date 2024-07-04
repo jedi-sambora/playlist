@@ -192,7 +192,7 @@ http://mag.greatott.me/play/live.php?mac=00:1a:79:17:a5:fd&stream=155990&extensi
 
 
 
-#EXTINF:-1 group-title="CHANNEL | VISION+" tvg-id="axnindonesia.id" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",AXN
+#EXTINF:-1 group-title="Movie" tvg-id="axnindonesia.id" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",AXN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
