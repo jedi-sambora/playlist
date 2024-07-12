@@ -447,33 +447,14 @@ https://cors-proxy.cluster.fun/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpspo
 
 
 #EXTINF:-1 group-title="Astro Oke" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",ASSP 1
-#EXTVLCOPT:http-user-agent=ExoPlayer
-https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/118.m3u8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/146068
 #EXTINF:-1 group-title="Astro Oke" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",ASSP 2
-#EXTVLCOPT:http-user-agent=ExoPlayer
-https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/119.m3u8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157556
 #EXTINF:-1 group-title="Astro Oke" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",ASSP 3
-#EXTVLCOPT:http-user-agent=ExoPlayer
-https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/120.m3u8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157557
 #EXTINF:-1 group-title="Astro Oke" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",ASSP 4
-#EXTVLCOPT:http-user-agent=ExoPlayer
-https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/121.m3u8
-
-#EXTINF:-1 group-title="Astro Oke" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg", ASSP 1x
-#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
-https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/166.m3u8
-
-#EXTINF:-1 group-title="Astro Oke" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg", ASSP 2x
-#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
-https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/167.m3u8
-
-#EXTINF:-1 group-title="Astro Oke" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg", ASSP 3x
-#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
-https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/168.m3u8
-
-#EXTINF:-1 group-title="Astro Oke" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg", ASSP 4x
-#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
-https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/169.m3u8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157558
+m3u8
 #EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Astro Oke", Astro_Supersport1_MY-FHD
 https://7pal.short.gy/astross1
 #EXTINF:-1 tvg-id="Astro.SuperSport.2.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Astro Oke", Astro_Supersport2_MY-FHD
@@ -1024,104 +1005,20 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sEeP0mQk6I+h5keO411/CA","k":"9QRCQtjSJMrkCH/Y72VAIw"},{"kty":"oct","kid":"InUSnyhWdxReNOuL4kmuSg","k":"dQVcYFHWUMUpYnseYm9TCg"},{"kty":"oct","kid":"LrcsuNUlcZzdo+H1zEOzQg","k":"4Hl+IoZXVIcgUgFd2ikF9w"},{"kty":"oct","kid":"CtLb067+IHA08kBQ68mM0Q","k":"CxIf52nQsbRaOmu4xA40BQ"}]}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/973/1/live.mpd
 
-#EXTINF:-1 tvg-id="TV1" group-title="==MISC==" tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png",sport tv
-http://212.129.20.162:8080/nWj7n63B/eCAFe8baBep9REWY/441
-#EXTINF:-1 tvg-id="TV1" group-title="==MISC==" tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png",sport tv2
-http://212.129.20.162:8080/nWj7n63B/eCAFe8baBep9REWY/444
-#EXTINF:-1 tvg-id="TV1" group-title="==MISC==" tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv3.png",sport tv3
-http://212.129.20.162:8080/nWj7n63B/eCAFe8baBep9REWY/446
+
 #EXTINF:-1 group-title="==MISC==",Polsat sport
-http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7296/index.m3u8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/356
 #EXTINF:-1 group-title="==MISC==",CCTV 5+
 	https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 group-title="==MISC==",CCTV 5
 https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
-#EXTINF:-1  group-title="PORTUGAL", SKY  SPORTS FOOTBALL
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20829
-#EXTINF:-1  group-title="PORTUGAL", SKY SPORTS PREM LEAG
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20831
-#EXTINF:-1  group-title="PORTUGAL", SKY SPORTS MAIN EVENT
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20832
-#EXTINF:-1  group-title="PORTUGAL", PREMIER SPORTS 1
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/25803
-#EXTINF:-1  group-title="PORTUGAL", PREMIER SPORTS 2
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/25804
-#EXTINF:-1  group-title="PORTUGAL", BT SPORT ESPN (UK)
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/24304
-#EXTINF:-1  group-title="PORTUGAL", BT SPORT 1 (UK)
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20821
-#EXTINF:-1  group-title="PORTUGAL", BT SPORTS 2 (UK)
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20820
-#EXTINF:-1  group-title="PORTUGAL", BT SPORT 3 (UK)
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/20819
-
-#EXTINF:-1 group-title="013TV",QA: beIN Sports 1
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/100
-#EXTINF:-1 group-title="013TV",QA: beIN Sports 2
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/101
-#EXTINF:-1 group-title="013TV",QA: beIN Sports 3
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/102
-#EXTINF:-1 group-title="013TV",QA: beIN Sports 4
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/103
-#EXTINF:-1 group-title="013TV",QA: beIN Sports 5
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/104
-#EXTINF:-1 group-title="013TV",QA: beIN Sports 6
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/105
-#EXTINF:-1 group-title="013TV",QA: beIN Sports 7
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/106
-#EXTINF:-1 group-title="013TV",QA: beIN Sports 8
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/107
-#EXTINF:-1 group-title="013TV",QA: beIN Sports 9
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/108
-#EXTINF:-1 group-title="013TV",QA: beIN Sports AFC
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/296113
-#EXTINF:-1 group-title="013TV",QA: beIN Sports AFC 1
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/296116
-#EXTINF:-1 group-title="013TV",QA: beIN Sports AFC 2
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/296115
-#EXTINF:-1 group-title="013TV",QA: beIN Sports AFC 3
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/296119
-#EXTINF:-1 group-title="013TV",QA: beIN Sports English 1
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/110
-#EXTINF:-1 group-title="013TV",QA: beIN Sports Premium 1
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/109
-#EXTINF:-1 group-title="013TV",QA: beIN Sports Premium 2
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/280145
-#EXTINF:-1 group-title="013TV",DE: Sky Sport Bundesliga
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/2431
-#EXTINF:-1 group-title="013TV",DE: Sky Sport Bundesliga 1
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/298592
-#EXTINF:-1 group-title="013TV",DE: Sky Sport Bundesliga 2
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/4493
-#EXTINF:-1 group-title="013TV",DE: Sky Sport Bundesliga 3
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/2135
-#EXTINF:-1 group-title="013TV",DE: Sky Sport Bundesliga 4
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/3513
-#EXTINF:-1 group-title="013TV",DE: Sky Sport Bundesliga 5
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/2136
-#EXTINF:-1 tvg-id="espn.nl" tvg-name="NL: ESPN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fba7aa6abb3a938d6d2da99a29f57a8c.png" group-title="013TV",NL: ESPN
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/267209
-#EXTINF:-1 tvg-id="espn2.nl" tvg-name="NL: ESPN 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f8d4dbda121c0cfc982516038b068e70.png" group-title="013TV",NL: ESPN 2
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/272119
-#EXTINF:-1 tvg-id="espn3.nl" tvg-name="NL: ESPN 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/60f126e910a86dc97e8c75e0e799fad0.png" group-title="013TV",NL: ESPN 3
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/272120
-#EXTINF:-1 tvg-id="espn4.nl" tvg-name="NL: ESPN 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/25459a2e8dd1ae1419024458ee7d4418.png" group-title="013TV",NL: ESPN 4
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/272121
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/826ab86530a6d609f3c9e0a5108ae8d1.png" group-title="013TV",ARG: ESPN 2
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/70752
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/985c0340dda83edcaa89659e2740eb50.png" group-title="013TV",ARG: ESPN 3
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/61170
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/746819f44951f27e240c8fdaf3ea5384.png" group-title="013TV",ARG: ESPN 4
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/295627
-#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN Premium" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/32cd381cddd366224dff2fae29c3a2cd.svg" group-title="013TV",ARG: ESPN Premium
-http://013tv.com:8080/adastream2023/Bye5XZwQ8d5Cbs5/298158
 
 ##========= SPORT BRAZIL ======
 #EXTINF:-1 tvg-name="Premiere Clubes.br" group-title="SPORTS BRAZIL" tvg-logo="https://i.ibb.co/F0jTVwQ/premierebr.png", SPORTV
-https://sportscdn.net/hls/premiereclubes.m3u8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/4015
 #EXTINF:-1 tvg-name="Premiere Clubes.br" group-title="SPORTS BRAZIL" tvg-logo="https://i.ibb.co/F0jTVwQ/premierebr.png", SPORTV 2
-https://sportscdn.net/hls/premiereclubes.m3u8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/8783
 
 ttp://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/113518.ts
 #EXTINF:-1 tvg-name="Premiere Clubes.br" group-title="SPORTS BRAZIL" tvg-logo="https://i.ibb.co/F0jTVwQ/premierebr.png", PREMIERE 🇧🇷
