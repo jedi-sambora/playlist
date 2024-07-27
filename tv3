@@ -4763,4 +4763,11 @@ https://7pal.short.gy/nhlnw
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/ufc-logo-new-red.png" group-title="Sports 7pa1", USA:UFC_24/7
 https://7pal.short.gy/ufc247
 
+#EXTINF:-1  group-title="Olympic", bADMINTON Court1
+https://lebo.huminbird.cn/live/ballbar_38540.m3u8
+#EXTINF:-1  group-title="Olympic", bADMINTON Court2
+https://lebo.huminbird.cn/live/ballbar_39470.m3u8
+#EXTINF:-1  group-title="Olympic", bADMINTON Court3
+ https://lebo.huminbird.cn/live/ballbar_21990.m3u8
+
 #EXTM3U billed-msg="😎 Peace man !!!!!!!!!!!!!! 😎"
