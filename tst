@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://iili.io/dH9SdOX.png" group-title="SPORT LOCAL",OPTUS 1
+#EXTINF:-1 tvg-logo="https://iili.io/dH9SdOX.png" group-title="SPORT LOCAL",OPTUS 1X
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
