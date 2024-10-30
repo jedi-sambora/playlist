@@ -2306,12 +2306,16 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spo
 #KODIPROP:inputstream.adaptive.license_key=e4515ae969cb46ae89997c8308b70e4d:bdc640533aac8955a6293158210e0a7d
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport4_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport4_HD_HVC.mpd
 
-#EXTINF:-1 tvg-id="SonyPix.in"  group-title="DENMARK OPEN",Court1
-	https://hlslive-tx-cdn.ysp.cctv.cn/2025339601.m3u8
-#EXTINF:-1 tvg-id="SonyPix.in"  group-title="DENMARK OPEN",Court2
-https://hlslive-tx-cdn.ysp.cctv.cn/2025339701.m3u8
-#EXTINF:-1 tvg-id="SonyPix.in"  group-title="DENMARK OPEN",Court3
-https://hlslive-tx-cdn.ysp.cctv.cn/2025339801.m3u8
+#EXTINF:-1 tvg-id="SonyPix.in"  group-title="IM2024",Court1
+https://warning.hayo-pencuri-sk21xyz.workers.dev/https://lebo.huminbird.cn/live/ballbar_27630.m3u8
+#EXTINF:-1 tvg-id="SonyPix.in"  group-title="IM2024",Court2
+https://warning.hayo-pencuri-sk21xyz.workers.dev/https://lebo.huminbird.cn/live/ballbar_29980.m3u8
+#EXTINF:-1 tvg-id="SonyPix.in"  group-title="IM2024",Court3
+https://warning.hayo-pencuri-sk21xyz.workers.dev/https://lebo.huminbird.cn/live/ballbar_25240.m3u8
+#EXTINF:-1 tvg-id="SonyPix.in"  group-title="IM2024",Court4	
+https://warning.hayo-pencuri-sk21xyz.workers.dev/https://lebo.huminbird.cn/live/ballbar_30290.m3u8
+#EXTINF:-1 tvg-id="SonyPix.in"  group-title="IM2024",Court5	
+https://warning.hayo-pencuri-sk21xyz.workers.dev/https://lebo.huminbird.cn/live/ballbar_33800.m3u8
 
 
 #EXTM3U billed-msg="😎 Peace man !!!!!!!!!!!!!! 😎"
