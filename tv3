@@ -2306,16 +2306,42 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spo
 #KODIPROP:inputstream.adaptive.license_key=e4515ae969cb46ae89997c8308b70e4d:bdc640533aac8955a6293158210e0a7d
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport4_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport4_HD_HVC.mpd
 
-#EXTINF:-1 tvg-id="SonyPix.in"  group-title="IM2024",Court1
-https://warning.hayo-pencuri-sk21xyz.workers.dev/https://lebo.huminbird.cn/live/ballbar_27630.m3u8
-#EXTINF:-1 tvg-id="SonyPix.in"  group-title="IM2024",Court2
-https://warning.hayo-pencuri-sk21xyz.workers.dev/https://lebo.huminbird.cn/live/ballbar_29980.m3u8
-#EXTINF:-1 tvg-id="SonyPix.in"  group-title="IM2024",Court3
-https://warning.hayo-pencuri-sk21xyz.workers.dev/https://lebo.huminbird.cn/live/ballbar_25240.m3u8
-#EXTINF:-1 tvg-id="SonyPix.in"  group-title="IM2024",Court4	
-https://warning.hayo-pencuri-sk21xyz.workers.dev/https://lebo.huminbird.cn/live/ballbar_30290.m3u8
-#EXTINF:-1 tvg-id="SonyPix.in"  group-title="IM2024",Court5	
-https://warning.hayo-pencuri-sk21xyz.workers.dev/https://lebo.huminbird.cn/live/ballbar_33800.m3u8
 
+#EXTINF:-1 xui-id="6" tvg-id="" tvg-name="beIN SP 1 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoSK1y4rJitzS8fNo4ihbReM.png" group-title="BeIN-FHD",beIN SP 1 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9N_6hsqaj50o8VwDpC9zgtw/ts
+#EXTINF:-1 xui-id="7" tvg-id="" tvg-name="beIN SP 2 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoVm_FVM6L1rK7ERegwLavLA.png" group-title="BeIN-FHD",beIN SP 2 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9FPsEMDRZv2AARaffeFgJZg/ts
+#EXTINF:-1 xui-id="8" tvg-id="" tvg-name="beIN SP 3 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIod4MKONbdJ5lnSRYabzDIF4.png" group-title="BeIN-FHD",beIN SP 3 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Ho5TQ3QMvLFqIgG0QsQGig/ts
+#EXTINF:-1 xui-id="9" tvg-id="" tvg-name="beIN SP 4 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoWpF9nsjj2lgspOfOgxWocY.png" group-title="BeIN-FHD",beIN SP 4 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9DodD6SuSyG2RCS9smVZfKI/ts
+#EXTINF:-1 xui-id="10" tvg-id="" tvg-name="beIN SP 5 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoaNZeHlMO9iyni51UxtC2mY.png" group-title="BeIN-FHD",beIN SP 5 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9OhwHKHhS0DJomeXPAabgX0/ts
+#EXTINF:-1 xui-id="11" tvg-id="" tvg-name="beIN SP 6 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoSMkSVYwaF3G0et7XxncKeo.png" group-title="BeIN-FHD",beIN SP 6 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9J7ycUCAZoZuMA659eIv9CU/ts
+#EXTINF:-1 xui-id="12" tvg-id="" tvg-name="beIN SP 7 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoe_AlY7IJ-ZJSwp8aOi3Xjg.png" group-title="BeIN-FHD",beIN SP 7 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9ESgeksHaamF-7X6F-NwCms/ts
+#EXTINF:-1 xui-id="13" tvg-id="" tvg-name="beIN SP 8 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoex_41GPASTV-sA1xWYNUrY.png" group-title="BeIN-FHD",beIN SP 8 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9GVdaSeBTz0QLUm-9DhVlO4/ts
+#EXTINF:-1 xui-id="14" tvg-id="" tvg-name="beIN SP 9 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoZYRdINEdD9P_HofMMY2gZY.png" group-title="BeIN-FHD",beIN SP 9 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9DsN0p8-dieuohauNrL788M/ts
+#EXTINF:-1 xui-id="15" tvg-id="" tvg-name="beIN SP 1 XTRA FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMIY1Wf_pzkFFzXc_MUNJhWbzZ_jnFYY__PBi_Vr-GiIg.png" group-title="BeIN-FHD",beIN SP 1 XTRA FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Jr2MFyK0knGOA3Eqc0FZMg/ts
+#EXTINF:-1 xui-id="16" tvg-id="" tvg-name="beIN SP 2 XTRA FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMIY1Wf_pzkFFzXc_MUNJhWfv5EZXIG-mO0nHUj4QTMng.png" group-title="BeIN-FHD",beIN SP 2 XTRA FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Fim7hOS0YJE3WKeSEr580s/ts
+#EXTINF:-1 xui-id="17" tvg-id="" tvg-name="beIN SP 3 XTRA FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMIY1Wf_pzkFFzXc_MUNJhWXoPxpPKr859FaJD70CVD9E.png" group-title="BeIN-FHD",beIN SP 3 XTRA FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9MG23YH-KBJ8DIoMymg_RVo/ts
+#EXTINF:-1 xui-id="18" tvg-id="" tvg-name="beIN SP 1 ENGLISH FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoSK1y4rJitzS8fNo4ihbReM.png" group-title="BeIN-FHD",beIN SP 1 ENGLISH FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Crld-ujpkPWuZLqUfphBZI/ts
+#EXTINF:-1 xui-id="19" tvg-id="" tvg-name="beIN SP 2 ENGLISH FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoVm_FVM6L1rK7ERegwLavLA.png" group-title="BeIN-FHD",beIN SP 2 ENGLISH FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9M4lALbGg8GMdcjUNuJ264I/ts
+#EXTINF:-1 xui-id="20" tvg-id="" tvg-name="beIN SP 1 FRANCE FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoSK1y4rJitzS8fNo4ihbReM.png" group-title="BeIN-FHD",beIN SP 1 FRANCE FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9ANoC5NyiXdg71Lp3eEDbtY/ts
+#EXTINF:-1 xui-id="21" tvg-id="" tvg-name="beIN SP 2 FRANCE FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoVm_FVM6L1rK7ERegwLavLA.png" group-title="BeIN-FHD",beIN SP 2 FRANCE FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9OsRywfAZkWTK29PCOLJURQ/ts
+#EXTINF:-1 xui-id="22" tvg-id="" tvg-name="beIN SP 3 FRANCE FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIod4MKONbdJ5lnSRYabzDIF4.png" group-title="BeIN-FHD",beIN SP 3 FRANCE FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9MVuqnkmA2sIGVmSFZcGaSw/ts
+#EXTINF:-1 xui-id="23" tvg-id="" tvg-name="beIN SP NBA FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoZZVdW2EdGiy_ifJ-SXAL30.PNG" group-title="BeIN-FHD",beIN SP NBA FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9P1TyfuUtiyNROsRufeYZDc/ts
 
 #EXTM3U billed-msg="😎 Peace man !!!!!!!!!!!!!! 😎"
