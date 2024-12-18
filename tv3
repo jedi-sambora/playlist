@@ -2236,3 +2236,25 @@ https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
 https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=724f60f8480e270bfd632c5ed61e6f7d:a92916301e4590a82f7c7717a442a22f
+#EXTINF:-1 tvg-id="708.unifi" tvg-logo="http://playtv.unifi.com.my:7036/CPS/images/universal/film/logo/202204/20220422/20220422081431538sc5.png" group-title="UnifiTV", beIN SPORTS 1 HD
+https://web.hypp.tv:443/PLTV/88888888/224/3221227927/3221227927.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=00m%2FA1gVngRZDLAcDG2%2BMWHgJ1pKvt1lRjGVuBjPOXv2AdOKWgIh5IEiDm%2FM0j6Ii8f55mVP8RzHkD4O6V5mZawZhUeey3zXlPlJuJ%2BxvAjJycHE0IqZBvG%2BXsudj34k%3A20240728232905%3AUTC%2C10001002674171%2C161.142.214.99%2C20240728232905%2Curn:Huawei:liveTV:XTV55456338%2C10001002674171%2C-1%2C0%2C1%2C%2C%2C2%2C1024%2C%2C%2C2%2C10000105575216%2C0%2C10000104356656%2C4165497230%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQW-DMBSD_02OUfJgpD3k1KlSpYlNKtu1cskjRQ2kS2il_fvByny0_VmeElo-vNrSvBi1rdRZ8bZUrgBBV8QVOio3ZAqR-buOlkSLEPrR19Et2Ndxd9JKKkmkZaFFs8ztA_zarO_DmZPV_9iR06Nv2brcyQeyhPeJPaY-jvIj4OczhbUiuFmvaUOzKrMhXZRiWtwG-Ton4oK8i8MNid1b9H-A7RAyixvaKzzXGNiO9xCe3Hty85tfZX3vD_QAAAA&tenantId=6001
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=76f90b58178944c84e77c293b9f79912:9392ff6df4eaf92aedeb09f4e19c6d28
+#EXTINF:-1 tvg-id="709.unifi" tvg-logo="http://playtv.unifi.com.my:7036/CPS/images/universal/film/logo/202212/20221221/20221221082841690jit.png" group-title="UnifiTV", beIN SPORTS 2 HD
+https://web.hypp.tv:443/PLTV/88888888/224/3221227971/3221227971.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=00m%2FA1gVngRZDLAcDG2%2BMWHgJ1pKvt1lRjGVuBjPOXv2AdOKWgIh5IEiDm%2FM0j6ImszaYg08cwHsuXuIv%2ByJUjBTa5IDODp9Vlgufmiwu7%2FJycHE0IqZBvG%2BXsudj34k%3A20240728232907%3AUTC%2C10001002674171%2C161.142.214.99%2C20240728232907%2Curn:Huawei:liveTV:XTV59922231%2C10001002674171%2C-1%2C0%2C1%2C%2C%2C2%2C1024%2C%2C%2C2%2C10000105575216%2C0%2C10000104356656%2C4165497230%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBBE_6bHhoUKeuhJY2Ji0ET0atZ2W4mFagsk_r2gOMeZeZPpAirabeRKJ0IZk8NNZEJgjmRIL8TCKACxUksW6VV6mTKFztWtLb2esMtpfYWEJzxNgWfAqmlu69DOzbJvbhQk_LEThaFWJHU0fMDI0dpAFrvat_zo8H0Obq4wquZrUKSj8mIpICtYN7kVxseYsDvGtW-eGEjvvf0C0qCLxJ6oHmipxIZk2zv34w5Bj28-vOHKsfQAAAA&tenantId=6001
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2eab30fed9b0088bcaa453ddeb96a3d:4f53075780124d53b0c1e4fcb29778b2
+#EXTINF:-1 tvg-id="710.unifi" tvg-logo="http://playtv.unifi.com.my:7036/CPS/images/universal/film/logo/202204/20220422/202204220814593293cl.png" group-title="UnifiTV", beIN SPORTS 3 HD
+https://web.hypp.tv:443/PLTV/88888888/224/3221227892/3221227892.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=00m%2FA1gVngRZDLAcDG2%2BMWHgJ1pKvt1lRjGVuBjPOXv2AdOKWgIh5IEiDm%2FM0j6IRsnRsEPdlGNe3iyDyRheXax9UpJ7aKfnPW2bzkkHLenJycHE0IqZBvG%2BXsudj34k%3A20240728232909%3AUTC%2C10001002674171%2C161.142.214.99%2C20240728232909%2Curn:Huawei:liveTV:XTV55456355%2C10001002674171%2C-1%2C0%2C1%2C%2C%2C2%2C1024%2C%2C%2C2%2C10000105575216%2C0%2C10000104356656%2C4165497230%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBiD32bHZRuIcNhJY2Ji0AT0an62n0kYTDcg8e0FxR7bfk0HDwqPe1lhnSKrcKtFFFdZnDKRJayOOUsg5UqQgK_cSUEUWNv0Jnd6wW7F7s4ZZVQITiNOymXuYMGszXzsKvSS_7EC_dQolDrUdIJAwRiPBobG9fRi4X31dq0QLNdrfCtmRWyTsDQiw-KWENo5IQ8IO9c9waM-OfMFZA02IHmCasFgDh3KfrT2x529nt98AHXPHSv0AAAA&tenantId=6001
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c1d76aed92f1c2e71674b1a88b340e0:bef9d6dea1088b90d97a1c96c04de141
+#EXTINF:-1 tvg-id="711.unifi" tvg-logo="http://playtv.unifi.com.my:7036/CPS/images/universal/film/logo/202208/20220812/20220812083713068j19.png" group-title="UnifiTV", beIN SPORTS 4 HD
+https://web.hypp.tv/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=00m%2FA1gVngRZDLAcDG2%2BMWbuVTT0kQ7uQ6vwRhl32tZfEg2x34ieDQHngPU9P4aoQRgj%2BxuDUR2uKbIcca0%2F7O%2FKiggUsUIMM3ea06Hp1YuyoKcpl0e4a0zbHhKPy16D%3A20240429163948%3AUTC%2C10001002674168%2C27.125.245.253%2C20240429163948%2Curn:Huawei:liveTV:XTV57682031%2C10001002674168%2C-1%2C0%2C1%2C%2C%2C2%2C1024%2C%2C%2C2%2C10000105575216%2C0%2C10000104356656%2C609129027%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOywrCMBRE_ybL0JummC6yUgRBqmB1K7fJbSxNG02q4N9rfWxn5gxnimhos9IADYoCCoN5JmXRlEpYZS3JNpckG2CJblXQghn0vhtdFeyMnQ7LM2Q840IAV6ye39Ye3W9Y3YeGooY_daD46Axpm1r-wMTRuUgOpy6MfO_xeYz-N2FU_80WIKWQSkFZ5mya0xpT_27YBdMyDFeMZLfBfQDdok_Ermh6dFThQHq8e__ldtG-bV5P1GaV8wAAAA&tenantId=6001
