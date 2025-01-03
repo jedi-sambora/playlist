@@ -2213,44 +2213,6 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spo
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport4_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport4_HD_HVC.mpd
 
 
-#EXTINF:-1 xui-id="6" tvg-id="" tvg-name="beIN SP 1 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoSK1y4rJitzS8fNo4ihbReM.png" group-title="BeIN-FHD",beIN SP 1 FHD
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9N_6hsqaj50o8VwDpC9zgtw/ts
-#EXTINF:-1 xui-id="7" tvg-id="" tvg-name="beIN SP 2 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoVm_FVM6L1rK7ERegwLavLA.png" group-title="BeIN-FHD",beIN SP 2 FHD
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9FPsEMDRZv2AARaffeFgJZg/ts
-#EXTINF:-1 xui-id="8" tvg-id="" tvg-name="beIN SP 3 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIod4MKONbdJ5lnSRYabzDIF4.png" group-title="BeIN-FHD",beIN SP 3 FHD
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Ho5TQ3QMvLFqIgG0QsQGig/ts
-#EXTINF:-1 xui-id="9" tvg-id="" tvg-name="beIN SP 4 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoWpF9nsjj2lgspOfOgxWocY.png" group-title="BeIN-FHD",beIN SP 4 FHD
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9DodD6SuSyG2RCS9smVZfKI/ts
-#EXTINF:-1 xui-id="10" tvg-id="" tvg-name="beIN SP 5 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoaNZeHlMO9iyni51UxtC2mY.png" group-title="BeIN-FHD",beIN SP 5 FHD
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9OhwHKHhS0DJomeXPAabgX0/ts
-#EXTINF:-1 xui-id="11" tvg-id="" tvg-name="beIN SP 6 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoSMkSVYwaF3G0et7XxncKeo.png" group-title="BeIN-FHD",beIN SP 6 FHD
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9J7ycUCAZoZuMA659eIv9CU/ts
-#EXTINF:-1 xui-id="12" tvg-id="" tvg-name="beIN SP 7 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoe_AlY7IJ-ZJSwp8aOi3Xjg.png" group-title="BeIN-FHD",beIN SP 7 FHD
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9ESgeksHaamF-7X6F-NwCms/ts
-#EXTINF:-1 xui-id="13" tvg-id="" tvg-name="beIN SP 8 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoex_41GPASTV-sA1xWYNUrY.png" group-title="BeIN-FHD",beIN SP 8 FHD
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9GVdaSeBTz0QLUm-9DhVlO4/ts
-#EXTINF:-1 xui-id="14" tvg-id="" tvg-name="beIN SP 9 FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoZYRdINEdD9P_HofMMY2gZY.png" group-title="BeIN-FHD",beIN SP 9 FHD
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9DsN0p8-dieuohauNrL788M/ts
-#EXTINF:-1 xui-id="15" tvg-id="" tvg-name="beIN SP 1 XTRA FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMIY1Wf_pzkFFzXc_MUNJhWbzZ_jnFYY__PBi_Vr-GiIg.png" group-title="BeIN-FHD",beIN SP 1 XTRA FHD
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Jr2MFyK0knGOA3Eqc0FZMg/ts
-#EXTINF:-1 xui-id="16" tvg-id="" tvg-name="beIN SP 2 XTRA FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMIY1Wf_pzkFFzXc_MUNJhWfv5EZXIG-mO0nHUj4QTMng.png" group-title="BeIN-FHD",beIN SP 2 XTRA FHD
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Fim7hOS0YJE3WKeSEr580s/ts
-#EXTINF:-1 xui-id="17" tvg-id="" tvg-name="beIN SP 3 XTRA FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMIY1Wf_pzkFFzXc_MUNJhWXoPxpPKr859FaJD70CVD9E.png" group-title="BeIN-FHD",beIN SP 3 XTRA FHD
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9MG23YH-KBJ8DIoMymg_RVo/ts
-#EXTINF:-1 xui-id="18" tvg-id="" tvg-name="beIN SP 1 ENGLISH FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoSK1y4rJitzS8fNo4ihbReM.png" group-title="BeIN-FHD",beIN SP 1 ENGLISH FHD
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Crld-ujpkPWuZLqUfphBZI/ts
-#EXTINF:-1 xui-id="19" tvg-id="" tvg-name="beIN SP 2 ENGLISH FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoVm_FVM6L1rK7ERegwLavLA.png" group-title="BeIN-FHD",beIN SP 2 ENGLISH FHD
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9M4lALbGg8GMdcjUNuJ264I/ts
-#EXTINF:-1 xui-id="20" tvg-id="" tvg-name="beIN SP 1 FRANCE FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoSK1y4rJitzS8fNo4ihbReM.png" group-title="BeIN-FHD",beIN SP 1 FRANCE FHD
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9ANoC5NyiXdg71Lp3eEDbtY/ts
-#EXTINF:-1 xui-id="21" tvg-id="" tvg-name="beIN SP 2 FRANCE FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoVm_FVM6L1rK7ERegwLavLA.png" group-title="BeIN-FHD",beIN SP 2 FRANCE FHD
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9OsRywfAZkWTK29PCOLJURQ/ts
-#EXTINF:-1 xui-id="22" tvg-id="" tvg-name="beIN SP 3 FRANCE FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIod4MKONbdJ5lnSRYabzDIF4.png" group-title="BeIN-FHD",beIN SP 3 FRANCE FHD
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9MVuqnkmA2sIGVmSFZcGaSw/ts
-#EXTINF:-1 xui-id="23" tvg-id="" tvg-name="beIN SP NBA FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoZZVdW2EdGiy_ifJ-SXAL30.PNG" group-title="BeIN-FHD",beIN SP NBA FHD
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9P1TyfuUtiyNROsRufeYZDc/ts
-#EXTINF:-1 xui-id="23" tvg-id="" tvg-name="beIN SP NBA FHD" tvg-logo="http://102.38.4.226:80/images/TviP9-lwhvWdn_IV9CCmVOwWL1_pOfWfgbI9rpVMcmkKhhPUfe4_TAmiDc5sXnxMX-FqYizjMxelf39tWJfIoZZVdW2EdGiy_ifJ-SXAL30.PNG" group-title="aff",aff
-https://lebo.huminbird.cn/live/ballbar_40340.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tCCZ1B6/soccer.png" group-title="MPD_VISION~PLUS", SOCCER CHANNEL
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2326,15 +2288,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-#EXTINF:-1 group-title="#🇱🇻 Mewatch 🇱🇻" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png", Me watch 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
-https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
-
-#EXTINF:-1 group-title="#🇱🇻 Mewatch 🇱🇻" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png", Me watch 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
-https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2409,3 +2362,29 @@ http://5.troya.info:34000/ch334/mono.m3u8?token=rl_c2b.KcQGmPmdJPoIswfbOcqCRSp4-
 http://5.troya.info:34000/ch233/mono.m3u8?token=rl_c2b.KcQGmPmdJPoIswfbOcqCRSp4-ClsO5rrbet9cHWfmlJv4_06AhXcAp-pMEefsasE
 #EXTINF:-1 group-title="TROYA", TNT 4
 http://5.troya.info:34000/ch2002/mono.m3u8?token=rl_c2b.KcQGmPmdJPoIswfbOcqCRSp4-ClsO5rrbet9cHWfmlJv4_06AhXcAp-pMEefsasE
+#EXTINF:-1 group-title="TROYA", DAZN 1 UHD
+http://5.troya.info:34000/ch2104/mono.m3u8?token=rl_hubble.2OyNmW-pSAOeT5jietR0ME3jtgXlmLWq4PB5eNYDpdMnsRsZ_7btOTERyBUOA5i1
+#EXTINF:-1 group-title="TROYA", DAZN 1
+http://5.troya.info:34000/ch2098/mono.m3u8?token=rl_hubble.2OyNmW-pSAOeT5jietR0MFSnAsPl-OwKoh7hADIn56JuuH8ozHAudB_NyzggkBCp
+#EXTINF:-1 group-title="TROYA", DAZN 2
+http://5.troya.info:34000/ch2099/mono.m3u8?token=rl_hubble.2OyNmW-pSAOeT5jietR0MAGycPRIjdfUHo9C0yzwL31DdnBXZFwysmCWN1blUKmL
+#EXTINF:-1 group-title="TROYA", DAZN 3
+http://5.troya.info:34000/ch2100/mono.m3u8?token=rl_hubble.2OyNmW-pSAOeT5jietR0MIjqD97OH9xE5SVyHSWWsSZ-b9i_bwp2OD6lhrpwjnn6
+#EXTINF:-1 group-title="TROYA", DAZN 4
+http://5.troya.info:34000/ch2101/mono.m3u8?token=rl_hubble.2OyNmW-pSAOeT5jietR0MBFnkYPakGi6743hwEBb7EyXRo-HUswz-Op2yU9sZerJ
+#EXTINF:-1 group-title="TROYA", Arena Sport Premium 1 HD
+http://5.troya.info:34000/ch1063/mono.m3u8?token=rl_hubble.2OyNmW-pSAOeT5jietR0MOxTmkn9FzWbr82_8eAdtsHItHDhtYXDvWVId8BRquVM
+#EXTINF:-1 group-title="TROYA", Arena Sport Premium 2 HD
+http://5.troya.info:34000/ch1064/mono.m3u8?token=rl_hubble.2OyNmW-pSAOeT5jietR0MElDTZHJCZMSco41-dQrn83cODvhm2k_PwSdrPGpZ8AN
+#EXTINF:-1 group-title="TROYA", Arena Sport Premium 3 HD
+http://5.troya.info:34000/ch1065/mono.m3u8?token=rl_hubble.2OyNmW-pSAOeT5jietR0MAYtb2EPBSNX1feDqfZQEV-Zi4Jm_k_p64Vs4b3DS1lU
+#EXTINF:-1 group-title="TROYA", Матч! Футбол 1 HD
+http://5.troya.info:34000/ch695/mono.m3u8?token=rl_hubble.2OyNmW-pSAOeT5jietR0MJzNrKtDbS-6q6H3iulx-xmpSzTGpez4JAyd8C7h1PEm
+#EXTINF:-1 group-title="TROYA", Матч! Футбол 2 HD
+http://5.troya.info:34000/ch696/mono.m3u8?token=rl_hubble.2OyNmW-pSAOeT5jietR0MIMBbzekyQ3UDKPj_DfsSmgbMqt2NkszRdts-qT6fLt-
+#EXTINF:-1 group-title="TROYA", Матч! Футбол 3 HD
+http://5.troya.info:34000/ch697/mono.m3u8?token=rl_hubble.2OyNmW-pSAOeT5jietR0MG5FnnMib301mYY1ZN93dj3EHJ2TI9uMthCd0DDloSWu
+#EXTINF:-1 group-title="TROYA", TRING SPORT 1 HD
+http://5.troya.info:34000/ch1098/mono.m3u8?token=rl_c2b.KcQGmPmdJPoIswfbOcqCRSp4-ClsO5rrbet9cHWfmlJv4_06AhXcAp-pMEefsasE
+#EXTINF:-1 group-title="TROYA", TRING SPORT 2 HD
+http://5.troya.info:34000/ch1099/mono.m3u8?token=rl_c2b.KcQGmPmdJPoIswfbOcqCRSp4-ClsO5rrbet9cHWfmlJv4_06AhXcAp-pMEefsasE
