@@ -2185,7 +2185,7 @@ http://5.troya.info:34000/ch232/mono.m3u8?token=rl_hubble.2OyNmW-pSAOeT5jietR0MJ
 #EXTINF:-1 group-title="TROYA", Bein Sport 7
 http://5.troya.info:34000/ch1062/mono.m3u8?token=rl_hubble.2OyNmW-pSAOeT5jietR0MM-XCY1boCl_WZE6WFc18u1X623ntOiVF1hWabIDAJvO
 
-#EXTINF:-1 group-title="TROYA", Astro Premier leage 1
+#EXTINF:-1 group-title="TROYA", Astro Badminton
 http://5.troya.info:34000/ch1989/mono.m3u8?token=rl_hubble.2OyNmW-pSAOeT5jietR0MMIqov-BTNwXACQMIjw_pge1h3KWPkVnlm2Adt_qfqWq
 #EXTINF:-1 group-title="TROYA", Astro Premier leage 2
 http://5.troya.info:34000/ch1990/mono.m3u8?token=rl_hubble.2OyNmW-pSAOeT5jietR0MCwhs1zbN7rvv8fIm2sKNv2jRgDX7YRkFvB3fx2EoQjc
@@ -2253,3 +2253,16 @@ http://5.troya.info:34000/ch697/mono.m3u8?token=rl_hubble.2OyNmW-pSAOeT5jietR0MG
 http://5.troya.info:34000/ch1098/mono.m3u8?token=rl_c2b.KcQGmPmdJPoIswfbOcqCRSp4-ClsO5rrbet9cHWfmlJv4_06AhXcAp-pMEefsasE
 #EXTINF:-1 group-title="TROYA", TRING SPORT 2 HD
 http://5.troya.info:34000/ch1099/mono.m3u8?token=rl_c2b.KcQGmPmdJPoIswfbOcqCRSp4-ClsO5rrbet9cHWfmlJv4_06AhXcAp-pMEefsasE
+#EXTINF:-1 group-title="TROYA", fuscball 
+http://5.troya.info:34000/ch2006/mono.m3u8?token=rl_hubble.2OyNmW-pSAOeT5jietR0MMIqov-BTNwXACQMIjw_pge1h3KWPkVnlm2Adt_qfqWq
+#EXTINF:-1 group-title="TROYA", DAZN 1
+http://5.troya.info:34000/ch2022/mono.m3u8?token=rl_hubble.2OyNmW-pSAOeT5jietR0MMIqov-BTNwXACQMIjw_pge1h3KWPkVnlm2Adt_qfqWq
+#EXTINF:-1 group-title="TROYA", DAZN 2
+http://5.troya.info:34000/ch2023/mono.m3u8?token=rl_hubble.2OyNmW-pSAOeT5jietR0MMIqov-BTNwXACQMIjw_pge1h3KWPkVnlm2Adt_qfqWq
+#EXTINF:-1 group-title="TROYA", DAZN 3
+http://5.troya.info:34000/ch2024/mono.m3u8?token=rl_hubble.2OyNmW-pSAOeT5jietR0MMIqov-BTNwXACQMIjw_pge1h3KWPkVnlm2Adt_qfqWq
+#EXTINF:-1 group-title="TROYA", DAZN 4
+http://5.troya.info:34000/ch2025/mono.m3u8?token=rl_hubble.2OyNmW-pSAOeT5jietR0MMIqov-BTNwXACQMIjw_pge1h3KWPkVnlm2Adt_qfqWq
+#EXTINF:-1 group-title="TROYA", DAZN 5
+http://5.troya.info:34000/ch2026/mono.m3u8?token=rl_hubble.2OyNmW-pSAOeT5jietR0MMIqov-BTNwXACQMIjw_pge1h3KWPkVnlm2Adt_qfqWq
+
