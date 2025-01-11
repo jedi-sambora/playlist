@@ -2266,4 +2266,11 @@ http://5.troya.info:34000/ch2024/mono.m3u8?token=rl_hubble.2OyNmW-pSAOeT5jietR0M
 http://5.troya.info:34000/ch2025/mono.m3u8?token=rl_hubble.2OyNmW-pSAOeT5jietR0MMIqov-BTNwXACQMIjw_pge1h3KWPkVnlm2Adt_qfqWq
 #EXTINF:-1 group-title="TROYA", DAZN 5
 http://5.troya.info:34000/ch2026/mono.m3u8?token=rl_hubble.2OyNmW-pSAOeT5jietR0MMIqov-BTNwXACQMIjw_pge1h3KWPkVnlm2Adt_qfqWq
-
+#EXTINF:-1 group-title="TROYA", Super Sport La liga
+http://5.troya.info:34000/ch2248/mono.m3u8
+#EXTINF:-1 group-title="TROYA", Super Sport Tennis
+http://5.troya.info:34000/ch2250/mono.m3u8
+#EXTINF:-1 group-title="TROYA", Super Sport FootBall
+http://5.troya.info:34000/ch2251/mono.m3u8
+#EXTINF:-1 group-title="TROYA", Super Sport Grand Stand
+http://5.troya.info:34000/ch2246/mono.m3u8
