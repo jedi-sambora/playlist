@@ -49,15 +49,19 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c311b264f25748039736aa0dc64008d6:86055797afa5cb24feb2bc764b7a1813
 https://cors-proxy.elfsight.com/https://cip4-2048b75120.linear-novi.stvacdn.spectrum.com/LIVE/1105/dash/cenc/CBSSNHD_00500/manifest.mpd
+#EXTINF:-1 tvg-id="CBS Sports Network HDTV.us" tvg-logo="https://iili.io/JmoIJZG.png" group-title="USA Sport",CBS Sports Network
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 
 
 
 ##========= SPORT BRAZIL ======
 #EXTINF:-1 tvg-name="Premiere Clubes.br" group-title="SPORTS BRAZIL" tvg-logo="https://i.ibb.co/F0jTVwQ/premierebr.png", SPORTV
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/4015
+https://super-cdn.link/sportv/index.m3u8
 #EXTINF:-1 tvg-name="Premiere Clubes.br" group-title="SPORTS BRAZIL" tvg-logo="https://i.ibb.co/F0jTVwQ/premierebr.png", SPORTV 2
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/8783
+https://super-cdn.link/sportv2/index.m3u8
+#EXTINF:-1 tvg-id="SporTV.3.br" tvg-logo="https://iili.io/JhkbEKJ.png" group-title="SEPORTS",Sportv 3
+https://super-cdn.link/sportv3/index.m3u8
 
 ttp://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/113518.ts
 #EXTINF:-1 tvg-name="Premiere Clubes.br" group-title="SPORTS BRAZIL" tvg-logo="https://i.ibb.co/F0jTVwQ/premierebr.png", PREMIERE 🇧🇷
